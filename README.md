@@ -14,33 +14,35 @@ These three projects, directed by Roberto A. Díaz Hernández, are synergistic i
 
 Tübingen Transcription System
 
-Egypt	Schenkel
-𓄿	ꜣ
-𓇋	i҆
-𓇌	y
-𓏭	ï
-𓂝	ꜥ
-𓅱	w
-𓃀	b
-𓊪	p
-𓆑	f
-𓅓	m
-𓈖	n
-𓂋	r
-𓉔	h
-𓎛	ḥ
-𓐍	ḫ
-𓄡	ẖ
-𓊃	s
-𓋴	ś
-𓈙	š
-𓈎	ḳ
-𓎡	k
-𓎼	g
-𓏏	t
-𓍿	č
-𓂧	ṭ
-𓆓	č̣
+<table>
+<tr><th>Egypt</th>	<th>Schenkel</th></tr>
+<tr><td>𓄿</td>	<td>ꜣ</td></tr>
+<tr><td>𓇋</td>	<td>i҆</td></tr>
+<tr><td>𓇌</td>	<td>y</td></tr>
+<tr><td>𓏭</td>	<td>ï</td></tr>
+<tr><td>𓂝</td>	<td>ꜥ</td></tr>
+<tr><td>𓅱</td>	<td>w</td></tr>
+<tr><td>𓃀</td>	<td>b</td></tr>
+<tr><td>𓊪</td>	<td>p</td></tr>
+<tr><td>𓆑</td>	<td>f</td></tr>
+<tr><td>𓅓</td>	<td>m</td></tr>
+<tr><td>𓈖</td>	<td>n</td></tr>
+<tr><td>𓂋</td>	<td>r</td></tr>
+<tr><td>𓉔</td>	<td>h</td></tr>
+<tr><td>𓎛</td>	<td>ḥ</td></tr>
+<tr><td>𓐍</td>	<td>ḫ</td></tr>
+<tr><td>𓄡</td>	<td>ẖ</td></tr>
+<tr><td>𓊃</td>	<td>s</td></tr>
+<tr><td>𓋴</td>	<td>ś</td></tr>
+<tr><td>𓈙</td>	<td>š</td></tr>
+<tr><td>𓈎</td>	<td>ḳ</td></tr>
+<tr><td>𓎡</td>	<td>k</td></tr>
+<tr><td>𓎼</td>	<td>g</td></tr>
+<tr><td>𓏏</td>	<td>t</td></tr>
+<tr><td>𓍿</td>	<td>č</td></tr>
+<tr><td>𓂧</td>	<td>ṭ</td></tr>
+<tr><td>𓆓</td>	<td>č̣</td></tr>
+</table>
 
 Each sentence has an ID consisting of an abbreviation of the source, the date, the genre, the language stage and the provenance of the text in order to facilitate the search for synchronic and diachronic phenomena. The date is expressed in dynasties (1dyn, 2dyn, 3dyn...). There are four genres: religious (rel), historical-biographical (hist-biog), literary (lit) and documental (doc). The three stages of Egyptian are: Old Egyptian (OE), Middle Egyptian (ME) and Late Egyptian (LE). The names of the sources and the toponyms are abbreviated as usual in Egyptology, for example PT means "Pyramid Texts", CT "Coffin Texts" and Saqq "Saqqara". A list containing the abbreviations of the sources will be updated here during the development of the project.
 
