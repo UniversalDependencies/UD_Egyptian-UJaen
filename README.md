@@ -49,6 +49,7 @@ Each sentence has an ID consisting of an abbreviation of the source, the date, t
 
 ## Example of Annotation
 
+<pre>
 sent_id = PT293a-5dyn-rel-OE-Saqq
 (Pyramid Texts § 293a)
 
@@ -56,6 +57,7 @@ nč̣m            i҆b           n(.i҆)    [Wni҆ś]
 be sweet-SBJV  heart-M.SG  of-M.SG  Unas-KN
 LM: “The heart of [Unas] shall be sweet.”
 FT: “[Unas] shall be kind.”
+</pre>
 
 
 ## Abbreviations
