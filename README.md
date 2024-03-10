@@ -1,6 +1,6 @@
 # Summary
 
-UD Egyptian UJaen is a treebank which contains Egyptian sentences manually annotated at the University of Jaén (Spain). They were selected from texts written in Old Egyptian, Middle Egyptian and Late Egyptian.
+UD Egyptian UJaen is the first treebank created for the Egyptian language. It contains Egyptian sentences manually annotated at the University of Jaén (Spain). They were selected from texts written in Old Egyptian, Middle Egyptian and Late Egyptian.
 
 
 # Introduction
