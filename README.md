@@ -6,8 +6,11 @@ UD Egyptian UJaen is the first treebank created for the Egyptian language. It co
 # Introduction
 
 The Egyptian UJaen Treebank is a corpus of Egyptian texts manually annotated by using the Tübingen transcription system at the University of Jaén. It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The sentences annotated in UD Egyptian are selected from two text corpora projects:
+
 Nile in Contact, which is working on the English translation and morphosyntactic analysis of Egyptian historical-biographical inscriptions from the third and second millennia BC found between the First and Fifth Cataract. It is developed in collaboration with the Thesaurus Linguae Aegyptiae hosted by the Berlin-Brandenburg Academy of Sciences and Humanities.
+
 The PARSEME Corpus of Egyptian Multiword Expressions, which aims to identify and analyze Egyptian MWEs from all texts written in Old Egyptian, Middle Egyptian and Late Egyptian.
+
 These three projects, directed by Roberto A. Díaz Hernández, are synergistic in their development, as they have in common the goal of a diachronic study of Egyptian.
 
 # Further Details
@@ -69,13 +72,13 @@ CT = Coffin Texts
 
 ### Provenance
 
-Saqqara
+Saqq = Saqqara
 
 
 
 # Acknowledgments
 
-I thank Tonio Sebastian Richter, Daniel Werning and Simon Schweitzer (Thesaurus Linguae Aegyptiae) for their cooperation in Nile in Contact. I am also grateful to Agata Savary (UniDive) and Dan Zeman for introducing me to computational linguistics.
+I thank Tonio Sebastian Richter, Daniel Werning and Simon Schweitzer (Thesaurus Linguae Aegyptiae) for their cooperation in Nile in Contact. I am also grateful to Agata Savary (UniDive) and Dan Zeman (UD) for introducing me to computational linguistics.
 
 
 # Changelog
