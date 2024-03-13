@@ -1,8 +1,15 @@
-#  sent_id = PT1775a-6dyn-rel-OE-Saqq
-#  Pyramid 
+#	sent_id = PT1775a-Saqq-6dyn-rel-OE
+#	Pyramid Texts § 1775 N, 6th Dynasty
+#	text = tꜣ m ꜣw.t i҆b
+#	LM: "The earth (is) in length of heart."
+#	LT: "The earth is in joy."
+1	tꜣ		tꜣ		NOUN			Nom		Case=Nom|Number=Sing
+2	m		m		ADP				Ess		Case=Ess
+3	ꜣw.t	ꜣwi̯	VerbForm	Inf		Case=Gen
+4	i҆b	i҆b	NOUN			Gen		Case=Gen|Number=Sing
 
-# sent_id = PT548b-6dyn-rel-OE-Saqq
-# Pyramid Texts § 548b T, 6th Dynasty, Saqqara:
+# sent_id = PT548b-Saqq-6dyn-rel-OE
+# Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
 # text = wč̣ꜣ i҆b ⸗k
 # LM: “Your heart shall be hale.”
 # FT: “You shall be happy.”
@@ -10,8 +17,8 @@
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	_	Poss=Yes	2	nmod	_	_
 
-# sent_id = PT293a-5dyn-rel-OE-Saqq
-# Pyramid Texts § 293a W, 5th Dynasty, Saqqara:
+# sent_id = PT293a-Saqq-5dyn-rel-OE
+# Pyramid Texts § 293a W, Saqqara, 5th Dynasty:
 # nč̣m i҆b n(.i҆) [Wni҆ś]
 # LM: “The heart of (lit.: belonging to) [Unas] shall be sweet.”
 # FT: “[Unas] shall be kind.”
