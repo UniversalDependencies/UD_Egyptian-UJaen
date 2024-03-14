@@ -8,9 +8,22 @@
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Case=Gen	0	root	_	_
 4	i҆b	i҆b	NOUN	Gen	Case=Gen|Number=Sing	3	nmod	_	_
 
+# sent_id = TPPI/15/13-Abu-el-Naga-FIP-biogr-OE
+# TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period:
+# text = ḥkn⸗č m ꜥnḫ m ꜣw.t i҆b
+# LM: “You shall enjoy in life (and) in length of heart.”
+# FT: “You shall enjoy life and be glad.”
+1	ḥkn	ḥkn	VERB	SUB	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	PRP	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+3	m	m	ADP	Ess	Case=Ess	4	case	_	_
+4	ꜥnḫ	ꜥnḫ	NOUN	NOM	Case=Nom|Number=Sing	1	nmod	_	_
+5	m	m	ADP	Ess	Case=Ess	6	case	_	_
+6	ꜣw.t	ꜣw.t	NOUN	Inf	Case=Gen	1	nmod	_	_
+7	i҆b	i҆b	NOUN	NOM	Case=Gen|Number=Sing	6	nmod	_	_
+
 # sent_id = PT548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
-# text = wč̣ꜣ i҆b ⸗k
+# text = wč̣ꜣ i҆b⸗k
 # LM: “Your heart shall be hale.”
 # FT: “You shall be happy.”
 1	wč̣ꜣ	wč̣ꜣ	VERB	SUB	Mood=Sub	0	root	_	_
