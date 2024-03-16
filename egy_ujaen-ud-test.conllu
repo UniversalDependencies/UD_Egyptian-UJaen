@@ -94,6 +94,16 @@
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
+# sent_id = PT.2114a-Saqq-6dyn-rel-OE
+# Pyramid Texts § 2114a P, Saqqara, 6th Dynasty:
+# text = ꜥnḫ i҆b ⸗k
+# LM: “Your heart shall be alive.”
+# FT: “You shall be lively.”
+# Type = Verbal sentence
+1	ꜥnḫ	ꜥnḫ	VERB	SUB	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
+
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
 # text = wč̣ꜣ i҆b ⸗k
