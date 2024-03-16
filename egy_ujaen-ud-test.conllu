@@ -34,7 +34,7 @@
 3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	_	AdvType=Tim	1	advmod	_	_
 
-# sent_id = LDead-QawKabir-6dyn-rel-OE
+# sent_id = LDead.II.10-QawKabir-6dyn-rel-OE
 # Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty:
 # text = ꜣw i҆b [n(.i҆)] s(i҆)
 # LM: “The heart [belonging to] a man shall be long.”
@@ -71,6 +71,18 @@
 5	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 6	ḥr	ḥr	ADP	Prep	_	7	obl	_	_
 7	⸗k	k	PRON	PRP	Gender=Masc|Number=Sing|Person=2	2	obl	_	_
+
+# sent_id = Mereruka.162.2.5-Saqq-6dyn-everyday-OE
+# Mereruka pl. 162, Saqqara, 6th Dynasty:
+# text = i҆r (⸗i҆) r i҆b ⸗k
+# LM: “(I) shall do according to your heart.”
+# FT: “(I) shall act according to your will.”
+# Type = Verbal sentence
+1	i҆r	i҆ri̯	VERB	SUB	Mood=Sub	0	root	_	_
+2	(⸗i҆)	i҆	PRON	PRP	Number=Sing|Person=1	1	nsubj	_	_
+3	r	r	ADP	Prep	_	4	obl	_	_
+4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
 # sent_id = PT548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
