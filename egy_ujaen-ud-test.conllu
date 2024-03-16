@@ -110,10 +110,22 @@
 # LM: “One who enters the heart of his mistress.”
 # FT: “A confidant of his mistress.”
 # Type = Part of a sentence
-1	ꜥḳ	ꜥḳ	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+1	ꜥḳ	ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+
+# TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period:
+# text = i҆nk bꜣk n(.i҆) Ꜥḳ i҆b ⸗f
+# LM: “I am a servant of the one who enters his heart.”
+# FT: “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
+# Type = Nominal sentence with an independent pronoun
+1	i҆nk	i҆nk	PRON	Prs	Number=Sing|Person=1	2	nsubj	_	_
+2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	Ꜥḳ	Ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	2	nmod	_	_
+5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
