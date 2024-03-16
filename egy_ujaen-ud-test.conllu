@@ -43,7 +43,7 @@
 1	ꜣw	ꜣwi̯	VERB	SUB	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	s(i҆)	s(i҆)	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 
 # sent_id = PT715c-Saqq-6dyn-rel-OE
 # Pyramid Texts § 715c T, Saqqara, 6th Dynasty:
@@ -54,9 +54,23 @@
 1	ꜣw	ꜣwi̯	VERB	SUB	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	nčr(.w)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	m	m	ADP	Prep	_	6	obl	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
+
+# sent_id = PT1615b-Saqq-6dyn-rel-OE
+# Pyramid Texts § 1615b M, Saqqara, 6th Dynasty:
+# text = ꜣgbgb i҆b n(.i҆) mw.t ⸗k ḥr ⸗k
+# LM: “Your mother's heart shall quiver over you.”
+# FT: “Your mother shall sudder with joy for you.”
+# Type = Adverbial sentence
+1	ꜣgbgb	ꜣgbgb	VERB	SUB	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
+6	ḥr	ḥr	ADP	Prep	_	7	obl	_	_
+7	⸗k	k	PRON	PRP	Gender=Masc|Number=Sing|Person=2	2	obl	_	_
 
 # sent_id = PT548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
