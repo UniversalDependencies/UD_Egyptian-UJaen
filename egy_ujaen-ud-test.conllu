@@ -179,6 +179,18 @@
 5	ẖr	ẖr	ADP	Loc	_	6	obl	_	_
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
 
+# sent_id = PT.618-Saqq-6dyn-rel-OE
+# PT § 618 W, Saqqara, 6th Dynasty:
+# text = wčs i҆b ⸗k i҆r ⸗f
+# LM: “Lift up your heart to it.”
+# FT: “Rejoice at it.”
+# Type = Verbal sentence
+1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆b	i҆b	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
+4	i҆r	i҆r	ADP	Ill	_	5	obl	_	_
+5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
 # text = wč̣ꜣ i҆b ⸗k
