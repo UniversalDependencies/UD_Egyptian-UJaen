@@ -79,7 +79,7 @@
 # FT: “(I) shall act according to your will.”
 # Type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Prs	Number=Sing|Person=1	1	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Respect	Case=Equ	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
@@ -121,7 +121,7 @@
 # LM: “I am a servant of the one who enters his heart.”
 # FT: “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
 # Type = Nominal sentence with an independent pronoun
-1	i҆nk	i҆nk	PRON	IDP|Prs	Number=Sing|Person=1	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IDP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	Ꜥḳ	Ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -172,7 +172,7 @@
 # LM: “Your heart will not be weary under it.”
 # FT: “You will not give up the possession of it.”
 # Type = Verbal sentence
-1	n	n	PART	Neg	_	2	advmod	_	_
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
@@ -190,6 +190,21 @@
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	i҆r	i҆r	ADP	Direction	Case=Ill	5	obl	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+
+# sent_id = PT.302cd-Saqq-5dyn-rel-OE
+# PT § 302c-d W, Saqqara, 5th Dynasty:
+# text = i҆w (w)ṭ.n Wni҆ś nrw ⸗f m i҆b ⸗ śn
+# LM: “Unas put the fear of him in the heart of them.”
+# FT: “Unas instilled fear in them.”
+# Type = Verbal sentence
+1	i҆w	i҆w	PART	_	Vbp	2	aux	_	_
+2	(w)ṭ.n	wṭi̯	VERB	SFC	Tense=Past	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	nrw	nrw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	⸗f	⸗f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
+6	m	m	ADP	Place	Case=Loc	7	obl	_	_
+7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3	7	obl	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
