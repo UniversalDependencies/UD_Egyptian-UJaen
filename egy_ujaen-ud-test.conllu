@@ -139,7 +139,7 @@
 3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
-# sent_id = Meru.XIX.2-Said-6dyn-rel-OE
+# sent_id = Meru.XIX.2-Said-6dyn-histbio-OE
 # Meru, pl. XIX, line 2, Sheikh Said, 6th Dynasty:
 # text = wꜣḥ i҆b n(.i҆) i҆mn.t(i҆w) r ⸗f
 # LM: “The heart belonging to the westerners shall be set down towards him.”
@@ -151,6 +151,20 @@
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	r	r	ADP	Ill	_	6	obl	_	_
 6	⸗f	f	PRON	PRP	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+
+# sent_id = Meru.XIX.3-Said-6dyn-histbio-OE
+# Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty:
+# text = wꜣḥ i҆b ⸗f r ḥw.t ḥḳꜣ Ppy
+# LM: “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
+# FT: “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
+# Type = Verbal sentence
+1	wꜣḥ	wꜣḥ	VERB	SUB	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+4	r	r	ADP	Ill	_	5	obl	_	_
+5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	ḥḳꜣ	ḥḳꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Ppy	Ppy	PROPN	_	Gender=Masc	6	appos	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
