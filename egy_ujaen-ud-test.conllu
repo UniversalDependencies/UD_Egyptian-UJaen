@@ -16,7 +16,7 @@
 # FT: “You shall enjoy life and be glad.”
 # Type = Verbal sentence
 1	ḥkn	ḥkn	VERB	SFC	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	PRP	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	m	m	ADP	Ess	_	4	obl	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	m	m	ADP	Ess	_	6	obl	_	_
@@ -31,7 +31,7 @@
 # Type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	_	AdvType=Tim	1	advmod	_	_
 
 # sent_id = LDead.II.10-QawKabir-6dyn-rel-OE
@@ -68,9 +68,9 @@
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-5	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 6	ḥr	ḥr	ADP	Caus	_	7	obl	_	_
-7	⸗k	k	PRON	PRP	Gender=Masc|Number=Sing|Person=2	2	obl	_	_
+7	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	2	obl	_	_
 
 # sent_id = Mereruka.162.2.5-Saqq-6dyn-everyday-OE
 # Mereruka pl. 162, Saqqara, 6th Dynasty:
@@ -79,10 +79,10 @@
 # FT: “(I) shall act according to your will.”
 # Type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	(⸗i҆)	i҆	PRON	PRP	Number=Sing|Person=1	1	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs	Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Equ	_	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-5	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
 # sent_id = PT.585d-Saqq-6dyn-rel-OE
 # Pyramid Texts § 585d T, Saqqara, 6th Dynasty:
@@ -92,7 +92,7 @@
 # Type = Verbal sentence
 1	ꜥꜣ	ꜥꜣi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
 # sent_id = PT.2114a-Saqq-6dyn-rel-OE
 # Pyramid Texts § 2114a P, Saqqara, 6th Dynasty:
@@ -102,7 +102,7 @@
 # Type = Verbal sentence
 1	ꜥnḫ	ꜥnḫ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = CG.20543.5-Dend-FIP-histbio-OE
 # CG 20543, Dendera, First Intermediate Period:
@@ -113,7 +113,7 @@
 1	ꜥḳ	ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
 # sent_id = TPPI.17.3-AbuNaga-FIP-histbio-OE
 # TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period:
@@ -121,12 +121,12 @@
 # LM: “I am a servant of the one who enters his heart.”
 # FT: “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
 # Type = Nominal sentence with an independent pronoun
-1	i҆nk	i҆nk	PRON	Prs	Number=Sing|Person=1	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IDP|Prs	Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	Ꜥḳ	Ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	2	nmod	_	_
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
-6	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
 # sent_id = TPPI.18.4-AbuNaga-FIP-histbio-OE
 # TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period:
@@ -150,7 +150,7 @@
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	r	r	ADP	Ill	_	6	obl	_	_
-6	⸗f	f	PRON	PRP	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+6	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = Meru.XIX.3-Said-6dyn-histbio-OE
 # Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty:
@@ -160,7 +160,7 @@
 # Type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	r	r	ADP	Ill	_	5	obl	_	_
 5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 6	ḥḳꜣ	ḥḳꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -175,9 +175,9 @@
 1	n	n	PART	Neg	_	2	advmod	_	_
 2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 5	ẖr	ẖr	ADP	Loc	_	6	obl	_	_
-6	⸗ś	ś	PRON	PRP	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
+6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
