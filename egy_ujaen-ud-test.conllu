@@ -4,7 +4,7 @@
 # LM: "The earth (is) in length of heart."
 # FT: "The earth is in joy."
 # Type = Adverbial sentence
-1	tꜣ	tꜣ	NOUN	Nom	Case=Nom|Number=Sing	3	nsubj	_	_
+1	tꜣ	tꜣ	NOUN	Subj	Case=Nom|Number=Sing	3	nsubj	_	_
 2	m	m	ADP	Ess	_	3	obl	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	0	root	_	_
 4	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
@@ -30,7 +30,7 @@
 # FT: "You shall be glad eternally."
 # Type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	_	AdvType=Tim	1	advmod	_	_
 
@@ -41,7 +41,7 @@
 # FT: “A man shall be glad.”
 # Type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 
@@ -52,7 +52,7 @@
 # FT: “The gods shall be glad over Teti.”
 # Type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	m	m	ADP	Cau	_	6	obl	_	_
@@ -65,7 +65,7 @@
 # FT: “Your mother shall sudder with joy for you.”
 # Type = Adverbial sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
@@ -91,7 +91,7 @@
 # FT: “He shall be proud.”
 # Type = Verbal sentence
 1	ꜥꜣ	ꜥꜣi̯	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
 # sent_id = PT.2114a-Saqq-6dyn-rel-OE
@@ -101,7 +101,7 @@
 # FT: “You shall be lively.”
 # Type = Verbal sentence
 1	ꜥnḫ	ꜥnḫ	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = CG.20543.5-Dend-FIP-histbio-OE
@@ -146,7 +146,7 @@
 # FT: “The westerners shall care about him.”
 # Type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	r	r	ADP	Ill	_	6	obl	_	_
@@ -159,7 +159,7 @@
 # FT: “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
 # Type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	r	r	ADP	Ill	_	5	obl	_	_
 5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -174,7 +174,7 @@
 # Type = Verbal sentence
 1	n	n	PART	Neg	_	2	advmod	_	_
 2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
-3	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 5	ẖr	ẖr	ADP	Loc	_	6	obl	_	_
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
@@ -198,7 +198,7 @@
 # FT: “You shall be happy.”
 # Type = Verbal sentence
 1	wč̣ꜣ	wč̣ꜣ	VERB	SFC	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
@@ -207,8 +207,8 @@
 # LM: “The heart of (lit.: belonging to) [Unas] shall be sweet.”
 # FT: “[Unas] shall be kind.”
 # Type = Verbal sentence
-1	nč̣m	nč̣m	VERB	SUB	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+1	nč̣m	nč̣m	VERB	SFC	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Gender=Masc	2	nmod	_	_
 
