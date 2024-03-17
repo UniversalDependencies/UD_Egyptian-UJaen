@@ -136,7 +136,7 @@
 # Type = Nominal phrase
 1	wꜣ	wꜣi̯	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	nmod	_	_
+3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	advmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
 # sent_id = Meru.XIX.2-Said-6dyn-histbio-OE
@@ -165,6 +165,19 @@
 5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 6	ḥḳꜣ	ḥḳꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	Ppy	Ppy	PROPN	_	Gender=Masc	6	appos	_	_
+
+# sent_id = PT.23a-Saqq-5dyn-rel-OE
+# PT § 23a W, Saqqara, 5th Dynasty:
+# text = n wrč̣ i҆b ⸗f ẖr ⸗ś
+# LM: “Your heart will not be weary under it.”
+# FT: “You will not give up the possession of it.”
+# Type = Verbal sentence
+1	n	n	PART	Neg	_	2	Neg	_	_
+2	wrč̣	wrč̣	VERB	FUT	Tense=Fut	0	root	_	_
+3	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+5	ẖr	ẖr	ADP	Loc	_	6	obl	_	_
+6	⸗ś	ś	PRON	PRP	Gender=Fem|Number=Sing|Person=3	3	obl	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
