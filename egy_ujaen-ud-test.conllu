@@ -29,7 +29,7 @@
 # LM: "Your heart shall be long eternally."
 # FT: "You shall be glad eternally."
 # Type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	_	AdvType=Tim	1	advmod	_	_
@@ -40,7 +40,7 @@
 # LM: “The heart [belonging to] a man shall be long.”
 # FT: “A man shall be glad.”
 # Type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -51,7 +51,7 @@
 # LM: “The heart (lit.: belonging to) the gods shall be long in Teti.”
 # FT: “The gods shall be glad over Teti.”
 # Type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -64,7 +64,7 @@
 # LM: “Your mother's heart shall quiver over you.”
 # FT: “Your mother shall sudder with joy for you.”
 # Type = Adverbial sentence
-1	ꜣgbgb	ꜣgbgb	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜣgbgb	ꜣgbgb	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
@@ -78,7 +78,7 @@
 # LM: “(I) shall do according to your heart.”
 # FT: “(I) shall act according to your will.”
 # Type = Verbal sentence
-1	i҆r	i҆ri̯	VERB	SUB	Mood=Sub	0	root	_	_
+1	i҆r	i҆ri̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	(⸗i҆)	i҆	PRON	PRP	Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Equ	_	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -90,7 +90,7 @@
 # LM: “His heart shall be great.”
 # FT: “He shall be proud.”
 # Type = Verbal sentence
-1	ꜥꜣ	ꜥꜣi̯	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜥꜣ	ꜥꜣi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
@@ -100,7 +100,7 @@
 # LM: “Your heart shall be alive.”
 # FT: “You shall be lively.”
 # Type = Verbal sentence
-1	ꜥnḫ	ꜥnḫ	VERB	SUB	Mood=Sub	0	root	_	_
+1	ꜥnḫ	ꜥnḫ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
@@ -145,7 +145,7 @@
 # LM: “The heart belonging to the westerners shall be set down towards him.”
 # FT: “The westerners shall care about him.”
 # Type = Verbal sentence
-1	wꜣḥ	wꜣḥ	VERB	SUB	Mood=Sub	0	root	_	_
+1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -158,7 +158,7 @@
 # LM: “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
 # FT: “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
 # Type = Verbal sentence
-1	wꜣḥ	wꜣḥ	VERB	SUB	Mood=Sub	0	root	_	_
+1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	r	r	ADP	Ill	_	5	obl	_	_
@@ -173,7 +173,7 @@
 # FT: “You will not give up the possession of it.”
 # Type = Verbal sentence
 1	n	n	PART	Neg	_	2	advmod	_	_
-2	wrč̣	wrč̣	VERB	FUT	Tense=Fut	0	root	_	_
+2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 5	ẖr	ẖr	ADP	Loc	_	6	obl	_	_
@@ -185,9 +185,9 @@
 # LM: “Your heart shall be hale.”
 # FT: “You shall be happy.”
 # Type = Verbal sentence
-1	wč̣ꜣ	wč̣ꜣ	VERB	SUB	Mood=Sub	0	root	_	_
+1	wč̣ꜣ	wč̣ꜣ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Nom	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # Pyramid Texts § 293a W, Saqqara, 5th Dynasty:
