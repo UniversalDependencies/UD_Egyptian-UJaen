@@ -1,20 +1,32 @@
+# sent_id = Sabni.LV.5-QH35e-6dyn-histbio-OE
+# ref = Edel 2008 (eds. Seyfried/Vieler): pl. LV, line 5, Qubbet el-Hawa, 6th Dynasty
+# text = i҆w rč̣.n (⸗i҆) tʾ n ḥḳr
+# translation = "(I) have given bread to the hungry."
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Part	Aspect=Perf	2	aux	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC	Tense=Past	0	root	_	_
+3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
+4	tʾ	tʾ	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+5	n	n	ADP	Dative	Case=Dat	6	obl	_	_
+6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+
 # sent_id = PT.1775a-Saqq-6dyn-rel-OE
-# Pyramid Texts § 1775 N, Saqqara, 6th Dynasty
+# ref = Pyramid Texts § 1775 N, Saqqara, 6th Dynasty
 # text = tꜣ m ꜣw.t i҆b
-# LM: "The earth (is) in length of heart."
-# FT: "The earth is in joy."
-# Type = Adverbial sentence
+# LM = "The earth (is) in length of heart."
+# FT = "The earth is in joy."
+# type = Adverbial sentence
 1	tꜣ	tꜣ	NOUN	Subj	Case=Nom|Number=Sing	3	nsubj	_	_
 2	m	m	ADP	State	Case=Ess	3	obl	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	0	root	_	_
 4	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 
 # sent_id = TPPI.15.13-Abu-el-Naga-FIP-histbio-OE
-# TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period:
+# ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period:
 # text = ḥkn ⸗č m ꜥnḫ m ꜣw.t i҆b
-# LM: “You shall enjoy in life (and) in length of heart.”
-# FT: “You shall enjoy life and be glad.”
-# Type = Verbal sentence
+# LM = “You shall enjoy in life (and) in length of heart.”
+# FT = “You shall enjoy life and be glad.”
+# type = Verbal sentence
 1	ḥkn	ḥkn	VERB	SFC	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	m	m	ADP	State	Case=Ess	4	obl	_	_
@@ -24,33 +36,33 @@
 7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 
 # sent_id = Niuserre.80.55-Gorab-6dyn-histbio-OE
-# Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty
+# ref = Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty
 # text = ꜣw i҆b ⸗k č̣.t
-# LM: "Your heart shall be long eternally."
-# FT: "You shall be glad eternally."
-# Type = Verbal sentence
+# LM = "Your heart shall be long eternally."
+# FT = "You shall be glad eternally."
+# type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
-4	č̣.t	č̣.t	ADV	_	AdvType=Tim	1	advmod	_	_
+4	č̣.t	č̣.t	ADV	_	Advtype=Tim	1	advmod	_	_
 
 # sent_id = LDead.II.10-QawKabir-6dyn-rel-OE
-# Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty:
+# ref = Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty:
 # text = ꜣw i҆b [n(.i҆)] s(i҆)
-# LM: “The heart [belonging to] a man shall be long.”
-# FT: “A man shall be glad.”
-# Type = Verbal sentence
+# LM = “The heart [belonging to] a man shall be long.”
+# FT = “A man shall be glad.”
+# type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 
 # sent_id = PT.715c-Saqq-6dyn-rel-OE
-# Pyramid Texts § 715c T, Saqqara, 6th Dynasty:
+# ref = Pyramid Texts § 715c T, Saqqara, 6th Dynasty:
 # text = ꜣw i҆b n(.i҆) nčr(.w) m Tti҆
-# LM: “The heart (lit.: belonging to) the gods shall be long in Teti.”
-# FT: “The gods shall be glad over Teti.”
-# Type = Verbal sentence
+# LM = “The heart (lit.: belonging to) the gods shall be long in Teti.”
+# FT = “The gods shall be glad over Teti.”
+# type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -59,11 +71,11 @@
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
 
 # sent_id = PT.1615b-Saqq-6dyn-rel-OE
-# Pyramid Texts § 1615b M, Saqqara, 6th Dynasty:
+# ref = Pyramid Texts § 1615b M, Saqqara, 6th Dynasty:
 # text = ꜣgbgb i҆b n(.i҆) mw.t ⸗k ḥr ⸗k
-# LM: “Your mother's heart shall quiver over you.”
-# FT: “Your mother shall sudder with joy for you.”
-# Type = Adverbial sentence
+# LM = “Your mother's heart shall quiver over you.”
+# FT = “Your mother shall sudder with joy for you.”
+# type = Adverbial sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -73,11 +85,11 @@
 7	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	1	obl	_	_
 
 # sent_id = Mereruka.162.2.5-Saqq-6dyn-everyday-OE
-# Mereruka pl. 162, Saqqara, 6th Dynasty:
+# ref = Mereruka pl. 162, Saqqara, 6th Dynasty:
 # text = i҆r (⸗i҆) r i҆b ⸗k
-# LM: “(I) shall do according to your heart.”
-# FT: “(I) shall act according to your will.”
-# Type = Verbal sentence
+# LM = “(I) shall do according to your heart.”
+# FT = “(I) shall act according to your will.”
+# type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Respect	Case=Equ	4	obl	_	_
@@ -85,42 +97,42 @@
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
 # sent_id = PT.585d-Saqq-6dyn-rel-OE
-# Pyramid Texts § 585d T, Saqqara, 6th Dynasty:
+# ref = Pyramid Texts § 585d T, Saqqara, 6th Dynasty:
 # text = ꜥꜣ i҆b ⸗f
-# LM: “His heart shall be great.”
-# FT: “He shall be proud.”
-# Type = Verbal sentence
+# LM = “His heart shall be great.”
+# FT = “He shall be proud.”
+# type = Verbal sentence
 1	ꜥꜣ	ꜥꜣi̯	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
 # sent_id = PT.2114a-Saqq-6dyn-rel-OE
-# Pyramid Texts § 2114a P, Saqqara, 6th Dynasty:
+# ref = Pyramid Texts § 2114a P, Saqqara, 6th Dynasty:
 # text = ꜥnḫ i҆b ⸗k
-# LM: “Your heart shall be alive.”
-# FT: “You shall be lively.”
-# Type = Verbal sentence
+# LM = “Your heart shall be alive.”
+# FT = “You shall be lively.”
+# type = Verbal sentence
 1	ꜥnḫ	ꜥnḫ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = CG.20543.5-Dend-FIP-histbio-OE
-# CG 20543, Dendera, First Intermediate Period:
+# ref = CG 20543, Dendera, First Intermediate Period:
 # text = ꜥḳ i҆b nb.t ⸗f
-# LM: “One who enters the heart of his mistress.”
-# FT: “A confidant of his mistress.”
-# Type = Nominal phrase
+# LM = “One who enters the heart of his mistress.”
+# FT = “A confidant of his mistress.”
+# type = Nominal phrase
 1	ꜥḳ	ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
 # sent_id = TPPI.17.3-AbuNaga-FIP-histbio-OE
-# TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period:
+# ref = TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period:
 # text = i҆nk bꜣk n(.i҆) Ꜥḳ i҆b ⸗f
-# LM: “I am a servant of the one who enters his heart.”
-# FT: “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
-# Type = Nominal sentence with an independent pronoun
+# LM = “I am a servant of the one who enters his heart.”
+# FT = “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
+# type = Nominal sentence with an independent pronoun
 1	i҆nk	i҆nk	PRON	IDP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -129,22 +141,22 @@
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
 # sent_id = TPPI.18.4-AbuNaga-FIP-histbio-OE
-# TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period:
+# ref = TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period:
 # text = wꜣ i҆b ꜣ.t sḫ.t
-# LM: “One who gets the heart ready at the moment of striking.”
-# FT: “One who is ready to attack at the moment of striking.”
-# Type = Nominal phrase
+# LM = “One who gets the heart ready at the moment of striking.”
+# FT = “One who is ready to attack at the moment of striking.”
+# type = Nominal phrase
 1	wꜣ	wꜣi̯	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
 # sent_id = Meru.XIX.2-Said-6dyn-histbio-OE
-# Meru, pl. XIX, line 2, Sheikh Said, 6th Dynasty:
+# ref = Meru, pl. XIX, line 2, Sheikh Said, 6th Dynasty:
 # text = wꜣḥ i҆b n(.i҆) i҆mn.t(i҆w) r ⸗f
-# LM: “The heart belonging to the westerners shall be set down towards him.”
-# FT: “The westerners shall care about him.”
-# Type = Verbal sentence
+# LM = “The heart belonging to the westerners shall be set down towards him.”
+# FT = “The westerners shall care about him.”
+# type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -153,11 +165,11 @@
 6	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = Meru.XIX.3-Said-6dyn-histbio-OE
-# Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty:
+# ref = Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty:
 # text = wꜣḥ i҆b ⸗f r ḥw.t ḥḳꜣ Ppy
-# LM: “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
-# FT: “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
-# Type = Verbal sentence
+# LM = “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
+# FT = “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
+# type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
@@ -167,12 +179,12 @@
 7	Ppy	Ppy	PROPN	_	Gender=Masc	6	appos	_	_
 
 # sent_id = PT.23a-Saqq-5dyn-rel-OE
-# PT § 23a W, Saqqara, 5th Dynasty:
+# ref = PT § 23a W, Saqqara, 5th Dynasty:
 # text = n wrč̣ i҆b ⸗f ẖr ⸗ś
-# LM: “Your heart will not be weary under it.”
-# FT: “You will not give up the possession of it.”
-# Type = Verbal sentence
-1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+# LM = “Your heart will not be weary under it.”
+# FT = “You will not give up the possession of it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	Parttype=Neg	2	advmod	_	_
 2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
@@ -180,11 +192,11 @@
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = PT.618-Saqq-6dyn-rel-OE
-# PT § 618 W, Saqqara, 6th Dynasty:
+# ref = PT § 618 W, Saqqara, 6th Dynasty:
 # text = wčs i҆b ⸗k i҆r ⸗f
-# LM: “Lift up your heart to it.”
-# FT: “Rejoice at it.”
-# Type = Verbal sentence
+# LM = “Lift up your heart to it.”
+# FT = “Rejoice at it.”
+# type = Verbal sentence
 1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
 2	i҆b	i҆b	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
@@ -192,12 +204,12 @@
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = PT.302cd-Saqq-5dyn-rel-OE
-# PT § 302c-d W, Saqqara, 5th Dynasty:
+# ref = PT § 302c-d W, Saqqara, 5th Dynasty:
 # text = i҆w (w)ṭ.n Wni҆ś nrw ⸗f m i҆b ⸗śn
-# LM: “Unas put the fear of him in the heart of them.”
-# FT: “Unas instilled fear in them.”
-# Type = Verbal sentence
-1	i҆w	i҆w	AUX	PART	PartType=Vbp	2	aux	_	_
+# LM = “Unas put the fear of him in the heart of them.”
+# FT = “Unas instilled fear in them.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Part	Aspect=Perf	2	aux	_	_
 2	(w)ṭ.n	wṭi̯	VERB	SFC	Tense=Past	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	nrw	nrw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
@@ -207,21 +219,21 @@
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3	7	obl	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
-# Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
+# ref = Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
 # text = wč̣ꜣ i҆b ⸗k
-# LM: “Your heart shall be hale.”
-# FT: “You shall be happy.”
-# Type = Verbal sentence
+# LM = “Your heart shall be hale.”
+# FT = “You shall be happy.”
+# type = Verbal sentence
 1	wč̣ꜣ	wč̣ꜣ	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
-# Pyramid Texts § 293a W, Saqqara, 5th Dynasty:
+# ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty:
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
-# LM: “The heart of (lit.: belonging to) [Unas] shall be sweet.”
-# FT: “[Unas] shall be kind.”
-# Type = Verbal sentence
+# LM = “The heart of (lit.: belonging to) [Unas] shall be sweet.”
+# FT = “[Unas] shall be kind.”
+# type = Verbal sentence
 1	nč̣m	nč̣m	VERB	SFC	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
