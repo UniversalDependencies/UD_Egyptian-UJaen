@@ -262,6 +262,15 @@
 4	r	r	ADP	respect	Case=Equ	5	obl	_	_
 5	šy	šy	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = CG.20543.4-Dend-FIP-histbio-OE
+# ref = CG 20543, 4, Dendera, First Intermediate Period:
+# text = pgꜣ i҆b
+# LM = “One who opens the heart.”
+# FT = “An open-hearted.”
+# type = Nominal phrase
+1	pgꜣ	pgꜣ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty:
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
