@@ -231,6 +231,15 @@
 5	mṭw	mṭw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 6	pw	pw	DET	Dem	PronType=Dem	5	nmod	_	_
 
+# sent_id = PT.1198b-Saqq-6dyn-rel-OE
+# ref = Pyramid Texts § 1198b M, Saqqara, 6th Dynasty:
+# text = wč̣ꜣ i҆b
+# LM = “Healing of heart.”
+# FT = “Happiness.”
+# type = Nominal phrase
+1	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
 # ref = Pyramid Texts § 548b T, Saqqara, 6th Dynasty:
 # text = wč̣ꜣ i҆b ⸗k
