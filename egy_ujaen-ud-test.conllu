@@ -321,6 +321,18 @@
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
 
+# sent_id = PT.1109a-Saqq-6dyn-rel-OE
+# ref = Pyramid Texts § 1109a P, Saqqara, 6th Dynasty
+# text = mr i҆b ⸗ś n ⸗f
+# LM = “Her heart shall be sick because of him.”
+# FT = “She shall have compassion on him.”
+# type = Verbal sentence
+1	mr	mr	VERB	SFC	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
+4	n	n	ADP	cause	Case=Cau	5	obl	_	_
+5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
