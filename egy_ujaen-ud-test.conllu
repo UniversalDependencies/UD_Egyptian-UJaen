@@ -122,7 +122,7 @@
 # LM = “One who enters the heart of his mistress.”
 # FT = “A confidant of his mistress.”
 # type = Nominal phrase
-1	ꜥḳ	ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
+1	ꜥḳ	ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
@@ -136,7 +136,7 @@
 1	i҆nk	i҆nk	PRON	IDP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	Ꜥḳ	Ꜥḳ	NOUN	Part	Gender=Masc|Number=Sing	2	nmod	_	_
+4	Ꜥḳ	Ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	2	nmod	_	_
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
@@ -146,7 +146,7 @@
 # LM = “One who gets the heart ready at the moment of striking.”
 # FT = “One who is ready to attack at the moment of striking.”
 # type = Nominal phrase
-1	wꜣ	wꜣi̯	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
+1	wꜣ	wꜣi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -268,7 +268,7 @@
 # LM = “One who opens the heart.”
 # FT = “An open-hearted.”
 # type = Nominal phrase
-1	pgꜣ	pgꜣ	NOUN	Part	Gender=Masc|Number=Sing	0	root	_	_
+1	pgꜣ	pgꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 
 # sent_id = PT.1655c-Saqq-6dyn-rel-OE
@@ -316,7 +316,7 @@
 # type = Nominal phrase
 1	i҆n	i҆n	PART	cleft	PartType=Emp	2	nmod	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
-3	č̣ṭ	č̣ṭ	ADJ	_	VerbForm=Part|Gender=Masc|Number=Sing	0	root	_	_
+3	č̣ṭ	č̣ṭ	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 4	i҆m.(i҆)t	m	NOUN	Nisba|Prep	Gender=Fem|Number=Sing	3	obj	_	_
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
