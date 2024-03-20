@@ -356,14 +356,14 @@
 
 # sent_id = CG.20543.16-Dend-FIP-histbio-OE
 # ref = CG 20543, 16, Dendera, First Intermediate Period
-# text = n mh.n i҆b (⸗i҆) 
+# text = n mh.n i҆b (⸗i҆)
 # LM = “(My) heart cannot forget.”
 # FT = “(I) am not forgetful.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	mh.n	mh	VERB	SFC|Past	Mood=Pot|Tense=Pres	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	3	nmod	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
