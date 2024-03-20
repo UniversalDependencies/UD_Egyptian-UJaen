@@ -295,6 +295,19 @@
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
+# sent_id = Khentika.XXXV-Saqq-6dyn-histbio-OE
+# ref = Khentika, pl. XXXV, Saqqara, 6th Dynasty
+# text = i҆m(.i҆) i҆b n(.i҆) nsw m tꜣ(.wi)
+# LM = “One who is in the heart of the king in the two lands (i.e. Egypt).”
+# FT = “A favourite one of the Egyptian king.”
+# type = Nominal phrase
+1	i҆m(.i҆)	m	NOUN	Nisba|Prep	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+4	m	m	ADP	Place	Case=Loc	5	obl	_	_
+5	tꜣ(.wi)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
