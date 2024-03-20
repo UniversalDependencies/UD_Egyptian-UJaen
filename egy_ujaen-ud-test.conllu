@@ -4,7 +4,7 @@
 # translation = "(I) have given bread to the hungry."
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
-2	rč̣.n	rč̣i̯	VERB	SFC|pred	Tense=Past	0	root	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past|Pred	Tense=Past	0	root	_	_
 3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 5	n	n	ADP	Dative	Case=Dat	6	obl	_	_
@@ -27,7 +27,7 @@
 # LM = “You shall enjoy in life (and) in length of heart.”
 # FT = “You shall enjoy life and be glad.”
 # type = Verbal sentence
-1	ḥkn	ḥkn	VERB	SFC	Mood=Sub	0	root	_	_
+1	ḥkn	ḥkn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	m	m	ADP	State	Case=Ess	4	obl	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -41,7 +41,7 @@
 # LM = "Your heart shall be long eternally."
 # FT = "You shall be glad eternally."
 # type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
@@ -52,7 +52,7 @@
 # LM = “The heart [belonging to] a man shall be long.”
 # FT = “A man shall be glad.”
 # type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -63,7 +63,7 @@
 # LM = “The heart (lit.: belonging to) the gods shall be long in Teti.”
 # FT = “The gods shall be glad over Teti.”
 # type = Verbal sentence
-1	ꜣw	ꜣwi̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -76,7 +76,7 @@
 # LM = “Your mother's heart shall quiver over you.”
 # FT = “Your mother shall sudder with joy for you.”
 # type = Adverbial sentence
-1	ꜣgbgb	ꜣgbgb	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜣgbgb	ꜣgbgb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
@@ -90,7 +90,7 @@
 # LM = “(I) shall do according to your heart.”
 # FT = “(I) shall act according to your will.”
 # type = Verbal sentence
-1	i҆r	i҆ri̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	i҆r	i҆ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Respect	Case=Equ	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -102,7 +102,7 @@
 # LM = “His heart shall be great.”
 # FT = “He shall be proud.”
 # type = Verbal sentence
-1	ꜥꜣ	ꜥꜣi̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜥꜣ	ꜥꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
@@ -112,7 +112,7 @@
 # LM = “Your heart shall be alive.”
 # FT = “You shall be lively.”
 # type = Verbal sentence
-1	ꜥnḫ	ꜥnḫ	VERB	SFC	Mood=Sub	0	root	_	_
+1	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
@@ -157,7 +157,7 @@
 # LM = “The heart belonging to the westerners shall be set down towards him.”
 # FT = “The westerners shall care about him.”
 # type = Verbal sentence
-1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
+1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -170,7 +170,7 @@
 # LM = “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
 # FT = “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
 # type = Verbal sentence
-1	wꜣḥ	wꜣḥ	VERB	SFC	Mood=Sub	0	root	_	_
+1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	r	r	ADP	Direction	Case=Ill	5	obl	_	_
@@ -185,7 +185,7 @@
 # FT = “You will not give up the possession of it.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	wrč̣	wrč̣	VERB	SFC	Tense=Fut	0	root	_	_
+2	wrč̣	wrč̣	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 5	ẖr	ẖr	ADP	Place	Case=Loc	6	obl	_	_
@@ -210,7 +210,7 @@
 # FT = “Unas instilled fear in them.”
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	PART	Aspect=Perf	2	aux	_	_
-2	(w)ṭ.n	wṭi̯	VERB	SFC|pred	Tense=Past	0	root	_	_
+2	(w)ṭ.n	wṭi̯	VERB	SFC|Past|Pred	Tense=Past	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	nrw	nrw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 5	⸗f	⸗f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
@@ -246,7 +246,7 @@
 # LM = “Your heart shall be hale.”
 # FT = “You shall be happy.”
 # type = Verbal sentence
-1	wč̣ꜣ	wč̣ꜣ	VERB	SFC	Mood=Sub	0	root	_	_
+1	wč̣ꜣ	wč̣ꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
@@ -256,7 +256,7 @@
 # LM = “Your heart shall be hale concerning the crocodile.”
 # FT = “You shall be happy of having escaped from the crocodile.”
 # type = Verbal sentence
-1	wč̣ꜣ	wč̣ꜣ	VERB	SFC	Mood=Sub	0	root	_	_
+1	wč̣ꜣ	wč̣ꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	r	r	ADP	respect	Case=Equ	5	obl	_	_
@@ -277,7 +277,7 @@
 # LM = “His heart shall stretch (himself) out for his children.”
 # FT = “He shall be pleased about his children.”
 # type = Verbal sentence
-1	pč̣	pč̣	VERB	SFC	Mood=Sub	0	root	_	_
+1	pč̣	pč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	n	n	ADP	Advantage	Case=Ben	5	obl	_	_
@@ -327,7 +327,7 @@
 # LM = “Her heart shall be sick because of him.”
 # FT = “She shall have compassion on him.”
 # type = Verbal sentence
-1	mr	mr	VERB	SFC	Mood=Sub	0	root	_	_
+1	mr	mr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
 4	n	n	ADP	cause	Case=Cau	5	obl	_	_
@@ -339,7 +339,7 @@
 # LM = “You shall take (everything) to him to any place which his heart desires.”
 # FT = “You shall take (everything) to him at any place which he wishes.”
 # type = Verbal sentence
-1	i҆č	i҆či̯	VERB	SFC	Mood=Sub	0	root	_	_
+1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	n	n	ADP	Advantage	Case=Ben	4	obl	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
@@ -354,13 +354,24 @@
 13	i҆m	m	ADP	Place	Case=Loc	14	obl	_	_
 14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 
+# sent_id = CG.20543.16-Dend-FIP-histbio-OE
+# ref = CG 20543, 16, Dendera, First Intermediate Period
+# text = n mh.n i҆b (⸗i҆) 
+# LM = “(My) heart cannot forget.”
+# FT = “(I) am not forgetful.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	mh.n	mh	VERB	SFC|Past	Mood=Pot|Tense=Pres	0	root	_	_
+3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
 # LM = “The heart of (lit.: belonging to) [Unas] shall be sweet.”
 # FT = “[Unas] shall be kind.”
 # type = Verbal sentence
-1	nč̣m	nč̣m	VERB	SFC	Mood=Sub	0	root	_	_
+1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Gender=Masc	2	nmod	_	_
