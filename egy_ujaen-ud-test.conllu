@@ -313,8 +313,8 @@
 # text = i҆n Wni҆ś č̣ṭ i҆m.(i҆)t i҆b Wr.t
 # LM = “It is Unas who says what is in the heart of the Great-One (f.).”
 # FT = “It is Unas who speaks the favourite words of the Great One.”
-# type = Nominal phrase
-1	i҆n	i҆n	PART	cleft	PartType=Emp	2	nmod	_	_
+# type = Cleft sentence
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 3	č̣ṭ	č̣ṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 4	i҆m.(i҆)t	m	NOUN	Nisba|Prep	Gender=Fem|Number=Sing	3	obj	_	_
