@@ -5,7 +5,7 @@
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	rč̣.n	rč̣i̯	VERB	SFC|Past|Pred	Tense=Past	0	root	_	_
-3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
+3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 5	n	n	ADP	Dative	Case=Dat	6	obl	_	_
 6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
@@ -28,7 +28,7 @@
 # FT = “You shall enjoy life and be glad.”
 # type = Verbal sentence
 1	ḥkn	ḥkn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	m	m	ADP	State	Case=Ess	4	obl	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	m	m	ADP	State	Case=Ess	6	obl	_	_
@@ -91,7 +91,7 @@
 # FT = “(I) shall act according to your will.”
 # type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Respect	Case=Equ	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
@@ -340,7 +340,7 @@
 # FT = “You shall take (everything) to him at any place which he wishes.”
 # type = Verbal sentence
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	n	n	ADP	Advantage	Case=Ben	4	obl	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 5	(i҆ḫ.t)	i҆ḫ.t	NOUN	Ellipsis|Obj	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
@@ -365,7 +365,7 @@
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	3	nmod	_	_
 
-# sent_id = Iy-Meri.7b-Hawawish-6dyn-histbio-FIP
+# sent_id = Iy-Meri.7b-Hawawish-6dyn-histbio-OE
 # ref = Kanawati 1987, fig. 7 (b), El-Hawawish, 6th Dynasty
 # text = mḥ i҆b ⸗f m pr Mnw
 # LM = “One who fills his heart in the temple of Min.”
@@ -377,6 +377,19 @@
 4	m	m	ADP	Place	Case=Loc	5	obl	_	_
 5	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	Mnw	Mnw	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+
+# sent_id = Khety-I.18-Asyut-FIP-histbio-OE
+# ref = Asyut V, 18-19, Asyut, First Intermediate Period
+# text = mḥ i҆b n(.i҆) nśw ḫnt ⸗f
+# LM = “One who fills the heart of the king when he sails upstream.”
+# FT = “One who earns the king's trust (i.e. king's confidant) when he sails upstream.”
+# type = Nominal phrase
+1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+3	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	ḫnt	ḫnti̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
