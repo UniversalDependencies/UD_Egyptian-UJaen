@@ -352,7 +352,7 @@
 11	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
 13	i҆m	m	ADP	Pron.state	Case=Loc	14	obl	_	_
-14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	8	obl	_	_
+14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 
 # sent_id = CG.20543.16-Dend-FIP-histbio-OE
 # ref = CG 20543, 16, Dendera, First Intermediate Period
@@ -393,7 +393,7 @@
 
 # sent_id = Pepinakht.6.7-QH35-6dyn-histbio-OE
 # ref = Edel 2008 (eds. Seyfried/Vieler): pl. XXXIII-XXXIV, cols. 6-7, Qubbet el-Hawa, 6th Dynasty
-# text = mḥ nb (⸗i҆) i҆b ⸗f i҆m (⸗i҆) m wp.t nb(.t) hꜣb.tn ⸗f w(⸗i҆) i҆m ⸗ś
+# text = mḥ nb (⸗i҆) i҆b ⸗f i҆m (⸗i҆) m wp.t nb(.t) hꜣb.tn ⸗f w(i҆) i҆m ⸗ś
 # lit = “(My) lord filled his heart with (me) in every mission on which he sent me.”
 # trans = "(My) lord trusted (me) in every mission on which he sent me."
 # type = Verbal sentence
@@ -404,9 +404,14 @@
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 6	i҆m	m	ADP	Pron.state	Case=Ins	7	obl	_	_
 7	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	obl	_	_
-8	m	m	ADP	Cons.state state|Instrument	Case=Ins	7	obl	_	_
-9	wp.t	wp.t	ADJ	_	Gender=Masc|Number=Sing	8	nmod	_	_
-10	nb(.t)	nb	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	8	acl	_	_
+8	m	m	ADP	Cons.state	Case=Loc	9	obl	_	_
+9	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+10	nb(.t)	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11	hꜣb.tn	hꜣb	VERB	ADJ|RF	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
+12	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+13	w(i҆)	wi҆	PRON	DP|Prs|Obj	Gender=Com|Number=Sing|Person=1	11	obj	_	_
+14	i҆m	m	ADP	Pron.state	Case=Loc	14	obl	_	_
+15	(⸗ś)	ś	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	11	obl	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
