@@ -365,6 +365,20 @@
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	3	nmod	_	_
 
+# sent_id = Iy-Meri.7b-Hawawish-6dyn-histbio-FIP
+# ref = Kanawati 1987, fig. 7 (b), El-Hawawish, 6th Dynasty
+# text = mḥ i҆b ⸗f m pr Mnw
+# LM = “One who fills his heart in the temple of Min.”
+# FT = “One who earns his trust (i.e. his confidant) in the temple of Min.”
+# type = Nominal phrase
+1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+4	m	m	ADP	Place	Case=Loc	5	obl	_	_
+5	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	Mnw	Mnw	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
