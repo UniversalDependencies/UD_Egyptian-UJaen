@@ -7,7 +7,7 @@
 2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred	VerbForm=Fin|Tense=Past	0	root	_	_
 3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
-5	n	n	ADP	Dative	Case=Dat	6	obl	_	_
+5	n	n	ADP	Cons.state	Case=Dat	6	obl	_	_
 6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
 
 # sent_id = PT.1775a-Saqq-6dyn-rel-OE
@@ -17,8 +17,8 @@
 # trans = "The earth is in joy."
 # type = Adverbial sentence
 1	tꜣ	tꜣ	NOUN	Subj	Case=Nom|Number=Sing	3	nsubj	_	_
-2	m	m	ADP	State	Case=Ess	3	obl	_	_
-3	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	0	root	_	_
+2	m	m	ADP	Cons.state	Case=Ess	3	obl	_	_
+3	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc|Definite=Cons	0	root	_	_
 4	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 
 # sent_id = TPPI.15.13-Abu-el-Naga-FIP-histbio-OE
@@ -29,11 +29,11 @@
 # type = Verbal sentence
 1	ḥkn	ḥkn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
-3	m	m	ADP	State	Case=Ess	4	obl	_	_
+3	m	m	ADP	Cons.state	Case=Ess	4	obl	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-5	m	m	ADP	State	Case=Ess	6	obl	_	_
+5	m	m	ADP	Cons.state	Case=Ess	6	obl	_	_
 6	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	1	obl	_	_
-7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
 
 # sent_id = Niuserre.80.55-Gorab-6dyn-histbio-OE
 # ref = Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty
@@ -54,8 +54,8 @@
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	[n(.i҆)]	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+3	[n(.i҆)]	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	s(i҆)	s(i҆)	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 
 # sent_id = PT.715c-Saqq-6dyn-rel-OE
 # ref = Pyramid Texts § 715c T, Saqqara, 6th Dynasty
@@ -65,9 +65,9 @@
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	m	m	ADP	Idiom	_	6	obl	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	m	m	ADP	Cons.state|Idiom	_	6	obl	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
 
 # sent_id = PT.1615b-Saqq-6dyn-rel-OE
@@ -78,10 +78,10 @@
 # type = Adverbial sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	mw.t	mw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
-6	ḥr	ḥr	ADP	Idiom	_	7	obl	_	_
+6	ḥr	ḥr	ADP	Pron.state|Idiom	_	7	obl	_	_
 7	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	1	obl	_	_
 
 # sent_id = Mereruka.162.2.5-Saqq-6dyn-everyday-OE
@@ -92,7 +92,7 @@
 # type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
-3	r	r	ADP	Respect	Case=Equ	4	obl	_	_
+3	r	r	ADP	Cons.state	Case=Equ	4	obl	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
@@ -123,7 +123,7 @@
 # trans = “A confidant of his mistress.”
 # type = Nominal phrase
 1	ꜥḳ	ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
@@ -135,9 +135,9 @@
 # type = Nominal sentence with an independent pronoun
 1	i҆nk	i҆nk	PRON	IDP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	Ꜥḳ	Ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	2	nmod	_	_
-5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	Ꜥḳ	Ꜥḳ	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
 # sent_id = TPPI.18.4-AbuNaga-FIP-histbio-OE
@@ -147,8 +147,8 @@
 # trans = “One who is ready to attack at the moment of striking.”
 # type = Nominal phrase
 1	wꜣ	wꜣi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing	1	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Gender=Fem|Number=Sing|Definite=Cons	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
 # sent_id = Meru.XIX.2-Said-6dyn-histbio-OE
@@ -159,9 +159,9 @@
 # type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	r	r	ADP	direction	Case=Ill	6	obl	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	r	r	ADP	Pron.state	Case=Ill	6	obl	_	_
 6	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = Meru.XIX.3-Said-6dyn-histbio-OE
@@ -173,8 +173,8 @@
 1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
-4	r	r	ADP	Direction	Case=Ill	5	obl	_	_
-5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	r	r	ADP	Cons.state	Case=Ill	5	obl	_	_
+5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing|Definite=Cons	1	obl	_	_
 6	ḥḳꜣ	ḥḳꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	Ppy	Ppy	PROPN	_	Gender=Masc	6	appos	_	_
 
@@ -188,7 +188,7 @@
 2	wrč̣	wrč̣	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
-5	ẖr	ẖr	ADP	Place	Case=Loc	6	obl	_	_
+5	ẖr	ẖr	ADP	Pron.state	Case=Loc	6	obl	_	_
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = PT.618-Saqq-6dyn-rel-OE
@@ -200,7 +200,7 @@
 1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
 2	i҆b	i҆b	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
-4	i҆r	i҆r	ADP	Direction	Case=Ill	5	obl	_	_
+4	i҆r	i҆r	ADP	Pron.state	Case=Ill	5	obl	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = PT.302cd-Saqq-5dyn-rel-OE
@@ -214,18 +214,18 @@
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	nrw	nrw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 5	⸗f	⸗f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
-6	m	m	ADP	Place	Case=Loc	7	obl	_	_
+6	m	m	ADP	Cons.state	Case=Loc	7	obl	_	_
 7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3	7	obl	_	_
 
 # sent_id = PT.957a-Saqq-6dyn-rel-OE
 # ref = PT § 957a P, Saqqara, 6th Dynasty
-# text = (w)ṭ i҆r i҆b ⸗k mṭw pw
+# text = (w)ṭi҆ r i҆b ⸗k mṭw pw
 # lit = “Put to your heart this speech.”
 # trans = “Take this speech to heart.”
 # type = Verbal sentence
-1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
-2	i҆r	r	ADP	direction	Case=Ill	3	obl	_	_
+1	(w)ṭi҆	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	r	r	ADP	Cons.state	Case=Ill	3	obl	_	_
 3	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	3	nmod	_	_
 5	mṭw	mṭw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
@@ -237,7 +237,7 @@
 # lit = “Healing of heart.”
 # trans = “Happiness.”
 # type = Nominal phrase
-1	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+1	wč̣ꜣ	wč̣ꜣ	NOUN	_	Gender=Masc|Number=Sing|Definite=Cons	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 
 # sent_id = PT.548b-Saqq-6dyn-rel-OE
@@ -259,7 +259,7 @@
 1	wč̣ꜣ	wč̣ꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
-4	r	r	ADP	respect	Case=Equ	5	obl	_	_
+4	r	r	ADP	Cons.state	Case=Equ	5	obl	_	_
 5	šy	šy	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
 # sent_id = CG.20543.4-Dend-FIP-histbio-OE
@@ -269,7 +269,7 @@
 # trans = “An open-hearted.”
 # type = Nominal phrase
 1	pgꜣ	pgꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
 # sent_id = PT.1655c-Saqq-6dyn-rel-OE
 # ref = Pyramid Texts § 1655c N, Saqqara, 6th Dynasty
@@ -280,7 +280,7 @@
 1	pč̣	pč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
-4	n	n	ADP	Advantage	Case=Ben	5	obl	_	_
+4	n	n	ADP	Cons.state	Case=Ben	5	obl	_	_
 5	mś(.w)	mś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
@@ -290,7 +290,7 @@
 # lit = “One who is in the heart of his mistress.”
 # trans = “The favourite one of his mistress.”
 # type = Nominal phrase
-1	i҆m(.i҆)	m	NOUN	Nisba|Prep	Gender=Masc|Number=Sing	0	root	_	_
+1	i҆m(.i҆)	m	NOUN	Nisba.Prep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
@@ -301,11 +301,11 @@
 # lit = “One who is in the heart of the king in the two lands (i.e. Egypt).”
 # trans = “A favourite one of the Egyptian king.”
 # type = Nominal phrase
-1	i҆m(.i҆)	m	NOUN	Nisba|Prep	Gender=Masc|Number=Sing	0	root	_	_
+1	i҆m(.i҆)	m	NOUN	Nisba.Prep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-5	m	m	ADP	Place	Case=Loc	6	obl	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	nsw	nsw	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	m	m	ADP	Cons.state	Case=Loc	6	obl	_	_
 6	tꜣ(.wi)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 
 # sent_id = PT.268b-Saqq-5dyn-rel-OE
@@ -317,8 +317,8 @@
 1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 3	č̣ṭ	č̣ṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
-4	i҆m.(i҆)t	m	NOUN	Nisba|Prep	Gender=Fem|Number=Sing	3	obj	_	_
-5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
+4	i҆m.(i҆)t	m	NOUN	Nisba.Prep	Gender=Fem|Number=Sing	3	obj	_	_
+5	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing|Definite=Cons	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
 
 # sent_id = PT.1109a-Saqq-6dyn-rel-OE
@@ -330,7 +330,7 @@
 1	mr	mr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
-4	n	n	ADP	cause	Case=Cau	5	obl	_	_
+4	n	n	ADP	Pron.state	Case=Cau	5	obl	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = PT.1592e-Saqq-6dyn-rel-OE
@@ -341,17 +341,17 @@
 # type = Verbal sentence
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
-3	n	n	ADP	Advantage	Case=Ben	4	obl	_	_
+3	n	n	ADP	Pron.state	Case=Ben	4	obl	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 5	(i҆ḫ.t)	i҆ḫ.t	NOUN	Ellipsis|Obj	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-6	(nb.t)	nb	ADJ	Ellipsis	Gender=Fem|Number=Sing	5	nmod	_	_
-7	r	r	ADP	Direction	Case=All	8	obl	_	_
+6	(nb.t)	nb	ADJ	Ellipsis	Gender=Fem|Number=Sing	5	amod	_	_
+7	r	r	ADP	Cons.state	Case=All	8	obl	_	_
 8	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	nmod	_	_
+9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 10	mrr	mrr	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	8	acl	_	_
 11	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
-13	i҆m	m	ADP	Place	Case=Loc	14	obl	_	_
+13	i҆m	m	ADP	Pron.state	Case=Loc	14	obl	_	_
 14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	8	obl	_	_
 
 # sent_id = CG.20543.16-Dend-FIP-histbio-OE
@@ -372,10 +372,10 @@
 # trans = “One who earns his trust (i.e. his confidant) in the temple of Min.”
 # type = Nominal phrase
 1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
-4	m	m	ADP	Place	Case=Loc	5	obl	_	_
-5	pr	pr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	m	m	ADP	Cons.state	Case=Loc	5	obl	_	_
+5	pr	pr	NOUN	_	Gender=Masc|Number=Sing|Definite=Cons	1	obl	_	_
 6	Mnw	Mnw	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 
 # sent_id = Khety-I.18-Asyut-FIP-histbio-OE
@@ -385,9 +385,9 @@
 # trans = “One who earns the king's trust (i.e. king's confidant) when he sails upstream.”
 # type = Nominal phrase
 1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	nśw	nśw	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	ḫnt	ḫnti̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 
@@ -398,11 +398,11 @@
 # trans = "(My) lord trusted (me) in every mission on which he sent me."
 # type = Verbal sentence
 1	mḥ	mḥ	VERB	SFC|Past_I	VerbForm=Fin|Tense=Past	0	root	_	_
-2	nb	nb	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
-3	(⸗i҆)	i҆	ADP	Advantage	Case=Ben	4	obl	_	_
-4	i҆b	i҆b	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
-5	⸗f	f	NOUN	Ellipsis|Obj	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
-6	i҆m	m	ADJ	Ellipsis	Gender=Fem|Number=Sing	5	nmod	_	_
+2	nb	nb	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	2	nmod	_	_
+4	i҆b	i҆b	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
+6	i҆m	m	ADP	Pron.state state|Instrument	Case=Ins	7	obl	_	_
 7	(⸗i҆)	i҆	ADP	Direction	Case=All	8	obl	_	_
 8	m	m	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 9	wp.t	wp.t	ADJ	_	Gender=Masc|Number=Sing	8	nmod	_	_
@@ -416,6 +416,6 @@
 # type = Verbal sentence
 1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Gender=Masc	2	nmod	_	_
+3	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	2	amod	_	_
+4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
 
