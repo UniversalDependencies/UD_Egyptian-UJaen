@@ -454,6 +454,18 @@
 3	nb	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
+# sent_id = Ptahshepeses.B.4-Abusir-5Dyn-histbio-OE
+# ref = Urk. I 53, 9, Abusir, 5th Dynasty
+# text = n(.i҆) i҆b n(.i҆) nb ⸗f
+# lit = “One who belongs to the heart of his lord.”
+# trans = “A favourite one of his lord.”
+# type = Nominal phrase
+1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n(.i҆)	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+4	nb	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
