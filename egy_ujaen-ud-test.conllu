@@ -429,6 +429,20 @@
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
 9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 
+# sent_id = LDead.V.7-unknown-FIP-rel-OE
+# ref = Letters to the Dead pl. V, 7, unknown provenance, First Intermediate Period
+# text = śmḫ św n i҆b n(.i҆) ẖrṭ(.w) ⸗č(n)
+# lit = “Forget it for the heart of your children.”
+# trans = "Forget it for the sake/love of your children."
+# type = Verbal sentence
+1	śmḫ	śmḫ	VERB	Imp	Mood=Imp	0	root	_	_
+2	św	św	PRON	DP|Prs|Obj	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
+3	n	n	ADP	Cons.state	Case=Ben	6	case	_	_
+4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing		3	fixed	_
+5	n(.i҆)	n	ADJ	Nisba.Prep	Gender=Masc|Number=Sing	3	fixed	_	_
+6	ẖrṭ(.w)	ẖrṭ	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
+7	⸗č(n)	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=32	6	nmod	_	_
+
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
 # text = nč̣m i҆b n(.i҆) [Wni҆ś]
