@@ -78,7 +78,7 @@ Saqq = Saqqara
 
 # Acknowledgments
 
-I thank Tonio Sebastian Richter, Daniel Werning and Simon Schweitzer (Thesaurus Linguae Aegyptiae) for their cooperation in Nile in Contact. I am also grateful to Agata Savary (UniDive) and Dan Zeman (UD) for introducing me to computational linguistics.
+I thank Tonio Sebastian Richter, Daniel Werning and Simon Schweitzer (Thesaurus Linguae Aegyptiae) for their cooperation in Nile in Contact. I am also grateful to Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti for introducing me to computational linguistics.
 
 
 # Changelog
