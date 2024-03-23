@@ -24,7 +24,7 @@
 
 # sent_id = UDE-3
 # ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period, histbio, OE
-# text = ḥkn ⸗č m ꜥnḫ m ꜣw.t i҆b
+# text = ḥkn ⸗č m ꜥnḫ m ꜣw.t-i҆b
 # lit = “You shall enjoy in life (and) in length of heart.”
 # trans = “You shall enjoy life and be glad.”
 # type = Verbal sentence
@@ -33,6 +33,7 @@
 3	m	m	ADP	Cons.state	Case=Ess	4	case	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	m	m	ADP	Cons.state	Case=Ess	6	case	_	_
+6-7	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 6	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	1	obl	_	_
 7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
 
