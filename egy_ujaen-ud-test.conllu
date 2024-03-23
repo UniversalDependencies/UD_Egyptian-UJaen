@@ -270,10 +270,11 @@
 
 # sent_id = UDE-23
 # ref = CG 20543, 4, Dendera, First Intermediate Period, histbio, OE
-# text = pgꜣ i҆b
+# text = pgꜣ-i҆b
 # lit = “One who opens the heart.”
 # trans = “An open-hearted.”
 # type = Nominal phrase
+1-2	pgꜣ-i҆b	_	_	_	_	_	_	_	_
 1	pgꜣ	pgꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
@@ -292,10 +293,11 @@
 
 # sent_id = UDE-25
 # ref = CG 20543, 17, Dendera, First Intermediate Period, histbio, OE
-# text = i҆m(.i҆) i҆b nb.t ⸗f
+# text = i҆m(.i҆)-i҆b nb.t ⸗f
 # lit = “One who is in the heart of his mistress.”
 # trans = “The favourite one of his mistress.”
 # type = Nominal phrase
+1-2	i҆m(.i҆)-i҆b	_	_	_	_	_	_	_	_
 1	i҆m(.i҆)	m	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -303,10 +305,11 @@
 
 # sent_id = UDE-26
 # ref = Khentika, pl. XXXV, Saqqara, 6th Dynasty, histbio, OE
-# text = i҆m(.i҆) i҆b n(.i҆) nsw m tꜣ(.wi)
+# text = i҆m(.i҆)-i҆b n(.i҆) nsw m tꜣ(.wi)
 # lit = “One who is in the heart of the king in the two lands (i.e. Egypt).”
 # trans = “A favourite one of the Egyptian king.”
 # type = Nominal phrase
+1-2	i҆m(.i҆)-i҆b	_	_	_	_	_	_	_	_
 1	i҆m(.i҆)	m	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
@@ -316,13 +319,14 @@
 
 # sent_id = UDE-27
 # ref = Pyramid Texts § 268b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆n Wni҆ś č̣ṭ i҆m.(i҆)t i҆b Wr.t
+# text = i҆n Wni҆ś č̣ṭ i҆m.(i҆)t-i҆b Wr.t
 # lit = “It is Unas who says what is in the heart of the Great-One (f.).”
 # trans = “It is Unas who speaks the favourite words of the Great One.”
 # type = Cletrans sentence
 1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 3	č̣ṭ	č̣ṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+4-5	i҆m(.i҆)t-i҆b	_	_	_	_	_	_	_	_
 4	i҆m.(i҆)t	m	NOUN	NisbaPrep	Gender=Fem|Number=Sing	3	obj	_	_
 5	i҆b	i҆b	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
@@ -373,10 +377,11 @@
 
 # sent_id = UDE-31
 # ref = Kanawati 1987, fig. 7 (b), Iy-Meri, El-Hawawish, 6th Dynasty, histbio, OE
-# text = mḥ i҆b ⸗f m pr Mnw
+# text = mḥ-i҆b ⸗f m pr Mnw
 # lit = “One who fills his heart in the temple of Min.”
 # trans = “One who earns his trust (i.e. his confidant) in the temple of Min.”
 # type = Nominal phrase
+1-2	mḥ-i҆b	_	_	_	_	_	_	_	_
 1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
@@ -390,6 +395,7 @@
 # lit = “One who fills the heart of the king when he sails upstream.”
 # trans = “One who earns the king's trust (i.e. king's confidant) when he sails upstream.”
 # type = Nominal phrase
+1-2	mḥ-i҆b	_	_	_	_	_	_	_	_
 1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
@@ -437,12 +443,13 @@
 
 # sent_id = UDE-35
 # ref = Letters to the Dead pl. V, 7, unknown provenance, First Intermediate Period, rel, OE
-# text = śmḫ św n i҆b n(.i҆) ẖrṭ(.w) ⸗č(n)
+# text = śmḫ św n-i҆b-n(.i҆) ẖrṭ(.w) ⸗č(n)
 # lit = “Forget it for the heart of your children.”
 # trans = "Forget it for the sake/love of your children."
 # type = Verbal sentence
 1	śmḫ	śmḫ	VERB	Imp	Mood=Imp	0	root	_	_
 2	św	św	PRON	DP|Prs|Obj	Gender=Masc|Number=Sing|Person=3	1	obj	_	_
+3-5	n-i҆b-n(.i҆)	_	_	_	_	_	_	_	_
 3	n	n	ADP	Cons.state	Case=Ben	6	case	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -451,10 +458,11 @@
 
 # sent_id = UDE-36
 # ref = CG 55, Saqqara, 5th Dynasty, histbio, OE
-# text = n(.i҆) i҆b nb ⸗f
+# text = n(.i҆)-i҆b nb ⸗f
 # lit = “One who belongs to the heart of his lord.”
 # trans = “A favourite one of his lord.”
 # type = Nominal phrase
+1-2	n(.i҆)-i҆b	_	_	_	_	_	_	_	_
 1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -466,6 +474,7 @@
 # lit = “One who belongs to the heart of his lord.”
 # trans = “A favourite one of his lord.”
 # type = Nominal phrase
+1-2	n(.i҆)-i҆b	_	_	_	_	_	_	_	_
 1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
@@ -474,10 +483,11 @@
 
 # sent_id = UDE-38
 # ref = Mariette 1889, 266 (D37), Saqqara, 4th Dynasty, histbio, OE
-# text = n(.i҆) ś.t i҆b nb ⸗f
+# text = n(.i҆)-ś.t-i҆b nb ⸗f
 # lit = “One who belongs to the place of his lord's.”
 # trans = “His lord's beloved.”
 # type = Nominal phrase
+1-3	n(.i҆)-ś.t-i҆b	_	_	_	_	_	_	_	_
 1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	ś.t	ś.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	compound	_	_
 3	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	compound	_	_
@@ -486,10 +496,11 @@
 
 # sent_id = UDE-39
 # ref = CG 20543, 5, Dendera, First Intermediate Period, histbio, OE
-# text = n(.i҆) i҆b n(.i҆) nb ⸗f
+# text = n(.i҆)-i҆b n(.i҆) nb ⸗f
 # lit = “One who belongs to the heart of his lord.”
 # trans = “A favourite one of his lord.”
 # type = Nominal phrase
+1-2	n(.i҆)-i҆b	_	_	_	_	_	_	_	_
 1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
@@ -498,10 +509,11 @@
 
 # sent_id = UDE-40
 # ref = CG 20543, 4, Dendera, First Intermediate Period, histbio, OE
-# text = nꜥꜥ i҆b
+# text = nꜥꜥ-i҆b
 # lit = “One who is smooth of heart.”
 # trans = “A calm one.”
 # type = Nominal phrase
+1-2	nꜥꜥ-i҆b	_	_	_	_	_	_	_	_
 1	nꜥꜥ	nꜥi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
