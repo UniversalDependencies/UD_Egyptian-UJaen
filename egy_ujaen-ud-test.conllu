@@ -120,10 +120,11 @@
 
 # sent_id = UDE-11
 # ref = CG 20543, 5, Dendera, First Intermediate Period, histbio, OE
-# text = ꜥḳ i҆b nb.t ⸗f
+# text = ꜥḳ-i҆b nb.t ⸗f
 # lit = “One who enters the heart of his mistress.”
 # trans = “A confidant of his mistress.”
 # type = Nominal phrase
+1-2	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
 1	ꜥḳ	ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
@@ -131,23 +132,25 @@
 
 # sent_id = UDE-12
 # ref = TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period, histbio, OE
-# text = i҆nk bꜣk n(.i҆) Ꜥḳ i҆b ⸗f
+# text = i҆nk bꜣk n(.i҆) Ꜥḳ-i҆b ⸗f
 # lit = “I am a servant of the one who enters his heart.”
 # trans = “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
 # type = Nominal sentence with an independent pronoun
 1	i҆nk	i҆nk	PRON	IDP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+4-5	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
 4	Ꜥḳ	Ꜥḳ	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
 # sent_id = UDE-13
 # ref = TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period, histbio, OE
-# text = wꜣ i҆b ꜣ.t sḫ.t
+# text = wꜣ-i҆b ꜣ.t sḫ.t
 # lit = “One who gets the heart ready at the moment of striking.”
 # trans = “One who is ready to attack at the moment of striking.”
 # type = Nominal phrase
+1-2	wꜣ-i҆b	_	_	_	_	_	_	_	_
 1	wꜣ	wꜣi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
@@ -235,12 +238,13 @@
 
 # sent_id = UDE-20
 # ref = Pyramid Texts § 1198b M, Saqqara, 6th Dynasty, rel, OE
-# text = wč̣ꜣ i҆b
+# text = wč̣ꜣ-i҆b
 # lit = “Healing of heart.”
 # trans = “Happiness.”
 # type = Nominal phrase
+1-2	wč̣ꜣ-i҆b	_	_	_	_	_	_	_	_
 1	wč̣ꜣ	wč̣ꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
 # sent_id = UDE-21
 # ref = Pyramid Texts § 548b T, Saqqara, 6th Dynasty, rel, OE
