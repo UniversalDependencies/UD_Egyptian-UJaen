@@ -1,5 +1,5 @@
-# sent_id = Sabni.LV.5-QH35e-6dyn-histbio-OE
-# ref = Edel 2008 (eds. Seyfried/Vieler): pl. LV, line 5, Qubbet el-Hawa, 6th Dynasty
+# sent_id = UDE-1
+# ref = Edel 2008 (eds. Seyfried/Vieler): pl. LV, line 5, Qubbet el-Hawa (QH35e), 6th Dynasty, histbio, OE
 # text = i҆w rč̣.n (⸗i҆) tʾ n ḥḳr
 # trans = "(I) have given bread to the hungry."
 # type = Verbal sentence
@@ -10,8 +10,8 @@
 5	n	n	ADP	Cons.state	Case=Dat	6	case	_	_
 6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
 
-# sent_id = PT.1775a-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1775 N, Saqqara, 6th Dynasty
+# sent_id = UDE-2
+# ref = Pyramid Texts § 1775a N, Saqqara, 6th Dynasty, rel, OE
 # text = tꜣ m ꜣw.t i҆b
 # lit = "The earth (is) in length of heart."
 # trans = "The earth is in joy."
@@ -21,8 +21,8 @@
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
 4	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 
-# sent_id = TPPI.15.13-Abu-el-Naga-FIP-histbio-OE
-# ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period
+# sent_id = UDE-3
+# ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period, histbio, OE
 # text = ḥkn ⸗č m ꜥnḫ m ꜣw.t i҆b
 # lit = “You shall enjoy in life (and) in length of heart.”
 # trans = “You shall enjoy life and be glad.”
@@ -35,8 +35,8 @@
 6	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	1	obl	_	_
 7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
 
-# sent_id = Niuserre.80.55-Gorab-6dyn-histbio-OE
-# ref = Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty
+# sent_id = UDE-4
+# ref = Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty, histbio, OE
 # text = ꜣw i҆b ⸗k č̣.t
 # lit = "Your heart shall be long eternally."
 # trans = "You shall be glad eternally."
@@ -46,8 +46,8 @@
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
 
-# sent_id = LDead.II.10-QawKabir-6dyn-rel-OE
-# ref = Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty
+# sent_id = UDE-5
+# ref = Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty, rel, OE
 # text = ꜣw i҆b [n(.i҆)] s(i҆)
 # lit = “The heart [belonging to] a man shall be long.”
 # trans = “A man shall be glad.”
@@ -57,8 +57,8 @@
 3	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 
-# sent_id = PT.715c-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 715c T, Saqqara, 6th Dynasty
+# sent_id = UDE-6
+# ref = Pyramid Texts § 715c T, Saqqara, 6th Dynasty, rel, OE
 # text = ꜣw i҆b n(.i҆) nčr(.w) m Tti҆
 # lit = “The heart (lit.: belonging to) the gods shall be long in Teti.”
 # trans = “The gods shall be glad over Teti.”
@@ -70,8 +70,8 @@
 5	m	m	ADP	Cons.state	_	6	case	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
 
-# sent_id = PT.1615b-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1615b M, Saqqara, 6th Dynasty
+# sent_id = UDE-7
+# ref = Pyramid Texts § 1615b M, Saqqara, 6th Dynasty, rel, OE
 # text = ꜣgbgb i҆b n(.i҆) mw.t ⸗k ḥr ⸗k
 # lit = “Your mother's heart shall quiver over you.”
 # trans = “Your mother shall sudder with joy for you.”
@@ -84,8 +84,8 @@
 6	ḥr	ḥr	ADP	Pron.state	_	7	case	_	_
 7	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	1	obl	_	_
 
-# sent_id = Mereruka.162.2.5-Saqq-6dyn-everyday-OE
-# ref = Mereruka pl. 162, Saqqara, 6th Dynasty
+# sent_id = UDE-8
+# ref = Mereruka pl. 162, 5, Saqqara, 6th Dynasty, everyday life, OE
 # text = i҆r (⸗i҆) r i҆b ⸗k
 # lit = “(I) shall do according to your heart.”
 # trans = “(I) shall act according to your will.”
@@ -96,8 +96,8 @@
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
-# sent_id = PT.585d-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 585d T, Saqqara, 6th Dynasty
+# sent_id = UDE-9
+# ref = Pyramid Texts § 585d T, Saqqara, 6th Dynasty, rel, OE
 # text = ꜥꜣ i҆b ⸗f
 # lit = “His heart shall be great.”
 # trans = “He shall be proud.”
@@ -106,8 +106,8 @@
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
-# sent_id = PT.2114a-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 2114a P, Saqqara, 6th Dynasty
+# sent_id = UDE-10
+# ref = Pyramid Texts § 2114a P, Saqqara, 6th Dynasty, rel, OE
 # text = ꜥnḫ i҆b ⸗k
 # lit = “Your heart shall be alive.”
 # trans = “You shall be lively.”
@@ -116,8 +116,8 @@
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
-# sent_id = CG.20543.5-Dend-FIP-histbio-OE
-# ref = CG 20543, Dendera, First Intermediate Period
+# sent_id = UDE-11
+# ref = CG 20543, 5, Dendera, First Intermediate Period, histbio, OE
 # text = ꜥḳ i҆b nb.t ⸗f
 # lit = “One who enters the heart of his mistress.”
 # trans = “A confidant of his mistress.”
@@ -127,8 +127,8 @@
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
-# sent_id = TPPI.17.3-AbuNaga-FIP-histbio-OE
-# ref = TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period
+# sent_id = UDE-12
+# ref = TPPI § 17, 3-4, Dra Abu el-Naga, First Intermediate Period, histbio, OE
 # text = i҆nk bꜣk n(.i҆) Ꜥḳ i҆b ⸗f
 # lit = “I am a servant of the one who enters his heart.”
 # trans = “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
@@ -140,8 +140,8 @@
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
-# sent_id = TPPI.18.4-AbuNaga-FIP-histbio-OE
-# ref = TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period
+# sent_id = UDE-13
+# ref = TPPI § 18, 4, Dra Abu el-Naga, First Intermediate Period, histbio, OE
 # text = wꜣ i҆b ꜣ.t sḫ.t
 # lit = “One who gets the heart ready at the moment of striking.”
 # trans = “One who is ready to attack at the moment of striking.”
@@ -151,8 +151,8 @@
 3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
-# sent_id = Meru.XIX.2-Said-6dyn-histbio-OE
-# ref = Meru, pl. XIX, line 2, Sheikh Said, 6th Dynasty
+# sent_id = UDE-14
+# ref = Meru, pl. XIX, line 2, Sheikh Said, 6th Dynasty, histbio, OE
 # text = wꜣḥ i҆b n(.i҆) i҆mn.t(i҆w) r ⸗f
 # lit = “The heart belonging to the westerners shall be set down towards him.”
 # trans = “The westerners shall care about him.”
@@ -164,8 +164,8 @@
 5	r	r	ADP	Pron.state	Case=Ill	6	case	_	_
 6	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
-# sent_id = Meru.XIX.3-Said-6dyn-histbio-OE
-# ref = Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty
+# sent_id = UDE-15
+# ref = Meru, pl. XIX, col. 3, Sheikh Said, 6th Dynasty, histbio, OE
 # text = wꜣḥ i҆b ⸗f r ḥw.t ḥḳꜣ Ppy
 # lit = “His heart (i.e. Osiris) should be set down towards the temple of the ruler Pepi.”
 # trans = “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
@@ -178,8 +178,8 @@
 6	ḥḳꜣ	ḥḳꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	Ppy	Ppy	PROPN	_	Gender=Masc	6	appos	_	_
 
-# sent_id = PT.23a-Saqq-5dyn-rel-OE
-# ref = PT § 23a W, Saqqara, 5th Dynasty
+# sent_id = UDE-16
+# ref = PT § 23a W, Saqqara, 5th Dynasty, rel, OE
 # text = n wrč̣ i҆b ⸗f ẖr ⸗ś
 # lit = “Your heart will not be weary under it.”
 # trans = “You will not give up the possession of it.”
@@ -191,8 +191,8 @@
 5	ẖr	ẖr	ADP	Pron.state	Case=Loc	6	case	_	_
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
 
-# sent_id = PT.618-Saqq-6dyn-rel-OE
-# ref = PT § 618 W, Saqqara, 6th Dynasty
+# sent_id = UDE-17
+# ref = PT § 618 W, Saqqara, 6th Dynasty, rel, OE
 # text = wčs i҆b ⸗k i҆r ⸗f
 # lit = “Litrans up your heart to it.”
 # trans = “Rejoice at it.”
@@ -203,8 +203,8 @@
 4	i҆r	i҆r	ADP	Pron.state	Case=Ill	5	case	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
-# sent_id = PT.302cd-Saqq-5dyn-rel-OE
-# ref = PT § 302c-d W, Saqqara, 5th Dynasty
+# sent_id = UDE-18
+# ref = PT § 302c-d W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w (w)ṭ.n Wni҆ś nrw ⸗f m i҆b ⸗śn
 # lit = “Unas put the fear of him in the heart of them.”
 # trans = “Unas instilled fear in them.”
@@ -218,8 +218,8 @@
 7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3	7	nmod	_	_
 
-# sent_id = PT.957a-Saqq-6dyn-rel-OE
-# ref = PT § 957a P, Saqqara, 6th Dynasty
+# sent_id = UDE-19
+# ref = PT § 957a P, Saqqara, 6th Dynasty, rel, OE
 # text = (w)ṭi҆ r i҆b ⸗k mṭw pw
 # lit = “Put to your heart this speech.”
 # trans = “Take this speech to heart.”
@@ -231,8 +231,8 @@
 5	mṭw	mṭw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 6	pw	pw	DET	Dem	PronType=Dem	5	nmod	_	_
 
-# sent_id = PT.1198b-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1198b M, Saqqara, 6th Dynasty
+# sent_id = UDE-20
+# ref = Pyramid Texts § 1198b M, Saqqara, 6th Dynasty, rel, OE
 # text = wč̣ꜣ i҆b
 # lit = “Healing of heart.”
 # trans = “Happiness.”
@@ -240,8 +240,8 @@
 1	wč̣ꜣ	wč̣ꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 
-# sent_id = PT.548b-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 548b T, Saqqara, 6th Dynasty
+# sent_id = UDE-21
+# ref = Pyramid Texts § 548b T, Saqqara, 6th Dynasty, rel, OE
 # text = wč̣ꜣ i҆b ⸗k
 # lit = “Your heart shall be hale.”
 # trans = “You shall be happy.”
@@ -250,8 +250,8 @@
 2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
-# sent_id = Ptahh.III-Saqq-5dyn-everyday-OE
-# ref = Davies 1900: pl. III, Saqqara, 5th Dynasty
+# sent_id = UDE-22
+# ref = Davies 1900: pl. III, Saqqara, 5th Dynasty, everyday life, OE
 # text = wč̣ꜣ i҆b ⸗k r šy
 # lit = “Your heart shall be hale concerning the crocodile.”
 # trans = “You shall be happy of having escaped from the crocodile.”
@@ -262,8 +262,8 @@
 4	r	r	ADP	Cons.state	Case=Equ	5	case	_	_
 5	šy	šy	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
-# sent_id = CG.20543.4-Dend-FIP-histbio-OE
-# ref = CG 20543, 4, Dendera, First Intermediate Period
+# sent_id = UDE-23
+# ref = CG 20543, 4, Dendera, First Intermediate Period, histbio, OE
 # text = pgꜣ i҆b
 # lit = “One who opens the heart.”
 # trans = “An open-hearted.”
@@ -271,8 +271,8 @@
 1	pgꜣ	pgꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
-# sent_id = PT.1655c-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1655c N, Saqqara, 6th Dynasty
+# sent_id = UDE-24
+# ref = Pyramid Texts § 1655c N, Saqqara, 6th Dynasty, rel, OE
 # text = pč̣ i҆b ⸗f n mś(.w) ⸗f
 # lit = “His heart shall stretch (himself) out for his children.”
 # trans = “He shall be pleased about his children.”
@@ -284,8 +284,8 @@
 5	mś(.w)	mś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 
-# sent_id = CG.20543.17-Dend-FIP-histbio-OE
-# ref = CG 20543, 17, Dendera, First Intermediate Period
+# sent_id = UDE-25
+# ref = CG 20543, 17, Dendera, First Intermediate Period, histbio, OE
 # text = i҆m(.i҆) i҆b nb.t ⸗f
 # lit = “One who is in the heart of his mistress.”
 # trans = “The favourite one of his mistress.”
@@ -295,8 +295,8 @@
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
-# sent_id = Khentika.XXXV-Saqq-6dyn-histbio-OE
-# ref = Khentika, pl. XXXV, Saqqara, 6th Dynasty
+# sent_id = UDE-26
+# ref = Khentika, pl. XXXV, Saqqara, 6th Dynasty, histbio, OE
 # text = i҆m(.i҆) i҆b n(.i҆) nsw m tꜣ(.wi)
 # lit = “One who is in the heart of the king in the two lands (i.e. Egypt).”
 # trans = “A favourite one of the Egyptian king.”
@@ -308,8 +308,8 @@
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
 6	tꜣ(.wi)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 
-# sent_id = PT.268b-Saqq-5dyn-rel-OE
-# ref = Pyramid Texts § 268b W, Saqqara, 5th Dynasty
+# sent_id = UDE-27
+# ref = Pyramid Texts § 268b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆n Wni҆ś č̣ṭ i҆m.(i҆)t i҆b Wr.t
 # lit = “It is Unas who says what is in the heart of the Great-One (f.).”
 # trans = “It is Unas who speaks the favourite words of the Great One.”
@@ -321,8 +321,8 @@
 5	i҆b	i҆b	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
 
-# sent_id = PT.1109a-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1109a P, Saqqara, 6th Dynasty
+# sent_id = UDE-28
+# ref = Pyramid Texts § 1109a P, Saqqara, 6th Dynasty, rel, OE
 # text = mr i҆b ⸗ś n ⸗f
 # lit = “Her heart shall be sick because of him.”
 # trans = “She shall have compassion on him.”
@@ -333,8 +333,8 @@
 4	n	n	ADP	Pron.state	Case=Cau	5	case	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
-# sent_id = PT.1592e-Saqq-6dyn-rel-OE
-# ref = Pyramid Texts § 1592e N, Saqqara, 6th Dynasty
+# sent_id = UDE-29
+# ref = Pyramid Texts § 1592e N, Saqqara, 6th Dynasty, rel, OE
 # text = i҆č ⸗č n ⸗f (i҆ḫ.t) (nb.t) r bw nb mrr i҆b ⸗f i҆m (⸗f)
 # lit = “You shall take (everything) to him to any place which his heart desires.”
 # trans = “You shall take (everything) to him at any place which he wishes.”
@@ -354,8 +354,8 @@
 13	i҆m	m	ADP	Pron.state	Case=Loc	14	case	_	_
 14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 
-# sent_id = CG.20543.16-Dend-FIP-histbio-OE
-# ref = CG 20543, 16, Dendera, First Intermediate Period
+# sent_id = UDE-30
+# ref = CG 20543, 16, Dendera, First Intermediate Period, histbio, OE
 # text = n mh.n i҆b (⸗i҆)
 # lit = “(My) heart cannot forget.”
 # trans = “(I) am not forgetful.”
@@ -365,8 +365,8 @@
 3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	3	nmod	_	_
 
-# sent_id = Iy-Meri.7b-Hawawish-6dyn-histbio-OE
-# ref = Kanawati 1987, fig. 7 (b), El-Hawawish, 6th Dynasty
+# sent_id = UDE-31
+# ref = Kanawati 1987, fig. 7 (b), Iy-Meri, El-Hawawish, 6th Dynasty, histbio, OE
 # text = mḥ i҆b ⸗f m pr Mnw
 # lit = “One who fills his heart in the temple of Min.”
 # trans = “One who earns his trust (i.e. his confidant) in the temple of Min.”
@@ -378,8 +378,8 @@
 5	pr	pr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 6	Mnw	Mnw	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 
-# sent_id = Khety-I.18-Asyut-FIP-histbio-OE
-# ref = Asyut V, 18-19, Asyut, First Intermediate Period
+# sent_id = UDE-32
+# ref = Asyut V, 18-19, Khety, Asyut, First Intermediate Period, histbio, OE
 # text = mḥ i҆b n(.i҆) nśw ḫnt ⸗f
 # lit = “One who fills the heart of the king when he sails upstream.”
 # trans = “One who earns the king's trust (i.e. king's confidant) when he sails upstream.”
@@ -391,8 +391,8 @@
 5	ḫnt	ḫnti̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 
-# sent_id = Pepinakht.6.7-QH35-6dyn-histbio-OE
-# ref = Edel 2008 (eds. Seyfried/Vieler): pl. XXXIII-XXXIV, cols. 6-7, Qubbet el-Hawa, 6th Dynasty
+# sent_id = UDE-33
+# ref = Edel 2008 (eds. Seyfried/Vieler): pl. XXXIII-XXXIV, cols. 6-7, Qubbet el-Hawa (QH35), 6th Dynasty, histbio, OE
 # text = mḥ nb (⸗i҆) i҆b ⸗f i҆m (⸗i҆) m wp.t nb(.t) hꜣb.tn ⸗f w(i҆) i҆m ⸗ś
 # lit = “(My) lord filled his heart with (me) in every mission on which he sent me.”
 # trans = "(My) lord trusted (me) in every mission on which he sent me."
@@ -413,8 +413,8 @@
 14	i҆m	m	ADP	Pron.state	Case=Loc	15	case	_	_
 15	⸗ś	ś	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	11	obl	_	_
 
-# sent_id = Weni.3-Abydos-6dyn-histbio-OE
-# ref = Urk. I 99, 3, Abydos, 6th Dynasty
+# sent_id = UDE-34
+# ref = Urk. I 99, 3, Weni, Abydos, 6th Dynasty, histbio, OE
 # text = [i҆b] ⸗f mḥ(.w) i҆m (⸗i҆) r bꜣk ⸗f nb
 # lit = “His [heart] was filled with (me) more than any other of his servants.”
 # trans = "His [trust] was earned by (me) more than by any other of his servants."
@@ -429,8 +429,8 @@
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
 9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 
-# sent_id = LDead.V.7-unknown-FIP-rel-OE
-# ref = Letters to the Dead pl. V, 7, unknown provenance, First Intermediate Period
+# sent_id = UDE-35
+# ref = Letters to the Dead pl. V, 7, unknown provenance, First Intermediate Period, rel, OE
 # text = śmḫ św n i҆b n(.i҆) ẖrṭ(.w) ⸗č(n)
 # lit = “Forget it for the heart of your children.”
 # trans = "Forget it for the sake/love of your children."
@@ -443,8 +443,8 @@
 6	ẖrṭ(.w)	ẖrṭ	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 7	⸗č(n)	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2	6	nmod	_	_
 
-# sent_id = CG.55-Saqq-5Dyn-histbio-OE
-# ref = CG 55, Saqqara, 5th Dynasty
+# sent_id = UDE-36
+# ref = CG 55, Saqqara, 5th Dynasty, histbio, OE
 # text = n(.i҆) i҆b nb ⸗f
 # lit = “One who belongs to the heart of his lord.”
 # trans = “A favourite one of his lord.”
@@ -454,8 +454,8 @@
 3	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
-# sent_id = Ptahshepeses.B.4-Abusir-5Dyn-histbio-OE
-# ref = Urk. I 53, 9, Abusir, 5th Dynasty
+# sent_id = UDE-37
+# ref = Urk. I 53, 9, Ptahshepeses, Abusir, 5th Dynasty, histbio, OE
 # text = n(.i҆) i҆b n(.i҆) nb ⸗f
 # lit = “One who belongs to the heart of his lord.”
 # trans = “A favourite one of his lord.”
@@ -466,8 +466,8 @@
 4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
-# sent_id = Maanefer.D37-Saqq-4Dyn-histbio-OE
-# ref = Mariette 1889, 266 (D37), Saqqara, 4th Dynasty
+# sent_id = UDE-38
+# ref = Mariette 1889, 266 (D37), Saqqara, 4th Dynasty, histbio, OE
 # text = n(.i҆) ś.t i҆b nb ⸗f
 # lit = “One who belongs to the place of his lord's.”
 # trans = “His lord's beloved.”
@@ -477,6 +477,18 @@
 3	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	compound	_	_
 4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
+
+# sent_id = UDE-39
+# ref = CG 20543, 5, Dendera, First Intermediate Period, histbio, OE
+# text = n(.i҆) i҆b n(.i҆) nb ⸗f
+# lit = “One who belongs to the heart of his lord.”
+# trans = “A favourite one of his lord.”
+# type = Nominal phrase
+1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 
 # sent_id = PT.293a-Saqq-5dyn-rel-OE
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty
