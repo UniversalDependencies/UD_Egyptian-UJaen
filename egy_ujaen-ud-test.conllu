@@ -5,7 +5,7 @@
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
-3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
+3	(⸗i҆)	(⸗i҆)	PRON	SFP|Prs|Subj	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 5	n	n	ADP	Cons.state	Case=Dat	6	case	_	_
 6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
@@ -16,7 +16,7 @@
 # lit = "The earth (is) in length of heart."
 # trans = "The earth is in joy."
 # type = Adverbial sentence
-1	tꜣ	tꜣ	NOUN	Subj	Case=Nom|Number=Sing	3	nsubj	_	_
+1	tꜣ	tꜣ	NOUN	Subj	Number=Sing	3	nsubj	_	_
 2	m	m	ADP	Cons.state	Case=Ess	3	case	_	_
 3-4	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
@@ -29,7 +29,7 @@
 # trans = “You shall enjoy life and be glad.”
 # type = Verbal sentence
 1	ḥkn	ḥkn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+2	⸗č	č	PRON	SFP|Prs|Subj	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	m	m	ADP	Cons.state	Case=Ess	4	case	_	_
 4	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	m	m	ADP	Cons.state	Case=Ess	6	case	_	_
@@ -44,7 +44,7 @@
 # trans = "You shall be glad eternally."
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
 
@@ -55,7 +55,7 @@
 # trans = “A man shall be glad.”
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 
@@ -66,7 +66,7 @@
 # trans = “The gods shall be glad over Teti.”
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 5	m	m	ADP	Cons.state	_	6	case	_	_
@@ -79,7 +79,7 @@
 # trans = “Your mother shall sudder with joy for you.”
 # type = Adverbial sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	mw.t	mw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
@@ -93,7 +93,7 @@
 # trans = “(I) shall act according to your will.”
 # type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs|Subj	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	r	r	ADP	Cons.state	Case=Equ	4	case	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
@@ -105,7 +105,7 @@
 # trans = “He shall be proud.”
 # type = Verbal sentence
 1	ꜥꜣ	ꜥꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 
 # sent_id = UDE-10
@@ -115,7 +115,7 @@
 # trans = “You shall be lively.”
 # type = Verbal sentence
 1	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = UDE-11
@@ -163,7 +163,7 @@
 # trans = “The westerners shall care about him.”
 # type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
 5	r	r	ADP	Pron.state	Case=Ill	6	case	_	_
@@ -176,7 +176,7 @@
 # trans = “He (i.e. Osiris) should care about the temple of the ruler Pepi.”
 # type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	r	r	ADP	Cons.state	Case=Ill	5	case	_	_
 5	ḥw.t	ḥw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
@@ -191,7 +191,7 @@
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	wrč̣	wrč̣	VERB	SFC|Fut	Tense=Fut	0	root	_	_
-3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 5	ẖr	ẖr	ADP	Pron.state	Case=Loc	6	case	_	_
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
@@ -253,7 +253,7 @@
 # trans = “You shall be happy.”
 # type = Verbal sentence
 1	wč̣ꜣ	wč̣ꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 
 # sent_id = UDE-22
@@ -263,7 +263,7 @@
 # trans = “You shall be happy of having escaped from the crocodile.”
 # type = Verbal sentence
 1	wč̣ꜣ	wč̣ꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	2	nmod	_	_
 4	r	r	ADP	Cons.state	Case=Equ	5	case	_	_
 5	šy	šy	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -285,7 +285,7 @@
 # trans = “He shall be pleased about his children.”
 # type = Verbal sentence
 1	pč̣	pč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
 4	n	n	ADP	Cons.state	Case=Ben	5	case	_	_
 5	mś(.w)	mś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
@@ -338,7 +338,7 @@
 # trans = “She shall have compassion on him.”
 # type = Verbal sentence
 1	mr	mr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3	2	nmod	_	_
 4	n	n	ADP	Pron.state	Case=Cau	5	case	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
@@ -350,7 +350,7 @@
 # trans = “You shall take (everything) to him at any place which he wishes.”
 # type = Verbal sentence
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP|Prs|Subj	Case=Nom|Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
+2	⸗č	č	PRON	SFP|Prs|Subj	Gender=Fem|Number=Sing|Person=2	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 5	(i҆ḫ.t)	i҆ḫ.t	NOUN	Ellipsis|Obj	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	_
@@ -359,7 +359,7 @@
 8	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 10	mrr	mrr	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	8	acl	_	_
-11	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+11	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	10	nsubj	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
 13	i҆m	m	ADP	Pron.state	Case=Loc	14	case	_	_
 14	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
@@ -372,7 +372,7 @@
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	mh.n	mh	VERB	SFC|Past_II	Mood=Pot|Tense=Pres	0	root	_	_
-3	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	3	nmod	_	_
 
 # sent_id = UDE-31
@@ -401,7 +401,7 @@
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	nśw	nśw	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	ḫnt	ḫnti̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
-6	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+6	⸗f	f	PRON	SFP|Prs|Subj	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 
 # sent_id = UDE-33
 # ref = Edel 2008 (eds. Seyfried/Vieler): pl. XXXIII-XXXIV, cols. 6-7, Qubbet el-Hawa (QH35), 6th Dynasty, histbio, OE
@@ -410,7 +410,7 @@
 # trans = "(My) lord trusted (me) in every mission on which he sent me."
 # type = Verbal sentence
 1	mḥ	mḥ	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
-2	nb	nb	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	nb	nb	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	2	nmod	_	_
 4	i҆b	i҆b	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
@@ -420,7 +420,7 @@
 9	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 10	nb(.t)	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 11	hꜣb.tn	hꜣb	VERB	ADJ|RF	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
-12	⸗f	f	PRON	SFP|Prs|Subj	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+12	⸗f	f	PRON	SFP|Prs|Subj	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
 13	w(i҆)	wi҆	PRON	DP|Prs|Obj	Gender=Com|Number=Sing|Person=1	11	obj	_	_
 14	i҆m	m	ADP	Pron.state	Case=Loc	15	case	_	_
 15	⸗ś	ś	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	11	obl	_	_
@@ -431,7 +431,7 @@
 # lit = “His [heart] was filled with (me) more than any other of his servants.”
 # trans = "His [trust] was earned by (me) more than by any other of his servants."
 # type = Verbal sentence
-1	[i҆b]	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+1	[i҆b]	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	1	nmod	_	_
 3	mḥ(.w)	mḥ	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	i҆m	m	ADP	Pron.state	Case=Ins	5	case	_	_
@@ -534,7 +534,7 @@
 # trans = “[Unas] shall be kind.”
 # type = Verbal sentence
 1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
 4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
 
@@ -550,7 +550,7 @@
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Gender=Masc|Number=Plur	2	amod	_	_
 4	tꜣ	tꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	compound	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	VerbForm=Part	Tense=Fut|VerbForm=Fin	0	root	_	_
-6	⸗śn	śn	PRON	SFP|Prs|Subj	Case=Nom|Gender=Com|Number=Plur|Person=3	5	nsubj	_	_
+6	⸗śn	śn	PRON	SFP|Prs|Subj	Gender=Com|Number=Plur|Person=3	5	nsubj	_	_
 7	r	r	ADP	Cons.state	Case=Ill	8	case	_	_
 8	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 9	pn	pn	DET	Dem	PronType=Dem	8	det	_	_
@@ -569,7 +569,7 @@
 2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	1	nmod	_	_
 3	pw	pw	DET	Dem	PronType=Dem	1	cop	_	_
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
-5	Tti҆	Tti҆	PROPN	_	Case=Nom|Gender=Masc	1	nsubj	_	_
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 6	wp	wpi̯	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	amod	_	_
 7	ẖ.t	ẖ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	compound	_	_
 8	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	7	nmod	_	_
