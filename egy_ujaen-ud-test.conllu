@@ -234,7 +234,7 @@
 3	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	3	nmod	_	_
 5	mṭw	mṭw	NOUN	Obj	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
-6	pw	pw	DET	Dem	PronType=Dem	5	det	_	_
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
 # sent_id = UDE-20
 # ref = Pyramid Texts § 1198b M, Saqqara, 6th Dynasty, rel, OE
@@ -553,7 +553,7 @@
 6	⸗śn	śn	PRON	SFP|Prs|Subj	Gender=Com|Number=Plur|Person=3	5	nsubj	_	_
 7	r	r	ADP	Cons.state	Case=Ill	8	case	_	_
 8	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
-9	pn	pn	DET	Dem	PronType=Dem	8	det	_	_
+9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 10	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	8	amod	_	_
 11-12	ẖr.t-nčr	_	_	_	_	_	_	_	_
 11	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
@@ -567,7 +567,7 @@
 # type = Nominal sentence (A pw B)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	1	nmod	_	_
-3	pw	pw	DET	Dem	PronType=Dem	1	cop	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 6	wp	wpi̯	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	amod	_	_
