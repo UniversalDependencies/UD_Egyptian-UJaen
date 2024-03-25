@@ -570,15 +570,15 @@
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-6	wp	wpi̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	amod	_	_
+6	wp	wpi̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
 7	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 8	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	7	nmod	_	_
 
 # sent_id = UDE-45
 # ref = Pyramid Texts § 1b T, Saqqara, 6th Dynasty, rel, OE
 # text = mr.y pw ḥtp.n (⸗i҆) ḥr ⸗f
-# lit = “A beloved one is this, with whom (I) am pleased.”
-# trans = “He is a beloved one, with whom I am pleased.”
+# lit = “A beloved one is this, with whom (I) am content.”
+# trans = “He is a beloved one, with whom I am content.”
 # type = Nominal sentence (A pw)
 1	mr.y	mri̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
@@ -599,4 +599,24 @@
 4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	1	amod	_	_
 5	ẖ.t	ẖ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
 6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	5	nmod	_	_
+
+# sent_id = UDE-47
+# ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
+# text = sꜣ (⸗i҆) pw Tti҆ mr.y wtw.ti҆ ḥr nś.t Gb(b) ḥtp.n ⸗f ḥr ⸗f
+# lit = “Teti is (my) son, who is beloved, the firstborn on the throne of Geb, with whom he (i.e. Geb) is content.”
+# trans = “Teti is (my) beloved son, the firstborn on Geb's throne, with whom he (i.e. Geb) is content.”
+# type = Nominal sentence (A pw B)
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	mr.y	mri̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	amod	_	_
+6	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+7	ḥr	ḥr	ADP	Cons.state	Case=Loc	8	case	_	_
+8	nś.t	nś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+9	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+10	ḥtp.n	ḥtp	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+11	⸗f	f	PRON	SFP|Prs|Subj	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+12	ḥr	ḥr	ADP	Pron.state	Case=Cau	13	case	_	_
+13	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 
