@@ -16,7 +16,7 @@
 # lit = "The earth (is) in length of heart."
 # trans = "The earth is in joy."
 # type = Adverbial sentence
-1	tꜣ	tꜣ	NOUN	Subj	Number=Sing	3	nsubj	_	_
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	m	m	ADP	Cons.state	Case=Ess	3	case	_	_
 3-4	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
@@ -638,4 +638,17 @@
 9-10	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
 9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 10	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	9	fixed	_	_
+
+# sent_id = UDE-49
+# ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
+# text = nčr(.w) nb.w m ḥꜥꜥ.wt č̣ṭ ⸗śn
+# lit = "All the gods are in joy while they say (...)."
+# trans = "All the gods are in joy and the say (...)."
+# type = Adverbial sentence
+1	nčr(.w)	nčr	NOUN	Subj	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	_
+3	m	m	ADP	Cons.state	Case=Ess	4	case	_	_
+4	ḥꜥꜥ.wt	ḥꜥꜥ.wt	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
+6	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	5	nsubj	_	_
 
