@@ -613,7 +613,7 @@
 5	mr.y	mri̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	amod	_	_
 6	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
 7	ḥr	ḥr	ADP	Cons.state	Case=Loc	8	case	_	_
-8	nś.t	nś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+8	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	obl	_	_
 9	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
 10	ḥtp.n	ḥtp	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
 11	⸗f	f	PRON	SFP|Prs|Subj	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
@@ -652,3 +652,18 @@
 5	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
 6	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	5	nsubj	_	_
 
+# sent_id = UDE-50
+# ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
+# text = nfr w(i҆) Tti҆ ḥtp i҆t (⸗f) Gb(b) ḥr ⸗f
+# lit = "How goodly is Teti with whom his father, Geb, is content."
+# trans = "How happy is Teti with who is father Geb is content."
+# type = Adjectival sentence
+1	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+4	ḥtp	ḥtp	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	3	acl	_	_
+5	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	(⸗f)	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
+7	Gb(b)	Gbb	PROPN	_	Gender=Masc	5	appos	_	_
+8	ḥr	ḥr	ADP	Pron.state	Case=Cau	9	case	_	_
+9	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	4	obl	_	_
