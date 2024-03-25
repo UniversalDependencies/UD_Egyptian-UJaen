@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>54</sentences><tokens>320</tokens><words>344</words><fused>22</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>54</sentences><tokens>320</tokens><words>344</words><fused>22</fused></test>
+  </size>
+  <lemmas unique="110" /><!-- i҆b, f, n, m, k, nb, ⸗i҆, r, Tti҆, i҆, pw, rč̣i̯, ś, ḥr, ꜣwi̯ -->
+  <forms unique="129" /><!-- i҆b, ⸗f, (⸗i҆), n(.i҆), ⸗k, n, m, r, Tti҆, nb, i҆m, pw, ḥr, ⸗ś, sꜣ -->
+  <fusions unique="16" /><!-- n(.i҆)-i҆b, i҆m(.i҆)-i҆b, mḥ-i҆b, ꜣw.t-i҆b, ꜥḳ-i҆b, i҆m.(i҆)t-i҆b, m-bꜣḥ, n(.i҆)-ś.t-i҆b, n-i҆b-n(.i҆), nꜥꜥ-i҆b, pgꜣ-i҆b, pśč̣.t-ꜥꜣ.t, wč̣ꜣ-i҆b, wꜣ-i҆b, ṭp.(i҆)w-tꜣ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="11">
+    <tag name="ADJ">22</tag><!-- n, nb, nfr, śmś, ṭp, ꜥꜣ.t -->
+    <tag name="ADP">44</tag><!-- m, n, r, ḥr, i҆n, i҆r, i҆ś, ẖr -->
+    <tag name="ADV">1</tag><!-- č̣.t -->
+    <tag name="AUX">2</tag><!-- i҆w -->
+    <tag name="DET">7</tag><!-- pw, pn -->
+    <tag name="INTJ">2</tag><!-- i҆, wi҆ -->
+    <tag name="NOUN">121</tag><!-- i҆b, nb, n, sꜣ, m, mri̯, nčr, tꜣ, bꜣk, mḥ -->
+    <tag name="PART">3</tag><!-- n, i҆n -->
+    <tag name="PRON">83</tag><!-- f, k, ⸗i҆, i҆, ś, śn, č, (⸗i҆), i҆nk, wi҆ -->
+    <tag name="PROPN">18</tag><!-- Tti҆, Gbb, Wni҆ś, Mnw, Nw.t, Ppy, Wr.t, [Wni҆ś], Ḥr.w-ꜣḫ.t(ï), Ḥw.t-nb.t -->
+    <tag name="VERB">41</tag><!-- rč̣i̯, ḥtp, ꜣwi̯, mḥ, wč̣ꜣ, wṭi̯, wꜣḥ, č̣ṭ, hꜣb, i҆ri̯ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="39">
+    <feat name="AdvType" value="Tim" upos="ADV">1</feat><!-- č̣.t -->
+    <feat name="Aspect" value="Perf" upos="AUX">2</feat><!-- i҆w -->
+    <feat name="Case" value="Acc" upos="ADP">1</feat><!-- i҆m -->
+    <feat name="Case" value="All" upos="ADP">1</feat><!-- r -->
+    <feat name="Case" value="Ben" upos="ADP">4</feat><!-- n -->
+    <feat name="Case" value="Cau" upos="ADP">4</feat><!-- ḥr, n -->
+    <feat name="Case" value="Cmp" upos="ADP">1</feat><!-- r -->
+    <feat name="Case" value="Dat" upos="ADP">5</feat><!-- n -->
+    <feat name="Case" value="Equ" upos="ADP">3</feat><!-- r, i҆ś -->
+    <feat name="Case" value="Ess" upos="ADP">4</feat><!-- m -->
+    <feat name="Case" value="Gen" upos="NOUN,PROPN">40</feat><!-- i҆b, nb, nb.t, Gb(b), Mnw, Wr.t, [Wni҆ś], i҆mn.t(i҆w), mw.t, nsw -->
+    <feat name="Case" value="Ill" upos="ADP">5</feat><!-- r, i҆r -->
+    <feat name="Case" value="Ins" upos="ADP">4</feat><!-- i҆m, i҆n -->
+    <feat name="Case" value="Loc" upos="ADP">10</feat><!-- m, i҆m, ḥr, ẖr -->
+    <feat name="Case" value="Tem" upos="NOUN">1</feat><!-- ꜣ.t -->
+    <feat name="Case" value="Voc" upos="NOUN,PROPN">2</feat><!-- Tti҆, ꜥnḫ.w -->
+    <feat name="Definite" value="Cons" upos="NOUN">7</feat><!-- i҆b, nś.t, pr, wč̣ꜣ, ḥw.t, ꜣ.t, ꜣw.t -->
+    <feat name="Gender" value="Com" upos="PRON">24</feat><!-- (⸗i҆), ⸗śn, i҆nk, w(i҆), ⸗č(n) -->
+    <feat name="Gender" value="Fem" upos="ADJ,NOUN,PRON,PROPN,VERB">33</feat><!-- ⸗ś, nb.t, ẖ.t, ⸗č, (i҆)wꜥ.t, (i҆ḫ.t), (nb.t), Nw.t, Wr.t, hꜣb.tn -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">202</feat><!-- i҆b, ⸗f, n(.i҆), ⸗k, Tti҆, nb, pw, sꜣ, mr.y, (⸗f) -->
+    <feat name="Mood" value="Imp" upos="VERB">3</feat><!-- (w)ṭi҆, wčs, śmḫ -->
+    <feat name="Mood" value="Pot" upos="VERB">1</feat><!-- mh.n -->
+    <feat name="Mood" value="Sub" upos="VERB">19</feat><!-- ꜣw, wč̣ꜣ, wꜣḥ, i҆r, i҆č, mr, nč̣m, nč̣r, pč̣, č̣ -->
+    <feat name="Number" value="Dual" upos="NOUN">2</feat><!-- tꜣ(.wi), ꜣḫ.t(ï) -->
+    <feat name="Number" value="Plur" upos="ADJ,NOUN,PRON">14</feat><!-- ⸗śn, nčr(.w), i҆mn.t(i҆w), mś(.w), nb.w, ṭp.(i҆)w, ẖrṭ(.w), ⸗f, ⸗č(n), ꜥnḫ.w -->
+    <feat name="Number" value="Sing" upos="ADJ,DET,NOUN,PRON,VERB">222</feat><!-- i҆b, ⸗f, (⸗i҆), n(.i҆), ⸗k, nb, pw, ⸗ś, sꜣ, mr.y -->
+    <feat name="PartType" value="Emp" upos="PART">1</feat><!-- i҆n -->
+    <feat name="PartType" value="Neg" upos="PART">2</feat><!-- n -->
+    <feat name="Person" value="1" upos="PRON">19</feat><!-- (⸗i҆), i҆nk, w(i҆) -->
+    <feat name="Person" value="2" upos="PRON">18</feat><!-- ⸗k, ⸗č, ⸗č(n) -->
+    <feat name="Person" value="3" upos="PRON,VERB">47</feat><!-- ⸗f, ⸗ś, ⸗śn, (⸗f), mḥ(.w), św -->
+    <feat name="PronType" value="Dem" upos="DET">7</feat><!-- pw, pn -->
+    <feat name="Tense" value="Fut" upos="VERB">2</feat><!-- wrč̣, ꜥḳ.t(i҆) -->
+    <feat name="Tense" value="Past" upos="VERB">8</feat><!-- ḥtp.n, (w)ṭ.n, hꜣb.tn, mḥ, rč̣.n, wp, č̣.n -->
+    <feat name="Tense" value="Pres" upos="VERB">8</feat><!-- rč̣.n, č̣ṭ, mh.n, mrr, ḥtp, ḫnt -->
+    <feat name="VerbForm" value="Fin" upos="VERB">15</feat><!-- rč̣.n, ḥtp.n, (w)ṭ.n, hꜣb.tn, mrr, mḥ, mḥ(.w), č̣.n, č̣ṭ, ḥtp -->
+    <feat name="VerbForm" value="Inf" upos="NOUN">1</feat><!-- č̣ṭ -->
+    <feat name="VerbForm" value="Part" upos="VERB">2</feat><!-- wp, č̣ṭ -->
+    <feat name="Voice" value="Act" upos="VERB">5</feat><!-- rč̣.n, wp, č̣.n, č̣ṭ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="19">
+    <dep name="acl">5</dep>
+    <dep name="advcl">5</dep>
+    <dep name="advmod">3</dep>
+    <dep name="amod">20</dep>
+    <dep name="appos">6</dep>
+    <dep name="aux">2</dep>
+    <dep name="case">44</dep>
+    <dep name="compound">19</dep>
+    <dep name="cop">4</dep>
+    <dep name="det">2</dep>
+    <dep name="discourse">2</dep>
+    <dep name="fixed">5</dep>
+    <dep name="iobj">5</dep>
+    <dep name="nmod">68</dep>
+    <dep name="nsubj">47</dep>
+    <dep name="obj">16</dep>
+    <dep name="obl">35</dep>
+    <dep name="root">54</dep>
+    <dep name="vocative">2</dep>
+  </deps>
+</treebank>
