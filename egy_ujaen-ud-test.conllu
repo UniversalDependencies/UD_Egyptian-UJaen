@@ -677,5 +677,30 @@
 1	č̣ṭ	č̣ṭ	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
 2	mṭw	mṭw	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 3	i҆n	i҆n	ADP	Cons.state	Case=Ins	4	case	_	_
-4	Nw.t	Nw.t	PROPN	_	Gender=Fem	1	nsubj	_	_
+4	Nw.t	Nw.t	PROPN	Subj	Gender=Fem	1	nsubj	_	_
 
+# sent_id = UDE-52
+# ref = Pyramid Texts § 3d-e T, Saqqara, 6th Dynasty, rel, OE
+# text = Tti҆ rč̣.n (⸗i҆) n ⸗k śn.t ⸗k Ḥw.t-nb.t nč̣r ⸗ś i҆m ⸗k č̣ ⸗ś n ⸗k i҆b ⸗k n č̣.t ⸗k
+# lit = "Teti, (I) gave to you your sister Nephthys, that she may hold you fast and give to you your heart for your body."
+# trans = "Teti, (I) give to you your sister Isis, that she may hold you fast and give to you your heart for your body."
+# type = Verbal sentence
+1	Tti҆	Tti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
+4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
+5	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	2	iobj	_	_
+6	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	Obj	Gender=Fem	1	obj	_	_
+7	nč̣r	nč̣r	VERB	SFC|Sub|finalcl	Mood=Sub	2	advcl	_	_
+8	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	_
+9	i҆m	m	ADP	Pron.state	Case=Acc	10	case	_	_
+10	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	7	obj	_	_
+11	č̣	rč̣i̯	VERB	SFC|Sub|finalcl	Mood=Sub	2	advcl	_	_
+12	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
+13	n	n	ADP	Pron.state	Case=Dat	14	case	_	_
+14	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	11	iobj	_	_
+15	i҆b	i҆b	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
+16	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	15	nmod	_	_
+17	n	n	ADP	Cons.state	Case=Ben	18	case	_	_
+18	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+19	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	18	nmod	_	_
