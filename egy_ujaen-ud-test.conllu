@@ -574,3 +574,16 @@
 7	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 8	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	7	nmod	_	_
 
+# sent_id = UDE-45
+# ref = Pyramid Texts § 1b T, Saqqara, 6th Dynasty, rel, OE
+# text = mr.y pw ḥtp.n (⸗i҆) ḥr ⸗f
+# lit = “A beloved one is this, with whom (I) am pleased.”
+# trans = “He is a beloved one, with whom I am pleased.”
+# type = Nominal sentence (A pw)
+1	mr.y	mri̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	ḥtp.n	ḥtp	VERB	ADJ|RF	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+4	(⸗i҆)	⸗i҆	PRON	SFP|Prs|Subj	Gender=Com|Number=Sing|Person=1	3	nsubj	_	_
+5	ḥr	ḥr	ADP	Pron.state	Case=Cau	6	case	_	_
+6	(⸗f)	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
+
