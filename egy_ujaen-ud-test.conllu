@@ -558,7 +558,7 @@
 10	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	8	amod	_	_
 11-12	ẖr.t-nčr	_	_	_	_	_	_	_	_
 11	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
-12	nčr	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	fixed	_	_
+12	nčr	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	compund	_	_
 
 # sent_id = UDE-44
 # ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
@@ -762,4 +762,20 @@
 1	bw	bw	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	mꜣꜥ	mꜣꜥ	ADJ	_	Gender=Masc|Number=Sing	1	compound	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+
+# sent_id = UDE-57
+# ref = Pyramid Texts § 4c T, Saqqara, 6th Dynasty, rel, OE
+# text = mr.y (⸗č) pw Tti҆ m-m mś.w (⸗č)
+# lit = “(Your) beloved is Teti, among (your) children.”
+# trans = “Teti is (your) beloved among (your) children.”
+# type = Nominal sentence (A pw B)
+1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+2	(⸗č)	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+5-6	m-m	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.state	Case=Dis	7	case	_	_
+6	m	m	ADP	_	_	5	fixed	_	_
+7	mś.w	mś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+8	(⸗č)	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	7	nmod	_	_
 
