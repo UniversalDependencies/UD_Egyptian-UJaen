@@ -897,3 +897,18 @@
 7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 8	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	7	nsubj	_	_
 
+# sent_id = UDE-66
+# ref = PT § 10b N, Saqqara, 6th Dynasty, rel, OE
+# text = Č̣ḥw.ti҆ (w)ṭ n ⸗f ṭp ⸗f i҆r ⸗f
+# lit = “Thoth, put for him his head to him.”
+# trans = “Thoth, put his head on him.”
+# type = Verbal sentence
+1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	2	iobj	_	_
+5	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
+7	i҆r	i҆r	ADP	Pron.state	Case=Loc	8	case	_	_
+8	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+
