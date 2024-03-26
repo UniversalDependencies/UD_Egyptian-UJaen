@@ -856,7 +856,7 @@
 12	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	10	appos	_	_
 
 # sent_id = UDE-63
-# ref = Pyramid Texts § 9b T, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 9b N, Saqqara, 6th Dynasty, rel, OE
 # text = (w)ṭ(.w) n ⸗k ṭp ⸗k
 # lit = “Your head was placed (certainly) for you.”
 # trans = “It is for you that your head was placed.”
@@ -867,4 +867,18 @@
 4	ṭp	ṭp	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
+# sent_id = UDE-64
+# ref = Pyramid Texts § 9c N, Saqqara, 6th Dynasty, rel, OE
+# text = č̣.n (⸗i҆) (n) ⸗f i҆r.t(ï) ⸗f ḥtp ⸗f
+# lit = "(I) gave him his two eyes, that he may be content."
+# trans = "(I) give him his two eyes, that he may be content."
+# type = Verbal sentence
+1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
+5	i҆r.t(ï)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
+7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+8	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 
