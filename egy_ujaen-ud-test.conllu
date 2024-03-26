@@ -198,9 +198,9 @@
 6	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = UDE-17
-# ref = PT § 618 W, Saqqara, 6th Dynasty, rel, OE
+# ref = PT § 618 W, Saqqara, 5th Dynasty, rel, OE
 # text = wčs i҆b ⸗k i҆r ⸗f
-# lit = “Litrans up your heart to it.”
+# lit = “Lift up your heart to it.”
 # trans = “Rejoice at it.”
 # type = Verbal sentence
 1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
@@ -778,4 +778,18 @@
 6	m	m	ADP	_	_	5	fixed	_	_
 7	mś.w	mś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 8	(⸗č)	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	7	nmod	_	_
+
+# sent_id = UDE-58
+# ref = PT § 4d T, Saqqara, 6th Dynasty, rel, OE
+# text = śtp-sꜣ ḥr ⸗f č̣.t
+# lit = “Select the protection on him eternally.”
+# trans = “Watch over him eternally.”
+# type = Verbal sentence
+1-2	śtp-sꜣ	_	_	_	_	_	_	_	_
+1	śtp	śtp	VERB	Imp	Mood=Imp	0	root	_	_
+2	sꜣ	sꜣ	NOUN	Obj	Gender=Masc|Number=Sing	1	compound	_	_
+3	ḥr	ḥr	ADP	Pron.state	Case=Loc	1	case	_	_
+4	⸗f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
+5	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
+
 
