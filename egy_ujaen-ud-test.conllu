@@ -685,11 +685,11 @@
 # sent_id = UDE-52
 # ref = Pyramid Texts § 3d-e T, Saqqara, 6th Dynasty, rel, OE
 # text = Tti҆ rč̣.n (⸗i҆) n ⸗k śn.t ⸗k Ḥw.t-nb.t nč̣r ⸗ś i҆m ⸗k č̣ ⸗ś n ⸗k i҆b ⸗k n č̣.t ⸗k
-# lit = "Teti, (I) gave to you your sister, Nephthys, that she may hold you fast and give to you your heart for your body."
+# lit = "Teti, (now) (I) gave to you your sister, Nephthys, that she may hold you fast and give to you your heart for your body."
 # trans = "Teti, (I) give to you your sister Nephthys, that she may hold you fast and give to you your heart for your body."
 # type = Verbal sentence
 1	Tti҆	Tti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	2	nsubj	_	_
 4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
 5	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	2	iobj	_	_
@@ -726,10 +726,10 @@
 # sent_id = UDE-54
 # ref = Pyramid Texts § 4b T, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n (⸗i҆) n ⸗f ꜣḫ.t(ï) śḫm ⸗f i҆m ⸗śn Ḥr.w-ꜣḫ.t(ï) i҆ś
-# lit = “(I) gave to him the two horizons that he may become powerful in them as Harakhti.”
+# lit = “(Now) (I) gave to him the two horizons that he may become powerful in them as Harakhti.”
 # trans = “(I) give to him the two horizons that he may become powerful in them as Harkahti.”
 # type = Verbal sentence
-1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
@@ -808,10 +808,10 @@
 # sent_id = UDE-60
 # ref = Pyramid Texts § 5b T, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n (⸗i҆) n ⸗f Ṭwꜣ.t ḫnt ⸗f i҆m ⸗ś Ḥr.w i҆ś ḫnt(.i҆) Ṭwꜣ.t
-# lit = “(I) gave to him the Netherworld that he may become foremost in it as Horus, foremost of the Netherworld.”
+# lit = “(Now) (I) gave to him the Netherworld that he may become foremost in it as Horus, foremost of the Netherworld.”
 # trans = “(I) give to him the Netherworld that he may preside over it as Horus who presides over the Netherworld.”
 # type = Verbal sentence
-1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
@@ -844,14 +844,26 @@
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	_	5	aux	_	_
 2	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	⸗č	⸗č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	2	nmod	_	_
+3	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	2	nmod	_	_
 4	Šw	Šw	PROPN	_	Gender=Masc	2	appos	_	_
 5	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 6	mrr	mri̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-7	⸗č	⸗č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	6	nsubj	_	_
+7	⸗č	č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	6	nsubj	_	_
 8	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	obj	_	_
 9	r	r	ADP	Cons.state	Case=Cmp	10	case	_	_
 10	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
-11	⸗č	⸗č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	10	nmod	_	_
+11	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	10	nmod	_	_
 12	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	10	appos	_	_
+
+# sent_id = UDE-63
+# ref = Pyramid Texts § 9b T, Saqqara, 6th Dynasty, rel, OE
+# text = (w)ṭ(.w) n ⸗k ṭp ⸗k
+# lit = “It is for you that your head was placed.”
+# trans = “It is for you that your head was placed.”
+# type = Cleft sentence with adverbial focus
+1	(w)ṭ(.w)	wṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	1	obl	_	_
+4	ṭp	ṭp	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	4	nmod	_	_
 
