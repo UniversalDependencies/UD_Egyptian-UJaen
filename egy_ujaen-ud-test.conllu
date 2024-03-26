@@ -909,6 +909,18 @@
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	2	iobj	_	_
 5	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-7	i҆r	i҆r	ADP	Pron.state	Case=Loc	8	case	_	_
+7	i҆r	r	ADP	Pron.state	Case=Loc	8	case	_	_
 8	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+
+# sent_id = UDE-67
+# ref = PT § 10c N, Saqqara, 6th Dynasty, rel, OE
+# text = śms.n ⸗f św (i҆)r ⸗f
+# lit = “It is to him that he proceeded.”
+# trans = “It is to him that he addresed.”
+# type = Cleft sentence with adverbial focus
+1	śms	ms	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+2	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
+3	św	św	PRON	DP|Prs	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+4	(i҆)r	r	ADP	Pron.state	Case=All	5	case	_	_
+5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
