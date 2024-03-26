@@ -871,7 +871,7 @@
 # ref = Pyramid Texts § 9c N, Saqqara, 6th Dynasty, rel, OE
 # text = č̣.n (⸗i҆) (n) ⸗f i҆r.t(ï) ⸗f ḥtp ⸗f
 # lit = "(I) gave him his two eyes, that he may be content."
-# trans = "(I) give him his two eyes, that he may be content."
+# trans = "(I) give him his eyes, that he may be content."
 # type = Verbal sentence
 1	č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
@@ -882,3 +882,17 @@
 7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 8	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 
+# sent_id = UDE-65
+# ref = Pyramid Texts § 9d N, Saqqara, 6th Dynasty, rel, OE
+# text = č̣.n n ⸗k Gb(b) i҆r.t(ï) ⸗k ḥtp ⸗k
+# lit = "Geb gave you your two eyes, that you may be content."
+# trans = "Geb gives you your eyes, that you may be content."
+# type = Verbal sentence
+1	č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
+3	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	1	iobj	_	_
+4	Gb(b)	Gbb	PROPN	Subj	Gender=Masc	1	nsubj	_	_
+5	i҆r.t(ï)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2	5	nmod	_	_
+7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+8	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=2	7	nsubj	_	_
