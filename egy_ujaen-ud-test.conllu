@@ -816,7 +816,7 @@
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
 5	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	Obj	Gender=Fem	1	obj	_	_
-6	ḫnt	ḫnt	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+6	ḫnt	ḫnti̯	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 7	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
 9	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	6	obl	_	_
@@ -835,4 +835,23 @@
 2	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	_
 3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	3	nsubj	_	_
+
+# sent_id = UDE-62
+# ref = Pyramid Texts § 5d T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w i҆t ⸗č Šw rḫ(.w) mrr ⸗č Tti҆ r mw.t ⸗č Tfn.t
+# lit = “Your father, Shu, knows that you love Teti more than your mother, Tefnut.”
+# trans = “Your father Shu knows that you love Teti more than your mother Tefnut.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	_	5	aux	_	_
+2	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	⸗č	⸗č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	2	nmod	_	_
+4	Šw	Šw	PROPN	_	Gender=Masc	2	appos	_	_
+5	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+6	mrr	mri̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
+7	⸗č	⸗č	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=2	6	nsubj	_	_
+8	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	obj	_	_
+9	r	r	ADP	Cons.state	Case=Cmp	10	case	_	_
+10	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	⸗č	⸗č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2	10	nmod	_	_
+12	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	10	appos	_	_
 
