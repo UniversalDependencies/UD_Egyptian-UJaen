@@ -792,3 +792,16 @@
 4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	3	obl	_	_
 5	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
 
+# sent_id = UDE-59
+# ref = Pyramid Texts § 5a T, Saqqara, 6th Dynasty, rel, OE
+# text = sꜣ pw Tti҆ n(.i҆) i҆b (⸗i҆)
+# lit = “Teti is the son of (my) heart.”
+# trans = “Teti is (my) desired son.”
+# type = Nominal sentence (A pw B)
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	1	amod	_	_
+5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	5	nmod	_	_
+
