@@ -824,3 +824,14 @@
 11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	_
 12	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	10	appos	_	_
 13	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	Gen	Case=Gen|Gender=Fem	12	nmod	_	_
+
+# sent_id = UDE-61
+# ref = Pyramid Texts § 5c T, Saqqara, 6th Dynasty, rel, OE
+# text = nčr(.w) nb.w č̣ṭ ⸗śn
+# lit = “All the gods, they say.”
+# trans = “All the gods say.”
+# type = Verbal sentence
+1	nčr(.w)	nčr	NOUN	Subj	Gender=Masc|Number=Plur	3	dislocated	_	_
+2	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	_
+3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	3	nsubj	_	_
