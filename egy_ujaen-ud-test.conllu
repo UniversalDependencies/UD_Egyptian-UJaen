@@ -752,3 +752,14 @@
 3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	3	nsubj	_	_
 
+# sent_id = UDE-56
+# ref = Pyramid Texts § 4c T, Saqqara, 6th Dynasty, rel, OE
+# text = bw-mꜣꜥ pw
+# lit = “The true place (is) this.”
+# trans = “This is the truth.”
+# type = Nominal sentence (A pw)
+1-2	bw-mꜣꜥ	_	_	_	_	_	_	_	_
+1	bw	bw	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	mꜣꜥ	mꜣꜥ	ADJ	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+
