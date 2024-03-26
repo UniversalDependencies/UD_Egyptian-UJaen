@@ -726,8 +726,8 @@
 # sent_id = UDE-54
 # ref = Pyramid Texts § 4b T, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n (⸗i҆) n ⸗f ꜣḫ.t(ï) śḫm ⸗f i҆m ⸗śn Ḥr.w-ꜣḫ.t(ï) i҆ś
-# lit = “(I) gave to him the two horizons that he may become powerful like Harakhti with them.”
-# trans = “(I) give to him the two horizons that he may become as powerful as Harkahti with them.”
+# lit = “(I) gave to him the two horizons that he may become powerful in them as Harakhti.”
+# trans = “(I) give to him the two horizons that he may become powerful in them as Harkahti.”
 # type = Verbal sentence
 1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
@@ -736,7 +736,7 @@
 5	ꜣḫ.t(ï)	ꜣḫ.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
 6	śḫm	śḫm	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 7	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
-8	i҆m	m	ADP	Pron.state	Case=Ins	9	case	_	_
+8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
 9	⸗śn	śn	PRON	SFP|Prs	Gender=Com|Number=Plur|Person=3	6	obl	_	_
 10	Ḥr.w-ꜣḫ.t(ï)	Ḥr.w-ꜣḫ.t(ï)	PROPN	_	Gender=Masc	6	obl	_	_
 11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	_
@@ -805,3 +805,22 @@
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1	5	nmod	_	_
 
+# sent_id = UDE-60
+# ref = Pyramid Texts § 5b T, Saqqara, 6th Dynasty, rel, OE
+# text = rč̣.n (⸗i҆) n ⸗f Ṭwꜣ.t ḫnt ⸗f i҆m ⸗ś Ḥr.w i҆ś ḫnt(.i҆) Ṭwꜣ.t
+# lit = “(I) gave to him the Netherworld that he may become foremost in it as Horus, foremost of the Netherworld.”
+# trans = “(I) give to him the Netherworld that he may preside over it as Horus who presides over the Netherworld.”
+# type = Verbal sentence
+1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	1	nsubj	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	iobj	_	_
+5	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	Obj	Gender=Fem	1	obj	_	_
+6	ḫnt	ḫnt	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+7	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
+8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
+9	⸗ś	ś	PRON	SFP|Prs	Gender=Fem|Number=Sing|Person=3	6	obl	_	_
+10	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	6	obl	_	_
+11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	_
+12	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	10	appos	_	_
+13	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	Gen	Case=Gen|Gender=Fem	12	nmod	_	_
