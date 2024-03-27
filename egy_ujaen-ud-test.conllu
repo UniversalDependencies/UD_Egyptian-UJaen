@@ -1079,19 +1079,6 @@
 5	Ppy	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
-# sent_id = UDE-77
-# ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
-# text = Ḥr.w i҆wn rʾ n(.i҆) Ppy pn
-# lit = “Horus, open the mouth of this Pepi.”
-# trans = “Thoth, put his head on him.Horus, open the mouth of this Pepi.”
-# type = Verbal sentence
-1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
-3	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	amod	_	_
-5	Ppy	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
-6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-
 # sent_id = UDE-78
 # ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
 # text = [Ḥr.w] [wp] [rʾ] [n(.i҆)] [Ppy] [pn]
@@ -1104,3 +1091,4 @@
 4	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	amod	_	_
 5	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
 6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
