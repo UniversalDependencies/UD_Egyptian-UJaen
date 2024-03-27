@@ -1126,3 +1126,15 @@
 39	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	38	amod	_	_
 40	[nčr(.w)]	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
 
+# sent_id = UDE-80
+# ref = PT § 14b N, Saqqara, 6th Dynasty, rel, OE
+# text = [wp(.w)] [rʾ] [n(.i҆)] [Ppy] [i҆m] [⸗f]
+# lit = “[The mouth of Pepi was parted (certainly) with it.]”
+# trans = “[It was with it that Pepi's mouth was parted.]”
+# type = Cleft sentence with adverbial focus
+1	[wp(.w)]	wpi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
+3	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+4	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
+5	[i҆m]	m	ADP	Pron.state	Case=Ins	6	case	_	_
+6	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
