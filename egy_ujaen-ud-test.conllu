@@ -57,8 +57,8 @@
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	s(i҆)	s(i҆)	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+3	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 
 # sent_id = UDE-6
 # ref = Pyramid Texts § 715c T, Saqqara, 6th Dynasty, rel, OE
@@ -68,8 +68,8 @@
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	m	m	ADP	Cons.state	_	6	case	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
 
@@ -81,8 +81,8 @@
 # type = Adverbial sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	mw.t	mw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	ḥr	ḥr	ADP	Pron.state	_	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -139,9 +139,9 @@
 # type = Nominal sentence (i҆nk)
 1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
-4	ꜥḳ	ꜥḳ	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	ꜥḳ	ꜥḳ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	2	nmod	_	_
 5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
@@ -165,8 +165,8 @@
 # type = Verbal sentence
 1	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	i҆mn.t(i҆w)	i҆mn	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	r	r	ADP	Pron.state	Case=Ill	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
@@ -299,8 +299,8 @@
 # trans = “The favourite one of his mistress.”
 # type = Nominal phrase
 1-2	i҆m(.i҆)-i҆b	_	_	_	_	_	_	_	_
-1	i҆m(.i҆)	m	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+1	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
@@ -311,10 +311,10 @@
 # trans = “A favourite one of the Egyptian king.”
 # type = Nominal phrase
 1-2	i҆m(.i҆)-i҆b	_	_	_	_	_	_	_	_
-1	i҆m(.i҆)	m	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	nsw	nsw	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+1	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
 6	tꜣ(.wi)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 
@@ -328,8 +328,8 @@
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 3	č̣ṭ	č̣ṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 4-5	i҆m.(i҆)t-i҆b	_	_	_	_	_	_	_	_
-4	i҆m.(i҆)t	m	NOUN	NisbaPrep	Gender=Fem|Number=Sing	3	obj	_	_
-5	i҆b	i҆b	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	compound	_	_
+4	i҆m.(i҆)t	m	NOUN	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	3	obj	_	_
+5	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	_
 6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
 
 # sent_id = UDE-28
@@ -399,8 +399,8 @@
 1-2	mḥ-i҆b	_	_	_	_	_	_	_	_
 1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	nśw	nśw	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	ḫnt	ḫnti̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
@@ -453,7 +453,7 @@
 3-5	n-i҆b-n(.i҆)	_	_	_	_	_	_	_	_
 3	n	n	ADP	Cons.state	Case=Ben	6	case	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
-5	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	fixed	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	fixed	_	_
 6	ẖrṭ(.w)	ẖrṭ	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 7	⸗č(n)	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	6	nmod	_	_
 
@@ -476,10 +476,10 @@
 # trans = “A favourite one of his lord.”
 # type = Nominal phrase
 1-2	n(.i҆)-i҆b	_	_	_	_	_	_	_	_
-1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	nb	nb	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
 # sent_id = UDE-38
@@ -489,8 +489,8 @@
 # trans = “His lord's beloved.”
 # type = Nominal phrase
 1-3	n(.i҆)-ś.t-i҆b	_	_	_	_	_	_	_	_
-1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-2	ś.t	ś.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	compound	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+2	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	compound	_	_
 3	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	compound	_	_
 4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
@@ -502,10 +502,10 @@
 # trans = “A favourite one of his lord.”
 # type = Nominal phrase
 1-2	n(.i҆)-i҆b	_	_	_	_	_	_	_	_
-1	n(.i҆)	n	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	nb	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	nb	nb	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
 # sent_id = UDE-40
@@ -536,8 +536,8 @@
 # type = Verbal sentence
 1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	[Wni҆ś]	[Wni҆ś]	PROPN	_	Gender=Masc	2	nmod	_	_
 
 # sent_id = UDE-43
 # ref = Urk. I 252, 2, Kar, Edfu, 6th Dynasty, histbio, OE
@@ -548,17 +548,17 @@
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
 3-4	ṭp.(i҆)w-tꜣ	_	_	_	_	_	_	_	_
-3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Gender=Masc|Number=Plur	2	amod	_	_
-4	tꜣ	tꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	compound	_	_
+3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	compound	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	VerbForm=Part	Tense=Fut|VerbForm=Fin	0	root	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 7	r	r	ADP	Cons.state	Case=Ill	8	case	_	_
 8	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
-10	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	8	amod	_	_
+10	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	8	amod	_	_
 11-12	ẖr.t-nčr	_	_	_	_	_	_	_	_
-11	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
-12	nčr	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	compound	_	_
+11	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Fem|Number=Sing	8	nmod	_	_
+12	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	11	compound	_	_
 
 # sent_id = UDE-44
 # ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
@@ -598,8 +598,8 @@
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	1	amod	_	_
-5	ẖ.t	ẖ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+5	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-47
@@ -801,8 +801,8 @@
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	1	amod	_	_
-5	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+5	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-60
@@ -822,8 +822,8 @@
 9	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 10	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	6	obl	_	_
 11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	_
-12	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	10	appos	_	_
-13	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	Gen	Case=Gen|Gender=Fem	12	nmod	_	_
+12	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	10	appos	_	_
+13	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	12	nmod	_	_
 
 # sent_id = UDE-61
 # ref = Pyramid Texts § 5c T, Saqqara, 6th Dynasty, rel, OE
@@ -1050,8 +1050,8 @@
 11	bi҆ꜣ	bi҆ꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	amod	_	_
 13	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	12	obj	_	_
-14	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	13	amod	_	_
-15	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
+15	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
 
 # sent_id = UDE-77
 # ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
@@ -1062,8 +1062,8 @@
 1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
 2	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
 3	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	amod	_	_
-5	Ppy	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
 # sent_id = UDE-78
@@ -1075,8 +1075,8 @@
 1	[Ḥr.w]	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
 2	[wp]	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
 3	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
-4	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	amod	_	_
-5	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
 # sent_id = UDE-79
@@ -1088,21 +1088,21 @@
 1	[wn.n]	wn	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	[Ḥr.w]	Ḥr.w	PROPN	Subj	Gender=Masc	1	nsubj	_	_
 3	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
-4	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	3	amod	_	_
-5	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 7	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 8	[Ḥr.w]	Ḥr.w	PROPN	Subj	Gender=Masc	7	nsubj	_	_
 9	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	7	obj	_	_
-10	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	9	amod	_	_
-11	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	_
+10	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
+11	[Ppy]	Ppy	PROPN	_	Gender=Masc	9	nmod	_	_
 12	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 13	m	m	ADP	Cons.state	Case=Ins	14	case	_	_
 14	wp.tn	wpi̯	VERB	NOUN|RelForm	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 16	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	14	obj	_	_
-17	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	16	amod	_	_
-18	i҆t	i҆t	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
+17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
+18	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
 19	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
 20	i҆m	m	ADP	Pron.state	Case=Ins	21	case	_	_
 21	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
@@ -1110,8 +1110,8 @@
 23	wp.tn	wpi̯	VERB	NOUN|RelForm	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 24	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 25	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	23	obj	_	_
-26	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	25	amod	_	_
-27	Wśr(.w)	Wśr.w	PROPN	Gen	Case=Gen|Gender=Masc	25	nmod	_	_
+26	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
+27	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	25	nmod	_	_
 28	i҆m	m	ADP	Pron.state	Case=Ins	29	case	_	_
 29	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	obl	_	_
 30	m	m	ADP	Cons.state	Case=Ins	31	case	_	_
@@ -1123,8 +1123,8 @@
 36	[bi҆ꜣ]	bi҆ꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
 37	[wp]	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	36	amod	_	_
 38	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	37	obj	_	_
-39	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	38	amod	_	_
-40	[nčr(.w)]	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	38	nmod	_	_
+39	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	38	amod	_	_
+40	[nčr(.w)]	nčr	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	_
 
 # sent_id = UDE-80
 # ref = PT § 14b N, Saqqara, 6th Dynasty, rel, OE
@@ -1134,14 +1134,30 @@
 # type = Cleft sentence with adverbial focus
 1	[wp(.w)]	wpi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	[n(.i҆)]	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
-4	[Ppy]	Ppy	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
+3	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	[Ppy]	Ppy	PROPN	_	Gender=Masc	2	nmod	_	_
 5	[i҆m]	m	ADP	Pron.state	Case=Ins	6	case	_	_
 6	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
 # sent_id = UDE-81
 # ref = PT § 14b-c N, Saqqara, 6th Dynasty, rel, OE
 # text = [šm] [⸗f] [mṭw] [⸗f] [č̣.t] [⸗f] [ḫr] [pśč̣.t-ꜥꜣ.t] [m] [Ḥw.t-śr] [i҆m.(i҆)t] I҆wn.w 
-# lit = “[The mouth of Pepi was parted (certainly) with it.]”
-# trans = “[It was with it that Pepi's mouth was parted.]”
-# type = Cleft sentence with adverbial focus
+# lit = “[He shall go in order that he may speak with the Great Ennead himself in the Mansion of the Magistrate] which is in Heliopolis.”
+# trans = “[He shall go to speak with the Great Ennead himself in the Magistrate's Mansion] in Heliopolis.”
+# type = Verbal sentence
+1	[šm]	šmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	[⸗f]	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	[mṭw]	mṭwi̯	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+4	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	[č̣.t]	č̣.t	NOUN	Obj	Gender=Masc|Number=Sing	3	expl	_	_
+6	[⸗f]	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	[ḫr]	ḫr	ADP	Cons.state	Case=Com	8	case	_	_
+8-9	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
+8	[pśč̣.t]	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+9	[ꜥꜣ.t]	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	8	fixed	_	_
+10	[m]	m	ADP	Cons.state	Case=Loc	11	case	_	_
+11-12	[Ḥw.t-śr]_	PROPN	_	_	_	_	_	_
+11	[Ḥw.t]	Ḥw.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+12	[śr]	śr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	compound	_	_
+13	[i҆m.(i҆)t]	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	11	amod	_	_
+14	I҆wn.w	I҆wn.w	PROPN	_	_	11	obl	_	_
