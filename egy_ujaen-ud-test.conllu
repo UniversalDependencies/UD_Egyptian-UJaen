@@ -985,3 +985,14 @@
 5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-73
+# ref = Pyramid Texts § 13a N, Saqqara, 6th Dynasty, rel, OE
+# text = [ḥng] [w(i҆)] [rʾ] [⸗k]
+# lit = "[How sweet is your mouth]."
+# trans = "[How sweet is your mouth]."
+# type = Adjectival sentence
+1	[ḥng]	ḥng|ḥꜣg	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	[w(i҆)]	wi҆	INTJ	_	_	1	discourse	_	_
+3	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+
