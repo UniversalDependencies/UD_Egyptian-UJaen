@@ -924,3 +924,17 @@
 4	(i҆)r	r	ADP	Pron.state	Case=All	5	case	_	_
 5	⸗f	f	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	1	obl	_	_
 
+# sent_id = UDE-68
+# ref = PT § 11a N, Saqqara, 6th Dynasty, rel, OE
+# text = [hꜣ] Ppy i҆w.n (⸗i҆) m sḫn ⸗k
+# lit = “O Pepy, (I) came (certainly) in search of you.”
+# trans = “O Pepy, it was in search of you that (I) came.”
+# type = Cleft sentence with adverbial focus
+1	[hꜣ]	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Ppy	Ppy	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
+3	i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(⸗i҆)	⸗i҆	PRON	SFP|Prs	Gender=Com|Number=Sing|Person=1	3	nsubj	_	_
+5	m	m	ADP	Cons.state	Case=Cau	6	case	_	_
+6	sḫn	sḫni̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	obl	_	_
+7	⸗k	k	PRON	SFP|Prs	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
+
