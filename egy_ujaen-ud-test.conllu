@@ -1031,3 +1031,25 @@
 11	[i҆r.ti҆]	i҆r.ti҆	NOUN	Obj	Gender=Masc|Number=Dual	7	obj	_	_
 12	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 
+# sent_id = UDE-76
+# ref = PT § 13b N, Saqqara, 6th Dynasty, rel, OE
+# text = [wp.n] [(⸗i҆)] [<n>] [⸗k] [rʾ] [⸗k] m nwꜣ Wp-wꜣ.wt mśḫt.w bi҆ꜣ wp rʾ n(.i҆) nčr(.w)
+# lit = “[(I) opened your mouth <for> you] (certainly) with the adze of Wepwawet, a hook of iron which opened the mouths of the gods.”
+# trans = “It is with Wepwawet's adze, the iron hook which opened the mouths of the gods, [that (I) have opened your mouth <for> you].”
+# type = Cleft sentence with adverbial focus
+1	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	[<n>]	n	ADP	Pron.state	Case=Ben	4	case	_	_
+4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+6	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	m	m	ADP	Cons.state	Case=Ins	8	case	_	_
+8	nwꜣ	nwꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	Wp-wꜣ.wt	Wp-wꜣ.wt	PROPN	Gen	Case=Gen	8	nmod	_	_
+10	mśḫt.w	mśḫt.w	NOUN	_	Gender=Masc|Number	8	appos	_	_
+11	bi҆ꜣ	bi҆ꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	nmod	_	_
+13	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	12	obj	_	_
+14	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	13	amod	_	_
+15	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+
