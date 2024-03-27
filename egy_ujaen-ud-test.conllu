@@ -136,7 +136,7 @@
 # text = i҆nk bꜣk n(.i҆) ꜥḳ-i҆b ⸗f
 # lit = “I am a servant of the one who enters his heart.”
 # trans = “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
-# type = Nominal sentence with an independent pronoun
+# type = Nominal sentence (i҆nk)
 1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
@@ -938,3 +938,11 @@
 6	sḫn	sḫni̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	obl	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 
+# sent_id = UDE-69
+# ref = PT § 11a N, Saqqara, 6th Dynasty, rel, OE
+# text = i҆nk Ḥr.w
+# lit = “I am Horus.”
+# trans = “I am Horus.”
+# type = Nominal sentence (i҆nk)
+1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
