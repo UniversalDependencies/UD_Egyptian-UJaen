@@ -1376,3 +1376,19 @@
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-98
+# ref = Pyramid Texts § 18a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś ꜥ kꜣ ⸗k m-bꜣḥ ⸗k
+# lit = "Ho, Unas! The arm of your ka is in your phallus."
+# trans = "Ho, Unas! Your ka's arm is before you."
+# type = Adverbial sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	dislocated	_	_
+3	ꜥ	ꜥ	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	8	nsubj	_	_
+4	kꜣ	kꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6-7	m-bꜣḥ	_	_	_	_	_	_	_	_
+6	m	m	ADP	Cons.state	Case=Loc	8	case	_	_
+7	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+
