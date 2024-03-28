@@ -1280,3 +1280,15 @@
 5	i҆m	m	ADP	Pron.state	Case=Ela	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
+# sent_id = UDE-90
+# ref = PT § 16d W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 1984: § 305.
+# text = si҆ si҆ ḥnꜥ kꜣ ⸗f
+# lit = “Someone has gone with his ka.”
+# trans = “Someone has gone with his ka.”
+# type = Verbal sentence
+1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+2	si҆	si҆	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
