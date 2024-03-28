@@ -1255,3 +1255,15 @@
 6	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-88
+# ref = PT § 16c N, Saqqara, 5th Dynasty, rel, OE
+# text = (i҆)m śfḫḫ.w ⸗k i҆m ⸗f
+# lit = “Don't be that you will let loose of him.”
+# trans = “Don't let loose of him.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
+2	śfḫḫ.w	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆m	m	ADP	Pron.state	Case=Ela	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
