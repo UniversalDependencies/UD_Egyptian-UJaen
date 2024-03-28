@@ -1196,3 +1196,21 @@
 12	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
 13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
 
+# sent_id = UDE-84
+# ref = PT § 16a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) i҆č n ⸗k mśč̣č̣.w Wni҆ś nb.w mṭw(.w) m rn ⸗f č̣w
+# lit = “Osiris, seize for yourself all those who hate Unas and anyone who speaks bad of his name.”
+# trans = “Osiris, seize all those who hate Unas and anyone who speaks bad of his name.”
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	i҆č	i҆či̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+5	mśč̣č̣.w	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
+6	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+8	mṭw(.w)	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
+9	m	m	ADP	Pron.state	Case=Ins	10	case	_	_
+10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+12	č̣w	č̣w	ADV	NOUN	AdvType=Man	8	advmod	_	_
