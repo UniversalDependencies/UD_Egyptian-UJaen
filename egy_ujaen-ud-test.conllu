@@ -306,7 +306,7 @@
 
 # sent_id = UDE-26
 # ref = Khentika, pl. XXXV, Saqqara, 6th Dynasty, histbio, OE
-# text = i҆m(.i҆)-i҆b n(.i҆) nsw m tꜣ(.wi)
+# text = i҆m(.i҆)-i҆b n(.i҆) nsw m tꜣ(.wi҆)
 # lit = “One who is in the heart of the king in the two lands (i.e. Egypt).”
 # trans = “A favourite one of the Egyptian king.”
 # type = Nominal phrase
@@ -316,7 +316,7 @@
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
-6	tꜣ(.wi)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
+6	tꜣ(.wi҆)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 
 # sent_id = UDE-27
 # ref = Pyramid Texts § 268b W, Saqqara, 5th Dynasty, rel, OE
@@ -725,7 +725,7 @@
 
 # sent_id = UDE-54
 # ref = Pyramid Texts § 4b T, Saqqara, 6th Dynasty, rel, OE
-# text = rč̣.n (⸗i҆) n ⸗f ꜣḫ.t(ï) śḫm ⸗f i҆m ⸗śn Ḥr.w-ꜣḫ.t(ï) i҆ś
+# text = rč̣.n (⸗i҆) n ⸗f ꜣḫ.t(i҆) śḫm ⸗f i҆m ⸗śn Ḥr.w-ꜣḫ.t(ï) i҆ś
 # lit = “(Now) (I) gave to him the two horizons that he may become powerful in them as Harakhti.”
 # trans = “(I) give to him the two horizons that he may become powerful in them as Harkahti.”
 # type = Verbal sentence
@@ -733,7 +733,7 @@
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-5	ꜣḫ.t(ï)	ꜣḫ.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
+5	ꜣḫ.t(i҆)	ꜣḫ.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
 6	śḫm	śḫm	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
@@ -869,7 +869,7 @@
 
 # sent_id = UDE-64
 # ref = Pyramid Texts § 9c N, Saqqara, 6th Dynasty, rel, OE
-# text = č̣.n (⸗i҆) <n> ⸗f i҆r.t(ï) ⸗f ḥtp ⸗f
+# text = č̣.n (⸗i҆) <n> ⸗f i҆r.t(i҆) ⸗f ḥtp ⸗f
 # lit = "(I) gave him his two eyes, that he may be content."
 # trans = "(I) give him his eyes, that he may be content."
 # type = Verbal sentence
@@ -877,14 +877,14 @@
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	<n>	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-5	i҆r.t(ï)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
+5	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 
 # sent_id = UDE-65
 # ref = Pyramid Texts § 9d N, Saqqara, 6th Dynasty, rel, OE
-# text = č̣.n n ⸗k Gb(b) i҆r.t(ï) ⸗k ḥtp ⸗k
+# text = č̣.n n ⸗k Gb(b) i҆r.t(i҆) ⸗k ḥtp ⸗k
 # lit = "Geb gave you your two eyes, that you may be content."
 # trans = "Geb gives you your eyes, that you may be content."
 # type = Verbal sentence
@@ -892,7 +892,7 @@
 2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
 4	Gb(b)	Gbb	PROPN	Subj	Gender=Masc	1	nsubj	_	_
-5	i҆r.t(ï)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
+5	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Gender=Fem|Number=Dual	1	obj	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 7	ḥtp	ḥtp	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
@@ -1348,6 +1348,18 @@
 # type = Verbal sentence
 1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
+# sent_id = UDE-96
+# ref = PT § 17c W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 1984: § 305.
+# text = si҆ Ḫnt(.i҆)-i҆r.ti҆ ḥnꜥ kꜣ ⸗f
+# lit = “Khenti-irti has gone with his ka.”
+# trans = “Khenti-irti has gone with his ka.”
+# type = Verbal sentence
+1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+2	Ḫnt(.i҆)-i҆r.ti҆	Ḫnt(.i҆)-i҆r.ti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
