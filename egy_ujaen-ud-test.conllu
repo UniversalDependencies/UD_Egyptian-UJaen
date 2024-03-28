@@ -688,7 +688,7 @@
 # lit = "Teti, (now) (I) gave to you your sister, Nephthys, that she may hold you fast and give to you your heart for your body."
 # trans = "Teti, (I) give to you your sister Nephthys, that she may hold you fast and give to you your heart for your body."
 # type = Verbal sentence
-1	Tti҆	Tti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+1	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	dislocated_	_
 2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
@@ -931,7 +931,7 @@
 # trans = “O Pepy, it is in search of you that (I) have come.”
 # type = Cleft sentence with adverbial focus
 1	[hꜣ]	hꜣ	INTJ	_	_	2	discourse	_	_
-2	Ppy	Ppy	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	3	dislocated	_	_
 3	i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	m	m	ADP	Cons.state	Case=Cau	6	case	_	_
@@ -1175,3 +1175,23 @@
 5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
 6	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	_
 7	pꜥ.t	pꜥ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+
+# sent_id = UDE-83
+# ref = Pyramid Texts § 15 N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy i҆n.<n> (⸗i҆) n ⸗k sꜣ ⸗k mrr.w ⸗k wp rʾ ⸗k
+# lit = "Osiris Pepi, (now) (I) brought to you your son, whom you love, who parted your mouth."
+# trans = "Osiris Pepi, (I) bring to you your son, whom you love, and who parted your mouth."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	i҆n.<n>	i҆ni̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+7	sꜣ	sꜣ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	mrr	mrr	VERB	ADJ|RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	7	acl	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+11	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	_
+12	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
+13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
