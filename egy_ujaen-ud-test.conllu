@@ -1228,3 +1228,16 @@
 5	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
 6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	iobj	_	_
 
+# sent_id = UDE-86
+# ref = PT § 16b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n mṭw m rn Wni҆ś č̣w
+# lit = “Bring him who speaks bad of Unis' name.”
+# trans = “Bring him who speaks bad of Unis' name.”
+# type = Verbal sentence
+1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	mṭw	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+3	m	m	ADP	Pron.state	Case=Ins	4	case	_	_
+4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
+5	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+6	č̣w	č̣w	ADV	NOUN	AdvType=Man	2	advmod	_	_
+
