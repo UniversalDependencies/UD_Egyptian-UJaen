@@ -1214,3 +1214,17 @@
 10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 12	č̣w	č̣w	ADV	NOUN	AdvType=Man	8	advmod	_	_
+
+# sent_id = UDE-85
+# ref = PT § 16b W, Saqqara, 5th Dynasty, rel, OE
+# text = Č̣ḥw.ti҆ i҆si҆ i҆č św n Wśr(.w)
+# lit = “Thoth, go, seize him for Osiris.”
+# trans = “Thoth, go and seize him for Osiris.”
+# type = Verbal sentence
+1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	i҆si҆	si҆	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆č	i҆či̯	VERB	Imp	Mood=Imp	2	parataxis	_	_
+4	św	św	PRON	DPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
+6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	iobj	_	_
+
