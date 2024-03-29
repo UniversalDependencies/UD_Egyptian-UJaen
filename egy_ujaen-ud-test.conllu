@@ -78,7 +78,7 @@
 # text = ꜣgbgb i҆b n(.i҆) mw.t ⸗k ḥr ⸗k
 # lit = “Your mother's heart shall quiver over you.”
 # trans = “Your mother shall sudder with joy for you.”
-# type = Adverbial sentence
+# type = Verbal sentence
 1	ꜣgbgb	ꜣgbgb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
@@ -1573,3 +1573,13 @@
 8	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
 
+# sent_id = UDE-110
+# text = śč ⸗ś i҆r ⸗k
+# ref = Pyramid Texts § 20b N, Saqqara, 6th Dynasty, rel, OE
+# lit = "Its perfume is to you."
+# trans = "Its perfume is on you."
+# type = Adverbial sentence
+1	śč	śč	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	i҆r	r	ADP	Pron.state	Case=All	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
