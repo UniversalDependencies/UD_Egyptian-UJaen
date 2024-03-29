@@ -1557,3 +1557,19 @@
 10	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	6	obj	_	_
 11	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	10	nmod	_	_
 
+# sent_id = UDE-109
+# ref = Pyramid Texts § 20b N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtm ⸗k ḥr ⸗k i҆m ⸗ś śwꜥb ⸗ś čw
+# lit = “You shall provide your face with it in order that it may cleanse you.”
+# trans = “You shall provide your face with it, that it may cleanse you.”
+# type = Verbal sentence
+1	ḥtm	ḥtm	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	i҆m	m	ADP	Pron.state	Case=Ins	6	case	_	_
+6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+7	śwꜥb	wꜥb	VERB	SFC|Sub|finalcl	Mood=Sub|Voice=Cau	1	advcl	_	_
+8	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
+
