@@ -1585,10 +1585,10 @@
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
 # sent_id = UDE-111
-# text = śč i҆r.t Ḥr.w r Ppy pn
+# text = śč i҆r.t Ḥr.w r Ppy pn i҆ṭr ⸗ś rč̣.w ⸗k ḫw ⸗ś čw m-ꜥ ꜣgb n(.i҆) ꜥ n(.i҆) Śtẖ
 # ref = Pyramid Texts § 20c N, Saqqara, 6th Dynasty, rel, OE
-# lit = "The perfume of the Eye of Horus is to you."
-# trans = "The perfume of the Eye of Horus is on you."
+# lit = "The perfume of the Eye of Horus is to you in order that it may remove your efflux and that it may protect you from the flood of the hand of Seth."
+# trans = "The perfume of the Eye of Horus is on you, that it may remove your efflux and protect you from the flood caused by Seth."
 # type = Adverbial sentence
 1	śč	śč	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
@@ -1596,4 +1596,19 @@
 4	r	r	ADP	Pron.state	Case=All	5	case	_	_
 5	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	i҆ṭr	ṭr	VERB	SFC|Sub|finalcl	Mood=Sub	5	advcl	_	_
+8	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+11	ḫw	ḫwi̯	VERB	SFC|Sub|finalcl	Mood=Sub	5	advcl	_	_
+12	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+13	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+14-15	m-ꜥ	_	_	_	_	_	_	_	_
+14	m	m	ADP	Cons.state	Case=Ins	16	case	_	_
+15	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	14	fixed	_	_
+16	ꜣgb	ꜣgb	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
+18	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+19	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	18	amod	_	_
+20	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	18	nmod	_	_
 
