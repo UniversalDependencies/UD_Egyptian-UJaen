@@ -1583,3 +1583,17 @@
 2	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
 3	i҆r	r	ADP	Pron.state	Case=All	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-111
+# text = śč i҆r.t Ḥr.w r Ppy pn
+# ref = Pyramid Texts § 20c N, Saqqara, 6th Dynasty, rel, OE
+# lit = "The perfume of the Eye of Horus is to you."
+# trans = "The perfume of the Eye of Horus is on you."
+# type = Adverbial sentence
+1	śč	śč	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
+4	r	r	ADP	Pron.state	Case=All	5	case	_	_
+5	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
