@@ -1613,7 +1613,7 @@
 20	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	18	nmod	_	_
 
 # sent_id = UDE-112
-# ref = Pyramid Texts § 20c N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 21a N, Saqqara, 6th Dynasty, rel, OE
 # text = hꜣ Ppy pn nḫḫ n ⸗k i҆r.t Ḥr.w wč̣ꜣ.t(i҆) ḫr ⸗k
 # lit = "O Pepi, the Eye of Horus shall endure for you being with you intact."
 # trans = "O Pepi, the Eye of Horus shall endure for you and it shall be with you intact."
@@ -1630,3 +1630,13 @@
 10	ḫr	ḫr	ADP	Pron.state	Case=Com	11	case	_	_
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	_
 
+# sent_id = UDE-113
+# ref = Pyramid Texts § 21a N, Saqqara, 6th Dynasty, rel, OE
+# text = i҆r.t Ḥr.w wč̣ꜣ.t(i҆) wč̣ꜣ.t(i҆)
+# lit = "The Eye of Horus is intact, intact."
+# trans = "The Eye of Horus is fully intact."
+# type = Verbal sentence
+1	i҆r.t	i҆r.t	NOUN	Subj	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
+3	wč̣ꜣ.t(i҆)	wč̣ꜣ	VERB	OSSC|Stat	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	wč̣ꜣ.t(i҆)	wč̣ꜣ	VERB	OSSC|Stat	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	_
