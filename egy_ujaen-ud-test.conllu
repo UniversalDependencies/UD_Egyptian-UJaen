@@ -422,7 +422,7 @@
 10	nb(.t)	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 11	hꜣb.tn	hꜣb	VERB	ADJ|RelForm	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
 12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-13	w(i҆)	wi҆	PRON	DPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 14	i҆m	m	ADP	Pron.state	Case=Loc	15	case	_	_
 15	⸗ś	ś	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
 
@@ -449,7 +449,7 @@
 # trans = "Forget it for the sake/love of your children."
 # type = Verbal sentence
 1	śmḫ	mḫ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
-2	św	św	PRON	DPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3-5	n-i҆b-n(.i҆)	_	_	_	_	_	_	_	_
 3	n	n	ADP	Cons.state	Case=Ben	6	case	_	_
 4	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
@@ -920,7 +920,7 @@
 # type = Cleft sentence with adverbial focus
 1	śms.n	ms	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	św	św	PRON	DPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 4	(i҆)r	r	ADP	Pron.state	Case=All	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
@@ -1224,7 +1224,7 @@
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
 2	i҆si҆	si҆	VERB	Imp	Mood=Imp	0	root	_	_
 3	i҆č	i҆či̯	VERB	Imp	Mood=Imp	2	parataxis	_	_
-4	św	św	PRON	DPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
 6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	iobj	_	_
 
@@ -1250,7 +1250,7 @@
 1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
-4	św	św	PRON	DPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
 6	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
@@ -1497,4 +1497,16 @@
 3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+
+# sent_id = UDE-105
+# ref = Pyramid Texts § 19b N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtm kw m śč ⸗ś
+# lit = "Provide yourself with its perfume."
+# trans = "Provide yourself with its perfume."
+# type = Verbal sentence
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|Reflex=Yes|PronType=Emp	1	expl	_	_
+3	m	m	ADP	Cons.state	Case=Ins	4	case	_	_
+4	śč	śč	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
