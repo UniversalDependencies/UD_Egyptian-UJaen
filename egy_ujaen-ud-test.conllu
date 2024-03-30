@@ -1914,7 +1914,7 @@
 # text = hꜣ Wni҆ś i҆ṭp ⸗k ṭp.t ⸗f ḫnt sẖ(.w) nčr(.w)
 # lit = "O Unas, you shall taste its taste in front of the gods' booths."
 # trans = "O Unas, you shall taste its taste in front of the gods' booths."
-# type = Nominal sentence with nominal focus
+# type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
 3	i҆ṭp	ṭp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
@@ -1924,4 +1924,14 @@
 7	ḫnt	ḫnt	ADP	Cons.state	Case=Loc	8	case	_	_
 8	sẖ(.w)	sẖ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	obl	_	_
 9	nčr(.w)	nčr(.w)	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+
+# sent_id = UDE-131
+# ref = Pyramid Texts § 26c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆šš.w Ḥr.w smi҆n
+# lit = "What Horus spits out is semin."
+# trans = "Semin is the spittle of Horus."
+# type = Nominal sentence (A = B)
+1	i҆šš.w	i҆šš	NOUN	VerbForm=Part|Tense=Pres|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+1	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
