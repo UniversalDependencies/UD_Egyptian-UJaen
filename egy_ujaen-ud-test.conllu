@@ -1909,4 +1909,19 @@
 3	wpp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 
+# sent_id = UDE-130
+# ref = Pyramid Texts § 26b W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś i҆ṭp ⸗k ṭp.t ⸗f ḫnt sẖ(.w) nčr(.w) 
+# lit = "O Unas, you shall taste its taste in front of the gods' booths."
+# trans = "O Unas, you shall taste its taste in front of the gods' booths."
+# type = Nominal sentence with nominal focus
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	i҆ṭp	ṭp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	ṭp.t	ṭp.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	m	m	ADP	Cons.state	Case=Loc	8	case	_	_
+8	sẖ(.w)	sẖ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	obl	_	_
+9	nčr(.w)	nčr(.w)	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
 
