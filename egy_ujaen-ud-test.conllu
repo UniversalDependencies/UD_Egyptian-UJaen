@@ -5,7 +5,7 @@
 # trans = "(I) have given bread to the hungry."
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
-2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	(⸗i҆)	(⸗i҆)	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
 5	n	n	ADP	Cons.state	Case=Dat	6	case	_	_
@@ -216,7 +216,7 @@
 # trans = “Unas instilled fear in them.”
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	PART	Aspect=Perf	2	aux	_	_
-2	(w)ṭ.n	wṭi̯	VERB	SFC|Past_II|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+2	(w)ṭ.n	wṭi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	nrw	nrw	NOUN	Obj|MWE	Gender=Masc|Number=Sing	2	obj	_	_
 5	⸗f	⸗f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
@@ -372,7 +372,7 @@
 # trans = “(I) am not forgetful.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	mh.n	mh	VERB	SFC|Past_II	Mood=Pot|Tense=Pres	0	root	_	_
+2	mh.n	mh	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 
@@ -410,7 +410,7 @@
 # lit = “(My) lord filled his heart with (me) in every mission on which he sent me.”
 # trans = "(My) lord trusted (me) in every mission on which he sent me."
 # type = Verbal sentence
-1	mḥ	mḥ	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	mḥ	mḥ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	nb	nb	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 4	i҆b	i҆b	NOUN	Obj|MWE	Gender=Masc|Number=Sing	1	obj	_	_
@@ -629,7 +629,7 @@
 # lit = “He (i.e. Geb) gave to him (i.e. Teti) his heritage (certainly) in the presence of the Great Ennead.”
 # trans = “It was in the presence of the Great Ennead that he gave to him his heritage.”
 # type = Cleft sentence with adverbial focus
-1	č̣.n	rč̣i̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
@@ -689,7 +689,7 @@
 # trans = "Teti, (I) give to you your sister Nephthys, that she may hold you fast and give to you your heart for your body."
 # type = Verbal sentence
 1	Tti҆	Tti҆	PROPN	_	Gender=Fem	2	dislocated	_	_
-2	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
@@ -729,7 +729,7 @@
 # lit = “(Now) (I) gave to him the two horizons that he may become powerful in them as Harakhti.”
 # trans = “(I) give to him the two horizons that he may become powerful in them as Harkahti.”
 # type = Verbal sentence
-1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
@@ -811,7 +811,7 @@
 # lit = “(Now) (I) gave to him the Netherworld that he may become foremost in it as Horus, foremost of the Netherworld.”
 # trans = “(I) give to him the Netherworld that he may preside over it as Horus who presides over the Netherworld.”
 # type = Verbal sentence
-1	rč̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
@@ -873,7 +873,7 @@
 # lit = "(I) gave him his two eyes, that he may be content."
 # trans = "(I) give him his eyes, that he may be content."
 # type = Verbal sentence
-1	č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	<n>	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
@@ -888,7 +888,7 @@
 # lit = "Geb gave you your two eyes, that you may be content."
 # trans = "Geb gives you your eyes, that you may be content."
 # type = Verbal sentence
-1	č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
 4	Gb(b)	Gbb	PROPN	Subj	Gender=Masc	1	nsubj	_	_
@@ -918,7 +918,7 @@
 # lit = “It is to him that he proceeded.”
 # trans = “It is to him that he addresed.”
 # type = Cleft sentence with adverbial focus
-1	śms.n	ms	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+1	śms.n	ms	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 4	(i҆)r	r	ADP	Pron.state	Case=All	5	case	_	_
@@ -932,7 +932,7 @@
 # type = Cleft sentence with adverbial focus
 1	[hꜣ]	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	3	dislocated	_	_
-3	i҆i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	m	m	ADP	Cons.state	Case=Cau	6	case	_	_
 6	sḫn	sḫni̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	obl	_	_
@@ -953,7 +953,7 @@
 # lit = “(I) hit your mouth (certainly) for you.”
 # trans = “It is for you that (I) have struck your mouth.”
 # type = Cleft sentence with adverbial focus
-1	mč̣ṭ.n	mč̣ṭ	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	mč̣ṭ.n	mč̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -978,7 +978,7 @@
 # lit = “(I) parted your mouth (certainly) for you.”
 # trans = “It is for you that (I) have parted your mouth.”
 # type = Cleft sentence with adverbial focus
-1	wp.n	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	wp.n	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -1002,7 +1002,7 @@
 # lit = “[(I) adapted your mouth for you (certainly) to your bones].”
 # trans = “[It is to your bones that (I) have adapted for you your mouth].”
 # type = Cleft sentence with adverbial focus
-1	[mḫꜣ.n]	mḫꜣ	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	[mḫꜣ.n]	mḫꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	[n]	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -1018,13 +1018,13 @@
 # lit = “[(I) parted your mouth <for> you - (I) parted your two eyes <for> you].”
 # trans = “(Both of them:) (I) parted your mouth <for> you, and (I) parted your eyes <for> you.”
 # type = Balanced sentence
-1	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	[wp.n]	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	[<n>]	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 5	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 6	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
-7	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	[wp.n]	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 8	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 9	[<n>]	n	ADP	Pron.state	Case=Ben	10	case	_	_
 10	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
@@ -1037,7 +1037,7 @@
 # lit = “[(I) parted your mouth <for> you] (certainly) with the adze of Wepwawet, the hook of iron which parted the mouths of the gods.”
 # trans = “It is with Wepwawet's adze, the iron hook which parted the mouths of the gods, [that (I) have parted your mouth <for> you].”
 # type = Cleft sentence with adverbial focus
-1	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	[wp.n]	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	[<n>]	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
@@ -1085,13 +1085,13 @@
 # lit = “[Horus opened the mouth of this Pepi, Horus parted the mouth of this Pepi] (certainly) with that with which he parted the mouth of his father, with that which he parted the mouth of Osiris, with the iron that came from Seth, the hook of [iron which parted the mouths of the gods].”
 # trans = “It is with the iron that came from Seth, the hook of [iron which parted the mouths of the gods], it is with that which he parted the mouth of Osiris and with that with which he parted the mouth of his father that [Horus has opened and parted the mouth of this Pepi].”
 # type = Cleft sentence with adverbial focus
-1	[wn.n]	wn	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	[wn.n]	wn	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	[Ḥr.w]	Ḥr.w	PROPN	Subj	Gender=Masc	1	nsubj	_	_
 3	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
 5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-7	[wp.n]	wpi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+7	[wp.n]	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 8	[Ḥr.w]	Ḥr.w	PROPN	Subj	Gender=Masc	7	nsubj	_	_
 9	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	7	obj	_	_
 10	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
@@ -1184,7 +1184,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆n.<n>	i҆ni̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆n.<n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
@@ -1286,7 +1286,7 @@
 # lit = “Someone has gone with his ka.”
 # trans = “Someone has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	si҆	si҆	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1298,7 +1298,7 @@
 # lit = “Horus has gone with his ka.”
 # trans = “Horus has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1310,7 +1310,7 @@
 # lit = “Horus has gone with his ka.”
 # trans = “Horus has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1322,7 +1322,7 @@
 # lit = “Thoth has gone with his ka.”
 # trans = “Thoth has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1334,7 +1334,7 @@
 # lit = “Dewen-anwi has gone with his ka.”
 # trans = “Dewen-anwi has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Ṭwn-ꜥn.wi҆	Ṭwn-ꜥn.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1346,7 +1346,7 @@
 # lit = “Osiris has gone with his ka.”
 # trans = “Osiris has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1358,7 +1358,7 @@
 # lit = “Khenti-irti has gone with his ka.”
 # trans = “Khenti-irti has gone with his ka.”
 # type = Verbal sentence
-1	si҆	si҆	VERB	SFC|Past_I	Tense=Past|VerbForm=Fin	0	root	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Ḫnt(.i҆)-i҆r.ti҆	Ḫnt(.i҆)-i҆r.ti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.state	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1448,7 +1448,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	(r)č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	(r)č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
@@ -1518,7 +1518,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	(r)č̣.n	rč̣i̯	VERB	SFC|Past_II|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	(r)č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Subj	Gender=Masc	3	nsubj	_	_
@@ -1548,7 +1548,7 @@
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	4	dislocated	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-4	i҆i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	i҆i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 6	i҆n	i҆ni̯	VERB	SFC|Sub|finalcl	Mood=Sub	4	advcl	_	_
 7	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -1677,7 +1677,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-4	mḥ.n	mḥ	VERB	SFC|Past_II|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+4	mḥ.n	mḥ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 5	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	nsubj	_	_
 7	m	m	ADP	Cons.state	Case=Ins	8	case	_	_
@@ -1714,7 +1714,7 @@
 # lit = "(I) came (certainly) in order that (I) may bring you the Eye of Horus."
 # trans = "It is to bring you the Eye of Horus that (I) have come."
 # type = Cleft sentence with adverbial focus
-1	i҆i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	i҆i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	i҆n	i҆ni̯	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -1741,7 +1741,7 @@
 # lit = "I brought it to you (certainly) under your two sandals."
 # trans = "It is under your sandals that I have brought it to you."
 # type = Cleft sentence with adverbial focus
-1	i҆n.n	i҆ni̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	i҆n.n	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
@@ -1804,4 +1804,23 @@
 18	pr	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	15	nmod	_	_
 19	m	m	ADP	Cons.state	Case=Ela	20	case	_	_
 20	ḳbḥ(.w)	ḳbḥ	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+
+# sent_id = UDE-124
+# ref = Pyramid Texts § 24c N, Saqqara, 6th Dynasty, rel, OE
+# text = rč̣.n Ḥr.w ḫmꜥ n ⸗k nčr(.w) č̣r bw šm ⸗k i҆m (⸗f)
+# lit = "Horus caused that the gods may gather for you (certainly) at the place where you went."
+# trans = "It is at the place where you have gone that Horus has caused the gods to gather for you."
+# type = Cleft sentence with adverbial focus
+1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫmꜥ	ḫmꜥi̯	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	nčr(.w)	nčr(.w)	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+7	č̣r	č̣r	ADP	Cons.state	Case=Loc	8	case	_	_
+8	bw	bw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	šm	šmi̯	VERB	ADJ|RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	8	acl	_	_
+10	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+11	i҆m	m	ADP	Pron.state	Case=Loc	12	case	_	_
+12	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 
