@@ -1750,3 +1750,17 @@
 7	kb.w(i҆)	kb	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-121
+# ref = Pyramid Texts § 23a W, Saqqara, 5th Dynasty, rel, OE
+# text = m n ⸗k rč̣.w pr.i҆ i҆m ⸗k
+# lit = "Take for yourself the efflux that came from you."
+# trans = "Take the efflux that came from you."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	pr.i҆	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+6	i҆m	m	ADP	Pron.state	Case=Ela	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+
