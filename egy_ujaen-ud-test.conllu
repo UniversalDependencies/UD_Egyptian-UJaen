@@ -1863,8 +1863,8 @@
 # sent_id = UDE-127
 # ref = Pyramid Texts § 25b N, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n Nw.t wn ⸗k m nčr n ḫft(.i҆) ⸗k m rn ⸗k n(.i҆) nčr
-# lit = "Nut caused that you may exist as a god to your foe (certainly) in your name of god."
-# trans = "It is in your name of god that Nut has caused you to exist as a god to your foe."
+# lit = "Nut caused that you may exist as a god to your foe (certainly) in your name of God."
+# trans = "It is in your name of God that Nut has caused you to exist as a god to your foe."
 # type = Cleft sentence with adverbial focus
 1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Nw.t	Nw.t	PROPN	_	Gender=Fem	1	nsubj	_	_
@@ -1880,4 +1880,21 @@
 12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 13	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	_
 14	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+
+# sent_id = UDE-128
+# ref = Pyramid Texts § 25c N, Saqqara, 6th Dynasty, rel, OE
+# text = i҆p čw Ḥr.w-rnp.wi҆ rnpw.t(i҆) m rn ⸗k n(.i҆) mw rnpw
+# lit = "Hor-renpui shall examine you, you being young in your name of Fresh Water."
+# trans = "Hor-renpui shall examine you while you are young in your name of Fresh Water."
+# type = Verbal sentence
+1	i҆p	i҆p	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	Ḥr.w-rnp.wi҆	Ḥr.w-rnp.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+4	rnpw.t(i҆)	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
+5	m	m	ADP	Cons.state	Case=Ins	6	case	_	_
+6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+9	mw	mw	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+10	rnpw	rnpi̯	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
 
