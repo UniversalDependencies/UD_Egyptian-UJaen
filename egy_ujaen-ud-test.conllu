@@ -1685,3 +1685,27 @@
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 10	tm.ti҆	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	8	advcl	_	_
 
+# sent_id = UDE-117
+# ref = Pyramid Texts § 22a N, Saqqara, 6th Dynasty, rel, OE
+# text = ḳbḥ(.w) ⸗k i҆pn Wśr(.w) ḳbḥ(.w) ⸗k i҆pn hꜣ Wni҆ś pr.w ḫr sꜣ ⸗k pr.w ḫr Ḥr.w
+# lit = "These libations of yours, Osiris, these libations of yours, O Unas, they came from your son, they came from Horus."
+# trans = "O Osiris Unas, these libations of yours have come from your son, Horus."
+# type = Verbal sentence
+1	ḳbḥ(.w)	ḳbḥ	NOUN	_	Gender=Masc	10	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	i҆pn	i҆pn	DET	Dem	Gender=Masc|Number=Pl|PronType=Dem	1	det	_	_
+4	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	vocative	_	_
+5	ḳbḥ(.w)	ḳbḥ	NOUN	_	Gender=Masc	10	nsubj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	i҆pn	i҆pn	DET	Dem	Gender=Masc|Number=Pl|PronType=Dem	5	det	_	_
+8	hꜣ	hꜣ	INTJ	_	_	9	discourse	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	vocative	_	_
+10	pr.w	pri̯	VERB	OSSC|Past	Gender=Com|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+11	ḫr	ḫr	ADP	Cons.state	Case=Ela	12	case	_	_
+12	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
+14	pr.w	pri̯	VERB	OSSC|Past	Gender=Com|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+15	ḫr	ḫr	ADP	Cons.state	Case=Ela	16	case	_	_
+16	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
+17	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	nmod	_	_
+
