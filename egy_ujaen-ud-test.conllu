@@ -194,7 +194,7 @@
 2	wrč̣	wrč̣	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-5	ẖr	ẖr	ADP	Pron.state	Case=Loc	6	case	_	_
+5	ẖr	ẖr	ADP	Pron.state	Case=Sub	6	case	_	_
 6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
 # sent_id = UDE-17
@@ -1708,3 +1708,29 @@
 15	ḫr	ḫr	ADP	Cons.state	Case=Ela	16	case	_	_
 16	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	14	obl	_	_
 
+# sent_id = UDE-118
+# ref = Pyramid Texts § 22b W, Saqqara, 5th Dynasty, rel, OE, Allen 1984: § 289-290, Edel 1955/64: § 473.
+# text = i҆i҆w.n (⸗i҆) i҆n (⸗i҆) n ⸗k i҆r.t Ḥr.w
+# lit = "(I) came (certainly) in order that (I) may bring you the Eye of Horus."
+# trans = "It is to bring you the Eye of Horus that (I) have come."
+# type = Cleft sentence with adverbial focus
+1	i҆i҆w.n	i҆wi̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	i҆n	i҆ni̯	VERB	SFC|Sub|finalcl	Mood=Sub	1	advcl	_	_
+4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
+
+# sent_id = UDE-119
+# ref = Pyramid Texts § 22b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḳb i҆b ⸗k ẖr ⸗ś
+# lit = "Your heart shall be cool under it."
+# trans = "You may be calm (i.e. satisfied) with it."
+# type = Cleft sentence with adverbial focus
+1	ḳb	ḳbb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	ẖr	ẖr	ADP	Pron.state	Case=Sub|Poss=Yes	5	case	_	_
+5	⸗ś	⸗ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
