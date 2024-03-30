@@ -1898,3 +1898,15 @@
 9	mw	mw	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	rnpw	rnpi̯	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
 
+# sent_id = UDE-129
+# ref = Pyramid Texts § 26a W, Saqqara, 5th Dynasty, rel, OE
+# text = smi҆n smi҆n wpp rʾ
+# lit = "Semin, it is semin that parts your mouth."
+# trans = "Semin, it is semin that parts your mouth."
+# type = Nominal sentence with nominal focus
+1	smi҆n	smi҆n	NOUN	_	_	3	nsubj	_	_
+2	smi҆n	smi҆n	NOUN	_	_	3	dep	_	_
+3	wpp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
+
