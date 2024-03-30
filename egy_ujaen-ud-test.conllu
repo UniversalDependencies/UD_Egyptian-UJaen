@@ -1764,3 +1764,17 @@
 6	i҆m	m	ADP	Pron.state	Case=Ela	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 
+# sent_id = UDE-122
+# ref = Pyramid Texts § 23b W, Saqqara, 5th Dynasty, rel, OE
+# text = m pr-ti҆ n ⸗k ḫrw
+# lit = "Come in order that one, the voice, may go out for you."
+# trans = "Come so that the voice may go out for you / Come that an invocation offering may be made for you."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2-3	pr-ti҆	_	_	_	_	_	_	_	_
+2	pr	pri̯	VERB	SFC|Sub|finalcl	Mood=Sub	2	advcl	_	_
+3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
+6	ḫrw	ḫrw	NOUN	MWE	Gender=Masc|Number=Sing	2	dislocated	_	_
+
