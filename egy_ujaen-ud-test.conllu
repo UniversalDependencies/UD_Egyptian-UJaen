@@ -21,7 +21,7 @@
 2	m	m	ADP	Cons.state	Case=Ess	3	case	_	_
 3-4	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
-4	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	compound	_	_
+4	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	3	compound	_	_
 
 # sent_id = UDE-3
 # ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period, histbio, OE
@@ -36,7 +36,7 @@
 5	m	m	ADP	Cons.state	Case=Ess	6	case	_	_
 6-7	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 6	ꜣw.t	ꜣwi̯	NOUN	Inf	Gender=Masc	1	obl	_	_
-7	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
+7	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
 
 # sent_id = UDE-4
 # ref = Niuserre 80, fig. 55, Abu Gorab, 6th Dynasty, histbio, OE
@@ -45,7 +45,7 @@
 # trans = "You shall be glad eternally."
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	1	advmod	_	_
 
@@ -56,7 +56,7 @@
 # trans = “A man shall be glad.”
 # type = Verbal sentence
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	s(i҆)	s(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 
