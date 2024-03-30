@@ -1726,11 +1726,27 @@
 # sent_id = UDE-119
 # ref = Pyramid Texts § 22b W, Saqqara, 5th Dynasty, rel, OE
 # text = ḳb i҆b ⸗k ẖr ⸗ś
-# lit = "Your heart shall be cool under it."
+# lit = "Your heart shall be cool under it (i.e. the Eye of Horus)."
 # trans = "You may be calm (i.e. satisfied) with it."
-# type = Cleft sentence with adverbial focus
+# type = Verbal sentence
 1	ḳb	ḳbb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	ẖr	ẖr	ADP	Pron.state	Case=Sub|Poss=Yes	5	case	_	_
 5	⸗ś	⸗ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-120
+# ref = Pyramid Texts § 22b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n.n (⸗i҆) n⸗k ś(i҆) ẖr kb.w(i҆) ⸗k
+# lit = "I brought it to you (certainly) under your two sandals."
+# trans = "It is under your sandals that I have brought it to you."
+# type = Cleft sentence with adverbial focus
+1	i҆n.n	i҆ni̯	VERB	SFC|Past_II|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+5	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+6	ẖr	ẖr	ADP	Cons.state	Case=Sub	7	case	_	_
+7	kb.w(i҆)	kb	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+
