@@ -1956,3 +1956,17 @@
 3	nb(.wi҆)	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Dual	2	nmod	_	_
 4	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
+# sent_id = UDE-134
+# ref = Pyramid Texts § 26f W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥsmn ⸗k m-ꜥb šmś.w Ḥr.w
+# lit = "You are purified (certainly) in the association of the Followers of Horus."
+# trans = "It is in the company of the Followers of Horus that you are purified."
+# type = Cleft sentence with adverbial focus
+1	ḥsmn	ḥsmn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3-4	m-bꜣḥ	_	_	_	_	_	_	_	_
+3	m	m	ADP	Cons.state	Case=Loc	5	case	_	_
+4	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
+5	šmś.w	šmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	obl	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+
