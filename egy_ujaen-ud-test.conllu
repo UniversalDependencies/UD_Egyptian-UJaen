@@ -2023,6 +2023,24 @@
 1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	č̣ṭk{č}	č̣ṭk	ADV	_	_	5	advmod	_	_
-4	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.state	Case=Com	5	case	_	_
+4	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Pron.state	Case=Com	5	case	_	_
 5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-140
+# ref = Pyramid Texts § 27d W, Saqqara, 5th Dynasty, rel, OE
+# text = rʾ ⸗k rʾ n(.i҆) bḥs i҆r(č).t hrw mś(.w) ⸗f i҆m (⸗f)
+# lit = "Your mouth is the mouth of a milk-calf (on) the day of: he was born on (it)."
+# trans = "Your is the mouth of a milk-calf on the day it was born."
+# type = Adverbial sentence
+1	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	bḥs	bḥs	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nmod	_	_
+6	i҆r(č).t	i҆rč.t	NOUN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+7	hrw	hrw	ADV	NOUN	Definite=Cons|AdvType=Tim	3	advmod	_	_
+8	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	7	nmod	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
+10	i҆m	m	ADP	Pron.state	Case=Tem	11	case	_	_
+11	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
