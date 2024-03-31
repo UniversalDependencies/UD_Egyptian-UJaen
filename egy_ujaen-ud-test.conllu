@@ -1945,3 +1945,13 @@
 2	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
 3	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
+# sent_id = UDE-133
+# ref = Pyramid Texts § 26e W, Saqqara, 5th Dynasty, rel, OE
+# text = t(w)t i҆b nb(.wi҆) smi҆n
+# lit = "The union of the Two Lords' hearts is semin."
+# trans = "Semin is the reconciliation of the Two Lords."
+# type = Nominal sentence (A = B)
+1	t(w)t	twt	NOUN	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+3	nb(.wi҆)	nb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Dual	2	nmod	_	_
+4	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
