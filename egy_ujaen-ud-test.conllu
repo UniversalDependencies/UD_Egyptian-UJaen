@@ -2068,3 +2068,18 @@
 4	nčr(.i҆)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-143
+# ref = Pyramid Texts § 28c W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k č̣ṭč pn i҆m.(w)t(i҆) śn.w ⸗k nčr(.w)
+# lit = "This purification of yours is also among your brothers, the gods."
+# trans = "This purification of yours is also among your brothers, the gods."
+# type = Adverbial sentence
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	č̣ṭč	č̣ṭk	ADV	_	_	6	advmod	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+5	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.state	Case=Com	6	case	_	_
+6	śn.w	śn	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
+
