@@ -2044,3 +2044,15 @@
 10	i҆m	m	ADP	Pron.state	Case=Tem	11	case	_	_
 11	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
+# sent_id = UDE-141
+# ref = Pyramid Texts § 28b W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k nčr(.i҆) kꜣ ⸗k
+# lit = "Your purification is the purification of your ka."
+# trans = "Your purification is the purification of your ka."
+# type = Nominal sentence (A = B)
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	nčr(.i҆)	nčr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+4	kꜣ	kꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+
