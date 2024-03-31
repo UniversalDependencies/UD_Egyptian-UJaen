@@ -2056,3 +2056,15 @@
 4	kꜣ	kꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-142
+# ref = Pyramid Texts § 28b W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k nčr(.i҆) nčr(.i҆) ⸗k
+# lit = "Your purification is the purification of your purification."
+# trans = "Your purification is the purification of your purification."
+# type = Nominal sentence (A = B)
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	nčr(.i҆)	nčr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+4	nčr(.i҆)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+
