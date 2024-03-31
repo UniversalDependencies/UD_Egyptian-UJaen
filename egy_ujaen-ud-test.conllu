@@ -2095,3 +2095,15 @@
 4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-145
+# ref = Pyramid Texts § 29a W, Saqqara, 5th Dynasty, rel, OE
+# text = śwꜥb ⸗k ḳś(.w) ⸗k tm.i҆w
+# lit = “You shall cleanse your bones being complete.”
+# trans = “You shall cleanse all your bones.”
+# type = Verbal sentence
+1	śwꜥb	śwꜥb	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	tm.i҆w	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Plur|Person=3|VerbForm=Conv	3	advcl	_	_
+
