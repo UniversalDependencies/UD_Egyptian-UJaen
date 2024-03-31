@@ -2138,3 +2138,18 @@
 12	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 13	pč̣pč̣(.w)	pč̣pč̣	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	8	advcl	_	_
 
+# sent_id = UDE-148
+# ref = Pyramid Texts § 30a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś i҆śmn n ⸗k ꜥr.t(i҆) ⸗k pśš.t(i҆)
+# lit = "O Unas, I shall fix for you your two jaws, they being divided."
+# trans = "O Unas, I shall fix for you your jaws, which are divided."
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	i҆śmn	mn	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Dat	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+6	ꜥr.t(i҆)	ꜥr.t	NOUN	Obj	Gender=Fem|Number=Dual	3	obj	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	pśš.t(i҆)	pśš	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	6	advcl	_	_
+
