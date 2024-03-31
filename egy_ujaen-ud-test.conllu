@@ -2083,3 +2083,15 @@
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
 8	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
 
+# sent_id = UDE-144
+# ref = Pyramid Texts § 29a W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k ṭp rʾ ⸗k
+# lit = "Your purification is on your mouth."
+# trans = "Your purification is on your mouth."
+# type = Adverbial sentence
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+5	ṭp	ṭp	ADP	Cons.state	Case=Sup	4	case	_	_
+6	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+
