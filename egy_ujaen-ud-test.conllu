@@ -2014,3 +2014,15 @@
 3	nčr(.i҆)	nčr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
 4	Ṭwn-ꜥn.wi҆	Ṭwn-ꜥn.wi҆	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
 
+# sent_id = UDE-139
+# ref = Pyramid Texts § 27c W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k č̣ṭk{č} i҆m.(w)t(i҆) ⸗śn
+# lit = "Your purification is also among them."
+# trans = "Your purification is also among them."
+# type = Adverbial sentence
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	č̣ṭk{č}	č̣ṭk	ADV	_	_	5	advmod	_	_
+4	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.state	Case=Com	5	case	_	_
+5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+
