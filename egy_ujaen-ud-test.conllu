@@ -1970,3 +1970,14 @@
 5	šmś.w	šmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	obl	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 
+# sent_id = UDE-135
+# ref = Pyramid Texts § 27a W, Saqqara, 5th Dynasty, rel, OE
+# text = nčr(.i҆) ⸗k nčr(.i҆) Ḥr.w
+# lit = "Your purification is the purification of Horus."
+# trans = "Your purification is the purification of Horus."
+# type = Nominal sentence (A = B)
+1	nčr(.i҆)	nčr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+3	nčr(.i҆)	nčr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+4	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+
