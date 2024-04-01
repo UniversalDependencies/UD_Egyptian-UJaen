@@ -2323,3 +2323,18 @@
 10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 11	nb(.wi҆)	nb	NOUN	Obj	Gender=Masc|Number=Dual	7	obj	_	_
 
+# sent_id = UDE-160
+# ref = PT § 34b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp n ⸗k grḥ ḥtp n ⸗k nb.t(i҆)
+# lit = “The night is gracious to you - the Two Ladies are gracious to you.”
+# trans = “(Both of them:) The night is gracious to you, and the Two Ladies are gracious to you.”
+# type = Balanced sentence
+1	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	grḥ	grḥ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+6	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	n	n	ADP	Pron.state	Case=Ben	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+9	nb.t(i҆)	nb.t	NOUN	Subj	Gender=Fem|Number=Dual	6	nsubj	_	_
+
