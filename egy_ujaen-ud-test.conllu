@@ -2502,3 +2502,19 @@
 8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
+# sent_id = UDE-171
+# ref = Pyramid Texts § 37a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś m n ⸗k ḥnḳ pr i҆m ⸗k
+# lit = "Osiris Unas, take for yourself the ferment that came from you."
+# trans = "Osiris Unas, take the ferment that came from you."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
+8	i҆m	m	ADP	Pron.state	Case=Abl	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+
