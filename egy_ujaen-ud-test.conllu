@@ -547,9 +547,8 @@
 # type = Nominal phrase
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
-3-4	ṭp.(i҆)w-tꜣ	_	_	_	_	_	_	_	_
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
-4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	compound	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	VerbForm=Part	Tense=Fut|VerbForm=Fin	0	root	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 7	r	r	ADP	Cons.state	Case=Ill	8	case	_	_
@@ -1160,7 +1159,7 @@
 11	[Ḥw.t]	Ḥw.t	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	_
 12	[śr]	śr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	compound	_	_
 13	[i҆m.(i҆)t]	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	11	amod	_	_
-14	I҆wn.w	I҆wn.w	PROPN	_	_	11	obl	_	_
+14	I҆wn.w	I҆wn.w	PROPN	_	_	11	nmod	_	_
 
 # sent_id = UDE-82
 # ref = PT § 14d N, Saqqara, 6th Dynasty, rel, OE
@@ -2305,4 +2304,22 @@
 9	⸗śn(i҆)	śni҆	PRON	SFP	Gender=Com|Number=Dual|Person=3|PronType=Prs	8	nsubj	_	_
 10	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	8	obj	_	_
 11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+
+# sent_id = UDE-159
+# ref = Pyramid Texts § 34a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp n ⸗k Rꜥ i҆m(.i҆) p.t śḥtp ⸗f n ⸗k nb(.wi҆)
+# lit = “Ra, who is in the sky, shall be gracious to you while he conciliates the Two Lords for you.”
+# trans = “Ra, who is in the sky, shall be gracious to you when he conciliates the Two Lords for you.”
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	śḥtp	ḥtp	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Cau	1	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	n	n	ADP	Pron.state	Case=Ben	10	case	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+11	nb(.wi҆)	nb	NOUN	Obj	Gender=Masc|Number=Dual	7	obj	_	_
 
