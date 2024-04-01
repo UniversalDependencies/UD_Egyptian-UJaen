@@ -2502,7 +2502,7 @@
 8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
-# sent_id = UDE-171
+# sent_id = UDE-172
 # ref = Pyramid Texts § 37a W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k ḥnḳ pr i҆m ⸗k
 # lit = "Osiris Unas, take for yourself the ferment that came from you."
@@ -2517,4 +2517,30 @@
 7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
 8	i҆m	m	ADP	Pron.state	Case=Abl	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+
+# sent_id = UDE-173
+# ref = Pyramid Texts § 37b W, Saqqara, 5th Dynasty, rel, OE
+# text = Rꜥw ṭwꜣ.w ⸗k i҆m p.t
+# lit = "Ra, you will be praised (certainly) in the sky."
+# trans = "Ra, it is in heaven that you will be praised."
+# type = Cleft sentence with adverbial focus
+1	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	2	dislocated	_	_
+2	ṭwꜣ.w	ṭwꜣ	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆m	m	ADP	Cons.state	Case=Loc	5	case	_	_
+5	p.t	p.t	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+
+# sent_id = UDE-174
+# ref = Pyramid Texts § 37b W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭwꜣ.w ⸗k n Wni҆ś nb (i҆)ḫ.t nb.t
+# lit = "You will be praised (certainly) for Unas, lord of all things."
+# trans = "It is for the sake of Unas that you will be praised."
+# type = Cleft sentence with adverbial focus
+1	ṭwꜣ.w	ṭwꜣ	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Cons.state	Case=Ben	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
+5	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	appos	_	_
+6	(i҆)ḫ.t	i҆ḫ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 
