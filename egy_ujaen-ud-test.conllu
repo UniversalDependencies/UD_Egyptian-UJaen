@@ -2375,10 +2375,23 @@
 # lit = "Graciousness is in your phallus."
 # trans = "Graciousness is before you."
 # type = Adverbial sentence
-1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3-4	m-bꜣḥ	_	_	_	_	_	_	_	_
 3	m	m	ADP	Cons.state	Case=Loc	5	case	_	_
 4	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-165
+# ref = Pyramid Texts § 34d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp.t ⸗k m-ḫt ⸗k
+# lit = "Graciousness is in your stick."
+# trans = "Graciousness is behind you."
+# type = Adverbial sentence
+1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3-4	m-ḫt	_	_	_	_	_	_	_	_
+3	m	m	ADP	Cons.state	Case=Loc	5	case	_	_
+4	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
