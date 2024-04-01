@@ -2220,3 +2220,19 @@
 6	ši҆k	ši҆k	X	_	_	3	obj	_	_
 7	Wśr(.w)	Wśr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 
+# sent_id = UDE-153
+# ref = Pyramid Texts § 32a W, Saqqara, 5th Dynasty, rel, OE
+# text = m ṭp n(.i҆) mn{n}č̣ n(.i҆) Ḥr.w n(.i҆) č̣.t ⸗f
+# lit = "Take the tip of the breast of Horus of his body."
+# trans = "Take the tip of the breast of Horus' body."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	mn{n}č̣	mnč̣	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+7	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+8	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
