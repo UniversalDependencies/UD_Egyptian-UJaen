@@ -2486,3 +2486,19 @@
 21	i҆m	m	ADP	Pron.state	Case=Ins	22	case	_	_
 22	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
 
+# sent_id = UDE-171
+# ref = Pyramid Texts § 36c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś wp rʾ ⸗k m mḥ.t i҆m ⸗k
+# lit = "Osiris Unas, part your mouth with what is filled in you."
+# trans = "Osiris Unas, part your mouth with what is filled in you."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	wp	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
+4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	m	m	ADP	Cons.state	Case=Ins	7	case	_	_
+7	mḥ.t	mḥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Neut|Number=Sing	3	obl	_	_
+8	i҆m	m	ADP	Pron.state	Case=Loc	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+
