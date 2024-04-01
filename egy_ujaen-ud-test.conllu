@@ -2253,8 +2253,8 @@
 # sent_id = UDE-155
 # ref = Pyramid Texts § 32b W, Saqqara, 5th Dynasty, rel, OE
 # text = m mnč̣ śn.t ⸗k Ꜣś.t bsꜣ.t
-# lit = "Take the breast of your sister, Isis, the lactating one (?)."
-# trans = "Take the breast of your sister Isis, the lactating one (?)."
+# lit = "Take the breast of your sister, Isis, the nursing one (?)."
+# trans = "Take the breast of your sister Isis, the nursing one (?)."
 # type = Verbal sentence
 1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 2	mnč̣	mnč̣	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
@@ -2262,4 +2262,17 @@
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	nmod	_	_
 5	Ꜣś.t	Ꜣś.t	PROPN	_	Gender=Fem	3	appos	_	_
 6	bsꜣ.t	bsꜣ.t	X	_	_	5	dep	_	_
+
+# sent_id = UDE-156
+# ref = Pyramid Texts § 32b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆čč ⸗k (św) r rʾ ⸗k
+# lit = "You take (it) (certainly) to your mouth."
+# trans = "It is to your mouth that you should take (it)."
+# type = Cleft sentence with adverbial focus
+1	i҆čč	i҆či̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	(św)	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	r	r	ADP	Cons.state	Case=Ill	5	case	_	_
+5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
