@@ -2395,4 +2395,13 @@
 4	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
+# sent_id = UDE-166
+# ref = PT § 34d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp.t ḫr.t ⸗k
+# lit = “Graciousness is your portion.”
+# trans = “Graciousness is your portion.”
+# type = Nominal sentence (A = B)
+1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	ḫr.t	ḫr.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 
