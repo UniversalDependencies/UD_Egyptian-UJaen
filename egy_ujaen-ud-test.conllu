@@ -2338,3 +2338,14 @@
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 8	nb.t(i҆)	nb.t	NOUN	Subj	Gender=Fem|Number=Dual	5	nsubj	_	_
 
+# sent_id = UDE-161
+# ref = PT § 34c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp.t i҆n.(y)t n{t} ⸗k
+# lit = “Graciousness is what was brought to you.”
+# trans = “Graciousness is what has been brought to you.”
+# type = Nominal sentence (A = B)
+1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
+2	i҆n.(y)t	i҆ni̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	0	root	_	_
+3	n	n	ADP	Pron.state	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+
