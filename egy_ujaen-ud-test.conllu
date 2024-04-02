@@ -2568,3 +2568,15 @@
 4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
 5	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 
+# sent_id = UDE-177
+# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE
+# text = n(.i҆) č̣.t ⸗f (i҆)ḫ.(w)t nb(.wt)
+# lit = "All things belonging to his body."
+# trans = "All things belong to himself."
+# type = Adjectival sentence of possession
+1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
+2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+5	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
+
