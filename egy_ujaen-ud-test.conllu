@@ -2751,3 +2751,15 @@
 8	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
 9	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	8	nmod	_	_
 
+# sent_id = UDE-189
+# ref = PT § 43a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
+# text = (i҆)m śfḫḫ(.w) ⸗k i҆m ⸗ś
+# lit = “Don't be that you will let loose of her.”
+# trans = “Don't let loose of it.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
+2	śfḫḫ(.w)	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆m	m	ADP	Pron.state	Case=Ela	5	case	_	_
+5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
