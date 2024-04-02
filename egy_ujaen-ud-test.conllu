@@ -2842,7 +2842,7 @@
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 7	ḫr	ḫr	ADP	Pron.state	Case=Com	8	case	_	_
-8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 
 # sent_id = UDE-196
 # ref = PT § 46b Nt, Saqqara, 6th Dynasty, rel, OE.
@@ -2856,7 +2856,7 @@
 4	nẖrẖr.w	nẖrẖr	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 6	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	4	obj	_	_
-7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
 
 # sent_id = UDE-197
 # ref = PT § 46b Nt, Saqqara, 6th Dynasty, rel, OE
@@ -2870,5 +2870,5 @@
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
 6	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
 
