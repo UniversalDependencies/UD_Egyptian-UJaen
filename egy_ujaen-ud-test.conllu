@@ -2804,3 +2804,15 @@
 6	ẖn(w)	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-193
+# ref = Pyramid Texts § 45a W, Saqqara, 5th Dynasty, rel, OE
+# text = m kw šp.n ⸗k św
+# lit = "Look, you have blinded him."
+# trans = "Look, you have blinded him."
+# type = Verbal sentence
+1	m	m	PART	_	_	3	discourse	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	3	dislocated	_	_
+3	šp.n	šp	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	0	root	_	_
+4	⸗k	⸗k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+
