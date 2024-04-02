@@ -2789,3 +2789,18 @@
 4	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	3	amod	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
+# sent_id = UDE-192
+# ref = PT § 44b N, Saqqara, 6th Dynasty, rel, OE
+# text = (w)ṭi҆ n ⸗k św m-ẖn(w) ⸗k
+# lit = “Put it for yourself in your interior.”
+# trans = “Put it inside you.”
+# type = Verbal sentence
+1	(w)ṭi҆	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5-6	m-ẖn(w)	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.state	Case=Loc	7	case	_	_
+6	ẖn(w)	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+
