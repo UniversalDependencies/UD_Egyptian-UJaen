@@ -2817,7 +2817,7 @@
 5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 
 # sent_id = UDE-194
-# ref = PT § 45c Nt, Saqqara, 6th Dynasty, rel, OE, cf. Edel 1955/1964: § 946. 
+# ref = PT § 45c Nt, Saqqara, 6th Dynasty, rel, OE 
 # text = Wśr(.w) N(i҆).t mr ⸗k śwt Ḥr.w
 # lit = “Osiris Neith, you shall really love Horus.”
 # trans = “Osiris Neith, you shall really love Horus.”
@@ -2828,4 +2828,19 @@
 4	⸗k	⸗k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	śwt	śwt	PART	_	_	3	discourse	_	_
 6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	obj	_	_
+
+# sent_id = UDE-195
+# ref = PT § 46a Nt, Saqqara, 6th Dynasty, rel, OE 
+# text = Wśr(.w) N(i҆).t śnḫt.n ⸗k i҆r.t Ḥr.w ḫr ⸗k
+# lit = “Osiris Neith, you made forceful the Eye of Horus (certainly) with you.”
+# trans = “Osiris Neith, it is with you that you have made forceful the Eye of Horus.”
+# type = Cleft sentence with adverbial focus
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
+3	śnḫt.n	nḫt	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+4	⸗k	⸗k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+7	ḫr	ḫr	ADP	Pron.state	Case=Com	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 
