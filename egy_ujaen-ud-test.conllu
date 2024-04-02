@@ -2902,7 +2902,7 @@
 # sent_id = UDE-200
 # ref = Pyramid Texts § 47b Nt, Saqqara, 6th Dynasty, rel, OE
 # text = i҆mḥ n ⸗k ꜥ ⸗k m Ḥr.w-ś(i҆)
-# lit = "Fill for yourself your hand with the Horus-staff."
+# lit = "Fill for yourself your hand with "she which belongs to Horus"."
 # trans = "Hold the Horus-staff."
 # type = Verbal sentence
 1	i҆mḥ	mḥ	VERB	Imp	Mood=Imp	0	root	_	_
@@ -2913,5 +2913,5 @@
 6	m	m	ADP	Cons.state	Case=Ins	7	case	_	_
 7-8	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
 7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
-8	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	fixed	_	_
+8	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	flat	_	_
 
