@@ -2981,3 +2981,21 @@
 10	č̣bꜥ	č̣bꜥ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
 11	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	10	nmod	_	_
 
+# sent_id = UDE-205
+# ref = Pyramid Texts § 49,2a Nt, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) N(i҆).t nč̣r n ⸗k ꜥ ⸗f ꜥ n(.i҆) ḫft(.i҆) ⸗k
+# lit = "Osiris Neith, seize for yourself his arm, the arm of your foe."
+# trans = "Osiris Neith, seize his arm, the arm of your foe."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
+3	nč̣r	nč̣r	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	ꜥ	ꜥ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	8	amod	_	_
+10	ḫft(.i҆)	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Sing	8	nmod	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+
