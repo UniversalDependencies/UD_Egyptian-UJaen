@@ -3086,3 +3086,15 @@
 6	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
 7	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	Gen	Case=Gen|Gender=Fem	6	nmod	_	_
 
+# sent_id = UDE-212
+# ref = Pyramid Texts § 49,7a Nt, Saqqara, 6th Dynasty, rel, OE
+# text = ḫw rč̣ ⸗ś św i҆r ⸗śn
+# lit = "Prevent that she (i.e. Nephthys) will give it (i.e. her hand) towards them."
+# trans = "Prevent her from greeting them (to give the arm = idiom)."
+# type = Verbal sentence
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	rč̣	rč̣i̯	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+5	i҆r	r	ADP	Pron.state	Case=Lat	6	case	_	_
+6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
