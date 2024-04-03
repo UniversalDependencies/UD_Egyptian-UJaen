@@ -2999,3 +2999,19 @@
 10	ḫft(.i҆)	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Sing	8	nmod	_	_
 11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
 
+# sent_id = UDE-206
+# ref = PT § § 49,3a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
+# text = Wśr(.w) N(i҆).t (i҆)m wꜣ ⸗f m-ꜥ ⸗k
+# lit = “Osiris Neith, don't be that he shall go away from you.”
+# trans = “Osiris Neith, don't let him go away from you.”
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
+3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	4	aux	_	_
+4	wꜣ	wꜣi̯	VERB	SFC|Sub|finalcl	Mood=Sub|VerbForm=Fin	0	root	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6-7	m-ꜥ	_	_	_	_	_	_	_	_
+6	m	m	ADP	Cons.state	Case=Abl	8	case	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+
