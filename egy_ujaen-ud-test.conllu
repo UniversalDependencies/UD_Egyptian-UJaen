@@ -3018,13 +3018,13 @@
 # sent_id = UDE-207
 # ref = PT § 49,4a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
 # text = Wśr(.w) N(i҆).t č̣śr.t(i҆) č̣śr.t(i҆) ḥr č̣bꜥ(.wi҆) ⸗f
-# lit = “Osiris Neith, you shall be secluded, you shall be secluded from his two fingers.”
-# trans = “Osiris Neith, you shall be completely secluded from his fingers.”
+# lit = “Osiris Neith, may you be secluded, may you be secluded from his two fingers.”
+# trans = “Osiris Neith, may you be completely secluded from his fingers.”
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
-3	č̣śr.t(i҆)	č̣śr	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-4	č̣śr.t(i҆)	č̣śr	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
+3	č̣śr.t(i҆)	č̣śr	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	č̣śr.t(i҆)	č̣śr	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
 5	ḥr	ḥr	ADP	Cons.state	Case=Abl	6	case	_	_
 6	č̣bꜥ(.wi҆)	č̣bꜥ	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
