@@ -2838,7 +2838,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
 3	śnḫt.n	nḫt	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
-4	⸗k	⸗k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 7	ḫr	ḫr	ADP	Pron.state	Case=Com	8	case	_	_
@@ -2914,4 +2914,22 @@
 7-8	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
 7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
 8	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	flat	_	_
+
+# sent_id = UDE-201
+# ref = PT § 47b Nt, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtm čw m Ḥr.w-ś(i҆) ḥtm ⸗f čw m nčr
+# lit = “Provide yourself with "she which belongs to Horus" in order that it may provide you as a god.”
+# trans = “Provide yourself with the the Horus-staff that it may provide you as a god”
+# type = Verbal sentence
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	m	m	ADP	Cons.state	Case=Ins	4	case	_	_
+4-5	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
+5	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	flat	_	_
+6	ḥtm	ḥtm	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+9	m	m	ADP	Cons.state	Case=Equ	10	case	_	_
+10	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 
