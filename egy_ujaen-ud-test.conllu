@@ -2982,7 +2982,7 @@
 11	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	10	nmod	_	_
 
 # sent_id = UDE-205
-# ref = Pyramid Texts § 49,2a Nt, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 49 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) N(i҆).t nč̣r n ⸗k ꜥ ⸗f ꜥ n(.i҆) ḫft(.i҆) ⸗k
 # lit = "Osiris Neith, seize for yourself his arm, the arm of your foe."
 # trans = "Osiris Neith, seize his arm, the arm of your foe."
@@ -3000,7 +3000,7 @@
 11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
 
 # sent_id = UDE-206
-# ref = PT § 49,3a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
+# ref = PT § 49+1 Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
 # text = Wśr(.w) N(i҆).t (i҆)m wꜣ ⸗f m-ꜥ ⸗k
 # lit = “Osiris Neith, don't be that he shall go away from you.”
 # trans = “Osiris Neith, don't let him go away from you.”
@@ -3016,7 +3016,7 @@
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 
 # sent_id = UDE-207
-# ref = PT § 49,4a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
+# ref = PT § 49+2 Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
 # text = Wśr(.w) N(i҆).t č̣śr.t(i҆) č̣śr.t(i҆) ḥr č̣bꜥ(.wi҆) ⸗f
 # lit = “Osiris Neith, may you be secluded, may you be secluded from his two fingers.”
 # trans = “Osiris Neith, may you be completely secluded from his fingers.”
@@ -3043,7 +3043,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
 # sent_id = UDE-209
-# ref = PT § 49,5a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
+# ref = PT § 49+3 Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
 # text = Wśr(.w) N(i҆).t ꜥnḫ.t(i҆) ꜥnḫ.t(i҆)
 # lit = “Osiris Neith, may you be alive, may you be alive.”
 # trans = “Osiris Neith, may you live!.”
@@ -3054,7 +3054,7 @@
 4	ꜥnḫ.t(i҆)	ꜥnḫ	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
 
 # sent_id = UDE-210
-# ref = Pyramid Texts § 49,6a Nt, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 49+4 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) N(i҆).t m n ⸗k i҆r.t Ḥr.w nḫꜣ.t m ꜥ mś.w ⸗f
 # lit = "Osiris Neith, take for yourself the Eye of Horus which hangs from the arms of his children."
 # trans = "Osiris Neith, take the Eye of Horus which hangs from the hands of his children."
@@ -3073,7 +3073,7 @@
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 
 # sent_id = UDE-211
-# ref = Pyramid Texts § 49,7a Nt, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) N(i҆).t m n ⸗k ꜥ {ḫ}<Nb.t>-ḥw.t
 # lit = "Osiris Neith, take for yourself the arm of Nephthys."
 # trans = "Osiris Neith, take the arm of Nephthys."
@@ -3087,7 +3087,7 @@
 7	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	Gen	Case=Gen|Gender=Fem	6	nmod	_	_
 
 # sent_id = UDE-212
-# ref = Pyramid Texts § 49,7a Nt, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = ḫw rč̣ ⸗ś św i҆r ⸗śn
 # lit = "Prevent that she (i.e. Nephthys) will give it (i.e. her hand) towards them."
 # trans = "Prevent her from greeting them (to give the arm = idiom)."
@@ -3098,3 +3098,24 @@
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 5	i҆r	r	ADP	Pron.state	Case=Lat	6	case	_	_
 6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-213
+# ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
+# text = npč̣ ꜥḥꜥ pf
+# lit = "Slay that one who has stood up."
+# trans = "Slay that rebel."
+# type = Verbal sentence
+1	npč̣	npč̣	VERB	Imp	Mood=Imp	0	root	_	_
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+
+# sent_id = UDE-214
+# ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
+# text = Č̣ḥw.ti҆ i҆n św 
+# lit = "Thoth, bring him."
+# trans = "Thoth, get him."
+# type = Verbal sentence
+1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
