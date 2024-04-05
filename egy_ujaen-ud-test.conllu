@@ -3243,14 +3243,39 @@
 12	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
 # sent_id = UDE-224
-# ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE, cf. Gardiner 1957 (EG): § 503.4
+# ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 1984: 24 (§ 41) and Gardiner 1957 (EG): § 503.4
 # text = mrḥ.t mrḥ.t čni҆ wn ⸗č
 # lit = "Ointment, ointment, where is (it) that you exist?."
 # trans = "Ointment, ointment, where do you exist? / where are you?."
-# type = Verbal sentence
+# type = Interrogative sentence
 1	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	_
 2	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
 3	čni҆	čni҆	ADV	_	PronType=Int	4	advmod	_	_
 4	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+
+# sent_id = UDE-225
+# ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 1984: 24 (§ 41) and Gardiner 1957 (EG): § 503.4
+# text = i҆m.(i҆)t ḥꜣ.t Ḥr.w čni҆ wn ⸗č
+# lit = "The one which is on the forehead of Horus, where is (it) that you exist?."
+# trans = "You on the forehead of Horus, where do you exist? / where are you?."
+# type = Interrogative sentence
+1	i҆m.(i҆)t	m	NOUN	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	5	vocative	_	_
+2	ḥꜣ.t	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
+3	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	čni҆	čni҆	ADV	_	PronType=Int	5	advmod	_	_
+5	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+
+# sent_id = UDE-226
+# ref = Pyramid Texts § 52b W, Saqqara, 5th Dynasty, rel, OE, emended according to N.
+# text = wn ⸗č m <ḥꜣ.t> Ḥr.w
+# lit = "You exist (certainly) on the <forehead> of Horus."
+# trans = "It is on the <forehead> of Horus where you are."
+# type = Cleft sentence with adverbial focus
+1	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.state	Case=Loc	4	case	_	_
+4	<ḥꜣ.t>	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
 
