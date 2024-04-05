@@ -3185,7 +3185,7 @@
 3	mḥ.n	mḥ	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin	0	root	_	_
 4	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.state	Case=Ben	6	case	_	_
-6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2	3	obl	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 7	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	m	m	ADP	Cons.state	Case=Ins	10	case	_	_
@@ -3292,4 +3292,17 @@
 5	ḥꜣ.t	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	_
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+
+# sent_id = UDE-228
+# ref = Pyramid Texts § 52c W, Saqqara, 5th Dynasty, rel, OE
+# text = śnč̣m ⸗č n ⸗f ẖr(.i҆) ⸗č
+# lit = “You shall make (it) pleasant for him who is under you.”
+# trans = “You shall make (it) pleasant for him who has you.”
+# type = Verbal sentence
+1	śnč̣m	śnč̣m	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+5	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	4	appos	_	_
+6	⸗č	č	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
