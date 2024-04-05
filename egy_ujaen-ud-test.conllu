@@ -3119,3 +3119,13 @@
 2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
+# sent_id = UDE-215
+# ref = Pyramid Texts § 49+7a Nt, Saqqara, 6th Dynasty, rel, OE
+# text = čwt i҆r(.i҆) ⸗f
+# lit = "You are the one he belongs to."
+# trans = "You are a part of him."
+# type = Nominal sentence (i҆nk)
+1	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+
