@@ -3129,3 +3129,16 @@
 2	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
+# sent_id = UDE-216
+# ref = Pyramid Texts § 49+8 Nt, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) N(i҆).t nč̣r n ⸗k św
+# lit = "Osiris Neith, seize him for yourself."
+# trans = "Osiris Neith, seize him."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	1	appos	_	_
+3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+
