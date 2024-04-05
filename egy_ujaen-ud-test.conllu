@@ -3279,3 +3279,17 @@
 4	<ḥꜣ.t>	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
 5	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
 
+# sent_id = UDE-227
+# ref = Pyramid Texts § 52b W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭṭ (⸗i҆) č<m> m ḥꜣ.t Wni҆ś pn
+# lit = "(I) put you (certainly) on the forehead of this Unas."
+# trans = "It is on the forehead of this Unas where (I) will put you."
+# type = Cleft sentence with adverbial focus
+1	ṭṭ	wṭi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	č<m>	čm	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+4	m	m	ADP	Cons.state	Case=Loc	5	case	_	_
+5	ḥꜣ.t	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+
