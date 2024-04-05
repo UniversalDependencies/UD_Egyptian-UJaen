@@ -3304,7 +3304,7 @@
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
 5	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	4	appos	_	_
-6	⸗č	č	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+6	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-229
 # ref = Pyramid Texts § 52c W, Saqqara, 5th Dynasty, rel, OE
@@ -3316,5 +3316,19 @@
 2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 4	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	3	appos	_	_
-5	⸗č	č	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+5	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+
+# sent_id = UDE-230
+# ref = Pyramid Texts § 53a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗č śḫm ⸗f m č̣.t ⸗f
+# lit = “You shall cause in order that he may have power in his body.”
+# trans = “You shall cause him to have control of his body.”
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	śḫm	śḫm	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
+6	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
