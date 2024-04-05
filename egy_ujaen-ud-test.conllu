@@ -3242,3 +3242,15 @@
 11	i҆m	m	ADP	Pron.state	Case=Ins	12	case	_	_
 12	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
+# sent_id = UDE-224
+# ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE, cf. Gardiner 1957 (EG): § 503.4
+# text = mrḥ.t mrḥ.t čni҆ wn ⸗č
+# lit = "Ointment, ointment, where is (it) that you exist?."
+# trans = "Ointment, ointment, where do you exist? / where are you?."
+# type = Verbal sentence
+1	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	_
+2	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
+3	čni҆	čni҆	ADV	_	PronType=Int	4	advmod	_	_
+4	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+
