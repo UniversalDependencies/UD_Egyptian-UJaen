@@ -3143,7 +3143,7 @@
 6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 
 # sent_id = UDE-217
-# ref = Pyramid Texts § 49+8 Nt, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 49+8a Nt, Saqqara, 6th Dynasty, rel, OE
 # text = i҆s(i҆) ẖr Wśr(.w) N(i҆).t
 # lit = “Go under Osiris Neith.”
 # trans = “Go under Osiris Neith.”
@@ -3152,4 +3152,13 @@
 2	ẖr	ẖr	ADP	Cons.state	Case=Sub	3	case	_	_
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	obl	_	_
 4	N(i҆).t	N(i҆).t	PROPN	_	Gender=Masc	3	appos	_	_
+
+# sent_id = UDE-218
+# ref = Pyramid Texts § 49+8b Nt, Saqqara, 6th Dynasty, rel, OE
+# text = i҆nk Gb(b)
+# lit = "I am Geb."
+# trans = "I am Geb."
+# type = Nominal sentence (i҆nk)
+1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	Gb(b)	Gbb	PROPN	_	Gender=Masc	0	root	_	_
 
