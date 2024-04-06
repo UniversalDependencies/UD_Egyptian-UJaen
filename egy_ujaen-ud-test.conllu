@@ -3413,7 +3413,7 @@
 11	wč̣ꜣ.t	wč̣ꜣ	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 
 # sent_id = UDE-235
-# ref = Pyramid Texts § 55b N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 55b-c N, Saqqara, 6th Dynasty, rel, OE
 # text = Ḥr.w i҆m(.i҆) Wśr(.w) Ppy pn śṭm n ⸗k ś(i҆) i҆r ḥr ⸗k śṭm.n Ḥr.w i҆r.t ⸗f wč̣ꜣ.t
 # lit = "Horus who is Osiris, this Pepi, paint it yourself on your face after Horus painted his uninjured Eye."
 # trans = "Horus who is this Osiris Pepi, paint it on your face, for Horus painted his uninjured Eye."
@@ -3436,3 +3436,11 @@
 16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
 17	wč̣ꜣ.t	wč̣ꜣ	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 
+# sent_id = UDE-236
+# ref = Pyramid Texts § 55d N, Saqqara, 6th Dynasty, rel, OE
+# text = hꜣ Ppy pw śṭm ⸗i҆ n ⸗k i҆r.t ⸗k r ḥr ⸗k wč̣ꜣ.t mꜣ ⸗k i҆m ⸗ś{n}
+# lit = "Ho, this Pepi! I shall paint for you your eye on your face being uninjured so that you may see with it."
+# trans = "Ho, this Pepi! I shall paint for you your uninjured eye on your face so that you may see with it."
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	4	dislocated	_	_
