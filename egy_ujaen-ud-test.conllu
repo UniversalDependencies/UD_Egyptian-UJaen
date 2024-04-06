@@ -549,7 +549,7 @@
 2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-5	ꜥḳ.t(i҆)	ꜥḳ	VERB	VerbForm=Part	Tense=Fut|VerbForm=Fin	0	root	_	_
+5	ꜥḳ.t(i҆)	ꜥḳ	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 7	r	r	ADP	Cons.state	Case=Ill	8	case	_	_
 8	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
@@ -3331,4 +3331,29 @@
 5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
 6	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-231
+# ref = Pyramid Texts § 53a-b N, Saqqara, 6th Dynasty, rel, OE
+# text = č̣ ⸗č šꜥ.t ⸗f m i҆r(.ti҆) ꜣḫ(.w) nb(.w) mꜣꜣ.ti҆ ⸗śn n ⸗f śč̣m.t(i҆) ⸗f nb rn ⸗f i҆śč
+# lit = “You shall give his terror in the eyes of all the spirits who will look at him and of everyone who will hear his name.”
+# trans = “You shall put his terror in the eyes of all the spirits who will look at him and of everyone who will hear his name.”
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	šꜥ.t	šꜥ.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	m	m	ADP	Cons.state	Case=Loc	6	case	_	_
+6	i҆r(.ti҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
+7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+9	mꜣꜣ.ti҆	mꜣꜣ	VERB	_	Tense=Fut|VerbForm=Part	7	acl	_	_
+10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+11	n	n	ADP	Pron.state	Case=Acc	12	case	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+13	śč̣m.t(i҆)	śč̣m	VERB	NOUN|Case=Gen	Tense=Fut|VerbForm=Part	6	conj	_	_
+14	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	nb	nb	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+16	rn	rn	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
+17	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
+18	i҆śč	i҆śč	CCONJ	_	_	13	cc	_	_
 
