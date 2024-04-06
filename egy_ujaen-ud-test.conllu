@@ -3460,3 +3460,14 @@
 16	i҆m	m	ADP	Pron.state	Case=Ins	17	case	_	_
 17	⸗ś{n}	⸗ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 
+# sent_id = UDE-237
+# ref = Pyramid Texts § 56a W, Saqqara, 5th Dynasty, rel, OE
+# text = rś ⸗č m ḥtp
+# lit = “May you awake in peace.”
+# trans = “May you awake in peace.”
+# type = Verbal sentence
+1	rś	rś	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.state	Case=Ess	4	case	_	_
+4	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
