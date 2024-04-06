@@ -3357,3 +3357,21 @@
 17	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 18	i҆śč	i҆śč	CCONJ	_	_	13	cc	_	_
 
+# sent_id = UDE-232
+# ref = Pyramid Texts § 54a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś i҆n(.n) (⸗i҆) i҆r.t Ḥr.w i҆č.tn ⸗f r ḥꜣ.t ⸗k
+# lit = "Osiris Unas, (I) brought to you the Eye of Horus which he took to your forehead."
+# trans = "Osiris Unas, I bring to you the Eye of Horus which he has taken to your forehead."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	i҆n(.n)	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root
+4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+7	i҆č.tn	i҆či̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	r	r	ADP	Cons.state	Case=Lat	10	case	_	_
+10	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+
