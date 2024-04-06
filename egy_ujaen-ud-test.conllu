@@ -3379,7 +3379,7 @@
 # ref = Pyramid Texts § 54c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś śṭm (⸗i҆) n ⸗k i҆r.t Ḥr.w wč̣ꜣ.t r ḥr ⸗k
 # lit = "Osiris Unas, (I) shall paint the uninjured Eye of Horus on your face for you."
-# trans = "Osiris Unas, (I) shall make up the uninjured Eye of Horus on your face."
+# trans = "Osiris Unas, (I) shall paint the uninjured Eye of Horus on your face."
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
@@ -3414,9 +3414,9 @@
 
 # sent_id = UDE-235
 # ref = Pyramid Texts § 55b N, Saqqara, 6th Dynasty, rel, OE
-# text = Ḥr.w i҆m(.i҆) Wśr(.w) Ppy pn śṭm n ⸗k ś(i҆) i҆r ḥr ⸗k
-# lit = "Horus who is Osiris, this Pepi, make up it yourself on your face."
-# trans = "Horus who is this Osiris Pepi, make up it on your face."
+# text = Ḥr.w i҆m(.i҆) Wśr(.w) Ppy pn śṭm n ⸗k ś(i҆) i҆r ḥr ⸗k śṭm.n Ḥr.w i҆r.t ⸗f wč̣ꜣ.t
+# lit = "Horus who is Osiris, this Pepi, paint it yourself on your face after Horus painted his uninjured Eye."
+# trans = "Horus who is this Osiris Pepi, paint it on your face, for Horus painted his uninjured Eye."
 # type = Verbal sentence
 1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	6	vocative	_	_
 2	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	1	amod	_	_
@@ -3430,4 +3430,9 @@
 10	i҆r	r	ADP	Cons.state	Case=Loc	11	case	_	_
 11	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	śṭm.n	śṭm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+14	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	13	nsubj	_	_
+15	i҆r.t	i҆r.t	NOUN	Obj	Gender=Fem|Number=Sing	13	obj	_	_
+16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+17	wč̣ꜣ.t	wč̣ꜣ	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 
