@@ -630,7 +630,7 @@
 # type = Cleft sentence with adverbial focus
 1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
+3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
 5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
@@ -3519,4 +3519,29 @@
 5	n.t	n.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
 6	m	m	ADP	Cons.state	Case=Ess	7	case	_	_
 7	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-242
+# ref = Pyramid Texts § 56c-57d N, Saqqara, 6th Dynasty, rel, OE
+# text = šsp.t i҆r.wt śškr.t wr-ꜥ č̣ ⸗č kś tꜣ(.wi҆) n Ppy pn i҆mr kś.w ⸗śn n Ḥr.w
+# lit = “The one who receives the doers, the one who adorns the Great One of Arm, you shall cause in order that the Two Lands may bow to this Pepi as they will bow to Horus.”
+# trans = “The one who receives the women of action, the one who adorns the Great carrying chair, you shall cause the Two Lands to bow to this Pepi as they will bow to Horus.”
+# type = Verbal sentence
+1	šsp.t	šsp	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	dislocated	_	_
+2	i҆r.wt	i҆ri̯	NOUN	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nmod	_	_
+3	śškr.t	śškr	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	1	conj	_	_
+4-5	wr-ꜥ	_	_	_	_	_	_	_	_
+4	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+5	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	4	fixed	_	_
+6	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	kś	kśi̯	VERB	SFC|Sub	Mood=Sub|Finalcl	6	advcl	_	_
+9	tꜣ(.wi҆)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	8	nsubj	_	_
+10	n	n	ADP	Cons.state	Case=Ben	11	case	_	_
+11	Ppy	Ppy	PROPN	_	Gender=Masc	8	obl	_	_
+12	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
+13	i҆mr	mr	ADP	Cons.state	Case=Equ	14	mark	_	_
+14	kś.w	kśi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	8	advcl	_	_
+15	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	_
+16	n	n	ADP	Cons.state	Case=Ben	17	case	_	_
+17	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	14	obl	_	_
 
