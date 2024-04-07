@@ -3645,3 +3645,15 @@
 4	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	3	appos	_	_
 5	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-248
+# ref = Pyramid Texts § 58b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr.n ⸗f ẖr i҆r.t Ḥr.w
+# lit = "He came forth (certainly) under the Eye of Horus."
+# trans = "It is with the Eye of Horus that he came forth."
+# type = Cleft sentence with adverbial focus
+1	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ẖr	ẖr	ADP	Cons.state	Case=Sub	4	case	_	_
+4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+
