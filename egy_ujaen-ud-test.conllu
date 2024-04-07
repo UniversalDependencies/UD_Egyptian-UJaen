@@ -3717,3 +3717,13 @@
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 
+# sent_id = UDE-253
+# ref = Pyramid Texts § 59c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp ḥr ⸗ś
+# lit = "Be satisfied with it."
+# trans = "Be satisfied with it."
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	ADP	Pron.state	Case=Ins	3	case	_	_
+3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
