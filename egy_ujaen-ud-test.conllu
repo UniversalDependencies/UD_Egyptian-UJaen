@@ -3776,3 +3776,19 @@
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 
+# sent_id = UDE-258
+# ref = Pyramid Texts § 60c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w i҆tḥ.tn ⸗f
+# lit = "Osiris Unas, take for yourself the Eye of Horus which he (i.e. Seth) pulled out."
+# trans = "Osiris Unas, take the Eye of Horus with which he pulled out."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
+8	i҆tḥ.tn	i҆tḥ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	6	acl	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+
