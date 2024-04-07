@@ -3578,7 +3578,7 @@
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
 # sent_id = UDE-245
-# ref = Pyramid Texts § 57c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 57c-d W, Saqqara, 5th Dynasty, rel, OE
 # text = wp ⸗č wꜣ.t ⸗f ḫnt ꜣḫ(.w) ꜥḥꜥ ⸗f ḫnt ꜣḫ(.w) I҆np.w i҆ś ḫnt(.i҆) i҆mn.t(i҆)w
 # lit = “You shall part his path at the head of the spirits that he may stand at the head of the spirits as Anubis who presides over the Westerners.”
 # trans = “You shall open his path at the head of the spirits that he may stand at the head of the spirits as Anubis who presides over the Westerners.”
@@ -3597,4 +3597,17 @@
 12	i҆ś	i҆ś	ADP	Cons.state	Case=Equ	11	case	_	_
 13	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	11	amod	_	_
 14	i҆mn.t(i҆)w	i҆mn	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+
+# sent_id = UDE-246
+# ref = Pyramid Texts § 57e W, Saqqara, 5th Dynasty, rel, OE
+# text = r ḥꜣ.t r ḥꜣ.t ḫr Wśr(.w)
+# lit = “To the front! To the front, with Osiris!”
+# trans = “To the front! To the front, with Osiris!”
+# type = Adverbial phrase (the subject is elided)
+1	r	r	ADP	Cons.state	Case=Lat	2	case	_	_
+2	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+3	r	r	ADP	Cons.state	Case=Lat	4	case	_	_
+4	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
+5	ḫr	ḫr	ADP	Cons.state	Case=Com	6	case	_	_
+6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	0	root	_	_
 
