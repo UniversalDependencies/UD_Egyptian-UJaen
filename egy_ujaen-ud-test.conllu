@@ -3563,3 +3563,17 @@
 10	n	n	ADP	Cons.state	Case=Acc	11	case	_	_
 11	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	8	obj	_	_
 
+# sent_id = UDE-244
+# ref = Pyramid Texts § 57c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥmś ⸗č ḫft Wni҆ś m nčr ⸗f
+# lit = “You shall sit in front of Unas as his god.”
+# trans = “You shall sit in front of Unas as his god.”
+# type = Verbal sentence
+1	ḥmś	ḥmśi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḫft	ḫft	ADP	Cons.state	Case=Loc	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
+5	m	m	ADP	Cons.state	Case=Equ	6	case	_	_
+6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
