@@ -3903,7 +3903,7 @@
 
 # sent_id = UDE-264
 # ref = Pyramid Texts § 62b W, Saqqara, 5th Dynasty, rel, OE
-# text = fꜣ ḥr ⸗k Wni҆ś pw wꜣš śpṭ mꜣ ⸗k n pr.t i҆m ⸗k 
+# text = fꜣ ḥr ⸗k Wni҆ś pw wꜣš śpṭ mꜣ ⸗k n pr.t i҆m ⸗k
 # lit = "Lift your face, this Unas, who is strong and effective, in order that you may look at that which came from you."
 # trans = "Stand up straight, O strong and effective Unas, that you may look at that which has come from you."
 # type = Verbal sentence
@@ -3920,4 +3920,14 @@
 11	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Neut|Number=Sing	8	obj	_	_
 12	i҆m	m	ADP	Pron.state	Case=Ela	13	case	_	_
 13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	_
+
+# sent_id = UDE-265
+# ref = Pyramid Texts § 63a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ꜥ kw Wni҆ś
+# lit = "Wash yourself, Unas."
+# trans = "Wash yourself, Unas."
+# type = Verbal sentence
+1	i҆ꜥ	i҆ꜥi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
 
