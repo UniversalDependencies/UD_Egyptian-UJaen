@@ -4039,3 +4039,23 @@
 12	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
 13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	9	obl	_	_
 
+# sent_id = UDE-272
+# ref = Pyramid Texts § 65c N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ {i҆r.t} <r>č̣.n n ⸗k Ḥr.w i҆r.t ⸗f m ꜥ ⸗k
+# lit = “Osiris Pepi Neferkare, {Eye} Horus gave his eye (certainly) in your hand for you.”
+# trans = “Osiris Pepi Neferkare, it was into your hand that Horus put his eye for you.”
+# type = Cleft sentence with adverbial focus
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	dislocated	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	{i҆r.t}	{i҆r.t}	X	_	Typo=Yes	5	dep	_	_
+5	<r>č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	n	n	ADP	Pron.state	Case=Dat	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	5	iobj	_	_
+8	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	nsubj	_	_
+9	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	m	m	ADP	Cons.state	Case=Loc	12	case	_	_
+12	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
+
