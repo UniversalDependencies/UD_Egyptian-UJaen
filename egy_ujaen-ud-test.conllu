@@ -3869,3 +3869,35 @@
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	vocative	_	_
 
+# sent_id = UDE-263
+# ref = Pyramid Texts § 62a W, Saqqara, 5th Dynasty, rel, OE
+# text = fꜣ ḥr ⸗k hꜣ Wni҆ś pw si҆ ꜣḫ ⸗f
+# lit = "Lift your face, O this Unas, whose spirit went."
+# trans = "Stand up straight, O Unas, whose spirit has gone."
+# type = Verbal sentence
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	hꜣ	hꜣ	INTJ	_	_	5	discourse	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	si҆	si҆	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	_	_
+8	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
+# sent_id = UDE-263a
+# ref = Pyramid Texts § 62a W, Saqqara, 5th Dynasty, rel, OE
+# text = fꜣ ḥr ⸗k hꜣ Wni҆ś pw si҆ ꜣḫ ⸗f
+# lit = "Lift your face, O this Unas, who went being a spirit."
+# trans = "Stand up straight, O Unas, who has gone being a spirit."
+# type = Verbal sentence
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	hꜣ	hꜣ	INTJ	_	_	5	discourse	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	si҆	si҆	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	_
+8	ꜣḫ	ꜣḫ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	7	advcl	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+
