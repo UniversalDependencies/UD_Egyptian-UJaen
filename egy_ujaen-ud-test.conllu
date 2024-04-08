@@ -4125,3 +4125,12 @@
 10	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 
+# sent_id = UDE-277
+# ref = Pyramid Texts § 69c N, Saqqara, 6th Dynasty, rel, OE
+# text = nč̣r śn
+# lit = "Seize them."
+# trans = "Seize them."
+# type = Verbal sentence
+1	nč̣r	nč̣r	VERB	Imp	Mood=Imp	0	root	_	_
+2	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	1	obj	_	_
+
