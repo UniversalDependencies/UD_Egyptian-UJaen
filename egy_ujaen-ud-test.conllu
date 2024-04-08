@@ -420,7 +420,7 @@
 8	m	m	ADP	Cons.state	Case=Loc	9	case	_	_
 9	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 10	nb(.t)	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
-11	hꜣb.tn	hꜣb	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
+11	hꜣb.tn	hꜣb	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
 12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 13	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 14	i҆m	m	ADP	Pron.state	Case=Loc	15	case	_	_
@@ -566,13 +566,13 @@
 # trans = “Teti is (my) eldest son who came from (my) womb.”
 # type = Nominal sentence (A pw B)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 6	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
 7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	_
-8	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
+8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-45
 # ref = Pyramid Texts § 1b T, Saqqara, 6th Dynasty, rel, OE
@@ -581,10 +581,10 @@
 # trans = “He is (my) beloved, with whom I am content.”
 # type = Nominal sentence (A pw)
 1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
-4	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
-5	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 6	ḥr	ḥr	ADP	Pron.state	Case=Cau	7	case	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
@@ -599,7 +599,7 @@
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
 5	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	1	nmod	_	_
-6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-47
 # ref = Pyramid Texts § 2a-b T, Saqqara, 6th Dynasty, rel, OE
@@ -608,16 +608,16 @@
 # trans = “Teti is (my) son, (my) beloved, the firstborn on Geb's throne, with whom he (i.e. Geb) is content.”
 # type = Nominal sentence (A pw B)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 5	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	1	appos	_	_
-6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
 8	ḥr	ḥr	ADP	Cons.state	Case=Loc	9	case	_	_
 9	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	_
 10	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	_
-11	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+11	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
 12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 13	ḥr	ḥr	ADP	Pron.state	Case=Cau	14	case	_	_
 14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
@@ -716,11 +716,11 @@
 # trans = “Teti is (my) beloved, (my) son.”
 # type = Nominal sentence (A pw B)
 1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
-6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-54
 # ref = Pyramid Texts § 4b T, Saqqara, 6th Dynasty, rel, OE
@@ -802,7 +802,7 @@
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
 5	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	1	nmod	_	_
-6	(⸗i҆)	⸗i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-60
 # ref = Pyramid Texts § 5b T, Saqqara, 6th Dynasty, rel, OE
@@ -1097,7 +1097,7 @@
 11	[Ppy]	Ppy	PROPN	_	Gender=Masc	9	nmod	_	_
 12	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 13	m	m	ADP	Cons.state	Case=Ins	14	case	_	_
-14	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+14	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 16	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	14	obj	_	_
 17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
@@ -1106,7 +1106,7 @@
 20	i҆m	m	ADP	Pron.state	Case=Ins	21	case	_	_
 21	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 22	m	m	ADP	Cons.state	Case=Ins	23	case	_	_
-23	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+23	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 24	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 25	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	23	obj	_	_
 26	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
@@ -1479,7 +1479,7 @@
 12	m	m	ADP	Cons.state	Case=Equ	13	case	_	_
 13	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	obl	_	_
 14	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	13	nmod	_	_
-15	pč̣.tn	pč̣	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	13	acl	_	_
+15	pč̣.tn	pč̣	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	13	acl	_	_
 16	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
 17	m	m	ADP	Cons.state	Case=Ins	18	case	_	_
 18	śč	śč	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
@@ -3379,7 +3379,7 @@
 4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
-7	i҆č.tn	i҆či̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	_	_
+7	i҆č.tn	i҆či̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	r	r	ADP	Cons.state	Case=Lat	10	case	_	_
 10	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -4017,4 +4017,25 @@
 6	św.t(i҆)t	św.ti҆t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
 8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
+
+# sent_id = UDE-271
+# ref = Pyramid Texts § 65b N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ i҆r.t tn tw n.t Ḥr.w ṭbḥ.tn ⸗f m-ꜥ Śtẖ
+# lit = “Osiris Pepi Neferkare, this Eye of Horus which he demanded from Seth is this.”
+# trans = “Osiris Pepi Neferkare, this is this Eye of Horus which he demanded from Seth.”
+# type = Nominal sentence (A pw)
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+6	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	_
+7	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	4	amod	_	_
+8	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	nmod	_	_
+9	ṭbḥ.tn	ṭbḥ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	4	acl	_	_
+10	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11-12	m-ꜥ	_	_	_	_	_	_	_	_
+11	m	m	ADP	Cons.state	Case=Abl	13	case	_	_
+12	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
+13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	9	obl	_	_
 
