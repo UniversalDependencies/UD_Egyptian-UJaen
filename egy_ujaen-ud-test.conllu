@@ -4062,7 +4062,7 @@
 
 # sent_id = UDE-273
 # ref = Pyramid Texts § 66a N, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ hꜣ č̣.n (⸗i҆) n ⸗k i҆r.t Ḥr.w
+# text = č̣.n (⸗i҆) n ⸗k i҆r.t Ḥr.w
 # lit = “Osiris Pepi Neferkare, oh! (I) gave you the Eye of Horus.”
 # trans = “Osiris Pepi Neferkare, oh! (I) gave you the Eye of Horus.”
 # type = Verbal sentence
@@ -4076,4 +4076,21 @@
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
 9	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	obj	_	_
 10	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	_
+
+# sent_id = UDE-274
+# ref = Pyramid Texts § 66a N, Saqqara, 6th Dynasty, rel, OE, cf. Edel 1955/1964: 294 (§ 607)
+# text = i҆m n (⸗i҆) ꜥ ⸗k č̣ (⸗i҆) n ⸗k ś(i҆)
+# lit = "Give (me) your arm that (I) may give it to you."
+# trans = "Give (me) your hand that (I) may give it to you."
+# type = Verbal sentence 
+1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
+3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+4	ꜥ	ꜥ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Pron.state	Case=Dat	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
+10	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 
