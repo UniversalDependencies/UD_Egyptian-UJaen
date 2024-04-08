@@ -3901,3 +3901,23 @@
 8	ꜣḫ	ꜣḫ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	7	advcl	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 
+# sent_id = UDE-264
+# ref = Pyramid Texts § 62b W, Saqqara, 5th Dynasty, rel, OE
+# text = fꜣ ḥr ⸗k Wni҆ś pw wꜣš śpṭ mꜣ ⸗k n pr.t i҆m ⸗k 
+# lit = "Lift your face, this Unas, who is strong and effective, in order that you may look at that which came from you."
+# trans = "Stand up straight, O strong and effective Unas, that you may look at that which has come from you."
+# type = Verbal sentence
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
+5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	wꜣš	wꜣš	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+7	śpṭ	śpṭ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+8	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	n	n	ADP	Cons.state	Case=Acc	11	case	_	_
+11	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Neut|Number=Sing	8	obj	_	_
+12	i҆m	m	ADP	Pron.state	Case=Ela	13	case	_	_
+13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	_
+
