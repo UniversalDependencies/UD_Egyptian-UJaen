@@ -938,7 +938,7 @@
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 
 # sent_id = UDE-69
-# ref = PT § 11a N, Saqqara, 6th Dynasty, rel, OE
+# ref = PT § 11a|69a N, Saqqara, 6th Dynasty, rel, OE
 # text = i҆nk Ḥr.w
 # lit = “I am Horus.”
 # trans = “I am Horus.”
@@ -4093,4 +4093,35 @@
 8	n	n	ADP	Pron.state	Case=Dat	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	iobj	_	_
 10	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+
+# sent_id = UDE-275
+# ref = PT § 69a N, Saqqara, 6th Dynasty, rel, OE
+# text =  hꜣ Ppy pw i҆nk sꜣ ⸗k
+# lit = “O this Pepi, I am your son.”
+# trans = “O this Pepi, I am your son.”
+# type = Nominal sentence (i҆nk)
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	dislocated	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-276
+# ref = Pyramid Texts § 69b N, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w.n (⸗i҆) i҆n (⸗i҆) n ⸗k i҆r.t(i҆) Ḥr.w n.t č̣.t ⸗f
+# lit = "(I) came (certainly) in order that (I) may bring you Horus's two eyes of his body."
+# trans = "It is to bring you Horus's two eyes of his body that (I) have come."
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	i҆n	i҆ni̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Dual	3	obj	_	_
+8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
+9	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+10	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 
