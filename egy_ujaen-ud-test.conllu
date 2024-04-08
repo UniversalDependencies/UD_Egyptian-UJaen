@@ -4003,3 +4003,18 @@
 6	i҆m	m	ADP	Pron.state	Case=Abl	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 
+# sent_id = UDE-270
+# ref = Pyramid Texts § 64d W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś m n ⸗k św.t(i҆)t i҆r.t Ḥr.w
+# lit = "Osiris Unas, take for yourself the full equivalent (?) of the Eye of Horus."
+# trans = "Osiris Unas, take the full equivalent (?) of the Eye of Horus."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+6	św.t(i҆)t	św.ti҆t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+7	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
+
