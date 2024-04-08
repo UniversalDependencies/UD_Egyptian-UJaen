@@ -3989,3 +3989,17 @@
 10	ḥr	ḥr	ADP	Pron.state	Case=Ins	11	case	_	_
 11	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
+# sent_id = UDE-269
+# ref = Pyramid Texts § 64c N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtm kw m ḥnḳ pr i҆m ⸗k
+# lit = "Provide yourself with the ferment that came from you."
+# trans = "Provide yourself with the ferment that came from you."
+# type = Verbal sentence
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	m	m	ADP	Cons.state	Case=Ins	4	case	_	_
+4	ḥnḳ	ḥnḳ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+6	i҆m	m	ADP	Pron.state	Case=Abl	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+
