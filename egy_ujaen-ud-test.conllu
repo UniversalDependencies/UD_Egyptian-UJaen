@@ -4213,7 +4213,7 @@
 # lit = “Osiris Unas, (I) brought to you those that resemble your face.”
 # trans = “Osiris Unas, (I) bring to you those that resemble you.”
 # type = Verbal sentence
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
 3	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -4222,4 +4222,29 @@
 7	nḥr(.w)	nḥr	NOUN	VerbForm=Part|Tense=Pres|Voice=Act	Gender=Masc|Number=Plur	3	obj	_	_
 8	ḥr	ḥr	NOUN	MWE	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 9	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
+
+# sent_id = UDE-284
+# ref = PT § 74a W, Saqqara, 5th Dynasty, rel, OE, see Allen 1985: § 456 A.
+# text = Wśr(.w) Wni҆ś (w)ṭi҆.n (⸗i҆) i҆r.t ⸗k
+# lit = “Osiris Unas, (I) set your eye.”
+# trans = “Osiris Unas, (I) have set your eye in place.”
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	(w)ṭi҆.n	wṭi̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	i҆r.t	i҆r.t	NOUN	MWE	Gender=Fem|Number=Sing	3	obj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-285
+# ref = Pyramid Texts § 74e W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫw pꜣs ⸗f ḥr ⸗ś
+# lit = "Prevent that he will suffer because of it."
+# trans = "Prevent him from suffering because of it."
+# type = Verbal sentence
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	pꜣs	pꜣs	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ḥr	ḥr	ADP	Pron.state	Case=Cau	5	case	_	_
+5	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
