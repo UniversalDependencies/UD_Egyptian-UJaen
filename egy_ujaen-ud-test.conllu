@@ -1177,13 +1177,13 @@
 
 # sent_id = UDE-83
 # ref = Pyramid Texts § 15 N, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) Ppy i҆n.<n> (⸗i҆) n ⸗k sꜣ ⸗k mrr.w ⸗k wp rʾ ⸗k
+# text = Wśr(.w) Ppy i҆n<.n> (⸗i҆) n ⸗k sꜣ ⸗k mrr.w ⸗k wp rʾ ⸗k
 # lit = "Osiris Pepi, (now) (I) brought to you your son, whom you love, who parted your mouth."
 # trans = "Osiris Pepi, (I) bring to you your son, whom you love, and who parted your mouth."
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆n.<n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
@@ -2188,11 +2188,11 @@
 
 # sent_id = UDE-151
 # ref = Pyramid Texts § 31a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆n.<n> (⸗i҆) n ⸗k ś(i҆) (w)ṭ (⸗i҆) n ⸗k ś(i҆) m rʾ ⸗k
+# text = i҆n<.n> (⸗i҆) n ⸗k ś(i҆) (w)ṭ (⸗i҆) n ⸗k ś(i҆) m rʾ ⸗k
 # lit = "(I) brought it to you (certainly) in order that (I) may put it for you in your mouth."
 # trans = "It is to put it in your mouth that (I) have brought it to you."
 # type = Verbal sentence
-1	i҆n.<n>	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Dat	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
@@ -4215,7 +4215,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆n.<n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
