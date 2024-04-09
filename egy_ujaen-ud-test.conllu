@@ -4480,8 +4480,8 @@
 # sent_id = UDE-302
 # ref = Pyramid Texts § 83c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w (i҆)m.(i҆)t ḥꜣ.t ⸗f
-# lit = "Osiris Unas, take for yourself the Eye of Horus which is in front of him."
-# trans = "Osiris Unas, take the Eye of Horus which is in front of him."
+# lit = "Osiris Unas, take for yourself the Eye of Horus which was in his forehead."
+# trans = "Osiris Unas, take the Eye of Horus which was in front of him."
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
@@ -4490,7 +4490,8 @@
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
+8-9	(i҆)m.(i҆)t ḥꜣ.t	_	_	_	_	_	_	_	_
 8	(i҆)m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	6	amod	_	_
-9	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+9	ḥꜣ.t	ḥꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	8	compound	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 
