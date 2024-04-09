@@ -4379,3 +4379,13 @@
 9	ḥč̣.w	ḥč̣	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
 10	wč̣ꜣ.w	wč̣ꜣ.w	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
 
+# sent_id = UDE-295
+# ref = Pyramid Texts § 80a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś i҆bꜣ
+# lit = "Osiris Unas, dance."
+# trans = "Osiris Unas, dance!."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	i҆bꜣ	i҆bꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+
