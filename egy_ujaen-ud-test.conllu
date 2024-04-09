@@ -4389,3 +4389,17 @@
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
 3	i҆bꜣ	i҆bꜣ	VERB	Imp	Mood=Imp	0	root	_	_
 
+# sent_id = UDE-296
+# ref = PT § 80a W, Saqqara, 5th Dynasty, rel, OE
+# text = n i҆sf Gb(b) m i҆wꜥ ⸗f i҆wꜥ
+# lit = “Geb will not do wrong to his heirs who inherits.”
+# trans = “You will not do wrong to his rightful heir.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	i҆sf	i҆sf	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	m	m	ADP	Cons.state	_	5	case	_	_
+5	i҆wꜥ	i҆wꜥ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	i҆wꜥ	i҆wꜥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	_
+
