@@ -3778,7 +3778,7 @@
 6	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 
 # sent_id = UDE-258
-# ref = Pyramid Texts § 60c|73c|77a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 60c|73c|77a|78c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w i҆tḥ.tn ⸗f
 # lit = "Osiris Unas, take for yourself the Eye of Horus which he (i.e. Seth) pulled out."
 # trans = "Osiris Unas, take the Eye of Horus with which he pulled out."
@@ -4361,4 +4361,21 @@
 9	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
 10	wn(m)	wnm	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+
+# sent_id = UDE-294
+# ref = Pyramid Texts § 79a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś i҆n<.n> (⸗i҆) n ⸗k i҆bḥ(.w) ⸗f ḥč̣.w wč̣ꜣ.w
+# lit = "Osiris Unas, (I) brought to you his white and sound teeth."
+# trans = "Osiris Unas, (I) bring to you his white and sound teeth."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+7	i҆bḥ(.w)	i҆bḥ	NOUN	Obj	Gender=Masc|Number=Plur	3	obj	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	ḥč̣.w	ḥč̣	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+10	wč̣ꜣ.w	wč̣ꜣ.w	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
 
