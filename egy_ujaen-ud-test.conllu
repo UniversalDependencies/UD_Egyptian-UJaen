@@ -2814,7 +2814,7 @@
 1	m	m	PART	_	_	3	discourse	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	3	dislocated	_	_
 3	šp.n	šp	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	0	root	_	_
-4	⸗k	⸗k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 
 # sent_id = UDE-194
@@ -4314,4 +4314,15 @@
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 8	ḫnf.tn	ḫnf	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	6	acl	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+
+# sent_id = UDE-291
+# ref = Pyramid Texts § 76c W, Saqqara, 5th Dynasty, rel, OE, Allen 1984: § 271.
+# text = m ś(i҆) ḥbnbn ⸗ś
+# lit = "Look, it is deposited on the ground (?)."
+# trans = "Look, it is deposited on the ground (?)."
+# type = Verbal sentence
+1	m	m	PART	_	_	3	discourse	_	_
+2	ś(i҆)	śi҆	PRON	DepPron	Gender=Fem|Number=Sing|Person=3	3	dislocated	_	_
+3	ḥbnbn	ḥbnbn	VERB	SFC|Pres	Tense=Pres|VerbForm=Fin	0	root	_	_
+4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 
