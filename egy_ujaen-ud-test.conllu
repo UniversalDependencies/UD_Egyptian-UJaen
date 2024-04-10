@@ -4579,3 +4579,14 @@
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
 
+# sent_id = UDE-308
+# ref = Pyramid Texts § 86c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫw mn ⸗f ś(i҆)
+# lit = "Prevent that he will suffer from it."
+# trans = "Prevent him from suffering from it."
+# type = Verbal sentence
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	mn	mn	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
