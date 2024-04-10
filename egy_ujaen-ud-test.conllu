@@ -5159,3 +5159,15 @@
 5	i҆nśb.t	nśbi̯	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 
+# sent_id = UDE-348
+# ref = Pyramid Texts § 105a N, Saqqara, 6th Dynasty, rel, OE
+# text = m i҆r.t Ḥr.w ꜥḥ.tn ⸗f
+# lit = "Take the Eye of Horus which he entrapped."
+# trans = "Take the Eye of Horus which he entrapped hat."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+5	ꜥḥ.tn	ꜥḥ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+
