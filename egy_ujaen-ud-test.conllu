@@ -4967,7 +4967,7 @@
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-334
-# ref = Pyramid Texts § 100e N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
+# ref = Pyramid Texts § 100e W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
 # text = Wśr(.w) Wni҆ś hꜣ nḫḫ.n (⸗i҆) <n> ⸗k ḫr ⸗k ḫr ⸗k
 # lit = "Osiris Unas, oh, (I) endured <for> you, with you and with you."
 # trans = "Osiris Unas, oh, (I) endure <for> you, with you and with you."
@@ -4983,4 +4983,15 @@
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 10	ḫr	ḫr	ADP	Pron.state	Case=Com	11	case	_	_
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+
+# sent_id = UDE-335
+# ref = Pyramid Texts § 101a T, Saqqara, 6th Dynasty, rel, OE
+# text = wṭn i҆ḫ.t n Tti҆
+# lit = "Offering a meal to Teti."
+# trans = "Offering a meal to Teti."
+# type = Noun phrase
+1	wṭn	wṭn	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
+2	i҆ḫ.t	i҆ḫ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
+3	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	iobj	_	_
 
