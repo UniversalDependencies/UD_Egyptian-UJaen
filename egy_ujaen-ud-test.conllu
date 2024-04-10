@@ -4995,3 +4995,21 @@
 3	n	n	ADP	Cons.state	Case=Dat	4	case	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	iobj	_	_
 
+# sent_id = UDE-336
+# ref = Pyramid Texts § 101b T, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtp-č̣-nśw ḥtp-č̣-Gb(b) n Tti҆ pn
+# lit = "An offering which the king gives and an offering which Geb gives to Teti."
+# trans = "An offering which the king gives and an offering which Geb gives to Teti."
+# type = Offering formula
+1-3	ḥtp-č̣-nśw	_	_	_	_	_	_	_	_
+1	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+2	č̣	rč̣i̯	X	_	_	0	root	_	_
+3	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+4-6	ḥtp-č̣-Gb(b)	_	_	_	_	_	_	_	_
+4	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	5	dep	_	_
+5	č̣	rč̣i̯	X	_	_	1	conj	_	_
+6	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	6	dep	_	_
+7	n	n	ADP	Cons.state	Case=Dat	8	case	_	_
+8	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	iobj	_	_
+9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+
