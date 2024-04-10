@@ -4691,7 +4691,7 @@
 8	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
 # sent_id = UDE-314a
-# ref = Pyramid Texts § 92a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-318
+# ref = Pyramid Texts § 92a W|106b N, Saqqara, 5th Dynasty, rel, OE, cf. UDE-318
 # text = Wśr(.w) Wni҆ś wp rʾ ⸗k i҆m ⸗ś
 # lit = "Osiris Unas, part your mouth with it."
 # trans = "Osiris Unas, part your mouth with it."
@@ -5198,4 +5198,20 @@
 5	mw	mw	NOUN	Obj	Gender=Masc|Number=Coll	4	obj	_	_
 6	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	5	amod	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-351
+# ref = Pyramid Texts § 107a N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ m i҆r.t Ḥr.w wč̣ꜣ.t i҆č.tn ⸗f
+# lit = "Osiris Pepi Neferkare, take the green Eye of Horus which he acquired."
+# trans = "Osiris Pepi Neferkare, take the green Eye of Horus which he acquired."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	vocative	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+7	wč̣ꜣ.t	wč̣ꜣ	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+8	i҆č.tn	i҆či̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 
