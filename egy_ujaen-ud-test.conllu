@@ -5049,14 +5049,14 @@
 3	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	nsubj	_	_
 5	i҆ꜥb	i҆ꜥb	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
-6	⸗f	if	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
 
 # sent_id = UDE-339
-# ref = PT § 101e T, Saqqara, 6th Dynasty, rel, OE
+# ref = PT § 101e T|103c, Saqqara, 6th Dynasty, rel, OE
 # text = čwt i҆t ⸗f
-# lit = “I am Horus.”
-# trans = “I am Horus.”
+# lit = “You are his father.”
+# trans = “You are his father.”
 # type = Nominal sentence (i҆nk)
 1	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	i҆t	i҆t	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
@@ -5099,4 +5099,50 @@
 5	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	appos	_	_
 6	Ppy	Ppy	PROPN	_	Gender=Masc	5	appos	_	_
 7	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	6	flat	_	_
+
+# sent_id = UDE-343
+# ref = Pyramid Texts § 103b N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtp ḥr ⸗śn
+# lit = "Be satisfied with them."
+# trans = "Be satisfied with them."
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	ADP	Pron.state	Case=Ins	3	case	_	_
+3	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-344
+# ref = Pyramid Texts § 103c N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtp ḥr ⸗k n Ḥr.w
+# lit = "Your face shall be satisfied because of Horus."
+# trans = "You shall be content because of Horus."
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	n	n	ADP	Cons.state	Case=Cau	5	case	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
+
+# sent_id = UDE-345
+# ref = Pyramid Texts § 104a N, Saqqara, 6th Dynasty, rel, OE
+# text = m nḫb.t i҆r.t Ḥr.w nbꜣbꜣ ⸗ś
+# lit = "Take the bud (?) of the Eye of Horus while it slips."
+# trans = "Take the bud (?) of the Eye of Horus slipping."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	nḫb.t	nḫb.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
+3	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+5	nbꜣbꜣ	nbꜣbꜣ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+
+# sent_id = UDE-346
+# ref = Pyramid Texts § 19c N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-106
+# text = č̣.n n ⸗k Ḥr.w
+# lit = "Horus gave (it) to you."
+# trans = "Horus has given (it) to you."
+# type = Verbal sentence
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+4	Ḥr.w	Ḥr.w	PROPN	Subj	Gender=Masc	1	nsubj	_	_
 
