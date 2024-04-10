@@ -5052,3 +5052,14 @@
 6	⸗f	if	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
 
+# sent_id = UDE-339
+# ref = PT § 101e T, Saqqara, 6th Dynasty, rel, OE
+# text = čwt i҆t ⸗f
+# lit = “I am Horus.”
+# trans = “I am Horus.”
+# type = Nominal sentence (i҆nk)
+1	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	i҆t	i҆t	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+
+
