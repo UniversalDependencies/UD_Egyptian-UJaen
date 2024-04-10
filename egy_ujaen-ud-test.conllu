@@ -3779,7 +3779,7 @@
 6	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 
 # sent_id = UDE-258
-# ref = Pyramid Texts § 60c|73c|77a|78c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 60c|73c|77a|78c|86e W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w i҆tḥ.tn ⸗f
 # lit = "Osiris Unas, take for yourself the Eye of Horus which he (i.e. Seth) pulled out."
 # trans = "Osiris Unas, take the Eye of Horus with which he pulled out."
@@ -4589,4 +4589,16 @@
 2	mn	mn	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
+# sent_id = UDE-309
+# ref = PT § 87a W, Saqqara, 5th Dynasty, rel, OE
+# text = n šꜥ ⸗ś i҆r ⸗k
+# lit = “It will not be cut away from you.”
+# trans = “It will not be cut away from you.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	šꜥ	šꜥ	VERB	SFC|Fut	Tense=Fut|Voice=Pass	0	root	_	_
+3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	i҆r	r	ADP	Pron.state	Case=Ela	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
