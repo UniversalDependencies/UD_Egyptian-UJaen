@@ -5171,3 +5171,17 @@
 4	ꜥḥ.tn	ꜥḥ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 
+# sent_id = UDE-349
+# ref = Pyramid Texts § 105b N, Saqqara, 6th Dynasty, rel, OE
+# text = m n ⸗k ḥnḳ pr m Wśr(.w)
+# lit = "Take for yourself the ferment that came from Osiris."
+# trans = "Take the ferment that came from Osiris."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+5	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+6	m	m	ADP	Cons.state	Case=Abl	7	case	_	_
+7	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	obl	_	_
+
