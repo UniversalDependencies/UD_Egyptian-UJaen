@@ -5136,7 +5136,7 @@
 6	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-346
-# ref = Pyramid Texts § 19c N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-106
+# ref = Pyramid Texts § 104a|104b|105a|106a|107a N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-106
 # text = č̣.n n ⸗k Ḥr.w
 # lit = "Horus gave (it) to you."
 # trans = "Horus has given (it) to you."
@@ -5145,4 +5145,17 @@
 2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
 4	Ḥr.w	Ḥr.w	PROPN	Subj	Gender=Masc	1	nsubj	_	_
+
+# sent_id = UDE-347
+# ref = Pyramid Texts § 104b N, Saqqara, 6th Dynasty, rel, OE
+# text = m nḫb.t i҆r.t Ḥr.w i҆nśb.t ⸗śn
+# lit = "Take the bud (?) of the Eye of Horus which they licked."
+# trans = "Take the bud (?) of the Eye of Horus which they licked."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	nḫb.t	nḫb.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
+3	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
+5	i҆nśb.t	nśbi̯	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
+6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 
