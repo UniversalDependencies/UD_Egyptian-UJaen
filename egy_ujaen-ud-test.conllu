@@ -5016,7 +5016,7 @@
 # sent_id = UDE-337
 # ref = Pyramid Texts § 101c-d T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(.w) n ⸗k ḥnk.t nb.t wꜣḥ.t nb.t mr.t ⸗k nfr.t n ⸗k i҆m ḫr nčr n č̣.t č̣.t
-# lit = "There was given to you every offering and every oblation that you might want and which will be well for you there with the god for ever and ever."
+# lit = "There was given (certainly) to you every offering and every oblation that you might want and which will be well for you there with the god for ever and ever."
 # trans = "You have been given every offering and every oblation that you might want and which will be well for you there with the god for ever and ever."
 # type = Verbal sentence
 1	č̣(.w)	rč̣i̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -5037,4 +5037,18 @@
 16	n	n	ADP	Cons.state	Case=Ben	17	case	_	_
 17	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
 18	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	10	advmod	_	_
+
+# sent_id = UDE-338
+# ref = Pyramid Texts § 101e T, Saqqara, 6th Dynasty, rel, OE, Allen 1984: § 289-290, Edel 1955/64: § 473.
+# text = Wśr(.w) Tti҆ i҆w.n Ḥr.w i҆ꜥb ⸗f kw
+# lit = "Osiris Teti, Horus came (certainly) in order that he may join you."
+# trans = "Osiris Teti, it is to join you that Horus have come."
+# type = Cleft sentence with adverbial focus
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	appos	_	_
+3	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	nsubj	_	_
+5	i҆ꜥb	i҆ꜥb	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+6	⸗f	if	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
 
