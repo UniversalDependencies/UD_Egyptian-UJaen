@@ -882,7 +882,7 @@
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 
 # sent_id = UDE-65
-# ref = Pyramid Texts § 9d N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 9d|102a N, Saqqara, 6th Dynasty, rel, OE
 # text = č̣.n n ⸗k Gb(b) i҆r.t(i҆) ⸗k ḥtp ⸗k
 # lit = "Geb gave you your two eyes, that you may be content."
 # trans = "Geb gives you your eyes, that you may be content."
@@ -5072,4 +5072,17 @@
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	i҆r	r	ADP	Cons.state	Case=Lat	4	case	_	_
 4	Gb(b)	Gbb	NOUN	_	Gender=Masc	1	obl	_	_
+
+# sent_id = UDE-241
+# ref = Pyramid Texts § 102a N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ čwt kꜣ ⸗f
+# lit = “Osiris Pepi Neferkare, you are his ka.”
+# trans = “Osiris Pepi Neferkare, you are his ka.”
+# type = Nominal sentence (A pw)
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	dislocated	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+5	kꜣ	kꜣ	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
