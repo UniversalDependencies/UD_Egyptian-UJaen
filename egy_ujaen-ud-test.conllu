@@ -4900,7 +4900,7 @@
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 8	i҆nśb.tn	nśbi̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	6	acl	_	_
-9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+9	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
 
 # sent_id = UDE-329
 # ref = Pyramid Texts § 99a W, Saqqara, 5th Dynasty, rel, OE
@@ -4912,8 +4912,9 @@
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
 3	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
 4	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	3	obj	_	_
-5	mꜣ	mꜣꜣ	VERB	SFC|Fut|Pred|Finalcl	Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	_
-6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
-7	i҆m	m	ADP	Pron.state	Case=Ins	8	case	_	_
-8	⸗śn	⸗śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	mꜣ	mꜣꜣ	VERB	SFC|Fut|Pred|Finalcl	Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	_
+7	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	i҆m	m	ADP	Pron.state	Case=Ins	9	case	_	_
+9	⸗śn	⸗śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	obl	_	_
 
