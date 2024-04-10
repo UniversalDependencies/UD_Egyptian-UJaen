@@ -5073,8 +5073,8 @@
 3	i҆r	r	ADP	Cons.state	Case=Lat	4	case	_	_
 4	Gb(b)	Gbb	NOUN	_	Gender=Masc	1	obl	_	_
 
-# sent_id = UDE-241
-# ref = Pyramid Texts § 102a N, Saqqara, 6th Dynasty, rel, OE
+# sent_id = UDE-341
+# ref = Pyramid Texts § 102b N, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ čwt kꜣ ⸗f
 # lit = “Osiris Pepi Neferkare, you are his ka.”
 # trans = “Osiris Pepi Neferkare, you are his ka.”
@@ -5085,4 +5085,18 @@
 4	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 5	kꜣ	kꜣ	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+
+# sent_id = UDE-342
+# ref = Pyramid Texts § 103a N, Saqqara, 6th Dynasty, rel, OE
+# text = m i҆r.t(i҆) wr pn Wśr(.w) Ppy Nfr-kꜣ-rꜥ
+# lit = "Unas, take the two eyes of this great one, Osiris Pepi Neferkare."
+# trans = "Unas, take the eyes of this great one, Osiris Pepi Neferkare."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	_
+3	wr	wr	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	appos	_	_
+6	Ppy	Ppy	PROPN	_	Gender=Masc	5	appos	_	_
+7	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	7	flat	_	_
 
