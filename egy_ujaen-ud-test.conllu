@@ -2155,7 +2155,7 @@
 9	pśš.t(i҆)	pśš	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	7	advcl	_	_
 
 # sent_id = UDE-149
-# ref = Pyramid Texts § 30b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 30b W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-314.
 # text = Wśr(.w) Wni҆ś wp ⸗i҆ n ⸗k rʾ ⸗k
 # lit = "Osiris Unas, I shall part your mouth for you."
 # trans = "Osiris Unas, I shall part your mouth for you."
@@ -4674,4 +4674,33 @@
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 8	ṭꜣp	ṭrp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	6	acl	_	_
 9	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+
+# sent_id = UDE-314
+# ref = Pyramid Texts § 92a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-149.
+# text = Wśr(.w) Wni҆ś wp (⸗i҆) rʾ ⸗k i҆m ⸗ś
+# lit = "Osiris Unas, (I) shall part your mouth with it."
+# trans = "Osiris Unas, (I) shall part your mouth with it."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	wp	wpi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	i҆m	m	ADP	Pron.state	Case=Ins	8	case	_	_
+8	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-314a
+# ref = Pyramid Texts § 92a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Wni҆ś wp rʾ ⸗k i҆m ⸗ś
+# lit = "Osiris Unas, part your mouth with it."
+# trans = "Osiris Unas, part your mouth with it."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	wp	wpi̯	VERB	SFC	Mood=Imp	0	root	_	_
+4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	i҆m	m	ADP	Pron.state	Case=Ins	7	case	_	_
+7	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
