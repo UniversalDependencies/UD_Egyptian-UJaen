@@ -4976,7 +4976,7 @@
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
 3	hꜣ	hꜣ	INTJ	_	_	4	discourse	_	_
 4	nḫḫ.n	nḫi҆ḫi̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 6	<n>	n	ADP	Pron.state	Case=Ben	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 8	ḫr	ḫr	ADP	Pron.state	Case=Com	9	case	_	_
@@ -5012,4 +5012,29 @@
 7	n	n	ADP	Cons.state	Case=Dat	8	case	_	_
 8	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	iobj	_	_
 9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+
+# sent_id = UDE-337
+# ref = Pyramid Texts § 101c-d T, Saqqara, 6th Dynasty, rel, OE
+# text = č̣(.w) n ⸗k ḥnk.t nb.t wꜣḥ.t nb.t mr.t ⸗k nfr.t n ⸗k i҆m ḫr nčr n č̣.t č̣.t
+# lit = "There was given to you every offering and every oblation that you might want and which will be well for you there with the god for ever and ever."
+# trans = "You have been given every offering and every oblation that you might want and which will be well for you there with the god for ever and ever."
+# type = Verbal sentence
+1	č̣(.w)	rč̣i̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	ḥnk.t	ḥnk.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+5	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+6	wꜣḥ.t	wꜣḥ.t	NOUN	Subj	Gender=Fem|Number=Sing	4	conj	_	_
+7	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	mr.t	mri̯	VERB	ADJ|VerbForm=RelForm|Futur	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Fin	4	acl	_	_
+9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	nfr.t	nfr	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
+11	n	n	ADP	Pron.state	Case=Ben	12	case	_	_
+12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
+13	i҆m	i҆m	ADV	_	AdvType=Loc	10	advmod	_	_
+14	ḫr	ḫr	ADP	Cons.state	Case=Com	15	case	_	_
+15	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+16	n	n	ADP	Cons.state	Case=Ben	17	case	_	_
+17	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
+18	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	10	advmod	_	_
 
