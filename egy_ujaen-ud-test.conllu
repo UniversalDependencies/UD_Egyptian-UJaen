@@ -3826,7 +3826,7 @@
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
 # sent_id = UDE-260
-# ref = Pyramid Texts § 61b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 61b|89c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w i҆ḫḫm.tn ⸗śn r ⸗f
 # lit = "Osiris Unas, take for yourself the Eye of Horus which they plundered (?) from him."
 # trans = "Osiris Unas, take for yourself the Eye of Horus which they plundered (?) from him."
@@ -4004,7 +4004,7 @@
 11	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
 # sent_id = UDE-269
-# ref = Pyramid Texts § 64c N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 64c N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-312
 # text = ḥtm kw m ḥnḳ pr i҆m ⸗k
 # lit = "Provide yourself with the ferment that came from you."
 # trans = "Provide yourself with the ferment that came from you."
@@ -4642,4 +4642,20 @@
 3	i҆śšn.w	śšn	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Plur|Person=3|VerbForm=Conv	1	advcl	_	_
 4	i҆m	m	ADP	Pron.state	Case=Ela	5	case	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-90a
+# ref = Pyramid Texts § 64c N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-269
+# text = Wśr(.w) Wni҆ś ḥtm čw m ḥnḳ pr (i҆)m ⸗k
+# lit = "Osiris Unas, provide yourself with the ferment that came from you."
+# trans = "Osiris Unas, Provide yourself with the ferment that came from you."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
+3	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+4	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
+5	m	m	ADP	Cons.state	Case=Ins	6	case	_	_
+6	ḥnḳ	ḥnḳ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
+8	(i҆)m	m	ADP	Pron.state	Case=Abl	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
