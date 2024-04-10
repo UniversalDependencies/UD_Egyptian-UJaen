@@ -4631,3 +4631,15 @@
 9	i҆m	m	ADP	Pron.state	Case=Loc	10	case	_	_
 10	⸗ś{w}	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 
+# sent_id = UDE-311
+# ref = Pyramid Texts § 89a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 1984: § 131.
+# text = i҆w ⸗śn i҆śšn.w i҆m ⸗ś
+# lit = "They come (certainly) being rounded from it."
+# trans = "It is with rounded shape that they come from it."
+# type = Cleft sentence with adverbial focus
+1	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆śšn.w	śšn	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Plur|Person=3|VerbForm=Conv	1	advcl	_	_
+4	i҆m	m	ADP	Pron.state	Case=Ela	5	case	_	_
+5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
