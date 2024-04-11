@@ -5412,3 +5412,18 @@
 10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
 11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 
+# sent_id = UDE-365
+# ref = Pyramid Texts § 115b N, Saqqara, 6th Dynasty, rel, OE
+# text = šsp n ⸗k św m-ꜥ (⸗i҆)
+# lit = "Accept it for yourself from me."
+# trans = "Accept it from me."
+# type = Verbal sentence
+1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5-6	m-ꜥ	_	_	_	_	_	_	_	_
+6	m	m	ADP	Cons.state	Case=Abl	7	case	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_
+8	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+
