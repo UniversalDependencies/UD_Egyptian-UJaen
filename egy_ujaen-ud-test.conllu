@@ -5469,3 +5469,15 @@
 7	ꜥ.(w)t	ꜥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
 8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
 
+# sent_id = UDE-369
+# ref = Pyramid Texts § 116b W, Saqqara, 6th Dynasty, rel, OE
+# text = pč̣ čw m rn ⸗k pꜣč̣
+# lit = "Extend yourself in your name of "pellet"."
+# trans = "Extend yourself in your name of "pellet"."
+# type = Verbal sentence
+1	pč̣ 	pč̣ 	VERB	Imp	Mood=Imp	0	root	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	m	m	ADP	Cons.state	_	4	case	_	_
+4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	pꜣč̣ 	pꜣč̣ 	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
