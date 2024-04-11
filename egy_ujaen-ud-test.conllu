@@ -5306,7 +5306,7 @@
 # sent_id = UDE-359
 # ref = Pyramid Texts § 111a N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-361, UDE-331 and UDE-332
 # text = hꜣ Wśr(.w) Ppy Nfr-kꜣ-rꜥ i҆r.t Ḥr.w tn bni҆.t śḫt (⸗i҆) n ⸗k ś(i҆)
-# lit = "O Osiris Pepi Neferkare! this sweet Eye of Horus (I) shall return it to you."
+# lit = "O Osiris Pepi Neferkare! this sweet Eye of Horus, (I) shall return it to you."
 # trans = "O Osiris Pepi Neferkare! this sweet Eye of Horus, (I) shall return it to you."
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
@@ -5319,8 +5319,8 @@
 8	bni҆.t	bni҆	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 9	śḫt	śḫti̯	VERB	Imp	Mood=Imp	0	root	_	_
 10	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-11	n	n	ADP	Pron.state	Case=Ben	12	case	_	_
-12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	9	obl	_	_
+11	n	n	ADP	Pron.state	Case=Dat	12	case	_	_
+12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	9	iobj	_	_
 13	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 
 # sent_id = UDE-360
