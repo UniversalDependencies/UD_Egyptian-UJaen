@@ -1669,7 +1669,7 @@
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-116
-# ref = Pyramid Texts § 21c N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 21c N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-363
 # text = Wśr(.w) Ppy pn mḥ.n kw Ḥr.w m i҆r.t ⸗f tm.ti҆
 # lit = "Osiris, this Pepi, Horus filled you with his eye, being complete."
 # trans = "Osiris, this Pepi, Horus filled you with his complete Eye."
@@ -5364,7 +5364,7 @@
 # sent_id = UDE-362
 # ref = Pyramid Texts § 113b N, Saqqara, 6th Dynasty, rel, OE
 # text = tʾ ṭwꜣ.w m-č̣r tr ⸗f
-# lit = "The morning bread is in the limit of his time."
+# lit = "The morning bread is in the limit of its time."
 # trans = "The morning bread is in its due time."
 # type = Adverbial sentence
 1	tʾ	tʾ	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -5374,4 +5374,23 @@
 4	č̣r	č̣r	NOUN	MWE	Definite=Cons|Gender=Masc|Number=Sing	3	fixed	_	_
 5	tr	tr	NOUN	MWE	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-363
+# ref = Pyramid Texts § 114 N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-116
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ mḥ.n kw Ḥr.w tm.ti҆ m i҆r.t ⸗f m wꜣḥ.t
+# lit = "Osiris Pepi Neferkare, Horus filled you, being complete, with his eye and with the oblation."
+# trans = "Osiris Pepi Neferkare, Horus filled you completely with his eye and with the oblation."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	mḥ.n	mḥ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+5	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	nsubj	_	_
+7	tm.ti҆	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=2|VerbForm=Conv	4	advcl	_	_
+8	m	m	ADP	Cons.state	Case=Ins	9	case	_	_
+9	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	m	m	ADP	Cons.state	Case=Ins	11	case	_	_
+12	wꜣḥ.t	wꜣḥ.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 
