@@ -4313,7 +4313,7 @@
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-290
-# ref = Pyramid Texts § 76a|95a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 76a|95a W|108a N (?), Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w ḫnf.tn ⸗f
 # lit = "Osiris Unas, take for yourself the Eye of Horus which he carried off (?)."
 # trans = "Osiris Unas, take the Eye of Horus which he carried off (?)."
@@ -5216,7 +5216,7 @@
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 
 # sent_id = UDE-352
-# ref = Pyramid Texts § 107b N, Saqqara, 5th Dynasty, rel, OE, cf. UDE-321
+# ref = Pyramid Texts § 107b N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-321
 # text = Wśr(.w) Wni҆ś m i҆r.t Ḥr.w ḥbnbn ⸗ś
 # lit = "Osiris Unas, take the Eye of Horus when it is deposited on the ground (?)."
 # trans = "Osiris Unas, take the Eye of Horus deposited on the ground (?)."
@@ -5226,3 +5226,17 @@
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	ḥbnbn	ḥbnbn	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 5	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
+# sent_id = UDE-353
+# ref = Pyramid Texts § 108b N, Saqqara, 6th Dynasty, rel, OE
+# text = m i҆r.t Ḥr.w ḥč̣.t śšṭ.tn ⸗f
+# lit = "Take the white Eye of Horus which he has worn."
+# trans = "Take the white Eye of Horus which he has worn."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
+4	ḥč̣.t	ḥč̣	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	śšṭ.tn	śšṭ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+
