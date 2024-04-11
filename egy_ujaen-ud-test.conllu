@@ -5361,3 +5361,17 @@
 17	ḫft(.i҆)	ḫft(.i҆)	NOUN	Obj	Gender=Masc|Number=Sing	14	nsubj	_	_
 18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
 
+# sent_id = UDE-362
+# ref = Pyramid Texts § 113b N, Saqqara, 6th Dynasty, rel, OE
+# text = tʾ ṭwꜣ.w m-č̣r tr ⸗f
+# lit = "The morning bread is in the limit of his time."
+# trans = "The morning bread is in its due time."
+# type = Adverbial sentence
+1	tʾ	tʾ	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	ṭwꜣ.w	ṭwꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3-5	m-č̣r	_	_	_	_	_	_	_	_
+3	m	m	ADP	Cons.state	_	5	case	_	_
+4	č̣r	č̣r	NOUN	MWE	Definite=Cons|Gender=Masc|Number=Sing	3	fixed	_	_
+5	tr	tr	NOUN	MWE	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
