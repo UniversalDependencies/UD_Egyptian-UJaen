@@ -5451,5 +5451,21 @@
 2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
-5	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+5	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_
+
+# sent_id = UDE-368
+# ref = Pyramid Texts § 116a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆nč̣-(⸗i҆)-ḥr ⸗k Mn-wr i҆m(.i҆) ꜥ.(w)t Ḥr.w
+# lit = "(I) shall ask your face, Men-wer, which is in the limbs of Horus."
+# trans = "Hail to you, Men-wer in the limbs of Horus!"
+# type = Verbal sentence
+1-3	i҆nč̣-(⸗i҆)-ḥr	_	_	_	_	_	_	_	_
+1	i҆nč̣	nč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	Mn-wr	Mn-wr	PROPN	_	Gender=Masc	4	vocative	_	_
+6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
+7	ꜥ.(w)t	ꜥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
+8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
 
