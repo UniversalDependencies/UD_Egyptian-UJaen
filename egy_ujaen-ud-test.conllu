@@ -5440,3 +5440,16 @@
 5	ḫr	ḫr	ADP	Pron.state	Case=Com	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
+# sent_id = UDE-367
+# ref = Pyramid Texts § 116a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆nč̣-(⸗i҆)-ḥr ⸗k śnčr
+# lit = "(I) shall ask your face, Incense"
+# trans = "Hail to you, Incense!"
+# type = Verbal sentence
+1-3	i҆nč̣-(⸗i҆)-ḥr	_	_	_	_	_	_	_	_
+1	i҆nč̣	nč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+
