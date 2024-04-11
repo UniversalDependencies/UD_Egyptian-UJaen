@@ -6,7 +6,7 @@
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
-3	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	tʾ	tʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
 5	n	n	ADP	Cons.state	Case=Dat	6	case	_	_
 6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
@@ -346,16 +346,16 @@
 
 # sent_id = UDE-29
 # ref = Pyramid Texts § 1592e N, Saqqara, 6th Dynasty, rel, OE
-# text = i҆č ⸗č n ⸗f (i҆ḫ.t) (nb.t) r bw nb mrr i҆b ⸗f i҆m (⸗f)
-# lit = “You shall take (everything) to him to any place which his heart desires.”
-# trans = “You shall take (everything) to him at any place which he wishes.”
+# text = i҆č ⸗č n ⸗f <i҆ḫ.t> <nb.t> r bw nb mrr i҆b ⸗f i҆m (⸗f)
+# lit = “You shall take <everything> to him to any place which his heart desires.”
+# trans = “You shall take <everything> to him at any place which he wishes.”
 # type = Verbal sentence
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.state	Case=Ben	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
-5	(i҆ḫ.t)	i҆ḫ.t	NOUN	Ellipsis|Obj	Gender=Fem|Number=Sing	1	obj	_	_
-6	(nb.t)	nb	ADJ	Ellipsis	Gender=Fem|Number=Sing	5	amod	_	_
+5	<i҆ḫ.t>	i҆ḫ.t	NOUN	Ellipsis|Obj	Gender=Fem|Number=Sing	1	obj	_	_
+6	<nb.t>	nb	ADJ	Ellipsis	Gender=Fem|Number=Sing	5	amod	_	_
 7	r	r	ADP	Cons.state	Case=All	8	case	_	_
 8	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
@@ -2238,14 +2238,14 @@
 
 # sent_id = UDE-154
 # ref = Pyramid Texts § 32a W, Saqqara, 5th Dynasty, rel, OE
-# text = m n ⸗k (św) i҆r rʾ ⸗k
-# lit = "Take (it) for yourself to your mouth."
-# trans = "Take (it) to your mouth."
+# text = m n ⸗k <św> i҆r rʾ ⸗k
+# lit = "Take <it> for yourself to your mouth."
+# trans = "Take <it> to your mouth."
 # type = Verbal sentence
 1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 2	n	n	ADP	Pron.state	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
-4	(św)	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	<św>	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 5	i҆r	r	ADP	Cons.state	Case=Ill	6	case	_	_
 6	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
@@ -2265,13 +2265,13 @@
 
 # sent_id = UDE-156
 # ref = Pyramid Texts § 32b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆čč ⸗k (św) r rʾ ⸗k
-# lit = "You take (it) (certainly) to your mouth."
-# trans = "It is to your mouth that you should take (it)."
+# text = i҆čč ⸗k <św> r rʾ ⸗k
+# lit = "You take <it> (certainly) to your mouth."
+# trans = "It is to your mouth that you should take <it>."
 # type = Cleft sentence with adverbial focus
 1	i҆čč	i҆či̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	(św)	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	<św>	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 4	r	r	ADP	Cons.state	Case=Ill	5	case	_	_
 5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
@@ -4967,7 +4967,7 @@
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-334
-# ref = Pyramid Texts § 100e W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
+# ref = Pyramid Texts § 100e W|111b N, Saqqara, 5th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
 # text = Wśr(.w) Wni҆ś hꜣ nḫḫ.n (⸗i҆) <n> ⸗k ḫr ⸗k ḫr ⸗k
 # lit = "Osiris Unas, oh, (I) endured <for> you, with you and with you."
 # trans = "Osiris Unas, oh, (I) endure <for> you, with you and with you."
@@ -5321,4 +5321,17 @@
 10	n	n	ADP	Pron.state	Case=Ben	11	case	_	_
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	9	obl	_	_
 12	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+
+# sent_id = UDE-360
+# ref = Pyramid Texts § 112 N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥ(w) hꜣ nḫḫ <śi҆> ḫr ⸗k
+# lit = "Oh, may <it> truly endure with you!"
+# trans = "Oh, may <it> truly endure with you!"
+# type = Verbal sentence
+1	ḥ(w)	ḥ(w)	PART	_	_	3	discourse	_	_
+2	hꜣ	hꜣ	INTJ	_	_	3	discourse	_	_
+3	nḫḫ	nḫi҆ḫi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	<śi҆>	śi҆	PRON	DepPron|Ellipsis|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	ḫr	ḫr	ADP	Pron.state	Case=Com	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 
