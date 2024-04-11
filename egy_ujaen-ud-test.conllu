@@ -5394,3 +5394,21 @@
 11	m	m	ADP	Cons.state	Case=Ins	11	case	_	_
 12	wꜣḥ.t	wꜣḥ.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 
+# sent_id = UDE-364
+# ref = Pyramid Texts § 115a N, Saqqara, 6th Dynasty, rel, OE
+# text = hꜣ Wśr(.w) Ppy Nfr-kꜣ-rꜥ pn wč̣b čw ḥr tʾ ⸗k pn
+# lit = "O Osiris, this Pepi Neferkare, turn yourself on account of this bread of yours."
+# trans = "O Osiris, this Pepi Neferkare, turn yourself on account of this bread of yours."
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	vocative	_	_
+3	Ppy	Ppy	PROPN	_	Gender=Masc	2	appos	_	_
+4	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	3	flat	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+6	wč̣b	wč̣b	VERB	Imp	Mood=Imp	0	root	_	_
+7	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	6	expl	_	_
+8	ḥr	ḥr	ADP	Cons.state	Case=Cau	9	case	_	_
+9	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+
