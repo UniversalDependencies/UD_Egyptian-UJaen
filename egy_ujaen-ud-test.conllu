@@ -5519,3 +5519,23 @@
 7	r	r	ADP	Cons.state	Case=Cmp	8	case	_	_
 8	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obl	_	_
 
+# sent_id = UDE-373
+# ref = Pyramid Texts § 117a N, Saqqara, 6th Dynasty, rel, OE
+# text = i҆t Ppy Nfr-kꜣ-rꜥ m n ⸗k i҆r.t Ḥr.w pꜣ(w).t n(.t) nčr(.w) wšb(.t) ⸗śn i҆m (⸗ś)
+# lit = "Father, Pepi Neferkare, take for yourself the Eye of Horus, the cake of the gods, on which they feed."
+# trans = "Father, Pepi Neferkare, take the Eye of Horus, the cake of the gods, on which they feed."
+# type = Verbal sentence
+1	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	3	flat	_	_
+4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+7	pꜣ(w).t	pꜣw.t	NOUN	_	Gender=Fem|Number=Sing	5	appos	_	_
+8	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+9	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+10	wšb(.t)	wšb	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	7	acl	_	_
+11	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+12	i҆m	m	ADP	Pron.state	_	13	case	_	_
+13	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+
