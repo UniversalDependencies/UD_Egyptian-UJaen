@@ -4660,7 +4660,7 @@
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
 # sent_id = UDE-313
-# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-357
 # text = Wśr(.w) Wni҆ś m n ⸗k mnč̣ Ḥr.w ṭꜣp ⸗śn
 # lit = "Osiris Unas, take for yourself the breast of Horus which they offer."
 # trans = "Osiris Unas, take the breast of Horus which they offer."
@@ -5262,7 +5262,45 @@
 1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
+4	śi҆p.tn	i҆p	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Cau	2	acl	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
+# sent_id = UDE-356
+# ref = Pyramid Texts § 109b N, Saqqara, 6th Dynasty, rel, OE
+# text = m i҆r.t Ḥr.w sḫs.tn ⸗f
+# lit = "Take the Eye of Horus which he has torn out."
+# trans = "Take the Eye of Horus which he has torn out."
+# type = Verbal sentence
+1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	wꜣč̣.t	wꜣč̣.t	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
-5	śi҆p.tn	śi҆p.tn	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Cau	2	acl	_	_
+5	sḫs.tn	sḫs	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+
+# sent_id = UDE-357
+# ref = Pyramid Texts § 110 N, Saqqara, 6th Dynasty, rel, OE
+# text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ m n ⸗k i҆r.t Ḥr.w
+# lit = "Osiris Pepi Neferkare, take for yourself the Eye of Horus."
+# trans = "Osiris Pepi Neferkare, take the Eye of Horus."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	vocative	_	_
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
+3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
+4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+5	n	n	ADP	Pron.state	Case=Ben	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	4	obl	_	_
+7	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
+8	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
+
+# sent_id = UDE-358
+# ref = Pyramid Texts § 110 N, Saqqara, 6th Dynasty, rel, OE, cf. UDE-185
+# text = ṭꜣp čw i҆m (⸗ś)
+# lit = "Make yourself an offering of (it)."
+# trans = "Make yourself an offering of (it)."
+# type = Verbal sentence
+1	ṭꜣp	ṭrp	VERB	Imp	Mood=Imp	0	root	_	_
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obj	_	_
+3	i҆m	m	ADP	Pron.state	_	4	case	_	_
+4	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
