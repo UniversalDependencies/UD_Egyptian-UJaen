@@ -5481,3 +5481,26 @@
 4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	pꜣč̣	pꜣč̣	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = UDE-370
+# ref = Pyramid Texts § 116c W, Saqqara, 5th Dynasty, rel, OE
+# text = śč ⸗k r Wni҆ś
+# lit = "Your perfume is to Unas."
+# trans = "Your perfume is on Unas."
+# type = Adverbial sentence
+1	śč	śč	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	r	r	ADP	Pron.state	Case=All	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-371
+# ref = Pyramid Texts § 116c W, Saqqara, 5th Dynasty, rel, OE
+# text = bṭṭ ⸗k r Wni҆ś
+# lit = "Your savour (?) is to Unas."
+# trans = "Your savour (?) is on Unas."
+# type = Adverbial sentence
+1	bṭṭ	bṭṭ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	r	r	ADP	Pron.state	Case=All	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+
