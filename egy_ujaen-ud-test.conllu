@@ -5710,7 +5710,7 @@
 # text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥ.w rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt i҆ś kꜣ wr ḥ(w) Kns.t n-n.tt Wni҆ś i҆ś i҆r(.i҆) ṭi҆.t i҆š.tt m ḥw.t
 # lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who is concerned five meals in the Mansion.”
 # trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who has a quintet of meals in the Mansion.”
-# type = Verbal sentence
+# type = Verbal sentence + subordination of nominal sentence and cleft sentence with a nominal focus
 1	ḫfꜥ	ḫfꜥ	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
@@ -5767,3 +5767,15 @@
 51	m	m	ADP	Cons.state	Case=Loc	52	case	_	_
 52	ḥw.t	ḥw.t	NOUN	NisbaPrep	Gender=Fem|Number=Sing	50	obl	_	_
 
+# sent_id = UDE-386
+# ref = Pyramid Texts § 121d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ḫmt.t r p.t ḫr Rꜥw
+# lit = "Three (meals) (are) in the sky with Re."
+# trans = "Three are in the sky with Re."
+# type = Adverbial sentence
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	ḫmt.t	ḫmt	NUM	NOUN	Gender=Fem	4	nsubj	_	_
+3	r	r	ADP	Cons.state	_	4	case	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	ḫr	ḫr	ADP	Cons.state	_	6	case	_	_
+6	Rꜥw	Rꜥw	ROPN	_	Gender=Masc	4	obl	_	_
