@@ -5893,3 +5893,15 @@
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	Nfr.t	Nfr.t	PROPN	_	Gender=Fem	2	obj	_	_
 
+# sent_id = UDE-397
+# ref = Pyramid Texts § 123c W, Saqqara, 5th Dynasty, rel, OE
+# text = nr(.w) ⸗f šw tbtb šśšś
+# lit = "His dread is the lack of grain (?) and liquid (?)."
+# trans = "His dread is the lack of grain (?) and liquid (?)."
+# type = Nominal sentence (A = B)
+1	nr(.w)	nr.w	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+3	šw	šw	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+4	tbtb	tbtb	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	šśšś	šśšś	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	_
+
