@@ -5575,7 +5575,7 @@
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 
 # sent_id = UDE-376
-# ref = Pyramid Texts § 118a-b N, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 118a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = wčs i҆b n(.i҆) čśś.w šnb.t ꜥm.n ⸗śn i҆r.t Ḥr.w bꜣḳ.t i҆m.(i҆)t I҆wn.w
 # lit = "Lift up the hearts of those who cleanse (?) the breast after they have swallowed the bright Eye of Horus which is in Heliopolis."
 # trans = "Gloat those who cleanse (?) the breast, for they have swallowed the bright Eye of Horus which is in Heliopolis."
@@ -5592,4 +5592,19 @@
 10	bꜣḳ.t	bꜣḳ	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
 11	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	8	amod	_	_
 12	I҆wn.w	I҆wn.w	PROPN	_	_	8	nmod	_	_
+
+# sent_id = UDE-377
+# ref = Pyramid Texts § 118c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣bꜥ Wni҆ś šrr.w šṭ nw i҆m(.i҆) špꜣ Wśr(.w)
+# lit = "The little finger of Unas, take away this which is in the navel of Osiris."
+# trans = "O little finger of Unas, take away this which is in the navel of Osiris."
+# type = Verbal sentence
+1	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	šrr.w	šrr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	amod	_	_
+4	šṭ	šṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+5	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
+6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
+7	špꜣ	špꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nmod	_	_
+8	Wśr(.w)	Wśr(.w)	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
 
