@@ -5705,3 +5705,26 @@
 8	rnp.t	rnp.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 9	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
 
+# sent_id = UDE-385
+# ref = PT § 120d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t
+# lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer.”
+# trans = “They shall seize, grasp and give to him barley, emmer, bread and beer.”
+# type = Verbal sentence
+1	ḫfꜥ	ḫfꜥ	VERB	SFC|Sub	Mood=Sub	9	conj	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	9	conj	_	_
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.state	Case=Dat	6	case	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+7	ꜣm	ꜣmm	VERB	SFC|Sub	Mood=Sub	9	conj	_	_
+8	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+9	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+11	n	n	ADP	Pron.state	Case=Dat	12	case	_	_
+12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+13	i҆ti҆	i҆ti҆	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+14	bṭ.t	bṭ.t	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+15	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
+16	ḥ(n)ḳ.t	ḥ(n)ḳ.t	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+
