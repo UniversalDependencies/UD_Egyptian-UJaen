@@ -5658,7 +5658,7 @@
 
 # sent_id = UDE-382
 # ref = Pyramid Texts § 120a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆ ḥr.(i҆)w śt i҆r.(i҆)w ꜣgb wč̣ Wni҆ś n Ftk-tʾ wṭp.w n(.i҆) Rꜥ.w
+# text = i҆ ḥr.(i҆)w śt i҆r.(i҆)w ꜣgb wč̣ Wni҆ś n Ftk-tʾ wṭp.w n(.i҆) Rꜥw
 # lit = "O you who are over the baked foods and you who are concerned with the abundance, commit Unas to Fetket, the butler of Re."
 # trans = "O you in charge of the baked foods and you who are concerned with the abundance, commit Unas to Fetket, the butler of Re."
 # type = Verbal sentence
@@ -5673,11 +5673,11 @@
 9	Ftk-tʾ	Ftk-tʾ	PROPN	_	Gender=Masc	6	iobj	_	_
 10	wṭp.w	wṭp	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
 11	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
-12	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	10	nmod	_	_
+12	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	10	nmod	_	_
 
 # sent_id = UDE-383
 # ref = PT § 120b W, Saqqara, 5th Dynasty, rel, OE
-# text = wč̣ n ⸗f św Rꜥ.w č̣ś ⸗f
+# text = wč̣ n ⸗f św Rꜥw č̣ś ⸗f
 # lit = “Re, i.e. his body, commited him (i.e. Unas) to him (i.e. his butler).”
 # trans = “Re himself commited him (i.e. Unas) to him (i.e. his butler).”
 # type = Verbal sentence
@@ -5685,19 +5685,19 @@
 2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-5	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	nsubj	_	_
 6	č̣ś	č̣ś	NOUN	Emp	Gender=Fem|Number=Sing	5	appos	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
 # sent_id = UDE-384
 # ref = PT § 120c W, Saqqara, 5th Dynasty, rel, OE
-# text = wč̣ św Rꜥ.w n ḥr(.i҆) śnm(.w) n(.i҆) rnp.t tn
+# text = wč̣ św Rꜥw n ḥr(.i҆) śnm(.w) n(.i҆) rnp.t tn
 # lit = “Re commited him (i.e. Unas) to him who is over the catering of this year.”
 # trans = “Re commited him (i.e. Unas) to him who is in charge of the catering for this year.”
 # type = Verbal sentence
 1	wč̣	wč̣	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
 2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-3	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	nsubj	_	_
 4	n	n	ADP	Cons.state	Case=Dat	5	case	_	_
 5	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	1	iobj	_	_
 6	śnm(.w)	śnm.w	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
@@ -5707,7 +5707,7 @@
 
 # sent_id = UDE-385
 # ref = PT § 120d W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥ.w rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt i҆ś kꜣ wr ḥ(w) Kns.t n-n.tt Wni҆ś i҆ś i҆r(.i҆) ṭi҆.t i҆š.tt m ḥw.t
+# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥw rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt i҆ś kꜣ wr ḥ(w) Kns.t n-n.tt Wni҆ś i҆ś i҆r(.i҆) ṭi҆.t i҆š.tt m ḥw.t
 # lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who is concerned five meals in the Mansion.”
 # trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who has a quintet of meals in the Mansion.”
 # type = Verbal sentence + subordination of nominal sentence and cleft sentence with a nominal focus
@@ -5739,7 +5739,7 @@
 25	n	n	ADP	Pron.state	Case=Dat	26	case	_	_
 26	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	_
 27	i҆n	i҆n	PART	_	PartType=Emp	28	nmod	_	_
-28	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	29	nsubj	_	_
+28	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	29	nsubj	_	_
 29	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
 30	n	n	ADP	Pron.state	Case=Dat	31	case	_	_
 31	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	_
@@ -5830,4 +5830,20 @@
 # type = Nominal sentence (i҆nk)
 1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-392
+# ref = Pyramid Texts § 122b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ Rꜥw nfr n ⸗f m hrw pn r śf
+# lit = "O Re, it is better for him on the day (i.e. today) than yesterday."
+# trans = "O Re, it is better for him today than yesterday."
+# type = Adjectival sentence with elided subject
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	n	n	ADP	Pron.state	Case=Ben	5	case	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+6	m	m	ADP	Cons.state	_		case	_	_
+7	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	r	r	ADP	Cons.state	Case=Cmp	9	case	_	_
+9	śf	śf	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 
