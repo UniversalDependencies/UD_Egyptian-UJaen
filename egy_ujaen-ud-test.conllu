@@ -1141,14 +1141,14 @@
 # sent_id = UDE-81
 # ref = PT § 14b-c N, Saqqara, 6th Dynasty, rel, OE
 # text = [šm] [⸗f] [mṭw] [⸗f] [č̣.t] [⸗f] [ḫr] [pśč̣.t-ꜥꜣ.t] [m] [Ḥw.t-śr] [i҆m.(i҆)t] I҆wn.w
-# lit = “[He shall go in order that he may speak with the Great Ennead himself in the Mansion of the Magistrate] which is in Heliopolis.”
+# lit = “[He shall go in order that he, i.e. his body, may speak with the Great Ennead in the Mansion of the Magistrate] which is in Heliopolis.”
 # trans = “[He shall go to speak with the Great Ennead himself in the Magistrate's Mansion] in Heliopolis.”
 # type = Verbal sentence
 1	[šm]	šmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	[⸗f]	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	[mṭw]	mṭwi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 4	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-5	[č̣.t]	č̣.t	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+5	[č̣.t]	č̣.t	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 6	[⸗f]	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	[ḫr]	ḫr	ADP	Cons.state	Case=Com	8	case	_	_
 8-9	[pśč̣.t-ꜥꜣ.t]	_	_	_	_	_	_	_	_
@@ -5674,4 +5674,18 @@
 10	wṭp.w	wṭp	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	_
 11	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
 12	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	10	nmod	_	_
+
+# sent_id = UDE-383
+# ref = PT § 120b W, Saqqara, 5th Dynasty, rel, OE
+# text = wč̣ n ⸗f św Rꜥ.w č̣ś ⸗f
+# lit = “Re, i.e. his body, commited him (i.e. Unas) to him (i.e. his butler).”
+# trans = “Re himself commited him (i.e. Unas) to him (i.e. his butler).”
+# type = Verbal sentence
+1	wč̣	wč̣	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
+2	n	n	ADP	Pron.state	Case=Dat	3	case	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+6	č̣ś	č̣ś	NOUN	Emp	Gender=Fem|Number=Sing	5	appos	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
