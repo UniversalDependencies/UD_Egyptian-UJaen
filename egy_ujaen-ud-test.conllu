@@ -5707,9 +5707,9 @@
 
 # sent_id = UDE-385
 # ref = PT § 120d W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t
-# lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer.”
-# trans = “They shall seize, grasp and give to him barley, emmer, bread and beer.”
+# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥ.w rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t 
+# lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer.”
+# trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer.”
 # type = Verbal sentence
 1	ḫfꜥ	ḫfꜥ	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
@@ -5727,4 +5727,25 @@
 14	bṭ.t	bṭ.t	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
 15	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
 16	ḥ(n)ḳ.t	ḥ(n)ḳ.t	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+17-18	n-n.tt	_	_	_	_	_	_	_	_
+17	n	n	ADP	Cons.state	Case=Cau	18	case	_	_
+18	n.tt	n.ty	NOUN	_	Gender=Fem|Number=Sing	30	mark	_	_
+19	n	n	ADP	Pron.state	Case=Dat	20	case	_	_
+20	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+21	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	25	dislocated	_	_
+22	i҆n	i҆n	PART	_	PartType=Emp	23	nmod	_	_
+23	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	25	nsubj	_	_
+24	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
+25	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	dislocated	_	_
+26	n	n	ADP	Pron.state	Case=Dat	27	case	_	_
+27	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	iobj	_	_
+28	i҆n	i҆n	PART	_	PartType=Emp	29	nmod	_	_
+29	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	30	nsubj	_	_
+30	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+31	n	n	ADP	Pron.state	Case=Dat	31	case	_	_
+32	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	iobj	_	_
+33	i҆ti҆	i҆ti҆	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	_
+34	bṭ.t	bṭ.t	NOUN	_	Gender=Fem|Number=Sing	30	conj	_	_
+35	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	30	conj	_	_
+36	ḥ(n)ḳ.t	ḥ(n)ḳ.t	NOUN	_	Gender=Fem|Number=Sing	30	conj	_	_
 
