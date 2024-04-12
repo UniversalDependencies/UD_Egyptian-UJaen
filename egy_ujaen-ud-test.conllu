@@ -5793,3 +5793,22 @@
 5	ḫr	ḫr	ADP	Cons.state	_	6	case	_	_
 6	pśč̣.ti҆	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	4	obl	_	_
 
+# sent_id = UDE-388
+# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE
+# text = n(.i҆) św fḫḫ.i҆
+# lit = "He belongs to the looser ."
+# trans = "He belongs to the looser."
+# type = Adjectival sentence of possession
+1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	fḫḫ.i҆	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-389
+# ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
+# text = śwt fḫḫ(.i҆)
+# lit = “It is he who looses.”
+# trans = “It is he who looses.”
+# type = Nominal sentence (i҆nk)
+1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	fḫḫ(.i҆)	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+
