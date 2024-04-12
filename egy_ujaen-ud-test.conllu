@@ -5834,7 +5834,7 @@
 # sent_id = UDE-392
 # ref = Pyramid Texts § 122b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆ Rꜥw nfr n ⸗f m hrw pn r śf
-# lit = "O Re, it is better for him on the day (i.e. today) than yesterday."
+# lit = "O Re, it is better for him on this day (i.e. today) than yesterday."
 # trans = "O Re, it is better for him today than yesterday."
 # type = Adjectival sentence with elided subject
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
@@ -5844,8 +5844,9 @@
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 6	m	m	ADP	Cons.state	_		case	_	_
 7	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-8	r	r	ADP	Cons.state	Case=Cmp	9	case	_	_
-9	śf	śf	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	r	r	ADP	Cons.state	Case=Cmp	10	case	_	_
+10	śf	śf	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 
 # sent_id = UDE-393
 # ref = Pyramid Texts § 123a W, Saqqara, 5th Dynasty, rel, OE
