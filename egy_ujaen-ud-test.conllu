@@ -5608,3 +5608,13 @@
 7	špꜣ	špꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nmod	_	_
 8	Wśr(.w)	Wśr(.w)	PROPN	Gen	Case=Gen|Gender=Masc	7	nmod	_	_
 
+# sent_id = UDE-378
+# ref = PT § 119a W, Saqqara, 5th Dynasty, rel, OE
+# text = n i҆b Wni҆ś
+# lit = “Unas will not thirst.”
+# trans = “Unas will not thirst.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	i҆b	i҆bi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+
