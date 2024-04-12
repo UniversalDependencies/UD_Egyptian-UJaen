@@ -5772,10 +5772,24 @@
 # text = i҆w ḫmt.t r p.t ḫr Rꜥw
 # lit = "Three (meals) (are) in the sky with Re."
 # trans = "Three are in the sky with Re."
-# type = Adverbial sentence
+# type = i҆w + adverbial sentence 
 1	i҆w	i҆w	PART	_	_	4	discourse	_	_
 2	ḫmt.t	ḫmt	NUM	NOUN	Gender=Fem	4	nsubj	_	_
 3	r	r	ADP	Cons.state	_	4	case	_	_
 4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 5	ḫr	ḫr	ADP	Cons.state	_	6	case	_	_
 6	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	4	obl	_	_
+
+# sent_id = UDE-387
+# ref = Pyramid Texts § 121d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w śn.t r tꜣ ḫr pśč̣.ti҆
+# lit = "Two (meals) (are) on earth with the Two Enneads."
+# trans = "Two (meals) (are) on earth with the Two Enneads."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	śn.t	śn.w	NUM	NOUN	Gender=Fem	4	nsubj	_	_
+3	r	r	ADP	Cons.state	_	4	case	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	ḫr	ḫr	ADP	Cons.state	_	6	case	_	_
+6	pśč̣.ti҆	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	4	obl	_	_
+
