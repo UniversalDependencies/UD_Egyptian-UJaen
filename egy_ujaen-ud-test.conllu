@@ -5812,3 +5812,22 @@
 1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	fḫḫ(.i҆)	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
+# sent_id = UDE-390
+# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE
+# text = n(.i҆) św mꜣꜣ.i҆
+# lit = "He belongs to the seer."
+# trans = "He belongs to the seer."
+# type = Adjectival sentence of possession
+1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-391
+# ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
+# text = śwt mꜣꜣ.i҆
+# lit = “It is he who sees.”
+# trans = “It is he who sees.”
+# type = Nominal sentence (i҆nk)
+1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+
