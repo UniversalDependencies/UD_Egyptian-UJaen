@@ -5689,3 +5689,19 @@
 6	č̣ś	č̣ś	NOUN	Emp	Gender=Fem|Number=Sing	5	appos	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-384
+# ref = PT § 120c W, Saqqara, 5th Dynasty, rel, OE
+# text = wč̣ św Rꜥ.w n ḥr.(i҆) śnm(.w) n(.i҆) rnp.t tn
+# lit = “Re commited him (i.e. Unas) to him who is over the catering of this year.”
+# trans = “Re commited him (i.e. Unas) to him who is in charge of the catering for this year.”
+# type = Verbal sentence
+1	wč̣	wč̣	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	Rꜥ.w	Rꜥ.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+4	n	n	ADP	Cons.state	Case=Dat	5	case	_	_
+5	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	1	iobj	_	_
+6	śnm(.w)	śnm.w	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+8	rnp.t	rnp.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+
