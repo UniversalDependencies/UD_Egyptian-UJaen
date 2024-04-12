@@ -5790,7 +5790,7 @@
 2	śn.t	śn.w	NUM	NOUN	Gender=Fem	4	nsubj	_	_
 3	r	r	ADP	Cons.state	_	4	case	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-5	ḫr	ḫr	ADP	Cons.state	_	6	case	_	_
+5	ḫr	ḫr	ADP	Cons.state	Case=Com	6	case	_	_
 6	pśč̣.ti҆	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	4	obl	_	_
 
 # sent_id = UDE-388
@@ -5869,4 +5869,16 @@
 2	śn.n	śn	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	Šwś.t	Šwś.t	PROPN	_	Gender=Fem	2	obj	_	_
+
+# sent_id = UDE-395
+# ref = Pyramid Texts § 123b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ṭmč̣.n Wni҆ś m Nḫbw.t
+# lit = "Unas has joined with Nekhebut."
+# trans = "Unas has joined with Nekhebut."
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	ṭmč̣.n	ṭmč̣	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	ḫr	ḫr	ADP	Cons.state	Case=Com	5	case	_	_
+5	Nḫbw.t	Nḫbw.t	PROPN	_	Gender=Fem	2	obl	_	_
 
