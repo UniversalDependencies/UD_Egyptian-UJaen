@@ -5707,9 +5707,9 @@
 
 # sent_id = UDE-385
 # ref = PT § 120d W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥ.w rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t
-# lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer.”
-# trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer.”
+# text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥ.w rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt i҆ś kꜣ wr ḥ(w) Kns.t n-n.tt Wni҆ś i҆ś i҆r(.i҆) ṭi҆.t i҆š.tt m ḥw.t
+# lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who is concerned five meals in the Mansion.”
+# trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who has a quintet of meals in the Mansion.”
 # type = Verbal sentence
 1	ḫfꜥ	ḫfꜥ	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
@@ -5747,4 +5747,23 @@
 33	bṭ.t	bṭ.t	NOUN	_	Gender=Fem|Number=Sing	29	conj	_	_
 34	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	29	conj	_	_
 35	ḥ(n)ḳ.t	ḥ(n)ḳ.t	NOUN	_	Gender=Fem|Number=Sing	29	conj	_	_
+36-37	n-n.tt	_	_	_	_	_	_	_	_
+36	n	n	ADP	_	_	40	mark	_	_
+37	n.tt	n.ty	SCONJ	_	_	36	fixed	_	_
+38	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
+39	i҆ś 	i҆ś 	PART	_	_	40	discourse	_	_
+40	kꜣ	kꜣ	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Sing	9	advcl	_	_
+41	wr	wr	ADJ	_	Gender=Masc|Number=Sing	40	amod	_	_
+42	ḥ(w)	ḥwi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	40	amod	_	_
+43	Kns.t	Kns.t	PROPN	Place-Name	Gender=Fem	42	obj	_	_
+44-45	n-n.tt	_	_	_	_	_	_	_	_
+44	n	n	ADP	_	_	48	mark	_	_
+45	n.tt	n.ty	SCONJ	_	_	44	fixed	_	_
+46	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	48	nsubj	_	_
+47	i҆ś 	i҆ś 	PART	_	_	48	discourse	_	_
+48	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	9	advcl	_	_
+49	ṭi҆.t	ṭi҆	NUM	_	Gender=Fem	50	nunmod	_	_
+50	i҆š.tt	i҆š.tt	NOUN	_	Gender=Fem|Number=Plur	49	appos	_	_
+51	m	m	ADP	Cons.state	Case=Loc	52	case	_	_
+52	ḥw.t	ḥw.t	NOUN	NisbaPrep	Gender=Fem|Number=Sing	48	obl	_	_
 
