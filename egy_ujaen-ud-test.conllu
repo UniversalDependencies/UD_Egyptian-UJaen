@@ -137,7 +137,7 @@
 # lit = “I am a servant of the one who enters his heart.”
 # trans = “I am a servant of his confidant.” / “I am a servant of the one he trusts.”
 # type = Nominal sentence (i҆nk)
-1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
@@ -943,7 +943,7 @@
 # lit = “I am Horus.”
 # trans = “I am Horus.”
 # type = Nominal sentence (i҆nk)
-1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
 
 # sent_id = UDE-70
@@ -965,7 +965,7 @@
 # lit = “I am your son, your beloved.”
 # trans = “I am your beloved son.”
 # type = Nominal sentence (i҆nk)
-1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	2	appos	_	_
@@ -3136,7 +3136,7 @@
 # lit = "You are the one he belongs to."
 # trans = "You are a part of him."
 # type = Nominal sentence (i҆nk)
-1	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
@@ -3170,7 +3170,7 @@
 # lit = "I am Geb."
 # trans = "I am Geb."
 # type = Nominal sentence (i҆nk)
-1	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	Gb(b)	Gbb	PROPN	_	Gender=Masc	0	root	_	_
 
 # sent_id = UDE-219
@@ -4116,7 +4116,7 @@
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	5	dislocated	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-4	i҆nk	i҆nk	PRON	IDPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
@@ -5058,7 +5058,7 @@
 # lit = “You are his father.”
 # trans = “You are his father.”
 # type = Nominal sentence (i҆nk)
-1	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	i҆t	i҆t	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
@@ -5082,7 +5082,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	čwt	čwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 5	kꜣ	kꜣ	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
@@ -5750,7 +5750,7 @@
 36-37	n-n.tt	_	_	_	_	_	_	_	_
 36	n	n	ADP	_	_	40	mark	_	_
 37	n.tt	n.ty	SCONJ	_	_	36	fixed	_	_
-38	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
+38	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
 39	i҆ś	i҆ś	PART	_	_	40	discourse	_	_
 40	kꜣ	kꜣ	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Sing	9	advcl	_	_
 41	wr	wr	ADJ	_	Gender=Masc|Number=Sing	40	amod	_	_
@@ -5809,7 +5809,7 @@
 # lit = “It is he who looses.”
 # trans = “It is he who looses.”
 # type = Nominal sentence (i҆nk)
-1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	fḫḫ(.i҆)	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-390
@@ -5828,7 +5828,7 @@
 # lit = “It is he who sees.”
 # trans = “It is he who sees.”
 # type = Nominal sentence (i҆nk)
-1	śwt	śwt	PRON	IDPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-392
