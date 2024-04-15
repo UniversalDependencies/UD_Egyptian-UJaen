@@ -87,8 +87,8 @@ Oxford.
 
 # Digital resources for Egyptian
 
-[Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
-[Ramses Online](http://ramses.ulg.ac.be/)
+- [Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
+- [Ramses Online](http://ramses.ulg.ac.be/)
 
 # Changelog
 
