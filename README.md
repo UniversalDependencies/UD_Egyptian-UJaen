@@ -55,7 +55,7 @@ I thank Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti (CIRCS
 - Díaz Hernández, Roberto A. 2022. “The Man-impersonal Verb Forms of the Suffix Pronoun Conjugation in Earlier Egyptian”, LingAeg 30, 25–90.
 - Edel, Elmar. 1955/1964. Altägyptische Grammatik, Rome.
 - Erman, Adolf. 1933. Neuägyptische Grammatik, Leipzig.
-- Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols), Berlin. 
+- Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols.), Berlin. 
 - Gardiner, Alan H. 19573. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs, 
 Oxford.
 - Johnson, Janet H. 2000. Thus Wrote ꜥOnchsheshonqy. An Introductory Grammar of Demotic, Chicago.
@@ -64,6 +64,31 @@ Oxford.
 - Schenkel, Wolfgang. 2012. Tübinger Einführung in die klassisch-ägyptische Sprache und Schrift, Tübingen.
 - Spiegelberg, Wilhelm. 19752. Demotische Grammatik, Heidelberg.
 
+
+# Sources for the treebank
+
+- Allen, James P. 2013. A New Concordance of the Pyramid Texts (6 vols.), Brown University.
+- Borchardt, Ludwig. 1907. Das Grabdenkmal des Königs Ne-user-reʿ, Leipzig.
+- Borchardt, Ludwig. 1911. Catalogue général des antiquités égyptiennes du Musée du Caire. Statuen und Statuetten von Königen und Privatleuten, Berlin.
+- Borchardt, Ludwig. 1937–1964. Catalogue général des antiquités égyptiennes du Musée du Caire. Denkmäler des Alten Reiches, Cairo.
+- Clère, J. J. and Vandier, J. 1948. Textes de la Première Période Intermédiaire et de la XIème Dynastie, Bibliotheca Aegyptiaca X, Bruxelles.
+- Davies, Norman de Garis. 1900. The Mastaba of Ptahhetep and Akhethetep at Saqqarah, London.
+- Duell, Prentice. 1938. The Mastaba of Mereruka, Part II, Chicago.
+- Edel, Elmar (Seyfried, Karl-J./Vieler, Gerd, eds.) 2008. Die Felsgräbernekropole der Qubbet el-Hawa bei Assuan, Paderborn, Munich, Vienna, Zürich.
+- Gardiner, Alan H. and Sethe, Kurt. 1928. Egyptian Letters to the Dead mainly from the Old and Middle Kingdoms, London.
+- Griffith, Francis L. 1889. The Inscriptions of Siûṭ and Dêr Rifeh, London.
+- James, Thomas G. H. 1953. The Mastaba of Khentika called Ikhekhi, London.
+- Kanawati, Naguib. 1987. The Rock Tombs of el-Hawawish. The Cemetery of Akhmim. Volume VII, Sydney.
+- Lange, Hans O. and Schäfer, Heinrich. 1902–1925. Catalogue général des antiquités égyptiennes du Musée du Caire. Grab- und Denksteine des Mittleren Reichs (4 vols.), Berlin.
+- Mariette, Auguste. 1889. Les mastabas de l’ancien empire, Paris.
+- Sethe, Kurt. 1908–1922. Die altägyptischen Pyramidentexte nach den Papierabdrücken und Photographien des Berliner Museums (4 vols.), Leipzig.
+- Sethe, Kurt. 1933. Urkunden des Alten Reichs, Leipzig.
+
+
+# Digital resources for Egyptian
+
+[Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
+[Ramses Online](http://ramses.ulg.ac.be/)
 
 # Changelog
 
