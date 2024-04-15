@@ -1,17 +1,12 @@
 # Summary
 
-UD Egyptian UJaen is the first treebank created for the Egyptian language. It contains Egyptian sentences manually annotated at the University of Jaén (Spain). They were selected from texts written in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic.
+Egyptian-UJaen is the first morphosyntactic treebank created for Pre-Coptic Egyptian. It contains Egyptian sentences manually annotated at the University of Jaén (Spain) that were selected from texts written in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic (for an overall description of these linguistic stages, see the Language Page for Egyptian; and the bibliography below).
 
 
 # Introduction
 
-The Egyptian UJaen Treebank is a corpus of Egyptian texts manually annotated by using the Tübingen transcription system at the University of Jaén. It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The sentences annotated in UD Egyptian are selected from two text corpora projects:
+The Egyptian-UJaen Treebank contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The first release of the treebank contains Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below).
 
-Nile in Contact, which is working on the English translation and morphosyntactic analysis of Egyptian historical-biographical inscriptions from the third and second millennia BC found between the First and Fifth Cataract. It is developed in collaboration with the Thesaurus Linguae Aegyptiae hosted by the Berlin-Brandenburg Academy of Sciences and Humanities.
-
-The PARSEME Corpus of Egyptian Multiword Expressions, which aims to identify and analyze Egyptian MWEs from all texts written in Old Egyptian, Middle Egyptian and Late Egyptian.
-
-These three projects, directed by Roberto A. Díaz Hernández, are synergistic in their development, as they have in common the goal of a diachronic study of Egyptian.
 
 # Further Details
 
@@ -47,38 +42,27 @@ Tübingen Transcription System
 <tr><td>𓆓</td>	<td>č̣</td></tr>
 </table>
 
-Each sentence has an ID consisting of an abbreviation of the source, the date, the genre, the language stage and the provenance of the text in order to facilitate the search for synchronic and diachronic phenomena. The date is expressed in dynasties (1dyn, 2dyn, 3dyn...). There are four genres: religious (rel), historical-biographical (hist-biog), literary (lit) and documental (doc). The three stages of Egyptian are: Old Egyptian (OE), Middle Egyptian (ME) and Late Egyptian (LE). The names of the sources and the toponyms are abbreviated as usual in Egyptology, for example PT means "Pyramid Texts", CT "Coffin Texts" and Saqq "Saqqara". A list containing the abbreviations of the sources will be updated here during the development of the project.
-
-
-## Example of Annotation
-
-<pre>
-sent_id = PT293a-5dyn-rel-OE-Saqq
-(Pyramid Texts § 293a)
-
-nč̣m            i҆b           n(.i҆)    [Wni҆ś]
-be sweet-SBJV  heart-M.SG  of-M.SG  Unas-KN
-LM: “The heart of [Unas] shall be sweet.”
-FT: “[Unas] shall be kind.”
-</pre>
-
-
-## Abbreviations
-
-### Texts
-
-PT = Pyramid Texts
-CT = Coffin Texts
-
-### Provenance
-
-Saqq = Saqqara
-
-
 
 # Acknowledgments
 
-I thank Tonio Sebastian Richter, Daniel Werning and Simon Schweitzer (Thesaurus Linguae Aegyptiae) for their cooperation in Nile in Contact. I am also grateful to Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti for introducing me to computational linguistics.
+I thank Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
+
+
+# Bibliography used for the Language Page
+
+- Černý, Jaroslav/Groll, Israelit. 1975. A Late Egyptian Grammar, Rome.
+- Díaz Hernández, Roberto A. 2021. “The Man-impersonal śč̣m.n-ti҆/tw(⸗f) Form in Earlier Egyptian”, LingAeg 29, 37–59.
+- Díaz Hernández, Roberto A. 2022. “The Man-impersonal Verb Forms of the Suffix Pronoun Conjugation in Earlier Egyptian”, LingAeg 30, 25–90.
+- Edel, Elmar. 1955/1964. Altägyptische Grammatik, Rome.
+- Erman, Adolf. 1933. Neuägyptische Grammatik, Leipzig.
+- Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols), Berlin. 
+- Gardiner, Alan H. 19573. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs, 
+Oxford.
+- Johnson, Janet H. 2000. Thus Wrote ꜥOnchsheshonqy. An Introductory Grammar of Demotic, Chicago.
+- Junge, Friedrich. 2008. Neuägyptisch. Einführung in die Grammatik, Wiesbaden.
+- Satzinger, Helmut. 2021. ‘Is there not one among you who understands Egyptian?’ The Late Egyptian Language: - Structure of its Grammar, London.
+- Schenkel, Wolfgang. 2012. Tübinger Einführung in die klassisch-ägyptische Sprache und Schrift, Tübingen.
+- Spiegelberg, Wilhelm. 19752. Demotische Grammatik, Heidelberg.
 
 
 # Changelog
