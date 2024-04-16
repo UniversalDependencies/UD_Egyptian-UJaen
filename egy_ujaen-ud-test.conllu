@@ -6082,3 +6082,16 @@
 6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-409
+# ref = PT § 125c W, Saqqara, 5th Dynasty, rel, OE
+# text = wḥm i҆n(.w) i҆ꜣb.t(i҆)w tʾ ⸗k pw
+# lit = “May the eastern porters repeat: 'Your bread is this'.”
+# trans = “May the eastern porters repeat: 'It is your bread'.”
+# type = Verbal sentence
+1	wḥm	wḥm	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	i҆n(.w)	i҆n	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	1	nsubj	_	_
+3	i҆ꜣb.t(i҆)w	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+4	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	_
+5	(⸗k)	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
+
