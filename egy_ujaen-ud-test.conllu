@@ -6018,7 +6018,7 @@
 5	śč̣.t	śč̣.t	VERB	_	Gender=Fem|Number=Sing	4	obj	_	_
 
 # sent_id = UDE-404
-# ref = Pyramid Texts § 124c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 124c W / 124f T, Saqqara, 5th Dynasty, rel, OE
 # text = ḫnč̣ m-ꜥb śꜣšr.t
 # lit = "The (bull's) shank (?) is in the company of baked goods."
 # trans = "The (bull's) shank (?) is with baked goods."
@@ -6053,4 +6053,18 @@
 5	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 6	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 7	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = UDE-407
+# ref = PT § 125a W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜣč̣ šw n i҆č.n Wni҆ś i҆š.t ⸗f
+# lit = “(When) need flourishes, Unas cannot take his meal.”
+# trans = “When need flourishes, Unas cannot take his meal.”
+# type = Verbal sentence with a verbal topic
+1	wꜣč̣	wꜣč̣	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	šw	šw	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+4	i҆č.n	i҆či̯		VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
