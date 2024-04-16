@@ -6029,7 +6029,7 @@
 3	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
 4	śꜣšr.t	śꜣšr.t	NOUN	Gen|MWE	Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
 
-# sent_id = UDE-403
+# sent_id = UDE-405
 # ref = Pyramid Texts § 124e T, Saqqara, 6th Dynasty, rel, OE
 # text = (i҆)ḫ.t n (⸗i҆) (I҆)tm(.w)
 # lit = "A meal (is) for (me), Atum."
@@ -6039,4 +6039,18 @@
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=1|PronType=Prs	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	3	dislocated	_	_
+
+# sent_id = UDE-406
+# ref = Pyramid Texts § 124e N, Saqqara, 6th Dynasty, rel, OE
+# text = (i҆)ḫ.t n (⸗i҆) i҆m(.i҆) i҆r.t wi҆ꜣ nčr
+# lit = "A meal (is) for (me), the one who is in the eye of the bark of the god."
+# trans = "A meal (is) for (me), O you who are in the eye of the bark of the god."
+# type = Adverbial sentence (possession) 
+1	(i҆)ḫ.t	(i҆)ḫ.t	NOUN	Subj	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	dislocated	_	_
+5	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+6	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 
