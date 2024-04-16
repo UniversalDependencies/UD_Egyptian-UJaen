@@ -6068,3 +6068,17 @@
 6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-408
+# ref = PT § 125b W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜣč̣ Wni҆ś n i҆č.n šw i҆š.t ⸗f
+# lit = “(When) Unas flourishes, need cannot take his meal (i.e. of Unas).”
+# trans = “When Unas flourishes, need cannot take his meal (i.e. of Unas).”
+# type = Verbal sentence with a verbal topic
+1	wꜣč̣	wꜣč̣	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+4	i҆č.n	i҆či̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+5	šw	šw	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
