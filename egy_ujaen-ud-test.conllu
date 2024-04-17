@@ -6393,3 +6393,14 @@
 3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 4	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
+# sent_id = UDE-429
+# ref = Pyramid Texts § 131a T, Saqqara, 6th Dynasty, rel, OE
+# text = bw.t Tti҆ pw ḥḳr
+# lit = "The abomination of Teti is hunger."
+# trans = "Teti's abomination is hunger."
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
