@@ -6311,3 +6311,16 @@
 47	i҆m	m	ADP	Pron.st	_	48	case	_	_
 48	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
 
+# sent_id = UDE-423
+# ref = Pyramid Texts § 130a W, Saqqara, 5th Dynasty, rel, OE
+# text = sḥ n(.i҆) Wni҆ś śḫt(.i҆) m i҆ꜣr.w
+# lit = “The booth of Unas is plaited of reeds.”
+# trans = "The booth of Unas is plaited of reeds."
+# type = Verbal sentence
+1	sḥ	sḥ	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+3	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+4	śḫt(.i҆)	śḫt	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	m	m	ADP	Pron.st	Case=Ins	5	case	_	_
+6	i҆ꜣr.w	i҆ꜣr	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
