@@ -6120,5 +6120,27 @@
 # trans = “Awake, sleepers.”
 # type = Verbal sentence
 1	rś	rś	VERB	Imp	Mood=Imp	0	root	_	_
-2	śč̣r.w	śč̣r	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Pluir	1	vocative	_	_
+2	śč̣r.w	śč̣r	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	1	vocative	_	_
+
+# sent_id = UDE-413
+# ref = PT § 126b W, Saqqara, 5th Dynasty, rel, OE
+# text = nhs.y i҆m.(i҆)w Kns.t ṭp(.i҆w)-ꜥ.w(i҆) śṭꜣ wr pr m ḥ(s)p Wp-wꜣ.(w)t pr m i҆sr.t
+# lit = “Rouse up, you who are in Kenzet, who are on the tip of the arms of the Great Heron who came from the garden, and of Wepwawet who came from the tamarisk.”
+# trans = “Rouse up, you in Kenzet, who are before the Great Heron who came from the garden and Wepwawet who came from the tamarisk.”
+# type = Verbal sentence
+1	nhs.y	nhsi̯	VERB	Imp	Mood=Imp|Number=Plur	0	root	_	_
+2	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	vocative	_	_
+3	Kns.t	Kns.t	PROPN	Place-Name	Gender=Fem	2	nmod	_	_
+4-5	ṭp(.i҆w)-ꜥ.w(i҆)	_	_	_	_	_	_	_	_
+4	ṭp(.i҆w)	ṭp	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	vocative	_	_
+5	ꜥ.w(i҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	fixed	_	_
+6	śṭꜣ	śṭꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+7	wr	wr	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
+8	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	_
+9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
+10	ḥ(s)p	ḥ(s)p	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	Wp-wꜣ.(w)t	Wp-wꜣ.wt	PROPN	_	Gender=Masc	4	nmod	_	_
+12	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	amod	_	_
+13	m	m	ADP	Cons.st	Case=Ela	14	case	_	_
+14	ḥ(s)p	ḥ(s)p	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
 
