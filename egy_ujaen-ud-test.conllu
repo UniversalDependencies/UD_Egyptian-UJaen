@@ -6231,7 +6231,7 @@
 # lit = “He cannot eat the abomination of these two, just as Seth rejects the death.”
 # trans = “He cannot eat the abomination of these two, just as Seth rejects the death.”
 # type = Verbal sentence
-1	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -6403,4 +6403,26 @@
 2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 4	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-430
+# ref = PT § 131a W, Saqqara, 5th Dynasty, rel, OE
+# text = n wnm.n ⸗f św
+# lit = “He cannot eat it.”
+# trans = “He cannot eat it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
+# sent_id = UDE-431
+# ref = PT § 131a T, Saqqara, 6th Dynasty, rel, OE
+# text = n wnm.n ⸗f św
+# lit = “He will not eat it.”
+# trans = “He will not eat it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	wnm	wnm	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
