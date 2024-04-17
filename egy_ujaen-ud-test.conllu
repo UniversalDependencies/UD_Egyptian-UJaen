@@ -6204,3 +6204,14 @@
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj	_	_
 7	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 
+# sent_id = UDE-418
+# ref = Pyramid Texts § 127d T, Saqqara, 6th Dynasty, rel, OE
+# text = bw.t Tti҆ bw.t ⸗f
+# lit = "The abomination of Teti is his abomination."
+# trans = "The abomination of Teti is his abomination."
+# type = Nominal sentence (A = B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	bw.t	bw.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+
