@@ -6227,13 +6227,32 @@
 
 # sent_id = UDE-420
 # ref = PT § 128a W, Saqqara, 5th Dynasty, rel, OE
-# text = n wnm.n ⸗f bw.t nw.i҆
-# lit = “He cannot eat the abomination of these two.”
-# trans = “He cannot eat the abomination of these two.”
+# text = n wnm.n ⸗f bw.t nw.i҆ i҆mr twr Śtẖ mwt
+# lit = “He cannot eat the abomination of these two, just as Seth rejects the death.”
+# trans = “He cannot eat the abomination of these two, just as Seth rejects the death.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
 2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
 5	nw.i҆	nw	NOUN	Dem	Case=Gen|Gender=Masc|Number=Dual|PronType=Dem	4	nmod	_	_
+6	i҆mr	mr	ADP	Cons.st	Case=Equ	7	mark	_	_
+7	twr	twr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+8	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	7	nsubj	_	_
+9	mwt	mwt	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+
+# sent_id = UDE-421
+# ref = Pyramid Texts § 128b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = rḥ.w(i҆) i҆pw č̣ꜣ.y p.t Rꜥ pi҆ ḥnꜥ Č̣ḥw.ti҆
+# lit = “These two companions who cross the sky, they are Re together with Thoth.”
+# trans = “These two companions who cross the sky, they are Re and Thoth.”
+# type = Nominal sentence (A pw)
+1	rḥ.w(i҆)	rḥ.w	NOUN	_	Gender=Masc|Number=Dual	5	dislocated	_	_
+2	i҆pw	pw	DET	Dem	Gender=Masc|Number=Dual|PronType=Dem	1	det	_	_
+3	č̣ꜣ.y	č̣ꜣi̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	amod	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	Rꜥ	Rꜥ	PROPN	_	Gender=Masc	0	root	_	_
+6	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+7	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	8	case	_	_
+8	Č̣ḥw.ti҆	Č̣ḥw.ti҆	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 
