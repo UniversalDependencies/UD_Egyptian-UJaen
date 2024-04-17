@@ -6149,7 +6149,7 @@
 # text = wꜥb rʾ n(.i҆) Wni҆ś śnčr pśč̣.t(i҆) Wni҆ś
 # lit = "The mouth of Unas is pure while the Two Enneads cense Unas."
 # trans = "The mouth of Unas is pure while the Two Enneads are censing Unas."
-# type = Adjectival sentence
+# type = Adjectival sentence + circumstantial clause
 1	wꜥb	wꜥb	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 2	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
@@ -6172,4 +6172,17 @@
 6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
 7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-416
+# ref = Pyramid Texts § 127c W, Saqqara, 5th Dynasty, rel, OE
+# text = b(w).t Wni҆ś ḥś twr Wni҆ś wsš.t
+# lit = "The abomination of Unas is excrement, while Unas rejects urine."
+# trans = "Unas's abomination is excrement while rejecting urine."
+# type = Nominal sentence (A = B) + circumstantial clause
+1	b(w).t	b(w).t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	ḥś	ḥś	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	twr	twr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+6	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 
