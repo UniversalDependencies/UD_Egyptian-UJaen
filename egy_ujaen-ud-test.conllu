@@ -6176,10 +6176,10 @@
 # sent_id = UDE-416
 # ref = Pyramid Texts § 127c W, Saqqara, 5th Dynasty, rel, OE
 # text = b(w).t Wni҆ś ḥś twr Wni҆ś wsš.t bw Wni҆ś bw.t ⸗f
-# lit = "The abomination of Unas is excrement, while Unas rejects urine."
-# trans = "Unas's abomination is excrement while rejecting urine."
+# lit = "The abomination of Unas is excrement, while Unas rejects urine and while Unas abominates his abomination."
+# trans = "Unas's abomination is excrement while rejecting urine and abominating his abomination."
 # type = Nominal sentence (A = B) + circumstantial clause
-1	b(w).t	b(w).t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+1	b(w).t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
 2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
 3	ḥś	ḥś	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	twr	twr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
@@ -6189,4 +6189,18 @@
 8	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nsubj	_	_
 9	bw.t	bw.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
+# sent_id = UDE-417
+# ref = Pyramid Texts § 127c T, Saqqara, 5th Dynasty, rel, OE
+# text = bw.t Tti҆ pw ḥś twr Tti҆ wsš.t
+# lit = "The abomination of Unas is excrement, while Unas rejects urine."
+# trans = "Unas's abomination is excrement while rejecting urine."
+# type = Nominal sentence (A pw B) + circumstantial clause
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	ḥś	ḥś	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	twr	twr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	4	advcl	_	_
+6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj	_	_
+7	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 
