@@ -6191,7 +6191,7 @@
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 
 # sent_id = UDE-417
-# ref = Pyramid Texts § 127c T, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 127c T, Saqqara, 6th Dynasty, rel, OE
 # text = bw.t Tti҆ pw ḥś twr Tti҆ wsš.t
 # lit = "The abomination of Unas is excrement, while Unas rejects urine."
 # trans = "Unas's abomination is excrement while rejecting urine."
@@ -6381,4 +6381,15 @@
 8	p.t	p.t	NOUN	Obj	Gender=Fem|Number=Sing	6	obj	_	_
 9	mr	mr	ADP	Cons.st	Case=Equ	10	case	_	_
 10	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	6	obl	_	_
+
+# sent_id = UDE-428
+# ref = Pyramid Texts § 131a W, Saqqara, 5th Dynasty, rel, OE
+# text = bw.t Wni҆ś pi҆ ḥḳr
+# lit = "The abomination of Unas is hunger."
+# trans = "Unas's abomination is hunger."
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
