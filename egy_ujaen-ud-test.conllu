@@ -6337,3 +6337,17 @@
 5	śḫ.t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	0	root	_	_
 6	ḥtp	ḥtp	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-425
+# ref = Pyramid Texts § 130c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥꜣb.t ⸗f m-m ⸗čn nčr(.w)
+# lit = "His food-offerings are among you, gods."
+# trans = "His food-offerings are among you, you gods."
+# type = Adverbial sentence
+1	ꜥꜣb.t	ꜥꜣb.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3-4	m-m	_	_	_	_	_	_	_	_
+3	m	m	ADP	Cons.st	Case=Dis	7	case	_	_
+4	m	m	ADP	_	_	3	fixed	_	_
+5	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	dislocated	_	_
+
