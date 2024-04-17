@@ -6158,3 +6158,18 @@
 6	pśč̣.t(i҆)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	5	nsubj	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
 
+# sent_id = UDE-415
+# ref = Pyramid Texts § 127b W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb (i҆)r ⸗f šśꜣ.w pn i҆m(.i҆) rʾ ⸗f
+# lit = "Pure indeed is this tongue which is in his tongue."
+# trans = "Pure indeed is this tongue which is in his tongue."
+# type = Adjectival sentence
+1	wꜥb	wꜥb	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	(i҆)r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
+4	šśꜣ.w	šśꜣ.w	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
