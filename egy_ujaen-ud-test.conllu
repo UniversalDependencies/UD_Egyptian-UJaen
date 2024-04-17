@@ -6123,7 +6123,7 @@
 2	śč̣r.w	śč̣r	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	1	vocative	_	_
 
 # sent_id = UDE-413
-# ref = PT § 126b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 126b-c W, Saqqara, 5th Dynasty, rel, OE
 # text = nhs.y i҆m.(i҆)w Kns.t ṭp(.i҆w)-ꜥ.w(i҆) śṭꜣ wr pr m ḥ(s)p Wp-wꜣ.(w)t pr m i҆sr.t
 # lit = “Rouse up, you who are in Kenzet, who are on the tip of the arms of the Great Heron who came from the garden, and of Wepwawet who came from the tamarisk.”
 # trans = “Rouse up, you in Kenzet, who are before the Great Heron who came from the garden and Wepwawet who came from the tamarisk.”
@@ -6143,4 +6143,18 @@
 12	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	amod	_	_
 13	m	m	ADP	Cons.st	Case=Ela	14	case	_	_
 14	i҆sr.t	i҆sr.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+
+# sent_id = UDE-414
+# ref = Pyramid Texts § 127a W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb rʾ n(.i҆) Wni҆ś śnčr pśč̣.t(i҆) Wni҆ś
+# lit = "The mouth of Unas is pure while the Two Enneads cense Unas."
+# trans = "The mouth of Unas is pure while the Two Enneads are censing Unas."
+# type = Adjectival sentence
+1	wꜥb	wꜥb	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nmod	_	_
+5	śnčr	śnčr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	pśč̣.t(i҆)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	5	nsubj	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
 
