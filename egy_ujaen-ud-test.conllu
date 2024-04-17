@@ -1056,7 +1056,7 @@
 # ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
 # text = Ḥr.w i҆wn rʾ n(.i҆) Ppy pn
 # lit = “Horus, open the mouth of this Pepi.”
-# trans = “Thoth, put his head on him.Horus, open the mouth of this Pepi.”
+# trans = “Horus, open the mouth of this Pepi.”
 # type = Verbal sentence
 1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
 2	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
@@ -6255,4 +6255,59 @@
 6	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
 7	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	8	case	_	_
 8	Č̣ḥw.ti҆	Č̣ḥw.ti҆	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+
+# sent_id = UDE-422
+# ref = Pyramid Texts § 128c-129c W, Saqqara, 5th Dynasty, rel, OE
+# text = šṭ n ⸗čn Wni҆ś ḥnꜥ čn wnm ⸗f m wnm.t ⸗čn i҆m (⸗ś) swr ⸗f m swr.t ⸗čn i҆m (⸗ś) ꜥnḫ ⸗f m ꜥnḫ.t ⸗čn i҆m (⸗ś) ḥmś ⸗f m ḥmś.t ⸗čn i҆m (⸗ś) wśr ⸗f m wśr.t ⸗čn i҆m (⸗ś) śḳṭ ⸗f m śḳṭṭ.t ⸗čn i҆m (⸗ś)
+# lit = "Take for yourself Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in that in which you sail."
+# trans = "Take Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in what you sail in."
+# type = Verbal sentence
+1	šṭ	šṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Emp	1	obl	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
+5	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	6	case	_	_
+6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Emp	1	obl	_	_
+7	wnm	wnm	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	m	m	ADP	Cons.st	_	10	case	_	_
+10	wnm.t	wnm	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+11	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+12	i҆m	m	ADP	Pron.st	_	13	case	_	_
+13	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+14	swr	swr	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
+15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+16	m	m	ADP	Cons.st	_	17	case	_	_
+17	wnm.t	wnm	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+18	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
+19	i҆m	m	ADP	Pron.st	_	20	case	_	_
+20	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+21	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
+22	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+23	m	m	ADP	Cons.st	_	24	case	_	_
+24	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+25	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	_
+26	i҆m	m	ADP	Pron.st	_	27	case	_	_
+27	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obl	_	_
+28	ḥmś	ḥmśi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
+29	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+30	m	m	ADP	Cons.st	_	31	case	_	_
+31	ḥmś.t	ḥmśi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+32	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	31	nsubj	_	_
+33	i҆m	m	ADP	Pron.st	_	34	case	_	_
+34	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obl	_	_
+35	wśr	wśr	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
+36	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	_
+37	m	m	ADP	Cons.st	_	38	case	_	_
+38	wśr.t	wśr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+39	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	39	nsubj	_	_
+40	i҆m	m	ADP	Pron.st	_	41	case	_	_
+41	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	38	obl	_	_
+42	śḳṭ	śḳṭi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	conj	_	_
+43	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_
+44	m	m	ADP	Cons.st	_	45	case	_	_
+45	śḳṭṭ.t	śḳṭi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Cau	42	advcl	_	_
+46	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	45	nsubj	_	_
+47	i҆m	m	ADP	Pron.st	_	48	case	_	_
+48	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
 
