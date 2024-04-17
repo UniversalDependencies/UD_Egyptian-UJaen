@@ -6095,3 +6095,12 @@
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	_
 
+# sent_id = UDE-410
+# ref = PT § 126a W, Saqqara, 5th Dynasty, rel, OE
+# text = rś Wp.w
+# lit = “Awake, O Wepu.”
+# trans = “Awake, O Wepu.”
+# type = Verbal sentence
+1	rś	rś	VERB	Imp	Mood=Imp	0	root	_	_
+1	Wp.w	Wp.w	PROPN	_	Case=Voc|Gender=Masc	1	vocative	_	_
+
