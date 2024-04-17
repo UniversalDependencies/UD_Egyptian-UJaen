@@ -6175,7 +6175,7 @@
 
 # sent_id = UDE-416
 # ref = Pyramid Texts § 127c W, Saqqara, 5th Dynasty, rel, OE
-# text = b(w).t Wni҆ś ḥś twr Wni҆ś wsš.t
+# text = b(w).t Wni҆ś ḥś twr Wni҆ś wsš.t bw Wni҆ś bw.t ⸗f
 # lit = "The abomination of Unas is excrement, while Unas rejects urine."
 # trans = "Unas's abomination is excrement while rejecting urine."
 # type = Nominal sentence (A = B) + circumstantial clause
@@ -6185,4 +6185,8 @@
 4	twr	twr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
 6	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+7	bw	bwi̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nsubj	_	_
+9	bw.t	bw.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 
