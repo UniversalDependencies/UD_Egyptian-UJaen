@@ -6215,3 +6215,13 @@
 3	bw.t	bw.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
+# sent_id = UDE-419
+# ref = Pyramid Texts § 127d T, Saqqara, 6th Dynasty, rel, OE, cf. Allen 2017: 38.
+# text = bw.t Wni҆ś nw.i҆
+# lit = "The abomination of Teti is these two."
+# trans = "The abomination of Teti is these two."
+# type = Nominal sentence (A = B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	nw.i҆	nw	NOUN	Dem	Gender=Masc|Number=Dual|PronType=Dem	0	root	_	_
+
