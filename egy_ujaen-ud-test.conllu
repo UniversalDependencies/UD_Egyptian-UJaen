@@ -6426,3 +6426,58 @@
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
+# sent_id = UDE-432
+# ref = Pyramid Texts § 131b W, Saqqara, 5th Dynasty, rel, OE
+# text = bw.t Wni҆ś pi҆ i҆b.t
+# lit = "The abomination of Unas is thirst."
+# trans = "Unas's abomination is thirst."
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	i҆b.t	i҆b.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = UDE-433
+# ref = Pyramid Texts § 131a T, Saqqara, 6th Dynasty, rel, OE
+# text = bw.t Tti҆ pw i҆b.t
+# lit = "The abomination of Teti is hunger."
+# trans = "Teti's abomination is hunger."
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	i҆b.t	i҆b.t	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-434
+# ref = PT § 131b W, Saqqara, 5th Dynasty, rel, OE
+# text = n swr.n ⸗f ś(i҆)
+# lit = “He cannot drink it.”
+# trans = “He cannot drink it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ś(i҆)	ś(i҆)	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
+# sent_id = UDE-435
+# ref = PT § 131b T, Saqqara, 6th Dynasty, rel, OE
+# text = n swr.n ś(i҆) Tti҆ 
+# lit = “Teti cannot drink it.”
+# trans = “Teti cannot drink it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	ś(i҆)	ś(i҆)	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+
+# sent_id = UDE-436
+# ref = PT § 131b M, Saqqara, 6th Dynasty, rel, OE
+# text = n swr ⸗f ś(i҆)
+# lit = “He will not drink it.”
+# trans = “He will not drink it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	wnm	wnm	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ś(i҆)	ś(i҆)	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
