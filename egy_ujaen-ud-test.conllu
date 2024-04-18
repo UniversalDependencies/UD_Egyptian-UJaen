@@ -6641,7 +6641,7 @@
 9	ṭwꜣ(.w)	ṭwꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 
 # sent_id = UDE-449
-# ref = PT § 132c W, Saqqara, rth Dynasty, rel, OE
+# ref = PT § 132c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆wr(.w) Wni҆ś m Nw.w mś(.w) ⸗f m Nw.w
 # lit = “Unas was conceived in Nu - he was born in Nu.”
 # trans = “(Both of them:) Unas was conceived in Nu, and he was born in Nu.”
@@ -6652,6 +6652,21 @@
 4	Nw.w	Nw.w	PROPN	_	Gender=Masc	1	obl	_	_
 5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
+8	Nw.w	Nw.w	PROPN	_	Gender=Masc	5	obl	_	_
+
+# sent_id = UDE-450
+# ref = PT § 132c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆wr(.w) Tti҆ m Nw.w mś(.w) Tti҆ m Nw.w
+# lit = “Teti was conceived in Nu - Teti was born in Nu.”
+# trans = “(Both of them:) Teti was conceived in Nu, and Teti was born in Nu.”
+# type = Balanced sentence
+1	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Tem	4	case	_	_
+4	Nw.w	Nw.w	PROPN	_	Gender=Masc	1	obl	_	_
+5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
+6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj	_	_
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	Nw.w	Nw.w	PROPN	_	Gender=Masc	5	obl	_	_
 
