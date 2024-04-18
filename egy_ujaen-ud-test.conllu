@@ -6824,3 +6824,13 @@
 6	i҆ś	i҆ś	PART	Neg	PartType=Emp	4	advmod	_	_
 7	m(w)t.ti҆	mwt	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	4	advcl	_	_
 
+# sent_id = UDE-461
+# ref = PT § 134a W, Saqqara, 5th Dynasty, rel, OE
+# text = šm.n ⸗k ꜥnḫ.[t](i҆)
+# lit = “You departed (certainly) being alive.”
+# trans = “It is alive that you have departed.”
+# type = Cleft sentence with adverbial focus
+1	šm.n	šmi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ꜥnḫ.[t](i҆)	ꜥnḫ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
+
