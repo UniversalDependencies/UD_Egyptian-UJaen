@@ -6534,3 +6534,26 @@
 3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 4	I҆ꜣ.t	I҆ꜣ.t	PROPN	_	Gender=Fem	0	root	_	_
 
+# sent_id = UDE-441
+# ref = Pyramid Texts § 131d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫnm.t(i҆)t ⸗f pi҆ I҆ꜣ.t
+# lit = "His nurse is Iat."
+# trans = "His nurse is Iat."
+# type = Nominal sentence (A pw B)
+1	ḫnm.t(i҆)t	ḫnm.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	I҆ꜣ.t	I҆ꜣ.t	PROPN	_	Gender=Fem	0	root	_	_
+
+# sent_id = UDE-442
+# ref = Pyramid Texts § 131d T, Saqqara, 6th Dynasty, rel, OE
+# text = ḫnm.t(i҆)t pw n.t Tti҆ I҆ꜣ.t
+# lit = "The nurse of Teti is Iat."
+# trans = "The nurse of Teti is Iat."
+# type = Nominal sentence (A pw B)
+1	ḫnm.t(i҆)t	ḫnm.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	_
+3	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nmod	_	_
+5	I҆ꜣ.t	I҆ꜣ.t	PROPN	_	Gender=Fem	0	root	_	_
+
