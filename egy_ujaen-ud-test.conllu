@@ -6749,13 +6749,39 @@
 # sent_id = UDE-455
 # ref = Pyramid Texts § 133d W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ.t ⸗f i҆m ꜥnḫ Wni҆ś i҆m
-# lit = "What he lives on, Unas lives on."
-# trans = "What he lives on, Unas lives on."
+# lit = "What he (i.e. Horus) lives on, Unas lives on."
+# trans = "What he (i.e. Horus) lives on, Unas lives on."
 # type = Balanced sentence
 1	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
 4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
+
+# sent_id = UDE-456
+# ref = Pyramid Texts § 133e W, Saqqara, 5th Dynasty, rel, OE
+# text = wnm.t ⸗f i҆m wnm ⸗f i҆m
+# lit = "What he (i.e. Horus) eats of, he (i.e. Unas) eats of."
+# trans = "What he (i.e. Horus) eats, Unas (i.e. Unas) eats of."
+# type = Balanced sentence
+1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
+4	wnm	wnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
+
+# sent_id = UDE-457
+# ref = Pyramid Texts § 133e W, Saqqara, 5th Dynasty, rel, OE
+# text = wnm.t ⸗f i҆m wnm Tti҆ i҆m
+# lit = "What he (i.e. Horus) eats of, Teti eats of."
+# trans = "What he (i.e. Horus) eats, Teti eats of."
+# type = Balanced sentence
+1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
+4	wnm	wnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
 6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
 
