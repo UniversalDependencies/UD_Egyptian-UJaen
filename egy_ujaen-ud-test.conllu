@@ -6581,3 +6581,14 @@
 4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel|Obj	Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
 
+# sent_id = UDE-445
+# ref = Pyramid Texts § 131e W, Saqqara, 5th Dynasty, rel, OE
+# text = śtt wnn.t mś.t Wni҆ś
+# lit = “She in fact is the one who bore Unas.”
+# trans = “She in fact is the one who bore Unas.”
+# type = Cleft sentence with nominal focus
+1	śtt	śtt	PRON	IndPron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
+3	mś.t	mśi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obj	_	_
+
