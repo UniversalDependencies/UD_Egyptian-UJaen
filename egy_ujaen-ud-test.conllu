@@ -5078,7 +5078,7 @@
 # text = Wśr(.w) Ppy Nfr-kꜣ-rꜥ čwt kꜣ ⸗f
 # lit = “Osiris Pepi Neferkare, you are his ka.”
 # trans = “Osiris Pepi Neferkare, you are his ka.”
-# type = Nominal sentence (A pw)
+# type = Nominal sentence (i҆nk)
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	dislocated	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
@@ -6763,7 +6763,7 @@
 # ref = Pyramid Texts § 133e W, Saqqara, 5th Dynasty, rel, OE
 # text = wnm.t ⸗f i҆m wnm ⸗f i҆m
 # lit = "What he (i.e. Horus) eats of, he (i.e. Unas) eats of."
-# trans = "What he (i.e. Horus) eats, Unas (i.e. Unas) eats of."
+# trans = "What he (i.e. Horus) eats of, he (i.e. Unas) eats of."
 # type = Balanced sentence
 1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -6773,10 +6773,10 @@
 6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
 
 # sent_id = UDE-457
-# ref = Pyramid Texts § 133e W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 133e T, Saqqara, 6th Dynasty, rel, OE
 # text = wnm.t ⸗f i҆m wnm Tti҆ i҆m
 # lit = "What he (i.e. Horus) eats of, Teti eats of."
-# trans = "What he (i.e. Horus) eats, Teti eats of."
+# trans = "What he (i.e. Horus) eats of, Teti eats of."
 # type = Balanced sentence
 1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -6784,4 +6784,29 @@
 4	wnm	wnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
 6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
+
+# sent_id = UDE-458
+# ref = Pyramid Texts § 133e W, Saqqara, 5th Dynasty, rel, OE
+# text = swr.t ⸗f i҆m swr ⸗f i҆m
+# lit = "What he (i.e. Horus) drinks of, he (i.e. Unas) drinks of."
+# trans = "What he (i.e. Horus) drinks of, he (i.e. Unas) drinks of."
+# type = Balanced sentence
+1	swr.t	swr	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
+4	swr	swr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
+
+# sent_id = UDE-459
+# ref = Pyramid Texts § 133f W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫnč̣ śꜣšr.t ꜣw.t ⸗f pi҆
+# lit = “The (bull's) shank (?) and baked goods, his offering is that.”
+# trans = “The (bull's) shank (?) and baked goods, that is his offering.”
+# type = Nominal sentence (A pw)
+1	ḫnč̣	ḫnč̣	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+2	śꜣšr.t	śꜣšr.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
+3	ꜣw.t	ꜣw.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 
