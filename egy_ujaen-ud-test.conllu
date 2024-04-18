@@ -6560,7 +6560,7 @@
 # sent_id = UDE-443
 # ref = Pyramid Texts § 131e W, Saqqara, 5th Dynasty, rel, OE
 # text = śtt i҆r ⸗ś ꜥnḫ ⸗f
-# lit = “She is the one who will make that he will live (it possible) for him to live.”
+# lit = “She is the one who will make that he will live.”
 # trans = “She is the one who will make (it possible) for him to live.”
 # type = Cleft sentence with nominal focus
 1	śtt	śtt	PRON	IndPron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	_
@@ -6568,4 +6568,16 @@
 3	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel|Obj	Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
+# sent_id = UDE-444
+# ref = Pyramid Texts § 131e T, Saqqara, 6th Dynasty, rel, OE
+# text = śtt i҆r ⸗ś ꜥnḫ Tti҆
+# lit = “She is the one who will make that Teti will live.”
+# trans = “She is the one who will make (it possible) for Teti to live.”
+# type = Cleft sentence with nominal focus
+1	śtt	śtt	PRON	IndPron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	_
+2	i҆r	i҆ri̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel|Obj	Tense=Fut|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
 
