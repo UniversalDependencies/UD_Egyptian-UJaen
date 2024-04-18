@@ -6810,3 +6810,17 @@
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
 
+# sent_id = UDE-460
+# ref = Pyramid Texts § 134a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś n šm.n ⸗k i҆ś m(w)t.ti҆
+# lit = “O Unas, you cannot depart being dead.”
+# trans = “O Unas, you cannot depart dead.”
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	dislocated	_	
+3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+4	šm.n	šmi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	i҆ś	i҆ś	PART	Neg	PartType=Emp	4	advmod	_	_
+7	m(w)t.ti҆	mwt	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	4	advcl	_	_
+
