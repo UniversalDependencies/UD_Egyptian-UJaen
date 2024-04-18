@@ -6488,7 +6488,7 @@
 # trans = “Unas in fact is the one who will give bread to those who exist.”
 # type = Nominal sentence (A pw B)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	dislocated	_	_
-2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 3	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
 4	rč̣	rč̣i̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -6503,7 +6503,7 @@
 # trans = “Teti in fact is the one who gave bread to those who exist.”
 # type = Nominal sentence (A pw B)
 1	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
-2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 3	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
 4	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
@@ -6522,4 +6522,15 @@
 4	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
 6	n.t(i҆)w	n.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	3	iobj	_	_
+
+# sent_id = UDE-440
+# ref = Pyramid Texts § 131d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫnm.t(i҆)t ⸗f pi҆ I҆ꜣ.t
+# lit = "His nurse is Iat."
+# trans = "His nurse is Iat."
+# type = Nominal sentence (A pw B)
+1	ḫnm.t(i҆)t	ḫnm.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	I҆ꜣ.t	I҆ꜣ.t	PROPN	_	Gender=Fem	4	nsubj	_	_
 
