@@ -6704,20 +6704,42 @@
 
 # sent_id = UDE-453
 # ref = Pyramid Texts § 133b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆i҆ (i҆)r ⸗f r ⸗f Ḫnt(.i҆) i҆mn.t(i҆)w i҆n.n ⸗f č̣f(ꜣ) ḥtp(.w) n Ḥr.w ḫnt(.i҆) pr(.w)
-# lit = "The Foremost of the Westerners comes indeed for him having brought provisions and offerings for Horus who presides over the houses."
-# trans = "It is for me that the Foremost of the Westerners comes having brought provisions and offerings for Horus who presides over the houses."
+# text = i҆i҆ r ⸗f (i҆)r ⸗f Ḫnt(.i҆) i҆mn.t(i҆)w i҆n.n ⸗f č̣f(ꜣ.w) ḥtp(.w) n Ḥr.w ḫnt(.i҆) pr(.w)
+# lit = "The Foremost of the Westerners comes indeed to him having brought provisions and offerings for Horus who presides over the houses."
+# trans = "It is to him that the Foremost of the Westerners comes having brought provisions and offerings for Horus who presides over the houses."
 # type = Cleft sentence with adverbial focus
 1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	(i҆)r	r	ADP	Pron.st	_	3	case	_	_
-3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
-4	r	r	ADP	Pron.st	_	3	case	_	_
-5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+2	r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	(i҆)r	r	ADP	Pron.st	_	3	case	_	_
+5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
 6	Ḫnt(.i҆)	Ḫnt	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	nsubj	_	_
 7	i҆mn.t(i҆)w	i҆mn.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	6	nmod	_	_
 8	i҆n.n	i҆ni̯	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-10	č̣f(ꜣ)	č̣fꜣ	NOUN	Obj	Gender=Masc|Number=Sing	8	obj	_	_
+10	č̣f(ꜣ.w)	č̣fꜣ	NOUN	Obj	Gender=Masc|Number=Plur	8	obj	_	_
+11	ḥtp(.w)	ḥtp	NOUN	Obj	Gender=Masc|Number=Plur	10	conj	_	_
+12	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+13	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	8	iobj	_	_
+14	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	13	amod	_	_
+15	pr(.w)	pr	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+
+# sent_id = UDE-454
+# ref = Pyramid Texts § 133b-c M, Saqqara, 6th Dynasty, rel, OE
+# text = i҆i҆ n ⸗f (i҆)r ⸗f Ḫnt(.i҆) i҆mn.t(i҆)w i҆n.n ⸗f č̣fꜣ(.w) ḥtp(.w) n Ḥr.w ḫnt(.i҆) pr(.w)
+# lit = "The Foremost of the Westerners comes indeed for him having brought provisions and offerings for Horus who presides over the houses."
+# trans = "It is for him that the Foremost of the Westerners comes having brought provisions and offerings for Horus who presides over the houses."
+# type = Cleft sentence with adverbial focus
+1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	(i҆)r	r	ADP	Pron.st	_	3	case	_	_
+5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
+6	Ḫnt(.i҆)	Ḫnt	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	nsubj	_	_
+7	i҆mn.t(i҆)w	i҆mn.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	6	nmod	_	_
+8	i҆n.n	i҆ni̯	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	č̣fꜣ(.w)	č̣fꜣ	NOUN	Obj	Gender=Masc|Number=Sing	8	obj	_	_
 11	ḥtp(.w)	ḥtp	NOUN	Obj	Gender=Masc|Number=Plur	10	conj	_	_
 12	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
 13	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	8	iobj	_	_
