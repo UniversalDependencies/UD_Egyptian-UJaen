@@ -6751,11 +6751,11 @@
 # text = ꜥnḫ.t ⸗f i҆m ꜥnḫ Wni҆ś i҆m
 # lit = "What he lives on, Unas lives on."
 # trans = "What he lives on, Unas lives on."
-# type = Nominal sentence (A = B)
-1	ꜥnḫ.t	ꜥnḫ	NOUN	VERB|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	4	csubj	_	_
+# type = Balanced sentence
+1	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
-4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
 6	i҆m	i҆m	ADV	_	_	4	advmod	_	_
 
