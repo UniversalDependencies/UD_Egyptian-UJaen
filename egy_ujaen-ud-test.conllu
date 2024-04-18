@@ -6496,3 +6496,30 @@
 7	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
 8	n.t(i҆)w	n.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	4	iobj	_	_
 
+# sent_id = UDE-438
+# ref = Pyramid Texts § 131c T, Saqqara, 6th Dynasty, rel, OE
+# text = Tti҆ pw wnn.t rč̣ tʾ n n.t(i҆)w
+# lit = “Teti in fact is the one who gave bread to those who are.”
+# trans = “Teti in fact is the one who gave bread to those who exist.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+3	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
+4	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	n.t(i҆)w	n.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	4	iobj	_	_
+
+# sent_id = UDE-439
+# ref = Pyramid Texts § 131c M, Saqqara, 6th Dynasty, rel, OE
+# text = śwt wnn.t (r)č̣ tʾ n n.t(i҆)w
+# lit = “He is in fact the one who gave bread to those who are.”
+# trans = “He is in fact the one who gave bread to those who exist.”
+# type = Cleft sentence with nominal focus
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
+3	(r)č̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6	n.t(i҆)w	n.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	3	iobj	_	_
+
