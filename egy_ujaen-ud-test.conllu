@@ -6868,3 +6868,14 @@
 25	štꜣ.w	štꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	21	iobj	_	_
 26	ś.(w)t	ś.t	NOUN	Gen|MWE	Case=Gen|Gender=Fem|Number=Plur	25	fixed	_	_
 
+# sent_id = UDE-463
+# ref = Pyramid Texts § 135a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥ(.wi҆) ⸗k m (I҆)tm(.w)
+# lit = "Your two arms are like (those of) Atum."
+# trans = "Your arms are like (those of) Atum."
+# type = Adverbial sentence
+1	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
+
