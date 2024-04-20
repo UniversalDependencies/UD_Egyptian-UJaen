@@ -6907,8 +6907,41 @@
 # lit = "Your back is like (that of) Atum."
 # trans = "Your back is like (that of) Atum."
 # type = Adverbial sentence
-1	śꜣ	śꜣ	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+1	śꜣ	śꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-467
+# ref = Pyramid Texts § 135b W, Saqqara, 5th Dynasty, rel, OE
+# text = pḥ ⸗k m (I҆)tm(.w)
+# lit = "Your hinder-parts are like (that of) Atum."
+# trans = "Your hinder-parts are like (that of) Atum."
+# type = Adverbial sentence
+1	pḥ	pḥ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-468
+# ref = Pyramid Texts § 135b W, Saqqara, 5th Dynasty, rel, OE
+# text = rṭ(.wi҆) ⸗k m (I҆)tm(.w)
+# lit = "Your two legs are like (that of) Atum."
+# trans = "Your legs are like (that of) Atum."
+# type = Adverbial sentence
+1	rṭ(.wi҆)	rṭ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-469
+# ref = Pyramid Texts § 135b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥr ⸗k m I҆np.w
+# lit = "Your face is like (that of) Anubis."
+# trans = "Your face is like (that of) Anubis."
+# type = Adverbial sentence
+1	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	I҆np.w	I҆np.w	PROPN	_	Gender=Masc	0	root	_	_
 
