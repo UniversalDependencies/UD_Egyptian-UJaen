@@ -7130,3 +7130,19 @@
 12	I҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	10	nmod	_	_
 13	ḥnw	ḥnw	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 
+# sent_id = UDE-481
+# ref = Pyramid Texts § 139a W, Saqqara, 5th Dynasty, rel, OE
+# text = ki҆.w n ⸗k ḥnmm.t wčs.n kw i҆ḫm(.w)-śk(.w)
+# lit = "The sun-folk shall cry out (certainly) to you after "those-who-do-not-perish" have raised you aloft."
+# trans = "It is to you that the sun-folk shall cry out, after the "Imperishable Stars" have raised you aloft."
+# type = Cleft sentence with adverbial focus
+1	ki҆.w	ki҆	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	root	_	_
+2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+4	ḥnmm.t	ḥnmm.t	NOUN	_	Gender=Fem|Number=Coll	1	nsubj	_	_
+5	wčs.n	wčs	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
+7-8	i҆ḫm(.w)-śk	_	_	_	_	_	_	_	_
+7	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	5	nsubj	_	_
+8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+
