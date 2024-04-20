@@ -7067,7 +7067,7 @@
 
 # sent_id = UDE-478
 # ref = Pyramid Texts § 137d W, Saqqara, 5th Dynasty, rel, OE
-# text = mṭw.t(i҆)⸗f(i҆) nb m rn n(.i҆) Wni҆ś č̣w pr ⸗k wč̣.n św Gbb m twꜣ m nʾ.t i҆r.t ḥmi̯ ⸗f nn ⸗f
+# text = mṭw.t(i҆)⸗f(i҆) nb m rn n(.i҆) Wni҆ś č̣w pr ⸗k wč̣.n św Gbb m twꜣ m nʾ.t i҆r.t ḥm ⸗f nn ⸗f
 # lit = “Anyone who shall speak bad against the name of Unas when you go forth, Geb committed him to a low state in the town he belongs so that he will turn back and become inert.”
 # trans = “Anyone who shall speak bad against the name of Unas when you go forth, Geb committed him to a low state in his town so that he will turn back and become inert.”
 # type = Verbal sentence
@@ -7082,3 +7082,16 @@
 8	č̣w	č̣w	ADV	NOUN	AdvType=Man	1	advmod	_	_
 9	pr	pri̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 10	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	fixed	_	_
+11	wč̣.n	wč̣	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+12	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	Gbb	Gbb	PROPN	_	Gender=Masc	11	nsubj	_	_
+14	m	m	ADP	Cons.st	Case=Equ	15	case	_	_
+15	twꜣ	twꜣ	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+16	m	m	ADP	Cons.st	Case=Loc	17	case	_	_
+17	nʾ.t	nʾ.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+18	i҆r.t	r	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	17	amod	_	_
+19	ḥm	ḥmi̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	11	advcl	_	_
+20	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+21	nn	ni҆ni҆	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	19	conj	_	_
+22	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+
