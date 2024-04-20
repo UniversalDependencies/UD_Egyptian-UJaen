@@ -7095,3 +7095,16 @@
 21	nn	ni҆ni҆	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	19	conj	_	_
 22	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 
+# sent_id = UDE-479
+# ref = PT § 138b W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb ⸗k i҆r ⸗k m ḳbḥ śbꜣ.w
+# lit = “You shall cleanse yourself with the libation of the stars.”
+# trans = “You shall be free with the libation of the stars.”
+# type = Verbal sentence
+1	wꜥb	wꜥb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
+6	ḳbḥ	ḳbḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	śbꜣ.w	śbꜣ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
