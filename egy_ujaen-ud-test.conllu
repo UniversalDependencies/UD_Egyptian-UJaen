@@ -6901,3 +6901,14 @@
 3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
 
+# sent_id = UDE-466
+# ref = Pyramid Texts § 135a W, Saqqara, 5th Dynasty, rel, OE
+# text = śꜣ ⸗k m (I҆)tm(.w)
+# lit = "Your back is like (that of) Atum."
+# trans = "Your back is like (that of) Atum."
+# type = Adverbial sentence
+1	śꜣ	śꜣ	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	0	root	_	_
+
