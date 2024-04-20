@@ -7148,9 +7148,9 @@
 
 # sent_id = UDE-482
 # ref = PT § 139b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆ꜣḳ i҆r ⸗k i҆r bw ẖr(.i҆) i҆t ⸗k i҆r bw ẖr(.i҆) Gbb
-# lit = “Ascend yourself to the place which is under your father, to the place which is under Geb.”
-# trans = “Ascend yourself to the place whhere your father is, to the place where Geb is.”
+# text = i҆ꜣḳ i҆r ⸗k i҆r bw ẖr(.i҆) i҆t ⸗k i҆r bw ẖr(.i҆) Gbb č̣ ⸗f n ⸗k i҆m.(i҆)t ḥꜣ.t Ḥr.w 
+# lit = “Ascend yourself to the place which is under your father, to the place which is under Geb, that he may give you that which is on the brow of Horus”
+# trans = “Ascend to the place where your father is, to the place where Geb is, that he may give you what is on Horus's brow.”
 # type = Verbal sentence
 1	i҆ꜣḳ	i҆ꜣḳ	VERB	Imp	Mood=Imp	0	root	_	_
 2	i҆r	r	ADP	Pron.st	_	3	case	_	_
@@ -7164,4 +7164,39 @@
 10	bw	bw	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
 11	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	10	amod	_	_
 12	Gbb	Gbb	PROPN	_	Gender=Masc	10	nmod	_	_
+13	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	n	n	ADP	Pron.st	Case=Dat	16	case	_	_
+16	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
+17	i҆m.(i҆)t	m	NOUN	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	13	obj	_	_
+18	ḥꜣ.t	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	17	nmod	_	_
+19	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	18	nmod	_	_
+
+# sent_id = UDE-483
+# ref = PT § 139c W, Saqqara, 5th Dynasty, rel, OE
+# text = bꜣ ⸗k i҆m ⸗ś śḫm ⸗k i҆m ⸗ś
+# lit = “You will have a soul thereby - you will have power thereby.”
+# trans = “(Both of them:) You will have a soul thereby, and you will have power thereby.”
+# type = Balanced sentence
+1	bꜣ	bꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆m	m	ADP	Pron.st	Case=Ins	4	case	_	_
+4	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	śḫm	śḫm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	i҆m	m	ADP	Pron.st	Case=Ins	8	case	_	_
+8	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
+# sent_id = UDE-484
+# ref = PT § 139d W, Saqqara, 5th Dynasty, rel, OE
+# text = wn ⸗k i҆m ⸗ś ḫnt i҆mn.t(i҆)w
+# lit = “You shall exist at the head of the Westerners thereby.”
+# trans = “You shall be at the head of the Westerners thereby.”
+# type = Verbal sentence
+1	wn	wn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆m	m	ADP	Pron.st	Case=Ins	4	case	_	_
+4	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	ḫnt	ḫnt	ADP	Cons.st	Case=Loc	6	case	_	_
+6	i҆mn.t(i҆)w	i҆mn	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 
