@@ -7022,3 +7022,16 @@
 8	i҆r	r	ADP	Pron.st	_	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
 
+# sent_id = UDE-475
+# ref = Pyramid Texts § 137b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḳś(.w) ⸗k bi҆k.(w)t nčr.(w)t i҆m.(i҆w)t p.t
+# lit = "Your bones are (those of) the divine falcons who are in the sky."
+# trans = "Your bones are (those of) the divine falcons who are in the sky."
+# type = Nominal sentence (A = B)
+1	ḳś(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	bi҆k.(w)t	bi҆k.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	0	root	_	_
+4	nčr.(w)t	nčr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
+5	i҆m.(i҆w)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Plur	3	amod	_	_
+6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+
