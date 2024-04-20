@@ -7007,14 +7007,18 @@
 
 # sent_id = UDE-474
 # ref = PT § 137a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆si҆ m-ḫt rꜥw ⸗k
-# lit = “Go after your sun.”
-# trans = “Go after your sun.”
+# text = i҆si҆ m-ḫt rꜥw ⸗k wꜥb ⸗k i҆r ⸗k
+# lit = “Go after your sun that you may cleanse yourself.”
+# trans = “Follow your sun that you may be free from yourself.”
 # type = Verbal sentence
 1	i҆si҆	si҆	VERB	Imp	Mood=Imp	0	root	_	_
 2-3	m-ḫt	_	_	_	_	_	_	_	_
 2	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
-3	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
+3	ḫt	ḫt	NOUN	MWE	Gender=Masc|Number=Sing	2	fixed	_	_
 4	rꜥw	rꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	wꜥb	wꜥb	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	i҆r	r	ADP	Pron.st	_	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
 
