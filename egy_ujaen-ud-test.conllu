@@ -6962,3 +6962,15 @@
 9	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	6	nsubj	_	_
 10	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	_
 
+# sent_id = UDE-471
+# ref = PT § 136a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś śꜣ k(w) ši҆
+# lit = “O Unas, beware yourself of the lake.”
+# trans = “O Unas, beware of the lake.”
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
+3	śꜣ	śꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+4	k(w)	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
+5	ši҆	ši҆	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+
