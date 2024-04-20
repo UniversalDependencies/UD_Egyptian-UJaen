@@ -7200,3 +7200,23 @@
 5	ḫnt	ḫnt	ADP	Cons.st	Case=Loc	6	case	_	_
 6	i҆mn.t(i҆)w	i҆mn	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 
+# sent_id = UDE-485
+# ref = PT § 140a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś si҆ i҆n(.ww) ⸗k bč ḥw(w).t(i҆w) ⸗k ḫr i҆t ⸗k ḫr (I҆)tm(.w)
+# lit = “O Unas, your messengers go, your heralds run (certainly) to your father, to Atum.”
+# trans = “O Unas, it is to your father, to Atum, that your messengers go and your heralds run.”
+# type = Cleft sentence with adverbial focus
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	6	dislocated	_	_
+4	i҆n(.ww)	i҆n.w	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	bč	bč	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	ḥw(w).t(i҆w)	ḥw(w).t(i҆w)	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	ḫr	ḫr	ADP	Cons.st	_	10	case	_	_
+10	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+12	ḫr	ḫr	ADP	Cons.st	_	13	case	_	_
+13	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	10	conj	_	_
+
