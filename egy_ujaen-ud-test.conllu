@@ -7458,7 +7458,7 @@
 # ref = PT § 145a W, Saqqara, 5th Dynasty, rel, OE
 # text = n mtw.t nčr si҆.t n i҆(w)f
 # lit = “There is no seed of a god which has gone because of flesh (?).”
-# trans = “There is no seed of a god which has gone because of the dead body.”
+# trans = “There is no seed of a god which has gone because of the dead body (?).”
 # type = Negative existence sentence
 1	n	n	PART	Neg	PartType=Neg	0	root	_	_
 2	mtw.t	mtw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	nsubj	_	_
@@ -7466,4 +7466,16 @@
 4	si҆.t	si҆	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	amod	_	_
 5	n	n	ADP	Cons.st	Case=Cau	6	case	_	_
 6	i҆(w)f	i҆wf	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
+# sent_id = UDE-502
+# ref = PT § 145a W, Saqqara, 5th Dynasty, rel, OE
+# text = n si҆ ⸗k n i҆(w)f
+# lit = “You will not go because of flesh (?).”
+# trans = “You will not go because of the dead body (?).”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	si҆	si҆	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
+5	i҆(w)f	i҆wf	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
