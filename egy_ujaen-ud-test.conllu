@@ -1133,7 +1133,7 @@
 # trans = “[It was with it that Pepi's mouth was parted.]”
 # type = Cleft sentence with adverbial focus
 1	[wp(.w)]	wpi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
 3	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	[Ppy]	Ppy	PROPN	_	Gender=Masc	2	nmod	_	_
 5	[i҆m]	m	ADP	Pron.st	Case=Ins	6	case	_	_
@@ -1653,7 +1653,7 @@
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nmod	_	_
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	_
 5	ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	_	_
 7	m	m	ADP	Cons.st	Case=Ins	8	case	_	_
 8	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	obl	_	_
 9	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	8	nmod	_	_
@@ -6602,11 +6602,11 @@
 # trans = “(Both of them:) Unas was conceived in the night, and Unas was born in the night.”
 # type = Balanced sentence
 1	i҆wi҆(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	m	m	ADP	Cons.st	Case=Tem	4	case	_	_
 4	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
-6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj:pass	_	_
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 
@@ -6617,11 +6617,11 @@
 # trans = “(Both of them:) Teti was conceived in the night, and he was born in the night.”
 # type = Balanced sentence
 1	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	m	m	ADP	Cons.st	Case=Tem	4	case	_	_
 4	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
-6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 
@@ -6650,11 +6650,11 @@
 # trans = “(Both of them:) Unas was conceived in Nu, and he was born in Nu.”
 # type = Balanced sentence
 1	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	m	m	ADP	Cons.st	Case=Tem	4	case	_	_
 4	Nw.w	Nw.w	PROPN	_	Gender=Masc	1	obl	_	_
 5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
-6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	Nw.w	Nw.w	PROPN	_	Gender=Masc	5	obl	_	_
 
@@ -6665,11 +6665,11 @@
 # trans = “(Both of them:) Teti was conceived in Nu, and Teti was born in Nu.”
 # type = Balanced sentence
 1	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	m	m	ADP	Cons.st	Case=Tem	4	case	_	_
 4	Nw.w	Nw.w	PROPN	_	Gender=Masc	1	obl	_	_
 5	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
-6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj	_	_
+6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj:pass	_	_
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	Nw.w	Nw.w	PROPN	_	Gender=Masc	5	obl	_	_
 
@@ -7341,4 +7341,19 @@
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 8	i҆y	i҆y	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
+# sent_id = UDE-494
+# ref = PT § 142c W, Saqqara, 5th Dynasty, rel, OE
+# text = mś(.w) n ⸗k pf i҆wr(.w) n ⸗k pn
+# lit = “That one is born for you - this one is conceived for you.”
+# trans = “(Both of them:) That one is born for you, and this one is conceived for you.”
+# type = Balanced sentence
+1	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	pf	pf	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj:pass	_	_
+5	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
+6	n	n	ADP	Pron.st	Case=Ben	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+8	pf	pf	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	_
 
