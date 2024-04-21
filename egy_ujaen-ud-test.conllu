@@ -126,7 +126,7 @@
 # trans = “A confidant of his mistress.”
 # type = Noun phrase
 1-2	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
-1	ꜥḳ	ꜥḳ	NOUN	advcl	Gender=Masc|Number=Sing	0	root	_	_
+1	ꜥḳ	ꜥḳ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	nb.t	nb	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
@@ -141,7 +141,7 @@
 2	bꜣk	bꜣk	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4-5	ꜥḳ-i҆b	_	_	_	_	_	_	_	_
-4	ꜥḳ	ꜥḳ	NOUN	advcl	Gender=Masc|Number=Sing	2	nmod	_	_
+4	ꜥḳ	ꜥḳ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
@@ -7271,4 +7271,22 @@
 2	rmnw.ti҆	rmnw.ti҆	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 
+# sent_id = UDE-490
+# ref = PT § 141b W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣꜣ w(i҆) mꜣ.n ⸗k i҆r.w mśw.t i҆t(.w) ⸗śn i҆rḫw rʾ ⸗śn i҆ḫm(.w)-śk(.w)
+# lit = “See me after you have seen the shapes of the children of their fathers who know their speech, "those-who-do-not-perish".”
+# trans = “See me after you have seen the forms of the children of their fathers who know their spells, the Imperishable Stars.”
+# type = Verbal sentence
+1	mꜣꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+2	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
+3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	mśw.t	mśw.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Coll	4	nmod	_	_
+6	i҆t(.w)	i҆t	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
+7	i҆rḫw	rḫ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
+8	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
+9	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
+10-11	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+10	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	7	appos	_	_
+11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
 
