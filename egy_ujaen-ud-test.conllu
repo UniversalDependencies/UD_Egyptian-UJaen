@@ -7280,13 +7280,15 @@
 1	mꜣꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
 2	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
 3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
-4	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
-5	mśw.t	mśw.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Coll	4	nmod	_	_
-6	i҆t(.w)	i҆t	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
-7	i҆rḫw	rḫ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
-8	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
-9	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
-10-11	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-10	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	7	appos	_	_
-11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	mśw.t	mśw.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Coll	5	nmod	_	_
+7	i҆t(.w)	i҆t	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+9	i҆rḫw	rḫ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	amod	_	_
+10	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
+12-13	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+12	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	7	appos	_	_
+13	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	12	fixed	_	_
 
