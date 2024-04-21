@@ -7326,3 +7326,19 @@
 11	i҆r(.i҆)	r	ADJ	NisbaPrep	Gender=Masc|Number=Sing	10	amod	_	_
 12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 
+# sent_id = UDE-493
+# ref = Pyramid Texts § 142b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ꜥḥ ⸗k ẖr(.wi҆) n(.i҆) Śtẖ i҆ṭr ⸗k i҆y ⸗f
+# lit = “You shall pick up the testicles of Seth, that you may remove his mutilation.”
+# trans = “You shall pick up the testicles of Seth, that you may remove his mutilation.”
+# type = Verbal sentence
+1	i҆ꜥḥ	i҆ꜥḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ẖr(.wi҆)	ẖr	NOUN	_	Gender=Masc|Number=Dual	1	obj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	3	nmod	_	_
+6	i҆ṭr	ṭr	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	i҆y	i҆y	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
