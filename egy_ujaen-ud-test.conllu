@@ -7439,3 +7439,18 @@
 4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
 5	Gbb	Gbb	PROPN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-500
+# ref = PT § 144b W, Saqqara, 5th Dynasty, rel, OE
+# text = bꜣ.n ⸗k i҆r ⸗f śḫm.n ⸗k i҆r ⸗f
+# lit = “You have become more ba than he - you have become more powerful than he.”
+# trans = “(Both of them:) You have become more ba than he, and you have become more powerful than he.”
+# type = Balanced sentence
+1	bꜣ.n	bꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆r	r	ADP	Pron.st	Case=Cmp	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	śḫm.n	śḫm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	i҆r	m	ADP	Pron.st	Case=Cmp	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
