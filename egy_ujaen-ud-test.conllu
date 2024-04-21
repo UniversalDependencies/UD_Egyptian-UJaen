@@ -7307,3 +7307,22 @@
 7	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	8	case	_	_
 8	Śtẖ	Śtẖ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 
+# sent_id = UDE-492
+# ref = Pyramid Texts § 142a W, Saqqara, 5th Dynasty, rel, OE
+# text = pśg ⸗k ḥr n(.i҆) Ḥr.w n ⸗f i҆ṭr ⸗k nkn i҆r(.i҆) ⸗f
+# lit = “You shall spit on the face of Horus for him, that you may remove the injury which is on him.”
+# trans = “You shall spit on the face of Horus for him, that you may remove the injury on him.”
+# type = Verbal sentence
+1	pśg	pśg	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	nmod	_	_
+6	n	n	ADP	Pron.st	Case=Ben	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+8	i҆ṭr	ṭr	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	nkn	nkn	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+11	i҆r(.i҆)	r	ADJ	NisbaPrep	Gender=Masc|Number=Sing	10	amod	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+
