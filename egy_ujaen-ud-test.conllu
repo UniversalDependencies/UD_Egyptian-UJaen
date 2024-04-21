@@ -7412,3 +7412,30 @@
 4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
 5	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-498
+# ref = PT § 144a W, Saqqara, 5th Dynasty, rel, OE
+# text = bꜣ.n ⸗k r ⸗f śḫm.n ⸗k i҆r ⸗f
+# lit = “You have become more ba than he - you have become more powerful than he.”
+# trans = “(Both of them:) You have become more ba than he, and you have become more powerful than he.”
+# type = Balanced sentence
+1	bꜣ.n	bꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	r	r	ADP	Pron.st	Case=Cmp	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	śḫm.n	śḫm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	i҆r	m	ADP	Pron.st	Case=Cmp	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
+# sent_id = UDE-499
+# ref = Pyramid Texts § 144b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆wr ⸗k Śtẖ n Gbb
+# lit = “You have been conceived, Seth, (certainly) for Geb.”
+# trans = “It is for Geb, that you have been conceived, Seth.”
+# type = Cleft sentence with adverbial focus
+1	i҆wr	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	_	_
+3	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	1	vocative	_	_
+4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
+5	Gbb	Gbb	PROPN	_	Gender=Masc	1	obl	_	_
+
