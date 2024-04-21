@@ -7261,3 +7261,14 @@
 5	rmnw.ti҆	rmnw.ti҆	NOUN	_	Gender=Masc|Number=Sing	2	acl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-489
+# ref = PT § 141a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆nk rmnw.ti҆ ⸗k
+# lit = “I am your companion.”
+# trans = “I am your companion.”
+# type = Nominal sentence (i҆nk)
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	rmnw.ti҆	rmnw.ti҆	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+
+
