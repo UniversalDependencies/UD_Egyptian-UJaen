@@ -7357,3 +7357,24 @@
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
 8	pn	pn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	_
 
+# sent_id = UDE-495
+# ref = Pyramid Texts § 143a W, Saqqara, 5th Dynasty, rel, OE
+# text = mś(.w) ⸗k Ḥr.w m rn ⸗f nwr.w n ⸗f tꜣ śṭꜣ.w n ⸗f p.t
+# lit = “You have been born, Horus, (certainly) in his name "Him at whom the the earth quakes - Him at whom the sky trembles".”
+# trans = “It is in his name "Him at whom the the earth quakes - Him at whom the sky trembles" that you have been born, Horus.”
+# type = Cleft sentence with adverbial focus
+1	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:pass	_	_
+3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	_
+4	m	m	ADP	Cons.st	Case=Ins	5	case	_	_
+5	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+7	nwr.w	nwr	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	5	appos	_	_
+8	n	n	ADP	Pron.st	Case=Dat	9	case	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
+10	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+11	śṭꜣ.w	śṭꜣ	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	5	flat	_	_
+12	n	n	ADP	Pron.st	Case=Dat	13	case	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+14	p.t	p.t	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+
