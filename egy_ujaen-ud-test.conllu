@@ -7664,30 +7664,28 @@
 # text = mśč̣r(.wi҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
 # lit = "Your two ears are like (those of) the two daughters of Atum, O Imperishable Star."
 # trans = "Your ears are like (those of) the twin children of Atum, O Imperishable Star."
-# type = Adverbial sentence
-1	mśč̣r(.wi҆)	mśč̣r	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+# type = Nominal sentence (A = B)
+1	mśč̣r(.wi҆)	mśč̣r	NOUN	_	Gender=Masc|Number=Dual	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
-3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
-4	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
-5	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
-6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-517
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r.t(i҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
 # lit = "Your two eyes are like (those of) the two daughters of Atum, OO Imperishable Star."
 # trans = "Your eyes are like (those of) the twin children of Atum, O Imperishable Star."
-# type = Adverbial sentence
-1	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	4	nsubj	_	_
+# type = Nominal sentence (A = B)
+1	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
-3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
-4	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
-5	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
-6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-518
 # ref = Pyramid Texts § 148d W, Saqqara, 5th Dynasty, rel, OE
