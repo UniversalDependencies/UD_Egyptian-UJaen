@@ -7632,8 +7632,8 @@
 # sent_id = UDE-514
 # ref = Pyramid Texts § 148a W, Saqqara, 5th Dynasty, rel, OE
 # text = ṭp ⸗k m Ḥr.w-ṭwꜣ.t(i҆) i҆ḫm(.w)-śk(.w)
-# lit = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
-# trans = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
+# lit = "Your head is like (that of) Horus of the Netherworld, O Imperishable Star."
+# trans = "Your head is like (that of) Horus of the Netherworld, O Imperishable Star."
 # type = Adverbial sentence
 1	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7648,8 +7648,8 @@
 # sent_id = UDE-515
 # ref = Pyramid Texts § 148b W, Saqqara, 5th Dynasty, rel, OE
 # text = mḫnt ⸗k <m> (I҆)m(.i҆)-ḫnt-i҆r.t(i҆) i҆ḫm(.w)-śk(.w)
-# lit = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable."
-# trans = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable."
+# lit = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable Star."
+# trans = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable Star."
 # type = Adverbial sentence
 1	mḫnt	mḫnt	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7662,8 +7662,8 @@
 # sent_id = UDE-516
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
 # text = mśč̣r(.wi҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
-# lit = "Your two ears are like (those of) the two daughters of Atum, O Imperishable."
-# trans = "Your ears are like (those of) the twin children of Atum, O Imperishable."
+# lit = "Your two ears are like (those of) the two daughters of Atum, O Imperishable Star."
+# trans = "Your ears are like (those of) the twin children of Atum, O Imperishable Star."
 # type = Adverbial sentence
 1	mśč̣r(.wi҆)	mśč̣r	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7677,8 +7677,8 @@
 # sent_id = UDE-517
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r.t(i҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
-# lit = "Your two eyes are like (those of) the two daughters of Atum, O Imperishable."
-# trans = "Your eyes are like (those of) the twin children of Atum, O Imperishable."
+# lit = "Your two eyes are like (those of) the two daughters of Atum, OO Imperishable Star."
+# trans = "Your eyes are like (those of) the twin children of Atum, O Imperishable Star."
 # type = Adverbial sentence
 1	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7688,4 +7688,33 @@
 6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
 6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
 7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+
+# sent_id = UDE-518
+# ref = Pyramid Texts § 148d W, Saqqara, 5th Dynasty, rel, OE
+# text = fnč̣ ⸗k m śꜣb i҆ḫm(.w)-śk(.w)
+# lit = "Your nose is like (that of) the Jackal, O Imperishable Star."
+# trans = "Your nose is like (that of) the Jackal, O Imperishable Star."
+# type = Adverbial sentence
+1	fnč̣	fnč̣	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	śꜣb	śꜣb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+
+# sent_id = UDE-519
+# ref = Pyramid Texts § 148d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆bḥ(.w) ⸗k Śpṭ.w i҆ḫm(.w)-śk(.w)
+# lit = "Your teeth are (those of) Sopdu, O Imperishable Star."
+# trans = "Your teeth are (those of) Sopdu, O Imperishable Star."
+# type = Nominal sentence (A = B)
+1	i҆bḥ(.w)	i҆bḥ	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	0	root	_	_
+4-5	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+4	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+5	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	4	fixed	_	_
+
+
 
