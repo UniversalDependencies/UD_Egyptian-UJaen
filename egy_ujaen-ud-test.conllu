@@ -7749,5 +7749,20 @@
 1	rṭ(.wi҆)	rṭ	NOUN	_	Gender=Masc|Number=Dual	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	(I҆)mś.t(i҆)	I҆mś.ti҆	PROPN	_	Gender=Masc	0	root	_	_
-4	Ḳbḥ-śn.w⸗f	Ḳbḥ-śn.w⸗f	PROPN	_	Gender=Masc	3	conj	_	_
+4	Ḳbḥ-śn(.w)⸗f	Ḳbḥ-śn.w⸗f	PROPN	_	Gender=Masc	3	conj	_	_
+
+# sent_id = UDE-523
+# ref = Pyramid Texts § 149a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 195 and Allen 1984: 138.
+# text = ṭbḥ ⸗k hꜣ(.w) ⸗k i҆r nn.t hꜣꜣ ⸗k
+# lit = "You shall demand that you will descend to the lower sky and that you must descend."
+# trans = "You shall demand that you descend to the lower sky and that you must descend."
+# type = Verbal sentence
+1	ṭbḥ	ṭbḥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	hꜣ(.w)	hꜣi̯	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	i҆r	r	ADP	Cons.st	_	6	case	_	_
+6	nn.t	nn.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+7	hꜣꜣ	hꜣi̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+8	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
 
