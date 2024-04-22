@@ -7601,4 +7601,19 @@
 7	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	6	nsubj	_	_
 8	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
 
+# sent_id = UDE-512
+# ref = Pyramid Texts § 147a W, Saqqara, 5th Dynasty, rel, OE
+# text = čn kw i҆.n ⸗śn m rn ⸗k n(.i҆) nčr
+# lit = ""You are distinguished", said they, "in your name of God"."
+# trans = ""You are distinguished", said they, "in your name of God"."
+# type = Adjectival sentence
+1	čn	čn	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
+4	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
+6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 
