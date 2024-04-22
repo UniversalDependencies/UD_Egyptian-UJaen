@@ -7617,3 +7617,15 @@
 8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
 9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 
+# sent_id = UDE-513
+# ref = PT § 147b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫpr ⸗k I҆tm(.w) nčr nb
+# lit = “You shall come into being, Atum, every god.”
+# trans = “You shall come into being, Atum, as every god.”
+# type = Verbal sentence
+1	ḫpr	ḫpr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	I҆tm(.w)	I҆tm(.w)	PROPN	_	Gender=Masc	1	vocative	_	_
+4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
+5	nb	nb	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+
