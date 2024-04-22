@@ -7886,3 +7886,20 @@
 6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+
+# sent_id = UDE-533
+# ref = Pyramid Texts § 151c W, Saqqara, 5th Dynasty, rel, OE
+# text = šn(.w) Wni҆ś pn i҆n Ṭ(w)ꜣ.t wꜥb ꜥnḫ(.w) m ꜣḫ.t
+# lit = “This Unas was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# trans = “This Unas was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# type = Cleft sentence with adverbial focus
+1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	i҆n	i҆n	ADP	Cons.st	_	5	case	_	_
+5	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+6	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+
