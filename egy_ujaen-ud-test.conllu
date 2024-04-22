@@ -7590,7 +7590,7 @@
 # ref = Pyramid Texts § 147a W, Saqqara, 5th Dynasty, rel, OE
 # text = n(.i҆) kw mn nčr pw č̣ṭ.n sꜣ.t(i҆) (I҆)tm(.w)
 # lit = ""You belong, So-and-so, to this god", said the two daughters of Atum."
-# trans = ""You belong, So-and-so, to this god", said the two children of Atum."
+# trans = ""You belong, So-and-so, to this god", said the twin children of Atum."
 # type = Adjectival sentence of possession
 1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
@@ -7598,7 +7598,7 @@
 4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
-7	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	6	nsubj	_	_
+7	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	6	nsubj	_	_
 8	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
 
 # sent_id = UDE-512
@@ -7658,4 +7658,34 @@
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
 5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
 6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+
+# sent_id = UDE-516
+# ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
+# text = mśč̣r(.wi҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
+# lit = "Your two ears are like (those of) the two daughters of Atum, O Imperishable."
+# trans = "Your ears are like (those of) the twin children of Atum, O Imperishable."
+# type = Adverbial sentence
+1	mśč̣r(.wi҆)	mśč̣r	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
+5	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
+6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+
+# sent_id = UDE-517
+# ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r.t(i҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
+# lit = "Your two eyes are like (those of) the two daughters of Atum, O Imperishable."
+# trans = "Your eyes are like (those of) the twin children of Atum, O Imperishable."
+# type = Adverbial sentence
+1	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
+5	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
+6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
 
