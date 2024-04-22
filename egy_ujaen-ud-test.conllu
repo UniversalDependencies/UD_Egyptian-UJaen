@@ -7854,6 +7854,21 @@
 1	śḫꜣ	śḫꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	appos	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	appos	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+
+# sent_id = UDE-531
+# ref = Pyramid Texts § 151a W, Saqqara, 5th Dynasty, rel, OE
+# text = šn(.w) Śꜣḥ i҆n Ṭ(w)ꜣ.t wꜥb ꜥnḫ(.w) m ꜣḫ.t
+# lit = “Orion was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# trans = “Orion was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# type = Cleft sentence with adverbial focus
+1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
+3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
+4	Ṭ(w)ꜣ.t	Ṭ(w)ꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
+8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 
