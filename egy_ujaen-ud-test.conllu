@@ -7635,7 +7635,7 @@
 # lit = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
 # trans = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
 # type = Adverbial sentence
-1	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+1	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4-5	Ḥr.w-ṭwꜣ.t(i҆)	_	_	_	_	_	_	_	_
@@ -7644,4 +7644,18 @@
 6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
 6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
 7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+
+# sent_id = UDE-515
+# ref = Pyramid Texts § 148b W, Saqqara, 5th Dynasty, rel, OE
+# text = mḫnt ⸗k <m> (I҆)m(.i҆)-ḫnt-i҆r.t(i҆) i҆ḫm(.w)-śk(.w)
+# lit = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable."
+# trans = "Your face is <like> (that of) Imi-khenet-irti, O Imperishable."
+# type = Adverbial sentence
+1	mḫnt	mḫnt	NOUN	_	Gender=Masc|Number=Sig	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+3	<m>	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	PROPN	_	Gender=Masc	0	root	_	_
+5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
 
