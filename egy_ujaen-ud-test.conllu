@@ -7808,3 +7808,40 @@
 4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 5	Nb.t-ḥw.t	Nb.t-ḥw.t	PROPN	_	Gender=Fem	4	appos	_	_
 
+# sent_id = UDE-527
+# ref = PT § 150a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n (⸗i҆) ḫr ⸗č Mśk.t(i҆)t
+# lit = “(I) came (certainly) to you, Nightboat.”
+# trans = “It is to you, Nightboat, that (I) have come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	Mśk.t(i҆)t	Mśk.t(i҆)t	PROPN	_	Gender=Fem	4	appos	_	_
+
+# sent_id = UDE-528
+# ref = PT § 150b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n (⸗i҆) ḫr <⸗k> {⸗č} Mꜣꜥ-ḥr(.i҆)-čr.wt
+# lit = “(I) came (certainly) to you, Maa-heri-tjerut.”
+# trans = “It is to you, Maa-heri-tjerut, that (I) have come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	<⸗k>	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	{⸗č}	{⸗č}	X	_	Typo=Yes	8	dep	_	_
+6	Mśk.t(i҆)t	Mśk.t(i҆)t	PROPN	_	Gender=Fem	4	appos	_	_
+
+# sent_id = UDE-529
+# ref = PT § 150c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n (⸗i҆) ḫr ⸗č Mśḫꜣ.t-kꜣ(.w)
+# lit = “(I) came (certainly) to you, Meskhat-kau.”
+# trans = “It is to you, Meskhat-kau, that (I) have come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	Mśḫꜣ.t-kꜣ(.w)	Mśḫꜣ.t-kꜣ.w	PROPN	_	Gender=Fem	4	appos	_	_
+
