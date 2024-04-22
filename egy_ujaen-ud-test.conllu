@@ -7714,5 +7714,15 @@
 4	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
 5	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	4	fixed	_	_
 
+# sent_id = UDE-520
+# ref = Pyramid Texts § 149a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥ(.wi҆) ⸗k Ḥp(.y) Ṭwꜣ-mw.t⸗f
+# lit = "Your two arms are (those of) Hapy and Duamutef."
+# trans = "Your arms are (those of) Hapy and Duamutef."
+# type = Nominal sentence (A = B)
+1	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	Ḥp(.y)	Ḥp.y	PROPN	_	Gender=Masc	0	root	_	_
+4	Ṭwꜣ-mw.t⸗f	Ṭwꜣ-mw.t⸗f	PROPN	_	Gender=Masc	3	conj	_	_
 
 
