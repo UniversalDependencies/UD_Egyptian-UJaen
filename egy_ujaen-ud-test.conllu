@@ -7629,3 +7629,19 @@
 4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
 5	nb	nb	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
 
+# sent_id = UDE-514
+# ref = Pyramid Texts § 148a W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭp ⸗k m Ḥr.w-ṭwꜣ.t(i҆) i҆ḫm(.w)-śk(.w)
+# lit = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
+# trans = "Your head is like (that of) Horus of the Netherworld, O Imperishable."
+# type = Adverbial sentence
+1	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
+4-5	Ḥr.w-ṭwꜣ.t(i҆)	_	_	_	_	_	_	_	_
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
+5	ṭwꜣ.t(i҆)	ṭwꜣ.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
+6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+
