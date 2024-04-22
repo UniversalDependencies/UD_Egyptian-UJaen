@@ -7662,8 +7662,8 @@
 # sent_id = UDE-516
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
 # text = mśč̣r(.wi҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
-# lit = "Your two ears are like (those of) the two daughters of Atum, O Imperishable Star."
-# trans = "Your ears are like (those of) the twin children of Atum, O Imperishable Star."
+# lit = "Your two ears are (those of) the two daughters of Atum, O Imperishable Star."
+# trans = "Your ears are (those of) the twin children of Atum, O Imperishable Star."
 # type = Nominal sentence (A = B)
 1	mśč̣r(.wi҆)	mśč̣r	NOUN	_	Gender=Masc|Number=Dual	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7676,8 +7676,8 @@
 # sent_id = UDE-517
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r.t(i҆) ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
-# lit = "Your two eyes are like (those of) the two daughters of Atum, OO Imperishable Star."
-# trans = "Your eyes are like (those of) the twin children of Atum, O Imperishable Star."
+# lit = "Your two eyes are (those of) the two daughters of Atum, OO Imperishable Star."
+# trans = "Your eyes are (those of) the twin children of Atum, O Imperishable Star."
 # type = Nominal sentence (A = B)
 1	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -7765,4 +7765,18 @@
 6	nn.t	nn.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 7	hꜣꜣ	hꜣi̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+
+# sent_id = UDE-524
+# ref = Pyramid Texts § 149c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥ.(w)t ⸗k sꜣ.t(i҆) (I҆)tm(.w) i҆ḫm(.w)-śk(.w)
+# lit = "Your members are (those of) the two daughters of Atum, OO Imperishable Star."
+# trans = "Your eyes are (those of) the twin children of Atum, O Imperishable Star."
+# type = Nominal sentence (A = B)
+1	ꜥ.(w)t	ꜥ.t	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
+4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
+6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
 
