@@ -7581,8 +7581,24 @@
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
-3	i҆t	i҆t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	_
+3	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-511
+# ref = Pyramid Texts § 147a W, Saqqara, 5th Dynasty, rel, OE
+# text = n(.i҆) kw mn nčr pw č̣ṭ.n sꜣ.t(i҆) (I҆)tm(.w)
+# lit = ""You belong, So-and-so, to this god", said the two daughters of Atum."
+# trans = ""You belong, So-and-so, to this god", said the two children of Atum."
+# type = Adjectival sentence of possession
+1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	mn	mn	NOUN	_	Gender=Masc|Number=Sing	 2	vocative	_	_
+4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	parataxis	1	_	_
+7	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	6	nsubj	_	_
+8	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+
 
