@@ -7547,3 +7547,42 @@
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
+# sent_id = UDE-508
+# ref = Pyramid Texts § 146a W, Saqqara, 5th Dynasty, rel, OE
+# text = n śḫm.n sꜣ ⸗k i҆m ⸗f
+# lit = “Your son cannot have power over him.”
+# trans = “Your son cannot have power over him.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	i҆m	m	ADP	Pron.st	_	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-509
+# ref = Pyramid Texts § 146b W, Saqqara, 5th Dynasty, rel, OE
+# text = Ḥr.w n śḫm.n ⸗k i҆m ⸗f
+# lit = “Horus, you cannot have power over him.”
+# trans = “Horus, you cannot have power over him.”
+# type = Verbal sentence
+1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	vocative	_	_
+2	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
+3	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	i҆m	m	ADP	Pron.st	_	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-510
+# ref = Pyramid Texts § 146b W, Saqqara, 5th Dynasty, rel, OE
+# text = n śḫm.n i҆t ⸗k i҆m ⸗f
+# lit = “Your father cannot have power over him.”
+# trans = “Your father cannot have power over him.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	i҆t	i҆t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	i҆m	m	ADP	Pron.st	_	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
