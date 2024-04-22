@@ -7245,7 +7245,7 @@
 5-6	m-ẖnw	_	_	_	_	_	_	_	_
 5	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
 6	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
-7	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-488
@@ -7905,16 +7905,27 @@
 
 # sent_id = UDE-534
 # ref = PT § 151d W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜣḫ.n ⸗f n ⸗śn ḳbb.n ⸗f n ⸗śn
-# lit = “He became akh for them - he became cool for them.”
-# trans = “(Both of them:) He became akh for them, and he became cool for them.”
-# type = Balanced sentence
-1	ꜣḫ.n	ꜣḫ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+# text = ꜣḫ.n ⸗f n ⸗śn ḳbb.n ⸗f n ⸗śn m-ẖnw ꜥ(.wi҆) i҆t ⸗f m-ẖnw ꜥ(.wi҆) (I҆)tm(.w)
+# lit = “He became akh for them, he became cool for them, (certainly) within the arms of his father, within the arms of Atum.”
+# trans = “It was withing the arms of his father and within the arms of Atum that he became akh for them and he became cool for them.”
+# type = Cleft sentence with adverbial focus
+1	ꜣḫ.n	ꜣḫ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	5	dislocated	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
-5	ḳbb.n	ḳbb	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	ḳbb.n	ḳbb	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
 8	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	obl	_	_
+9-10	m-ẖnw	_	_	_	_	_	_	_	_
+9	m	m	ADP	Cons.st	Case=Loc	11	case	_	_
+10	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
+11	ꜥ(.wi҆)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obl	_	_
+12	i҆t	i҆t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+14-15	m-ẖnw	_	_	_	_	_	_	_	_
+14	m	m	ADP	Cons.st	Case=Loc	16	case	_	_
+15	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	14	fixed	_	_
+16	ꜥ(.wi҆)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obl	_	_
+17	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	16	nmod	_	_
 
