@@ -7866,9 +7866,23 @@
 1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
-4	Ṭ(w)ꜣ.t	Ṭ(w)ꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
 5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 
+# sent_id = UDE-532
+# ref = Pyramid Texts § 151b W, Saqqara, 5th Dynasty, rel, OE
+# text = šn(.w) Śpṭ.t i҆n Ṭ(w)ꜣ.t wꜥb ꜥnḫ(.w) m ꜣḫ.t
+# lit = “Sothis was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# trans = “Sothis was encircled by the Duat, (certainly) while the Living One was purified in the horizon.”
+# type = Cleft sentence with adverbial focus
+1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Śpṭ.t	Śpṭ.t	PROPN	_	Gender=Fem	1	nsubj:pass	_	_
+3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
+4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
+8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
