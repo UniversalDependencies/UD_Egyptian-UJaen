@@ -7958,3 +7958,16 @@
 9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj	_	_
 10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 
+# sent_id = UDE-537
+# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE
+# text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
+# lit = “You shall traverse above, being united in the darkness.”
+# trans = “You shall traverse above, being united in the darkness.”
+# type = Verbal sentence
+1	šꜣś	šꜣś	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr.t	ḥr.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	i҆ꜥb.twn	i҆ꜥb	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Plur|Person=2|VerbForm=Conv	1	advcl	_	_
+5	m	m	ADP	Cons.st	Case=Ess	6	case	_	_
+6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
