@@ -7951,7 +7951,7 @@
 13	fṭ.w	fṭ.w	NUM	NOUN	Gender=Masc	12	nmod	_	_
 
 # sent_id = UDE-536
-# ref = PT § 152b/154b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 152b/154b/156b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆i҆ n ⸗k sꜣ ⸗k i҆i҆ n ⸗k Wni҆ś pn
 # lit = “Your son comes to you - this Unas comes to you.”
 # trans = “(Both of them:) Your son comes to you, and this Unas comes to you.”
@@ -7968,7 +7968,7 @@
 10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 
 # sent_id = UDE-537
-# ref = Pyramid Texts § 152c/154c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152c/154c/156c W, Saqqara, 5th Dynasty, rel, OE
 # text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
 # lit = “You shall traverse above, being united in the darkness.”
 # trans = “You shall traverse above, being united in the darkness.”
@@ -7981,7 +7981,7 @@
 6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 
 # sent_id = UDE-537a
-# ref = Pyramid Texts § 152c/154c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152c/154c/156c W, Saqqara, 5th Dynasty, rel, OE
 # text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
 # lit = “You shall traverse above, (certainly) being united in the darkness.”
 # trans = “It is being united in the darkness that you traverse above.”
@@ -7994,7 +7994,7 @@
 6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 
 # sent_id = UDE-538
-# ref = Pyramid Texts § 152d/154d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152d/154d/156d W, Saqqara, 5th Dynasty, rel, OE
 # text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m (⸗f)
 # lit = “You shall rise in the horizon, in the place in which you have become akh.”
 # trans = “You shall rise in the horizon, in the place in which you have become akh.”
@@ -8011,7 +8011,7 @@
 10	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 
 # sent_id = UDE-538a
-# ref = Pyramid Texts § 152d/154d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152d/154d/156d W, Saqqara, 5th Dynasty, rel, OE
 # text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m (⸗f)
 # lit = “You rise in the horizon, (certainly) in the place in which you have become akh.”
 # trans = “It is in the horizon, in the place in which you have become akh, that you rise.”
@@ -8162,4 +8162,20 @@
 5	śwt	śwt	PART	_	_	3	discourse	_	_
 6	m(w)t	mwt	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+
+# sent_id = UDE-548
+# ref = PT § 153a W, Saqqara, 5th Dynasty, rel, OE
+# text = Č̣ḥw.ti҆ i҆s ḥw n nčr(.w) i҆mn.t(i҆)w ꜣḫ(.w) ⸗śn i҆śč
+# lit = “Thoth, go and proclaim to the western gods and their spirits: (...).”
+# trans = “O Thoth, go and proclaim to the western gods and their spirits: (...).”
+# type = Verbal sentence
+1	Śtẖ	Śtẖ	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+3	ḥw	ḥww	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	3	iobj	_	_
+6	i҆mn.t(i҆)w	i҆mn.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	5	amod	_	_
+7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+9	i҆śč	i҆śč	CCONJ	_	_	7	cc	_	_
 
