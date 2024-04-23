@@ -7930,7 +7930,7 @@
 17	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	16	nmod	_	_
 
 # sent_id = UDE-535
-# ref = PT § 152a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 152a/154a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆i҆ n ⸗k Wni҆ś pn ꜣḫ i҆ḫm-śk(.w)
 # lit = “This Unas, the spirit "who-do-not-perish", comes (certainly) to you .”
 # trans = “It is to you that this Unas, an imperishable spirit, comes.”
@@ -7946,7 +7946,7 @@
 8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-536
-# ref = PT § 152b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 152b/154b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆i҆ n ⸗k sꜣ ⸗k i҆i҆ n ⸗k Wni҆ś pn
 # lit = “Your son comes to you - this Unas comes to you.”
 # trans = “(Both of them:) Your son comes to you, and this Unas comes to you.”
@@ -7963,7 +7963,7 @@
 10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 
 # sent_id = UDE-537
-# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152c/154c W, Saqqara, 5th Dynasty, rel, OE
 # text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
 # lit = “You shall traverse above, being united in the darkness.”
 # trans = “You shall traverse above, being united in the darkness.”
@@ -7976,7 +7976,7 @@
 6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 
 # sent_id = UDE-537a
-# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152c/154c W, Saqqara, 5th Dynasty, rel, OE
 # text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
 # lit = “You shall traverse above, (certainly) being united in the darkness.”
 # trans = “It is being united in the darkness that you traverse above.”
@@ -7989,7 +7989,7 @@
 6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 
 # sent_id = UDE-538
-# ref = Pyramid Texts § 152d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152d/154d W, Saqqara, 5th Dynasty, rel, OE
 # text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m (⸗f)
 # lit = “You shall rise in the horizon, in the place in which you have become akh.”
 # trans = “You shall rise in the horizon, in the place in which you have become akh.”
@@ -8006,7 +8006,7 @@
 10	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 
 # sent_id = UDE-538a
-# ref = Pyramid Texts § 152d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 152d/154d W, Saqqara, 5th Dynasty, rel, OE
 # text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m (⸗f)
 # lit = “You rise in the horizon, (certainly) in the place in which you have become akh.”
 # trans = “It is in the horizon, in the place in which you have become akh, that you rise.”
@@ -8024,14 +8024,14 @@
 
 # sent_id = UDE-539
 # ref = PT § 153a W, Saqqara, 5th Dynasty, rel, OE
-# text = Śtẖ Ḥw.t-nb.t i҆s.y ḥw n nčr(.w) Šmꜥ(.w) ꜣḫ(.w) ⸗śn i҆śč
+# text = Śtẖ Ḥw.t-nb.t i҆s.y ḥw(w) n nčr(.w) Šmꜥ(.w) ꜣḫ(.w) ⸗śn i҆śč
 # lit = “Seth, Nephthys, go and proclaim to the gods of Upper Egypt and their spirits: (...).”
 # trans = “O Seth and Nephthys, go and proclaim to the gods of Upper Egypt and their spirits: (...).”
 # type = Verbal sentence
 1	Śtẖ	Śtẖ	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
 2	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Case=Voc|Gender=Fem	1	conj	_	_
 3	i҆s.y	si҆	VERB	Imp	Mood=Imp|Number=Plur	0	root	_	_
-4	ḥw	ḥww/ḥwi̯	VERB	Imp	Mood=Imp|Number=Plur	3	conj	_	_
+4	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Plur	3	conj	_	_
 5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
 6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	4	iobj	_	_
 7	Šmꜥ(.w)	Šmꜥ(.w)	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	_
@@ -8067,4 +8067,34 @@
 4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 5	m(w)t	mwt	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+
+# sent_id = UDE-542
+# ref = PT § 153c W, Saqqara, 5th Dynasty, rel, OE
+# text = mr.w ⸗f ꜥnḫ ⸗čn ꜥnḫ ⸗čn
+# lit = “If he will wish that you live, you will live.”
+# trans = “If he wishes you to live, you will live.”
+# type = Verbal sentence
+1	mr.w	mri̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	5	dislocated	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ꜥnḫ	ꜥnḫ	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+5	ꜥnḫ	ꜥnḫ	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+
+# sent_id = UDE-543
+# ref = PT § 155a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) Ꜣś.t i҆s.y ḥww n nčr(.w) Mḥ(.w) ꜣḫ(.w) ⸗śn i҆śč
+# lit = “Osiris, Isis, go and proclaim to the gods of Lower Egypt and their spirits: (...).”
+# trans = “O Osiris and Isis, go and proclaim to the gods of Lower Egypt and their spirits: (...).”
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
+2	Ꜣś.t	Ꜣś.t	PROPN	_	Case=Voc|Gender=Fem	1	conj	_	_
+3	i҆s.y	si҆	VERB	Imp	Mood=Imp|Number=Plur	0	root	_	_
+4	ḥww	ḥww	VERB	Imp	Mood=Imp|Number=Plur	3	conj	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	4	iobj	_	_
+7	Mḥ(.w)	Mḥ.w	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	_
+8	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
+9	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
+10	i҆śč	i҆śč	CCONJ	_	_	8	cc	_	_
 
