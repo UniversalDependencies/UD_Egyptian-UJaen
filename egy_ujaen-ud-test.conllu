@@ -8118,3 +8118,15 @@
 11	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	9	amod	_	_
 12	Ḥ(ꜥ)p(i҆)	Ḥꜥpi҆	PROPN	_	Gender=Masc	9	nmod	_	_
 
+# sent_id = UDE-545
+# ref = Pyramid Texts § 155c W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭwꜣ św ꜣḫ(.w) i҆m.(i҆)w mw
+# lit = "The spirits who are in the water shall worship him."
+# trans = "The spirits who are in the water shall worship him."
+# type = Verbal sentence
+1	ṭwꜣ	ṭwꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	3	amod	_	_
+5	mw	mw	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+
