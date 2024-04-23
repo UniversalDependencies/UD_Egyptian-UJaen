@@ -5062,7 +5062,7 @@
 # trans = “You are his father.”
 # type = Nominal sentence (i҆nk)
 1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	i҆t	i҆t	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
 # sent_id = UDE-340
@@ -5086,7 +5086,7 @@
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
 4	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-5	kꜣ	kꜣ	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+5	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
 # sent_id = UDE-342
@@ -7503,7 +7503,7 @@
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	i҆p	i҆p	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	i҆b	i҆b	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
+4	i҆b	i҆b	NOUN	Obj|MWE	Gender=Masc|Number=Sing	2	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
 # sent_id = UDE-505
@@ -7516,7 +7516,7 @@
 2	śḫm	śḫm	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	m	m	ADP	Cons.st	_	5	case	_	_
-5	ḥꜣ.t(i҆)	ḥꜣ.t(i҆)	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+5	ḥꜣ.t(i҆)	ḥꜣ.t(i҆)	NOUN	MWE	Gender=Masc|Number=Sing	2	obl	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-506
@@ -8199,4 +8199,21 @@
 11	I҆np.w	I҆np.w	PROPN	_	Gender=Masc	9	obl	_	_
 12	ḥr	ḥr	ADP	Cons.st	Case=Sup	13	case	_	_
 13	wśr.t	wśr.t	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	_
+
+# sent_id = UDE-550
+# ref = PT § 157b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫnt(.i҆) ḳꜣ.t i҆mn.t(i҆)t i҆p ⸗f i҆b(.w) śḫm ⸗f m ḥꜣ.t(i҆w)
+# lit = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
+# trans = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
+# type = Verbal sentence
+1	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	dislocated	_	_
+2	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+3	i҆mn.t(i҆)t	i҆mn.t	ADJ	NisbaNoun	Gender=Fem|Number=Sing	2	amod	_	_
+4	i҆p	i҆p	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	i҆b(.w)	i҆b	NOUN	Obj	Gender=Masc|Number=Plur	4	obj	_	_
+7	śḫm	śḫm	VERB	SFC|Sub	Mood=Sub	4	conj	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	m	m	ADP	Cons.st	_	10	case	_	_
+10	ḥꜣ.t(i҆w)	ḥꜣ.ti҆	NOUN	MWE	Gender=Masc|Number=Plur	7	obl	_	_
 
