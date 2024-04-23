@@ -7965,9 +7965,56 @@
 # trans = “You shall traverse above, being united in the darkness.”
 # type = Verbal sentence
 1	šꜣś	šꜣś	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥr.t	ḥr.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	i҆ꜥb.twn	i҆ꜥb	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Plur|Person=2|VerbForm=Conv	1	advcl	_	_
 5	m	m	ADP	Cons.st	Case=Ess	6	case	_	_
 6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
+# sent_id = UDE-537a
+# ref = Pyramid Texts § 152c W, Saqqara, 5th Dynasty, rel, OE
+# text = šꜣś ⸗čn ḥr.t i҆ꜥb.twn m śnk.w
+# lit = “You shall traverse above, (certainly) being united in the darkness.”
+# trans = “It is being united in the darkness that you traverse above.”
+# type = Cleft sentence with adverbial focus
+1	šꜣś	šꜣś	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr.t	ḥr.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	i҆ꜥb.twn	i҆ꜥb	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Plur|Person=2|VerbForm=Conv	1	advcl	_	_
+5	m	m	ADP	Cons.st	Case=Ess	6	case	_	_
+6	śnk.w	śnk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
+# sent_id = UDE-538
+# ref = Pyramid Texts § 152d W, Saqqara, 5th Dynasty, rel, OE
+# text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m
+# lit = “You shall rise in the horizon, in the place in which you have become akh.”
+# trans = “You shall rise in the horizon, in the place in which you have become akh.”
+# type = Verbal sentence
+1	wbn	wbn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	ꜣḫ.n	ꜣḫ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	6	acl	_	_
+8	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+9	i҆m	m	ADP	Pron.st	Case=Loc	10	case	_	_
+10	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+
+# sent_id = UDE-538a
+# ref = Pyramid Texts § 152d W, Saqqara, 5th Dynasty, rel, OE
+# text = wbn ⸗čn m ꜣḫ.t m bw ꜣḫ.n ⸗čn i҆m
+# lit = “You rise in the horizon, (certainly) in the place in which you have become akh.”
+# trans = “It is in the horizon, in the place in which you have become akh, that you rise.”
+# type = Verbal sentence
+1	wbn	wbn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	ꜣḫ.n	ꜣḫ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	6	acl	_	_
+8	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+9	i҆m	m	ADP	Pron.st	Case=Loc	10	case	_	_
+10	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 
