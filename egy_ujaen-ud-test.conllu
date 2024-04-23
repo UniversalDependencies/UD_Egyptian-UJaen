@@ -8136,7 +8136,7 @@
 5	mw	mw	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
 
 # sent_id = UDE-546
-# ref = PT § 153d W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 153d/159c W, Saqqara, 5th Dynasty, rel, OE
 # text = mr.w ⸗f ꜥnḫ ⸗f śwt ꜥnḫ ⸗f
 # lit = “If he will wish that he really lives, he will live.”
 # trans = “If he really wishes you to live, you will live.”
@@ -8150,7 +8150,7 @@
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 
 # sent_id = UDE-547
-# ref = PT § 153d/157d W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 153d/157d/159c W, Saqqara, 5th Dynasty, rel, OE
 # text = mr.w ⸗f m(w)t ⸗f śwt m(w)t ⸗f
 # lit = “If he will wish that he really dies, he will die.”
 # trans = “If he really wishes you to die, you will die.”
@@ -8248,4 +8248,23 @@
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
 8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+
+# sent_id = UDE-553
+# ref = PT § 160a W, Saqqara, 5th Dynasty, rel, OE
+# text = Rꜥw-(I҆)tm(.w) i҆i҆ n ⸗k sꜣ ⸗k i҆i҆ n ⸗k Wni҆ś
+# lit = “Re-Atum, your son comes to you - Unas comes to you.”
+# trans = “O Re-Atum, (both of them:) your son comes to you, and Unas comes to you.”
+# type = Balanced sentence
+1-2	Rꜥw-(I҆)tm(.w)	_	_	_	_	_	_	_	_
+1	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	(I҆)tm(.w)	I҆tm.w	NOUN	_	Gender=Masc|Number=Sing	1	flat	_	_
+3	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	n	n	ADP	Pron.st	Case=All	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+6	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+9	n	n	ADP	Pron.st	Case=All	10	case	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
+11	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	_
 
