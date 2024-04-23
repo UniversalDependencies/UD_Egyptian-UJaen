@@ -8181,7 +8181,7 @@
 
 # sent_id = UDE-549
 # ref = PT § 157b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆i҆ r ⸗f Wni҆ś pn ꜣḫ i҆ḫm-śk(.w) č̣bꜣ m I҆np.w ḥr wśr.t
+# text = i҆i҆ r ⸗f Wni҆ś pn ꜣḫ i҆ḫm-śk(.w) č̣bꜣ(.w) m I҆np.w ḥr wśr.t
 # lit = “This Unas, the spirit "who-do-not-perish", comes indeed being adorned with Anubis on the neck.”
 # trans = “Indeed, this Unas, the spirit "who-do-not-perish", comes adorned with Anubis on the neck.”
 # type = Cleft sentence with adverbial focus
@@ -8194,7 +8194,9 @@
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
 8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
-9	ṭwꜣ	ṭwꜣ	NOUN	Tense=Pres|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	1	obl	_	_
-10	i҆ś	i҆ś	ADP	_	Case=Equ	9	case	_	_
-11	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	9	amod	_	_
-12	Ḥ(ꜥ)p(i҆)	Ḥꜥpi҆	PROPN	_	Gender=Masc	9	nmod	_	_
+9	č̣bꜣ(.w)	č̣bꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	1	advcl	_	_
+10	m	m	ADP	Cons.st	Case=Ins	11	case	_	_
+11	I҆np.w	I҆np.w	PROPN	_	Gender=Masc	9	obl	_	_
+12	ḥr	ḥr	ADP	Cons.st	Case=Sup	13	case	_	_
+13	wśr.t	wśr.t	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	_
+
