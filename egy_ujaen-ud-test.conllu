@@ -5037,7 +5037,7 @@
 13	i҆m	i҆m	ADV	_	AdvType=Loc	10	advmod	_	_
 14	ḫr	ḫr	ADP	Cons.st	Case=Com	15	case	_	_
 15	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
-16	n	n	ADP	Cons.st	Case=Ben	17	case	_	_
+16	n	n	ADP	Cons.st	_	17	case	_	_
 17	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
 18	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	10	advmod	_	_
 
@@ -8270,12 +8270,29 @@
 
 # sent_id = UDE-554
 # ref = PT § 160b W, Saqqara, 5th Dynasty, rel, OE
-# text = śi҆ꜥ n ⸗k św
-# lit = “Make him ascend to you!”
-# trans = “Raise him up to you!”
-# type = Verbal sentence
+# text = śi҆ꜥ n ⸗k św šn n ⸗k św m-ẖnw ꜥ(.wi҆) ⸗k sꜣ ⸗k pw n(.i҆) č̣.t ⸗k n č̣.t
+# lit = “Make him ascend to you! Enclose him within your (two) arms for yourself! (For,) your son of your body is this for ever.”
+# trans = “Raise him up to you! Enclose him within your arms for yourself! (For,) he is your bodily son for ever.”
+# type = Verbal sentence + nominal sentence (A pw)
 1	śi҆ꜥ	i҆ꜥr	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5	šn	šni̯	VERB	Imp	Mood=Imp	1	conj	_	_
+6	n	n	ADP	Pron.st	_	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	5	obl	_	_
+8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+9-10	m-ẖnw	_	_	_	_	_	_	_	_
+9	m	m	ADP	Cons.st	Case=Loc	11	case	_	_
+10	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
+11	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	5	obl	_	_
+12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	parataxis	_	_
+14	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod	_	_
+15	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	13	nsubj	_	_
+16	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
+17	č̣.t	č̣.t	NOUN	MWE	Gender=Fem|Number=Sing	13	nmod	_	_
+18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
+19	n	n	ADP	Cons.st	_	20	case	_	_
+20	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 
