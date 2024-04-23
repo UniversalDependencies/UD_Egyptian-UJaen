@@ -2855,7 +2855,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
 3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	4	aux	_	_
-4	nẖrẖr.w	nẖrẖr	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
+4	nẖrẖr.w	nẖrẖr	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin	0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 6	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	4	obj	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
@@ -8054,4 +8054,17 @@
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
 8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+
+# sent_id = UDE-541
+# ref = PT § 153c W, Saqqara, 5th Dynasty, rel, OE
+# text = mr.w ⸗f m(w)t ⸗čn m(w)t ⸗čn
+# lit = “If he will wish that you die, you will die.”
+# trans = “If he wishes you to die, you will die.”
+# type = Verbal sentence
+1	mr.w	mri̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	5	dislocated	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m(w)t	mwt	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
+4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+5	m(w)t	mwt	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
 
