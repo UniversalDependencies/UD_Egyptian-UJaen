@@ -7931,15 +7931,19 @@
 
 # sent_id = UDE-535
 # ref = PT § 152a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆i҆ n ⸗k Wni҆ś pn
-# lit = “This Unas comes (certainly) to you.”
-# trans = “It is to you that this Unas comes.”
+# text = i҆i҆ n ⸗k Wni҆ś pn ꜣḫ i҆ḫm-śk(.w)
+# lit = “This Unas, the spirit "who-do-not-perish", comes (certainly) to you .”
+# trans = “It is to you that this Unas, an imperishable spirit, comes.”
 # type = Cleft sentence with adverbial focus
 1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	n	n	ADP	Pron.st	Case=All	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+7-8	i҆ḫm-śk	_	_	_	_	_	_	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
+8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-536
 # ref = PT § 152b W, Saqqara, 5th Dynasty, rel, OE
@@ -8034,4 +8038,20 @@
 8	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
 9	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
 10	i҆śč	i҆śč	CCONJ	_	_	8	cc	_	_
+
+# sent_id = UDE-540
+# ref = PT § 153b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆ r ⸗f Wni҆ś pn ꜣḫ i҆ḫm-śk(.w)
+# lit = “This Unas, the spirit "who-do-not-perish", comes indeed.”
+# trans = “Indeed, this Unas, the spirit "who-do-not-perish", comes.”
+# type = Cleft sentence with adverbial focus
+1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+7-8	i҆ḫm-śk	_	_	_	_	_	_	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
+8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
 
