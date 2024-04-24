@@ -8297,7 +8297,7 @@
 20	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 
 # sent_id = UDE-555
-# ref = PT § 161a/164c/164e/165b/165d W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 161a/164c/164e/165b/165d/166b/166d W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) i҆i҆ r ⸗f Wni҆ś pn ḫwrr pśč̣.t ꜣḫ i҆ḫm-śk(.w)
 # lit = “Osiris, this Unas, the importunate (?) of the Ennead, the spirit "who-do-not-perish", comes indeed.”
 # trans = “O Osiris, this Unas, the importunate (?) of the Ennead, the spirit "who-do-not-perish", comes indeed.”
@@ -8564,4 +8564,16 @@
 4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
+# sent_id = UDE-571
+# ref = Pyramid Texts § 166c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆m.(i҆)w nn.t n Wni҆ś pn
+# lit = "Those in the undersky are for this Unas."
+# trans = "Those in the undersky belong to Unas."
+# type = Adverbial sentence
+1	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	4	nsubj	_	_
+2	nn.t	nn.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
