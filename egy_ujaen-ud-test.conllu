@@ -8539,3 +8539,29 @@
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
+# sent_id = UDE-569
+# ref = Pyramid Texts § 165c W, Saqqara, 5th Dynasty, rel, OE
+# text = rś.(i҆)w i҆m.(i҆)w tꜣ n Wni҆ś pn
+# lit = "The southerners who are on earth are for this Unas."
+# trans = "The southerners on earth belong to Unas."
+# type = Adverbial sentence
+1	rś.(i҆)w	rś	NOUN	NisbaNoun	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	amod	_	_
+3	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
+# sent_id = UDE-570
+# ref = Pyramid Texts § 166a W, Saqqara, 5th Dynasty, rel, OE
+# text = mḥ.t(i҆)w i҆m.(i҆)w tꜣ n Wni҆ś pn
+# lit = "The northerners who are on earth are for this Unas."
+# trans = "The northerners on earth belong to Unas."
+# type = Adverbial sentence
+1	mḥ.t(i҆)w	mḥ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Plur	5	nsubj	_	_
+2	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	amod	_	_
+3	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
