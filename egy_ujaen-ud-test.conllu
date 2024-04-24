@@ -8460,3 +8460,15 @@
 28	i҆r	r	ADP	Cons.st	Case=Cmp	29	case	_	_
 29	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	obl	_	_
 
+# sent_id = UDE-564
+# ref = PT § 163c W, Saqqara, 5th Dynasty, rel, OE
+# text = n tr ⸗k i҆gr i҆m
+# lit = “Your time is no more there.”
+# trans = “Your time therein is no more.”
+# type = Negative existence sentence
+1	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
+2	tr	tr	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆gr	i҆gr	PART	_	_	5	advmod	_	_
+5	i҆m	i҆m	ADV	_	AdvType=Loc	0	root	_	_
+
