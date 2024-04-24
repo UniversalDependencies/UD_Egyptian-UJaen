@@ -8404,3 +8404,22 @@
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
 7	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-562
+# ref = Pyramid Texts § 162c W, Saqqara, 5th Dynasty, rel, OE
+# text = bi҆k (i҆)m(.i҆)-ḫt i҆č ⸗f i҆.n ⸗śn m kw bꜣ.ti҆ śḫm.ti҆
+# lit = ""O falcon, who is after which that he will take possession", said they, "look, you have a ba and you are mighty"."
+# trans = ""O falcon, who will succeed taking possession (of the throne)", said they, "look, you have a ba and you are mighty"."
+# type = Verbal sentence sentence
+1	bi҆k	bi҆k	NOUN	_	Gender=Masc|Number=Sing	10	dislocated	_	_
+2-3	(i҆)m(.i҆)-ḫt	_	_	_	_	_	_	_	_
+2	(i҆)m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	amod	_	_
+3	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	2	fixed	_	_
+4	i҆č	i҆či̯	NOUN	Tense=Fut|VerbForm=Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	nmod	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:outer	_	_
+6	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	10	parataxis	_	_
+7	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+8	m	m	PART	_	_	10	discourse	_	_
+9	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	10	nsubj	_	_
+10	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat		Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	śḫm.ti҆	śḫm	VERB	OSSC|Stat		Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+
