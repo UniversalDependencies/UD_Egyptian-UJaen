@@ -2812,7 +2812,7 @@
 # lit = "Look, you have blinded him."
 # trans = "Look, you have blinded him."
 # type = Verbal sentence
-1	m	m	PART	_	_	3	discourse	_	_
+1	m	m	PART	_	_	2	discourse	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	3	dislocated	_	_
 3	šp.n	šp	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	0	root	_	_
 4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -4337,7 +4337,7 @@
 # lit = "Look, it is deposited on the ground (?)."
 # trans = "Look, it is deposited on the ground (?)."
 # type = Verbal sentence
-1	m	m	PART	_	_	3	discourse	_	_
+1	m	m	PART	_	_	2	discourse	_	_
 2	ś(i҆)	śi҆	PRON	DepPron	Gender=Fem|Number=Sing|Person=3	3	dislocated	_	_
 3	ḥbnbn	ḥbnbn	VERB	SFC|Pres	Tense=Pres|VerbForm=Fin	0	root	_	_
 4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -8418,7 +8418,7 @@
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	10	parataxis	_	_
 7	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-8	m	m	PART	_	_	10	discourse	_	_
+8	m	m	PART	_	_	9	discourse	_	_
 9	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	10	nsubj	_	_
 10	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	śḫm.ti҆	śḫm	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
@@ -8471,4 +8471,23 @@
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆gr	i҆gr	PART	_	_	5	advmod	_	_
 5	i҆m	i҆m	ADV	_	AdvType=Loc	0	root	_	_
+
+# sent_id = UDE-565
+# ref = Pyramid Texts § 163d W, Saqqara, 5th Dynasty, rel, OE. According to Edel (1955/64, § 1129), i҆ḫm.w(i҆) is a participle.
+# text = m⸗k i҆r.tn Śtẖ ḥnꜥ Č̣ḥw.ti҆ śn(.wi҆) ⸗k i҆ḫm.w(i҆) rm(.w) čw
+# lit = "See what Seth and Thoth have done, your two brothers do not know how to mourn you."
+# trans = "See what Seth and Thoth have done, your two brothers do not know how to mourn you."
+# type = Verbal sentence
+1-2	m⸗k	_	_	_	_	_	_	_	_
+1	m	m	PART	_	_	3	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	i҆r.tn	i҆ri̯	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	9	dislocated	_	_
+4	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	3	nsubj	_	_
+5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
+6	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	3	obl	_	_
+7	śn(.wi҆)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	i҆ḫm.w(i҆)	ḫm	VERB	OSSC	Gender=Masc|Number=Dual|Person=3|VerbForm=Fin	0	root	_	_
+10	rm(.w)	rmi̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	9	advmod	_	_
+11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
 
