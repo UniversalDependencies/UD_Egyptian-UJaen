@@ -8342,3 +8342,20 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	nb.t	nb	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-558
+# ref = Pyramid Texts § 161c W, Saqqara, 5th Dynasty, rel, OE
+# text = šn-t(i҆) rmn ⸗f n ⸗f śpr n ⸗f
+# lit = "One (i.e. the gods) shall enclose whomever he associates to himself or appeals to him."
+# trans = "One shall enclose whomever he associates to himself or appeals to him."
+# type = Verbal sentence
+1-2	šn-t(i҆)	_	_	_	_	_	_	_	_
+1	šn	šni̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	rmn	rmni̯	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:outer	_	_
+5	n	n	ADP	Pron.st	_	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+7	śpr	śpr	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	conj	_	_
+8	n	n	ADP	Pron.st	_	9	case	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+
