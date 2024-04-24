@@ -8423,4 +8423,40 @@
 10	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 11	śḫm.ti҆	śḫm	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
 
+# sent_id = UDE-563
+# ref = PT § 163b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) i҆i҆ r ⸗f Wni҆ś pn ḫwrr pśč̣.t ꜣḫ i҆ḫm-śk(.w) sn i҆r ⸗k snn i҆r ⸗k nn i҆r ⸗k wrr i҆r ⸗k wꜣč̣ i҆r ⸗k nhmhm(.w) i҆r ⸗k
+# lit = “Osiris, this Unas comes indeed, (he is) the importunate (?) of the Ennead, the spirit "who-do-not-perish", who surpassed you, who suprasses you, wearier than you, greater than you, more flourish than you and more acclaimed than you.”
+# trans = “O Osiris, this Unas comes indeed, (he is) the importunate (?) of the Ennead, the spirit "who-do-not-perish", who surpassed you, who suprasses you, wearier than you, greater than you, sounder than you and more acclaimed than you.”
+# type = Cleft sentence with adverbial focus
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	dislocated	_	_
+2	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	2	obl	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	ḫwrr	ḫwrr	X	_	_	5	dep	_	_
+8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
+10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
+11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
+12	sn	sni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	amod	_	_
+13	i҆r	r	ADP	Cons.st	Case=Cmp	14	case	_	_
+14	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl	_	_
+15	snn	sni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+16	i҆r	r	ADP	Cons.st	Case=Cmp	17	case	_	_
+17	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	obl	_	_
+18	nn	sni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+19	i҆r	r	ADP	Cons.st	Case=Cmp	19	case	_	_
+20	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	obl	_	_
+21	wrr	wrr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+22	i҆r	r	ADP	Cons.st	Case=Cmp	23	case	_	_
+23	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	obl	_	_
+24	wꜣč̣	wꜣč̣	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	_
+25	i҆r	r	ADP	Cons.st	Case=Cmp	26	case	_	_
+26	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obl	_	_
+27	nhmhm(.w)	nhmhm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	conj	_	_
+28	i҆r	r	ADP	Cons.st	Case=Cmp	29	case	_	_
+29	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	obl	_	_
 
