@@ -8371,3 +8371,22 @@
 3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
 4	nb	nb	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
 
+# sent_id = UDE-560
+# ref = PT § 162a W, Saqqara, 5th Dynasty, rel, OE
+# text = n tʾ ⸗f n tʾ kꜣ ⸗f č̣r(.w) tʾ ⸗f r ⸗f
+# lit = “There is no bread of him, there is no bread of his ka after his bread was taken away from him.”
+# trans = “He has no bread, his ka has no bread after he was deprived of his bread.”
+# type = Negative existence sentence + Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	0	root	_	_
+2	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yexs	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	n	n	PART	Neg	PartType=Neg	1	parataxis	_	_
+5	tʾ	tʾ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	kꜣ	kꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	⸗f	f	PRON	SFP|Poss=Yexs	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	č̣r(.w)	č̣r	VERB	SFC|PastPass|Finalcl	Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	_
+9	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	r	r	ADP	Pron.st	_	12	case	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+
