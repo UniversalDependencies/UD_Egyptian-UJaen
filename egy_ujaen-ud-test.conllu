@@ -8328,3 +8328,17 @@
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
 
+# sent_id = UDE-557
+# ref = PT § 161c W, Saqqara, 5th Dynasty, rel, OE
+# text = nḥb ⸗f kꜣ(.w) m čn.t ⸗f nb.t
+# lit = “He will endow (?) the life forces (certainly) with all that he will reckon (?).”
+# trans = “It is with all that he reckons (?) that he will endow (?) the life forces.”
+# type = Cleft sentence with adverbial focus
+1	nḥb	nḥb	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	čn.t	čni̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Fin	1	advcl	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	nb.t	nb	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+
