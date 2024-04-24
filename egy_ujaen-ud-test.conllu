@@ -8475,7 +8475,7 @@
 # sent_id = UDE-565
 # ref = Pyramid Texts § 163d W, Saqqara, 5th Dynasty, rel, OE. According to Edel (1955/64, § 1129), i҆ḫm.w(i҆) is a participle.
 # text = m⸗k i҆r.tn Śtẖ ḥnꜥ Č̣ḥw.ti҆ śn(.wi҆) ⸗k i҆ḫm.w(i҆) rm(.w) čw
-# lit = "See what Seth and Thoth have done, your two brothers do not know how to mourn you."
+# lit = "See what Seth together with Thoth have done, your two brothers do not know how to mourn you."
 # trans = "See what Seth and Thoth have done, your two brothers do not know how to mourn you."
 # type = Verbal sentence
 1-2	m⸗k	_	_	_	_	_	_	_	_
@@ -8490,4 +8490,26 @@
 9	i҆ḫm.w(i҆)	ḫm	VERB	OSSC	Gender=Masc|Number=Dual|Person=3|VerbForm=Fin	0	root	_	_
 10	rm(.w)	rmi̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	9	advmod	_	_
 11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+
+# sent_id = UDE-566
+# ref = PT § 164a W, Saqqara, 5th Dynasty, rel, OE
+# text = Ꜣś.t ḥnꜥ Ḥw.t-nb.t i҆nḳ i҆r ⸗čn(i҆) i҆nḳ i҆r ⸗čn(i҆) i҆ꜥb i҆r ⸗čn(i҆) i҆ꜥb i҆r ⸗čn(i҆)
+# lit = “O Isis together with Nephthys, assemble, assemble! Unite, unite!”
+# trans = “O Isis and Nephthys, assemble, assemble! Unite, unite!”
+# type = Verbal sentence
+1	Ꜣś.t	Ꜣś.t	PROPN	_	Case=Voc|Gender=Masc	4	vocative	_	_
+2	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	3	case	_	_
+3	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Masc	1	obl	_	_
+4	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp	0	root	_	_
+5	i҆r	r	ADP	Pron.st	_	5	case	_	_
+6	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	4	obl	_	_
+7	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp	4	conj	_	_
+8	i҆r	r	ADP	Pron.st	_	9	case	_	_
+9	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	7	obl	_	_
+10	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	4	conj	_	_
+11	i҆r	r	ADP	Pron.st	_	9	case	_	_
+12	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	10	obl	_	_
+13	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	4	conj	_	_
+14	i҆r	r	ADP	Pron.st	_	15	case	_	_
+15	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	13	obl	_	_
 
