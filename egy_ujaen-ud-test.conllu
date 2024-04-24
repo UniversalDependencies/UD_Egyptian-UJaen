@@ -8390,3 +8390,17 @@
 11	r	r	ADP	Pron.st	_	12	case	_	_
 12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
+# sent_id = UDE-561
+# ref = Pyramid Texts § 162b W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ.n Gbb pr(.w) m rʾ n(.i҆) pśč̣.t
+# lit = “Geb spoke, (certainly) it came from the mouth of the Ennead: (...).”
+# trans = “It was from the mouth of the Ennead that Geb spoke: (...).”
+# type = Cleft sentence with adverbial focus
+1	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Gbb	Gbb	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pr(.w)	pri̯	VERB	OSSC|Stat|VerbForm=Fin|ThirdImp	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	1	advcl	_	_
+4	m	m	ADP	Cons.st	Case=Ela	5	case	_	_
+5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+
