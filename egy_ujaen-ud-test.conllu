@@ -8296,8 +8296,8 @@
 19	n	n	ADP	Cons.st	_	20	case	_	_
 20	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 
-# sent_id = UDE-552
-# ref = PT § 159b W, Saqqara, 5th Dynasty, rel, OE
+# sent_id = UDE-555
+# ref = PT § 161a W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) i҆i҆ r ⸗f Wni҆ś pn ḫwrr pśč̣.t ꜣḫ i҆ḫm-śk(.w)
 # lit = “Osiris, this Unas, the importunate (?) of the Ennead, the spirit "who-do-not-perish", comes indeed.”
 # trans = “O Osiris, this Unas, the importunate (?) of the Ennead, the spirit "who-do-not-perish", comes indeed.”
@@ -8314,4 +8314,17 @@
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
 11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
+
+# sent_id = UDE-556
+# ref = PT § 161b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆p ⸗f i҆b(.w) nḥm ⸗f kꜣ(.w)
+# lit = “He will examine the hearts - he will take away the life forces.”
+# trans = “(Both of them:) He will examine the hearts, and he will take away the life forces.”
+# type = Balanced sentence
+1	i҆p	i҆p	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆b(.w)	i҆b	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	nḥm	nḥm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
 
