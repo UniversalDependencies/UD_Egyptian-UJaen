@@ -8987,7 +8987,7 @@
 
 # sent_id = UDE-599
 # ref = Pyramid Texts § 183a W, Saqqara, 5th Dynasty, rel, OE
-# text = m rn ⸗k i҆m(.i҆) ḥw.t-Śrḳ.t kꜣ ḥtp(.w)
+# text = m rn ⸗k i҆m(.i҆) ḥw.t Śrḳ.t kꜣ ḥtp(.w)
 # lit = "In your name of the one who is in the Enclosure of Selqet, the ka is content."
 # trans = "In your name of the one who is in the Enclosure of Selqet, the ka is content."
 # type = Verbal sentence
@@ -8995,9 +8995,8 @@
 2	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	root	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
-5-6	ḥw.t-Śrḳ.t	_	_	_	_	_	_	_	_
 5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
-6	Śrḳ.t	Śrḳ.t	PROPN	_	Gender=Fem	5	fixed	_	_
+6	Śrḳ.t	Śrḳ.t	PROPN	_	Gender=Fem	5	nmod	_	_
 7	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 8	ḥtp(.w)	ḥtp	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 
