@@ -8939,3 +8939,15 @@
 8	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	7	appos	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 
+# sent_id = UDE-596
+# ref = Pyramid Texts § 179c W, Saqqara, 5th Dynasty, rel, OE
+# text = čnw(.w) ꜥ.(w)t{t} ⸗f i҆n nčr(.w)
+# lit = “His members were numbered (certainly) by the gods.”
+# trans = “It is by the gods that his members has been numbered.”
+# type = Cleft sentence with adverbial focus
+1	čnw(.w)	čnw	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	ꜥ.(w)t{t}	ꜥ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj:pass	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	i҆n	i҆n	ADP	Cons.st	_	5	case	_	_
+5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	obl:agent	_	_
+
