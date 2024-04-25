@@ -8606,7 +8606,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-574
-# ref = Pyramid Texts § 167b/168b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167b/168b/169b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
 # lit = "He will live - Unas will live."
 # trans = "(Both of them:) He will live, and Unas will live."
@@ -8618,7 +8618,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-575
-# ref = PT § 167b/168b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167b/168b/169b W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
 # lit = “He will not die - this Unas will not die.”
 # trans = “(Both of them:) He will not die, and this Unas will not die.”
@@ -8632,7 +8632,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-576
-# ref = PT § 167c/168c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗f n śk Wni҆ś pn
 # lit = “He will not perish - this Unas will not perish.”
 # trans = “(Both of them) He will not perish, and this Unas will not perish.”
@@ -8646,7 +8646,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-577
-# ref = PT § 167c/168c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c W, Saqqara, 5th Dynasty, rel, OE
 # text = n nhp ⸗f n nhp Wni҆ś pn
 # lit = “He will not escape (?) - this Unas will not escape (?).”
 # trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
@@ -8660,7 +8660,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-578
-# ref = Pyramid Texts § 167d/168d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167d/168d/169d W, Saqqara, 5th Dynasty, rel, OE
 # text = nhp ⸗f nhp Wni҆ś pn
 # lit = "He will escape (?) - Unas will escape (?)."
 # trans = "(Both of them:) He will escape (?), and Unas will escape (?)."
@@ -8701,3 +8701,19 @@
 6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	_
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
 
+# sent_id = UDE-581
+# ref = Pyramid Texts § 170a W, Saqqara, 5th Dynasty, rel, OE
+# text = Gb(b) sꜣ ⸗k pw p(w)-nn Wśr(.w)
+# lit = “Geb, your son is this one, this one, Osiris.”
+# trans = “Geb, your son is this one here, Osiris.”
+# type = Nominal sentence (A pw B)
+1	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	dislocated	_	_
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+
+
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	_
+5-6	p(w)-nn	_	_	_	_	_	_	_	_
+5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	_
+7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
