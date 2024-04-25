@@ -639,8 +639,8 @@
 7	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
 8	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
 9-10	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
-9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-10	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	9	fixed	_	_
+9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	_
+10	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Coll	9	fixed	_	_
 
 # sent_id = UDE-49
 # ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
@@ -1153,8 +1153,8 @@
 6	[⸗f]	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	[ḫr]	ḫr	ADP	Cons.st	Case=Com	8	case	_	_
 8-9	[pśč̣.t-ꜥꜣ.t]	_	_	_	_	_	_	_	_
-8	[pśč̣.t]	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-9	[ꜥꜣ.t]	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	8	fixed	_	_
+8	[pśč̣.t]	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	3	obl	_	_
+9	[ꜥꜣ.t]	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Coll	8	fixed	_	_
 10	[m]	m	ADP	Cons.st	Case=Loc	11	case	_	_
 11-12	[Ḥw.t-śr]	_	_	_	_	_	_	_	_
 11	[Ḥw.t]	Ḥw.t	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -8309,7 +8309,7 @@
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 7	ḫwrr	ḫwrr	X	_	_	5	dep	_	_
-8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	nmod	_	_
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
@@ -8402,7 +8402,7 @@
 4	m	m	ADP	Cons.st	Case=Ela	5	case	_	_
 5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-7	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+7	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	5	nmod	_	_
 
 # sent_id = UDE-562
 # ref = Pyramid Texts § 162c W, Saqqara, 5th Dynasty, rel, OE
@@ -8436,7 +8436,7 @@
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 7	ḫwrr	ḫwrr	X	_	_	5	dep	_	_
-8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	nmod	_	_
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
 10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
@@ -8606,7 +8606,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-574
-# ref = Pyramid Texts § 167b/168b/169b/170b/171b/172b/173b/174b/175b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
 # lit = "He will live - Unas will live."
 # trans = "(Both of them:) He will live, and Unas will live."
@@ -8618,7 +8618,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-575
-# ref = PT § 167b/168b/169b/170b/171b/172b/173b/174b/175b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
 # lit = “He will not die - this Unas will not die.”
 # trans = “(Both of them:) He will not die, and this Unas will not die.”
@@ -8632,7 +8632,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-576
-# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗f n śk Wni҆ś pn
 # lit = “He will not perish - this Unas will not perish.”
 # trans = “(Both of them) He will not perish, and this Unas will not perish.”
@@ -8646,7 +8646,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-577
-# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c W, Saqqara, 5th Dynasty, rel, OE
 # text = n nhp ⸗f n nhp Wni҆ś pn
 # lit = “He will not escape (?) - this Unas will not escape (?).”
 # trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
@@ -8660,7 +8660,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-578
-# ref = Pyramid Texts § 167d/168d/169d/170d/171d/172d/173d/174d/175d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167d/168d/169d/170d/171d/172d/173d/174d/175d/176d W, Saqqara, 5th Dynasty, rel, OE
 # text = nhp ⸗f nhp Wni҆ś pn
 # lit = "He will escape (?) - Unas will escape (?)."
 # trans = "(Both of them:) He will escape (?), and Unas will escape (?)."
@@ -8834,4 +8834,32 @@
 5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	_
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
+
+# sent_id = UDE-589
+# ref = Pyramid Texts § 177a W, Saqqara, 5th Dynasty, rel, OE
+# text = pśč̣.t-ꜥꜣ.t Wśr(.w) pw p(w)-nn
+# lit = “The Great Ennead, Osiris is this one, this one.”
+# trans = “O Great Ennead, Osiris is this one here.”
+# type = Nominal sentence (A pw B)
+1-2	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
+1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	5	dislocated	_	_
+2	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Coll	1	fixed	_	_
+3	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	nsubj	_	_
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	_
+5-6	p(w)-nn	_	_	_	_	_	_	_	_
+5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	_
+
+# sent_id = UDE-590
+# ref = Pyramid Texts § 177a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣.n ⸗čn śč̣b ⸗f ꜥnḫ ⸗f
+# lit = "You caused (certainly) in order that he may revive and live."
+# trans = "You have certainly caused him to revive and live."
+# type = Cleft sentence with adverbial focus
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	śč̣b	śč̣b	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
