@@ -8593,7 +8593,7 @@
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
 
 # sent_id = UDE-573
-# ref = Pyramid Texts § 167a/168a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167a/168a/169a/170a W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣.n ⸗k śč̣b ⸗f ꜥnḫ ⸗f
 # lit = "You caused (certainly) in order that he may revive and live."
 # trans = "You have certainly caused him to revive and live."
@@ -8606,7 +8606,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-574
-# ref = Pyramid Texts § 167b/168b/169b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167b/168b/169b/170b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
 # lit = "He will live - Unas will live."
 # trans = "(Both of them:) He will live, and Unas will live."
@@ -8618,7 +8618,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-575
-# ref = PT § 167b/168b/169b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167b/168b/169b/170b W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
 # lit = “He will not die - this Unas will not die.”
 # trans = “(Both of them:) He will not die, and this Unas will not die.”
@@ -8632,7 +8632,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-576
-# ref = PT § 167c/168c/169c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗f n śk Wni҆ś pn
 # lit = “He will not perish - this Unas will not perish.”
 # trans = “(Both of them) He will not perish, and this Unas will not perish.”
@@ -8646,7 +8646,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-577
-# ref = PT § 167c/168c/169c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c W, Saqqara, 5th Dynasty, rel, OE
 # text = n nhp ⸗f n nhp Wni҆ś pn
 # lit = “He will not escape (?) - this Unas will not escape (?).”
 # trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
@@ -8660,7 +8660,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-578
-# ref = Pyramid Texts § 167d/168d/169d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167d/168d/169d/170d W, Saqqara, 5th Dynasty, rel, OE
 # text = nhp ⸗f nhp Wni҆ś pn
 # lit = "He will escape (?) - Unas will escape (?)."
 # trans = "(Both of them:) He will escape (?), and Unas will escape (?)."
@@ -8702,6 +8702,20 @@
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
 
 # sent_id = UDE-581
+# ref = Pyramid Texts § 169a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣.n ⸗č śč̣b ⸗f ꜥnḫ ⸗f
+# lit = "You caused (certainly) in order that he may revive and live."
+# trans = "You have certainly caused him to revive and live."
+# type = Cleft sentence with adverbial focus
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	śč̣b	śč̣b	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+
+
+# sent_id = UDE-582
 # ref = Pyramid Texts § 170a W, Saqqara, 5th Dynasty, rel, OE
 # text = Gb(b) sꜣ ⸗k pw p(w)-nn Wśr(.w)
 # lit = “Geb, your son is this one, this one, Osiris.”
