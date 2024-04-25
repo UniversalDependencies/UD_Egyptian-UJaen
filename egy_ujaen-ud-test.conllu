@@ -8620,14 +8620,28 @@
 # sent_id = UDE-575
 # ref = PT § 167b W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
-# lit = “He will not die, this Unas will not die.”
-# trans = “(If) he will not die, this Unas will not die.”
+# lit = “He will not die - this Unas will not die.”
+# trans = “(Both of them:) He will not die, and this Unas will not die.”
 # type = Verbal sentence (negative balanced sentence)
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	m(w)t	mwt	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
 5	m(w)t	mwt	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+
+# sent_id = UDE-576
+# ref = PT § 167c W, Saqqara, 5th Dynasty, rel, OE
+# text = n śk ⸗f n śk Wni҆ś pn
+# lit = “He will not perish - this Unas will not perish.”
+# trans = “(Both of them) He will not perish, and this Unas will not perish.”
+# type = Verbal sentence (negative balanced sentence)
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	śk	śki̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
+5	śk	śki̯	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
