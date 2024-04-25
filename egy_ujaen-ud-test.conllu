@@ -8760,7 +8760,7 @@
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
 
 # sent_id = UDE-585
-# ref = Pyramid Texts § 173a W, Saqqara, 5th Dynasty, rel, OE. According to Edel (1955/64: 314, § 639) and Allen (2017: 127, § 15.6), č̣.y is a passive participle.
+# ref = Pyramid Texts § 173a W, Saqqara, 5th Dynasty, rel, OE. According to Edel (1955/64: 314, § 639) and Allen (2017: 127, § 15.6), č̣.y is a passive participle, cf. UDE-587.
 # text = Śtẖ śn ⸗k pw p(w)-nn Wśr(.w) č̣.y śč̣b ⸗f ꜥnḫ ⸗f ss ⸗f čw
 # lit = “Seth, your brother is this one, this one, Osiris; it has been caused in order that he may revive and live that he might punish you.”
 # trans = “Seth, your brother is this one here, Osiris; he was caused to revive and live to punish you.”
@@ -8798,10 +8798,10 @@
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
 
 # sent_id = UDE-587
-# ref = Pyramid Texts § 175a W, Saqqara, 5th Dynasty, rel, OE
-# text = Č̣ḥw.ti҆ śn ⸗k pw p(w)-nn Wśr(.w)
-# lit = “Thoth, your brother is this one, this one, Osiris.”
-# trans = “Thoth, your Brother is this one here, Osiris.”
+# ref = Pyramid Texts § 175a W, Saqqara, 5th Dynasty, rel, OE. According to Edel (1955/64: 314, § 639) and Allen (2017: 127, § 15.6), č̣.y is a passive participle, cf. UDE-585.
+# text = Č̣ḥw.ti҆ śn ⸗k pw p(w)-nn Wśr(.w) č̣.y śč̣b ⸗f ꜥnḫ ⸗f ss ⸗f čw
+# lit = “Thoth, your brother is this one, this one, Osiris; it has been caused in order that he may revive and live that he might punish you”
+# trans = “Thoth, your Brother is this one here, Osiris; he was caused to revive and live to punish you.”
 # type = Nominal sentence (A pw B)
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	dislocated	_	_
 2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
@@ -8811,4 +8811,13 @@
 5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	_
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	_
+8	č̣.y	rč̣i̯	VERB	OSSC|Pass|VerbForm=Fin|ImpPass	Gender=Masc|Number=Sing|Person=3	1	parataxis	_	_
+9	śč̣b	śč̣b	VERB	SFC|Sub|Finalcl	Mood=Sub	8	advcl	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	9	conj	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+13	ss	ssi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	11	advcl	_	_
+14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+
 
