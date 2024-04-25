@@ -8606,7 +8606,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-574
-# ref = Pyramid Texts § 167b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167b/168b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
 # lit = "He will live - Unas will live."
 # trans = "(Both of them:) He will live, and Unas will live."
@@ -8618,7 +8618,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-575
-# ref = PT § 167b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167b/168b W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
 # lit = “He will not die - this Unas will not die.”
 # trans = “(Both of them:) He will not die, and this Unas will not die.”
@@ -8632,7 +8632,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-576
-# ref = PT § 167c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗f n śk Wni҆ś pn
 # lit = “He will not perish - this Unas will not perish.”
 # trans = “(Both of them) He will not perish, and this Unas will not perish.”
@@ -8646,7 +8646,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-577
-# ref = PT § 167c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c W, Saqqara, 5th Dynasty, rel, OE
 # text = n nhp ⸗f n nhp Wni҆ś pn
 # lit = “He will not escape (?) - this Unas will not escape (?).”
 # trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
@@ -8660,21 +8660,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-578
-# ref = PT § 167c W, Saqqara, 5th Dynasty, rel, OE
-# text = n nhp ⸗f n nhp Wni҆ś pn
-# lit = “He will not escape (?) - this Unas will not escape (?).”
-# trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
-# type = Verbal sentence (negative balanced sentence)
-1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	nhp	nhp	VERB	SFC|Fut	Tense=Fut	0	root	_	_
-3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
-5	nhp	nhp	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
-6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
-7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-
-# sent_id = UDE-579
-# ref = Pyramid Texts § 167d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167d/168d W, Saqqara, 5th Dynasty, rel, OE
 # text = nhp ⸗f nhp Wni҆ś pn
 # lit = "He will escape (?) - Unas will escape (?)."
 # trans = "(Both of them:) He will escape (?), and Unas will escape (?)."
@@ -8685,7 +8671,7 @@
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
-# sent_id = UDE-580
+# sent_id = UDE-579
 # ref = Pyramid Texts § 168a W, Saqqara, 5th Dynasty, rel, OE
 # text = Šw sꜣ ⸗k pw p(w)-nn Wśr(.w)
 # lit = “Shu, your son is this one, this one, Osiris.”
