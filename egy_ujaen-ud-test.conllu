@@ -8605,3 +8605,15 @@
 5	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
+# sent_id = UDE-574
+# ref = Pyramid Texts § 167b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
+# lit = "He lives, Unas lives."
+# trans = "If he lives, Unas will live."
+# type = Balanced sentence
+1	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
