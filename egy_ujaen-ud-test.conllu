@@ -9338,3 +9338,26 @@
 11	n	n	ADP	Pron.st	_	12	case	_	_
 12	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	10	obl	_	_
 
+# sent_id = UDE-625
+# ref = PT § 195a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp ⸗č ḥr ⸗f
+# lit = “May you be pleased with him.”
+# trans = “May you be pleased with him.”
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Pron.st	_	4	case	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-626
+# ref = PT § 195a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp ⸗č ḥr ꜥb.w ⸗f
+# lit = “May you be pleased with his purity.”
+# trans = “May you be pleased with his purity.”
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Pron.st	_	4	case	_	_
+4	ꜥb.w	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
