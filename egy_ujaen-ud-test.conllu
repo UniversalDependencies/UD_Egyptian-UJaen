@@ -9180,12 +9180,30 @@
 # sent_id = UDE-613
 # ref = Pyramid Texts § 192b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆šn ẖ.t ⸗k ẖr ⸗ś
-# lit = "Your belly is rounded out with it."
+# lit = "Your belly is rounded out (certainly) with it."
 # trans = "It is with it that your belly is rounded out."
-# type = Verbal sentence
-1	i҆šn	i҆šn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+# type = Cleft sentence with adverbial focus
+1	i҆šn	šni̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	ẖr	ẖr	ADP	Pron.st	_	5	case	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
+
+# sent_id = UDE-614
+# ref = Pyramid Texts § 192b W, Saqqara, 5th Dynasty, rel, OE.
+# text = i҆fḫ n ⸗k ś(i҆) sꜣ ⸗k Ḥr.w ꜥnḫ ⸗k i҆m ⸗ś
+# lit = "Your son Horus releases it for you (certainly) in order that you may live by means of it."
+# trans = "It is in order that you may live by means of it that your son Horus releases it for you."
+# type = Cleft sentence with adverbial focus
+1	i҆fḫ	fḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	appos	_	_
+8	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	i҆m	m	ADP	Pron.st	Case=Acc	12	case	_	_
+11	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 
