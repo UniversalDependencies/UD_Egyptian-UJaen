@@ -9141,3 +9141,16 @@
 5	Wn.w	Wn.w	PROPN	_	_	4	nmod	_	_
 6	rś.(i҆w)	rś	NOUN	NisbaNoun	Gender=Masc|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-610
+# ref = Pyramid Texts § 191a W, Saqqara, 5th Dynasty, rel, OE
+# text = m rn ⸗k i҆m(.i҆) Wn.w mḥ.t(i҆)
+# lit = "In your name of the one who is in Unu of the North."
+# trans = "In your name of dweller in Unu of the North."
+# type = Adverbial phrase
+1	m	m	ADP	Cons.st	_	2	case	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Wn.w	Wn.w	PROPN	_	_	4	nmod	_	_
+6	mḥ.t(i҆)	mḥ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	5	nmod	_	_
+
