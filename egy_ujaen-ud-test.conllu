@@ -9282,3 +9282,15 @@
 5	ḳꜣn.(w)t	ḳꜣr.t	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
 6	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-621
+# ref = PT § 194b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n ⸗f ḫr ⸗č N.t
+# lit = “He came (certainly) to you, Red Crown.”
+# trans = “It is to you, Red Crown, that he has come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	N.t	N.t	PROPN	_	Gender=Fem|Number=Sing	4	appos	_	_
+
