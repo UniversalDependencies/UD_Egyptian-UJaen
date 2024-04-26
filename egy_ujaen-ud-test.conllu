@@ -9306,3 +9306,29 @@
 4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 5	Nsr.t	Nsr.t	PROPN	_	Gender=Fem|Number=Sing	4	appos	_	_
 
+# sent_id = UDE-623
+# ref = PT § 194c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n ⸗f ḫr ⸗č Wr.t
+# lit = “He came (certainly) to you, O Great One.”
+# trans = “It is to you, O Great One, that he has come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	4	appos	_	_
+
+# sent_id = UDE-624
+# ref = PT § 194c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n ⸗f ḫr ⸗č Wr.t-ḥkꜣ(.w)
+# lit = “He came (certainly) to you, O Great of Magic.”
+# trans = “It is to you, O Great of Magic, that he has come.”
+# type = Cleft sentence with adverbial focus
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5-6	Wr.t-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
+5	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	4	appos	_	_
+6	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+
