@@ -9245,3 +9245,27 @@
 4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
+# sent_id = UDE-618
+# ref = Pyramid Texts § 192c W, Saqqara, 5th Dynasty, rel, OE
+# text = si҆ ⸗k si҆ Wni҆ś pn
+# lit = "You go - this Unas goes."
+# trans = "(Both of them:) you go, and this Unas goes."
+# type = Balanced sentence
+1	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+
+# sent_id = UDE-619
+# ref = Pyramid Texts § 192c W, Saqqara, 5th Dynasty, rel, OE
+# text = si҆ Wni҆ś pn si҆ ⸗k
+# lit = "This Unas goes - you go."
+# trans = "(Both of them:) this Unas goes, and you go."
+# type = Balanced sentence
+1	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+
