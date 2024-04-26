@@ -9101,3 +9101,16 @@
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
 5	Ṭp	Ṭp	PROPN	_	_	4	nmod	_	_
 
+# sent_id = UDE-607
+# ref = Pyramid Texts § 188b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥ(.wi҆) ⸗k ḥꜣ i҆ḫ.t sꜣ.t ⸗k
+# lit = "Your hands are about the meal, your daughter."
+# trans = "Your hands are about the meal, your daughter."
+# type = Adverbial sentence
+1	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	ḥꜣ	ḥꜣ	ADP	Cons.st	_	4	case	_	_
+4	i҆ḫ.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	sꜣ.t	sꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
