@@ -9045,3 +9045,18 @@
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
 5	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	4	nmod	_	_
 
+# sent_id = UDE-603
+# ref = Pyramid Texts § 186a W, Saqqara, 5th Dynasty, rel, OE
+# text = tr ⸗k r p.t tr ⸗k r tꜣ
+# lit = "Your season is at the sky - your season is at the earth."
+# trans = "Your season is at the sky - your season is at the earth."
+# type = Adverbial sentence
+1	tr	tr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	tr	tr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+7	r	r	ADP	Cons.st	_	4	case	_	_
+8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	4	parataxis	_	_
+
