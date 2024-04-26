@@ -9060,3 +9060,32 @@
 7	r	r	ADP	Cons.st	_	8	case	_	_
 8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	4	parataxis	_	_
 
+# sent_id = UDE-604
+# ref = Pyramid Texts § 186b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wśr(.w) pšr ḥr ⸗k mꜣ ⸗k n Wni҆ś pn
+# lit = "Osiris, turn your face in order that you may look at this Unas."
+# trans = "O Osiris, turn your face that you may look at this Unas."
+# type = Verbal sentence
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	vocative	_	_
+2	pšr	pẖr	VERB	Imp	Mood=Imp	0	root	_	_
+3	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	n	n	ADP	Cons.st	Case=Acc	7	case	_	_
+8	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
+9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+
+# sent_id = UDE-605
+# ref = Pyramid Texts § 186c W, Saqqara, 5th Dynasty, rel, OE
+# text = mt(w).t ⸗k pr.t(i҆) i҆m ⸗k śpṭ.t(i҆)
+# lit = "Your seed came forth from you being effective."
+# trans = "Your effective seed came forth from you."
+# type = Adverbial sentence
+1	mt(w).t	mtw.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	pr.t(i҆)	pri̯	VERB	OSSC|Past	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+6	śpṭ.t(i҆)	śpṭ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
+
