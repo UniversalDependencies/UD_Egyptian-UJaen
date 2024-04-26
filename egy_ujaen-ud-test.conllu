@@ -9167,3 +9167,12 @@
 5	nʾ.t	nʾ.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 6	š(.w)	š	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-612
+# ref = Pyramid Texts § 192b W, Saqqara, 5th Dynasty, rel, OE
+# text = wnm.tn ⸗k i҆r.t
+# lit = "What you have eaten is the eye."
+# trans = "The eye is what you have eaten."
+# type = Nominal sentence (A = B)
+1	wnm.tn	wnm	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:outer	_	_
+3	i҆r.t	i҆r.t	NOUN	_	_	1	nsubj	_	_
