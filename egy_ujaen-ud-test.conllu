@@ -9207,3 +9207,16 @@
 10	i҆m	m	ADP	Pron.st	Case=Acc	11	case	_	_
 11	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 
+# sent_id = UDE-615
+# ref = Pyramid Texts § 193a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣.t ⸗k č̣.t n.t Wni҆ś pn
+# lit = "Your body is the body of this Unas."
+# trans = "Your body is the body of this Unas."
+# type = Nominal sentence (A = B)
+1	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
