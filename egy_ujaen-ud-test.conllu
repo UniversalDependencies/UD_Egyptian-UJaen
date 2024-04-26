@@ -8606,7 +8606,7 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 
 # sent_id = UDE-574
-# ref = Pyramid Texts § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b/177b/178b/180a/181b/182b/183b/184c/185b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b/177b/178b/180a/181b/182b/183b/184c/185b/187a W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥnḫ ⸗f ꜥnḫ Wni҆ś pn
 # lit = "He will live - Unas will live."
 # trans = "(Both of them:) He will live, and Unas will live."
@@ -8618,7 +8618,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-575
-# ref = PT § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b/177b/178b/180a/181b/182b/183b/184c/185b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167b/168b/169b/170b/171b/172b/173b/174b/175b/176b/177b/178b/180a/181b/182b/183b/184c/185b/187a W, Saqqara, 5th Dynasty, rel, OE
 # text = n m(w)t ⸗f n m(w)t Wni҆ś pn
 # lit = “He will not die - this Unas will not die.”
 # trans = “(Both of them:) He will not die, and this Unas will not die.”
@@ -8632,7 +8632,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-576
-# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c/177c/178c/180b/181c/182c/183c/184d/185c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c/177c/178c/180b/181c/182c/183c/184d/185c/187b W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗f n śk Wni҆ś pn
 # lit = “He will not perish - this Unas will not perish.”
 # trans = “(Both of them) He will not perish, and this Unas will not perish.”
@@ -8646,7 +8646,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-577
-# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c/177c/178c/180b/181c/182c/183c/184d/185c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 167c/168c/169c/170c/171c/172c/173c/174c/175c/176c/177c/178c/180b/181c/182c/183c/184d/185c/187b W, Saqqara, 5th Dynasty, rel, OE
 # text = n nhp ⸗f n nhp Wni҆ś pn
 # lit = “He will not escape (?) - this Unas will not escape (?).”
 # trans = “(Both of them) He will not escape (?), and this Unas will not escape (?).”
@@ -8660,7 +8660,7 @@
 7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 
 # sent_id = UDE-578
-# ref = Pyramid Texts § 167d/168d/169d/170d/171d/172d/173d/174d/175d/176d/177d/178d/180c/181c/182d/183d/184e/185d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 167d/168d/169d/170d/171d/172d/173d/174d/175d/176d/177d/178d/180c/181c/182d/183d/184e/185d/187c W, Saqqara, 5th Dynasty, rel, OE
 # text = nhp ⸗f nhp Wni҆ś pn
 # lit = "He will escape (?) - Unas will escape (?)."
 # trans = "(Both of them:) He will escape (?), and Unas will escape (?)."
@@ -9088,4 +9088,16 @@
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 6	śpṭ.t(i҆)	śpṭ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
+
+# sent_id = UDE-606
+# ref = Pyramid Texts § 188a W, Saqqara, 5th Dynasty, rel, OE
+# text = m rn ⸗k i҆m(.i҆) Ṭp
+# lit = "In your name of the one in Dep."
+# trans = "In your name of dweller in Dep."
+# type = Adverbial phrase
+1	m	m	ADP	Cons.st	_	2	case	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+5	Ṭp	Ṭp	PROPN	_	_	4	nmod	_	_
 
