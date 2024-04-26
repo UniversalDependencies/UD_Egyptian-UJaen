@@ -9361,3 +9361,19 @@
 4	ꜥb.w	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-627
+# ref = PT § 195b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp ⸗č ḥr mṭw ⸗f i҆č̣ṭ ⸗f n ⸗č
+# lit = “May you be pleased with his speech which he says to you.”
+# trans = “May you be pleased with his speech which he says to you.”
+# type = Verbal sentence
+1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Pron.st	_	4	case	_	_
+4	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	i҆č̣ṭ	č̣ṭ	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Pron.st	Case=Dat	9	case	_	_
+9	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+
