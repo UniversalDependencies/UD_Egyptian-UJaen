@@ -8958,7 +8958,7 @@
 # trans = "In your name of Dweller in Heliopolis, he shall endure in his necropolis."
 # type = Verbal sentence
 1	m	m	ADP	Cons.st	_	2	case	_	_
-2	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	6	obl	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
 5	I҆wn.w	I҆wn.w	PROPN	_	_	4	nmod	_	_
@@ -8975,7 +8975,7 @@
 # trans = "In your name of the one who is in Anedjet, chief of his nomes."
 # type = Adverbial phrase
 1	m	m	ADP	Cons.st	_	2	case	_	_
-2	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
 5	Ꜥnč̣.t	Ꜥnč̣.t	PROPN	_	_	4	nmod	_	_
@@ -8992,11 +8992,30 @@
 # trans = "In your name of the one who is in the Enclosure of Selqet, the ka is content."
 # type = Verbal sentence
 1	m	m	ADP	Cons.st	_	2	case	_	_
-2	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	obl	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
 5	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 6	Śrḳ.t	Śrḳ.t	PROPN	_	Gender=Fem	5	nmod	_	_
 7	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 8	ḥtp(.w)	ḥtp	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+
+# sent_id = UDE-600
+# ref = Pyramid Texts § 184a W, Saqqara, 5th Dynasty, rel, OE
+# text = m rn ⸗k i҆m(.i҆) sḥ-nčr i҆m(.i҆) kꜣp ṭbn(.i҆) čs.{t}ti҆ i҆nḳ.ti҆
+# lit = "In your name of the one who is in the god's booth, who is in the censing, who is in the coffer, who is in the chest, who is in the sack."
+# trans = "In your name of the dweller in the god's booth, who is in the censing, who is in the coffer, in the chest and in the sack."
+# type = Adverbial phrase
+1	m	m	ADP	Cons.st	_	2	case	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nmod	_	_
+5-6	sḥ-nčr	_	_	_	_	_	_	_	_
+5	sḥ	sḥ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	_
+7	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	conj	_	_
+8	kꜣp	kꜣp	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+9	ṭbn(.i҆)	ṭbn	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	conj	_	_
+10	čs.{t}ti҆	čs.t	ADJ	NisbaNoun	Gender=Fem|Number=Sing	4	conj	_	_
+11	i҆nḳ.ti҆	i҆nḳ.t	ADJ	NisbaNoun	Gender=Fem|Number=Sing	4	conj	_	_
 
