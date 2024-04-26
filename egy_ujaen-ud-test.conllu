@@ -9175,4 +9175,17 @@
 # type = Nominal sentence (A = B)
 1	wnm.tn	wnm	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:outer	_	_
-3	i҆r.t	i҆r.t	NOUN	_	_	1	nsubj	_	_
+3	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-613
+# ref = Pyramid Texts § 192b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆šn ẖ.t ⸗k ẖr ⸗ś
+# lit = "Your belly is rounded out with it."
+# trans = "It is with it that your belly is rounded out."
+# type = Verbal sentence
+1	i҆šn	i҆šn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	ẖr	ẖr	ADP	Pron.st	_	5	case	_	_
+5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Emp	1	obl	_	_
+
