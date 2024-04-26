@@ -9220,3 +9220,28 @@
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
+# sent_id = UDE-616
+# ref = Pyramid Texts § 193a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(w)f ⸗k i҆(w)f n(.i҆) Wni҆ś pn
+# lit = "Your body is the body of this Unas."
+# trans = "Your flesh is the flesh of this Unas."
+# type = Nominal sentence (A = B)
+1	i҆(w)f	i҆(w)f	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	i҆(w)f	i҆(w)f	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
+# sent_id = UDE-617
+# ref = Pyramid Texts § 193a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḳś(.w) ⸗k ḳś(.w) Wni҆ś pn
+# lit = "Your bones are the bones of this Unas."
+# trans = "Your bones are the bones of this Unas."
+# type = Nominal sentence (A = B)
+1	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	ḳś(.w)	ḳś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	0	root	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+
