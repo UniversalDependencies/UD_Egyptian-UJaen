@@ -9345,7 +9345,7 @@
 # trans = “May you be pleased with him.”
 # type = Verbal sentence
 1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥr	ḥr	ADP	Pron.st	_	4	case	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
@@ -9356,7 +9356,7 @@
 # trans = “May you be pleased with his purity.”
 # type = Verbal sentence
 1	ḥtp	ḥtp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗č	č	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥr	ḥr	ADP	Pron.st	_	4	case	_	_
 4	ꜥb.w	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
@@ -9376,4 +9376,23 @@
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 8	n	n	ADP	Pron.st	Case=Dat	9	case	_	_
 9	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+
+# sent_id = UDE-628
+# ref = Pyramid Texts § 195c W, Saqqara, 5th Dynasty, rel, OE
+# text = nfr w(i҆) ḥr ⸗č ḥtp.t(i҆) mꜣ(w).ti҆ rnpw.ti҆ mś.n čm nčr i҆t nčr(.w)
+# lit = "How goodly is your face, you are content, renewed and rejuvenated after the god, the father of the gods, fashiouned you."
+# trans = "How kindly is your face, you are content, renewed and rejuvenated for the father of the gods fashiouned you."
+# type = Adjectival sentence + adverbial sentence
+1	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	_
+3	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	ḥtp.t(i҆)	ḥtp	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
+6	mꜣ(w).ti҆	mꜣwi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	5	conj	_	_
+7	rnpw.ti҆	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	5	conj	_	_
+8	mś.n	mśi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+9	čm	čm	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+10	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
+12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
