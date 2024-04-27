@@ -9420,3 +9420,29 @@
 14	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	7	dislocated	_	_
 15	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
 
+# sent_id = UDE-630
+# ref = Pyramid Texts § 196a-197a W, Saqqara, 5th Dynasty, rel, OE
+# text = hi҆ N.t hi҆ I҆n hi҆ Wr.t hi҆ Wr.t-ḥkꜣ(.w) hi҆ Nsr.t č̣ ⸗č šꜥ.t Wni҆ś mr šꜥ.t ⸗č
+# lit = "Ho Red Crown, Ho In-crown, Ho Great Crown, Ho Great of Magic, Ho Nesret! May you give the dread of Unas like the dread of you."
+# trans = "Ho Red Crown, Ho In-crown, Ho Great Crown, Ho Great of Magic, Ho Nesret! May you make Unas's dread like your dread."
+# type = Verbal sentence
+1	hi҆	hi҆	INTJ	_	_	2	discourse	_	_
+2	N.t	N.t	PROPN	_	Gender=Fem	12	dislocated	_	_
+3	hi҆	hi҆	INTJ	_	_	4	discourse	_	_
+4	I҆n	I҆n	PROPN	_	_	2	conj	_	_
+5	hi҆	hi҆	INTJ	_	_	6	discourse	_	_
+6	Wr.t	Wr.t	PROPN	_	Gender=Fem	2	conj	_	_
+7	hi҆	hi҆	INTJ	_	_	8	discourse	_	_
+8-9	Wr.t-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
+8	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	2	conj	_	_
+9	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+10	hi҆	hi҆	INTJ	_	_	6	discourse	_	_
+11	Nsr.t	Nsr.t	PROPN	_	Gender=Fem	2	conj	_	_
+12	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+13	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+14	šꜥ.t	šꜥ.t	NOUN	LVC	Definite=Cons|Gender=Fem|Number=Sing	11	obj	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Case=Ge|nGender=Masc	14	nmod	_	_
+16	mr	mr	ADP	Cons.st	Case=Equ	17	case	_	_
+17	šꜥ.t	šꜥ.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+18	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
+
