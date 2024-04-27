@@ -9476,3 +9476,18 @@
 7	ki҆.t	ki҆.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-633
+# ref = Pyramid Texts § 197d W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗č mrw.t Wni҆ś pn mr mrw.t ⸗č
+# lit = "May you give the love of this Unas like the love of you."
+# trans = "May you make this Unas's love like your love."
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	mrw.t	mrw.t	NOUN	LVC	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	mr	mr	ADP	Cons.st	Case=Equ	7	case	_	_
+7	mrw.t	mrw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+
