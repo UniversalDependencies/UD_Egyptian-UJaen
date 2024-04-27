@@ -9397,7 +9397,7 @@
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
 # sent_id = UDE-629
-# ref = PT § 1995d W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 1995d W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-639
 # text = i҆w.n ⸗f ḫr ⸗č Wr.t-ḥkꜣ(.w) Ḥr.w pw šn(.w) m sꜣ i҆r.t ⸗f Wr.t-ḥkꜣ(.w)
 # lit = “He came (certainly) to you, O Great of Magic, Horus (is) this, being encircled with the protection of his Eye, O Great of Magic.”
 # trans = “It is to you, O Great of Magic, that he has come, for he is Horus encircled with the protection of his Eye, O Great of Magic  .”
@@ -9561,4 +9561,26 @@
 4	śškr.n	śẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
 5	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 6	I҆ḫ.t-wt.t	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	4	nsubj	_	_
+
+# sent_id = UDE-639
+# ref = PT § 198c-d W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-629, Allen 2017: 92 (§ 10.6). 
+# text = mś.n čw I҆ḫ.t[-wt.t] [śškr.n] [čw] I҆ḫ.t-wr.t n čwt i҆ś Ḥr.w šn(.w) m sꜣ i҆r.t ⸗f
+# lit = “Ikhet[-wetet] has borne you - Ikhet-weret [has adorned you], for you are Horus being encircled with the protection of his Eye.”
+# trans = “(Both of them:) Ikhet[-wetet] has borne you, and Ikhet-weret [has adorned you], for you are Horus encircled with the protection of his Eye.”
+# type = Balanced sentence
+1	mś.n	mśi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	I҆ḫ.t[-wt.t]	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	1	nsubj	_	_
+4	[śškr.n]	śẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
+5	[čw]	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+6	I҆ḫ.t-wr.t	I҆ḫ.t-wr.t	PROPN	_	Gender=Fem	4	nsubj	_	_
+7	n	n	ADP	Cons.st	Case=Cau	10	mark	_	_
+8	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+9	i҆ś	i҆ś	PART	Neg	PartType=Emp	8	advmod	_	_
+10	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	advcl	_	_
+11	šn(.w)	šni̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	10	advcl	_	_
+12	m	m	ADP	Cons.st	Case=Ins	12	case	_	_
+13	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	11	obl	_	_
+14	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 
