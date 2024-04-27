@@ -9533,7 +9533,7 @@
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-637
-# ref = PT § 198a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 198a N, Saqqara, 6th Dynasty, rel, OE
 # text = hi҆ I҆n pr.n ⸗č i҆m ⸗f pr.n ⸗f i҆m ⸗č
 # lit = “Ho In-crown, you went from him - he went from you.”
 # trans = “Ho In-crown, (both of them:) you went from him, he went from you.”
@@ -9548,4 +9548,17 @@
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	i҆m	m	ADP	Pron.st	Case=Ela	10	case	_	_
 10	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-638
+# ref = PT § 198b N, Saqqara, 6th Dynasty, rel, OE
+# text = mś.n čw I҆ḫ.t-wr.t śškr.n čw I҆ḫ.t-wt.t
+# lit = “Ikhet-weret has borne you - Ikhet-wetet has adorned you.”
+# trans = “(Both of them:) Ikhet-weret has borne you, and Ikhet-wetet has adorned you.”
+# type = Balanced sentence
+1	mś.n	mśi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	I҆ḫ.t-wr.t	I҆ḫ.t-wr.t	PROPN	_	Gender=Fem	1	nsubj	_	_
+4	śškr.n	śẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
+5	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+6	I҆ḫ.t-wt.t	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	4	nsubj	_	_
 
