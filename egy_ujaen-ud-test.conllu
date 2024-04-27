@@ -9699,7 +9699,7 @@
 # ref = PT § 200b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w.n ⸗f ḫr ⸗k i҆t ⸗f i҆w.n ⸗f ḫr ⸗k Nṭi҆
 # lit = “He has come to you, his father - He has come to you, Nedi.”
-# trans = “(Both of them:) He has come to you, his father, and he has come to you, Re.”
+# trans = “(Both of them:) He has come to you, his father, and he has come to you, Nedi.”
 # type = Balanced sentence
 1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -9712,4 +9712,22 @@
 9	ḫr	ḫr	ADP	Pron.st	_	10	case	_	_
 10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 11	Nṭi҆	Nṭi҆	PROPN	_	Gender=Masc	10	appos	_	_
+
+# sent_id = UDE-646
+# ref = PT § 200c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n [⸗f] [ḫr] [⸗k] [i҆]t ⸗f i҆w.n ⸗f ḫr ⸗k Pnṭn
+# lit = “He has come to you, his father - He has come to you, Penden.”
+# trans = “(Both of them:) He has come to you, his father, and he has come to you, Penden.”
+# type = Balanced sentence
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	[ḫr]	ḫr	ADP	Pron.st	_	4	case	_	_
+4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	[i҆]t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	ḫr	ḫr	ADP	Pron.st	_	10	case	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+11	Pnṭn	Pnṭn	PROPN	_	Gender=Masc	10	appos	_	_
 
