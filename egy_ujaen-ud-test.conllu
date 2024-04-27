@@ -9641,3 +9641,18 @@
 3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
 4	Ḫprr	Ḫprr	PROPN	_	Gender=Masc	2	obl	_	_
 
+# sent_id = UDE-643
+# ref = PT § 199b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫpr⸗k ḥr ⸗f ḳꜣ ⸗k ḥr ⸗f
+# lit = “You will come into being on it - you will become high on it.”
+# trans = “(Both of them:) You will come into being on it, and you will become high on it.”
+# type = Balanced sentence
+1	ḫpr	ḫpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Pron.st	Case=Sup	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+5	ḳꜣ	ḳꜣi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	ḥr	ḥr	ADP	Pron.st	Case=Sup	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
