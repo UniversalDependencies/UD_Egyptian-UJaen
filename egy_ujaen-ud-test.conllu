@@ -9513,7 +9513,21 @@
 1	[č̣]	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	[⸗č]	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	[śḫm]	śḫm	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
-4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	_
 6	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+
+# sent_id = UDE-636
+# ref = Pyramid Texts § 197f W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗č rwč̣ ṭś ⸗f r ḫft.(i҆)w ⸗f
+# lit = "You shall cause his knife to be firm against his foes."
+# trans = "You shall make his knife firm against his foes."
+# type = Cleft sentence with adverbial focus
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	rwč̣	rwč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	ṭś	ṭś	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	r	r	ADP	Cons.st	_	7	case	_	_
+7	ḫft.(i҆)w	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Plur	3	obl	_	_
 
