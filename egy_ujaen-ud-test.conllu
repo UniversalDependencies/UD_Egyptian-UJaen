@@ -9396,3 +9396,27 @@
 11	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
+# sent_id = UDE-629
+# ref = PT § 1995d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w.n ⸗f ḫr ⸗č Wr.t-ḥkꜣ(.w) Ḥr.w pw šn(.w) m sꜣ i҆r.t ⸗f Wr.t-ḥkꜣ(.w)
+# lit = “He came (certainly) to you, O Great of Magic, Horus (is) this, being encircled with the protection of his Eye, O Great of Magic.”
+# trans = “It is to you, O Great of Magic, that he has come, for he is Horus encircled with the protection of his Eye, O Great of Magic  .”
+# type = Cleft sentence with adverbial focus + Nominal sentence (A pw)
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5-6	Wr.t-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
+5	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	4	appos	_	_
+6	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	parataxis	_	_
+8	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+9	šn(.w)	šni̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	_
+10	m	m	ADP	Cons.st	Case=Ins	11	case	_	_
+11	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	9	obl	_	_
+12	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+14-15	Wr.t-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
+14	Wr.t	Wr.t	PROPN	_	Gender=Fem|Number=Sing	7	dislocated	_	_
+15	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+
