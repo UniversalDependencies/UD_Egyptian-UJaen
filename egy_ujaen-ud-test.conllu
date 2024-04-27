@@ -9532,3 +9532,20 @@
 7	ḫft.(i҆)w	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Plur	3	obl	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-637
+# ref = PT § 198a W, Saqqara, 5th Dynasty, rel, OE
+# text = hi҆ I҆n pr.n ⸗č i҆m ⸗f pr.n ⸗f i҆m ⸗č
+# lit = “Ho In-crown, you went from him - he went from you.”
+# trans = “Ho In-crown, (both of them:) you went from him, he went from you.”
+# type = Balanced sentence
+1	hi҆	hi҆	INTJ	_	_	4	discourse	_	_
+2	I҆n	I҆n	PROPN	_	Gender=Fem	2	conj	_	_
+3	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+5	i҆m	m	ADP	Pron.st	Case=Ela	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+7	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	i҆m	m	ADP	Pron.st	Case=Ela	10	case	_	_
+10	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+
