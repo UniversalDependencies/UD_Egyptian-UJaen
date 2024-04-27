@@ -9643,10 +9643,10 @@
 
 # sent_id = UDE-643
 # ref = PT § 199b W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫpr ⸗k ḥr ⸗f ḳꜣ ⸗k ḥr ⸗f
-# lit = “You will come into being on it - you will become high on it.”
-# trans = “(Both of them:) You will come into being on it, and you will become high on it.”
-# type = Balanced sentence
+# text = ḫpr ⸗k ḥr ⸗f ḳꜣ ⸗k ḥr ⸗f mꜣ čw i҆t ⸗k mꜣ čw [Rꜥw]
+# lit = “You will come into being on it - you will become high on it, so that your father may see you, so that [Re] may see you.”
+# trans = “(Both of them:) You will come into being on it, and you will become high on it, so that your father may see you, so that [Re] may see you.”
+# type = Balanced sentence + Final clause
 1	ḫpr	ḫpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥr	ḥr	ADP	Pron.st	Case=Sup	4	case	_	_
@@ -9655,4 +9655,11 @@
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 7	ḥr	ḥr	ADP	Pron.st	Case=Sup	8	case	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+9	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	5	advcl	_	_
+10	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+11	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	9	nsubj	_	_
+12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	9	conj	_	_
+14	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	_
+15	[Rꜥw]	Rꜥw	PROPN	_	Gender=Masc	13	nsubj	_	_
 
