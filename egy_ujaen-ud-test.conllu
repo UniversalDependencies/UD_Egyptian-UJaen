@@ -9843,3 +9843,35 @@
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 
+# sent_id = UDE-652a
+# ref = Pyramid Texts § 202a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗k nč̣r Wni҆ś pn ḳbḥ(.w) šsp ⸗f ꜣḫ.t
+# lit = “You shall cause in order that this Unas may seize the Watery region (of the sky) and in order that he may take possession of the horizon.”
+# trans = “You shall cause that this Unas may seize the Watery region and take possession of the horizon.”
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	nč̣r	nč̣ri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	ḳbḥ(.w)	ḳbḥ.w	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+7	šsp	šsp	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+
+# sent_id = UDE-653
+# ref = Pyramid Texts § 202b W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗k i҆ꜣḳ Wni҆ś pn pśč̣.t ḥtm ⸗f pśč̣.t
+# lit = “You shall cause in order that this Unas may rule the Nine providing for the Ennead.”
+# trans = “You shall cause that this Unas may may rule the Nine and provide for the Ennead.”
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆ꜣḳ	i҆ꜣḳ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+7	ḥtm	ḥtm	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	obj	_	_
+
