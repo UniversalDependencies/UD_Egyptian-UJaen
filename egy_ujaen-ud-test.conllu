@@ -9444,7 +9444,7 @@
 15	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	14	nmod	_	_
 16	mr	mr	ADP	Cons.st	Case=Equ	17	case	_	_
 17	šꜥ.t	šꜥ.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
-18	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
+18	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
 
 # sent_id = UDE-631
 # ref = Pyramid Texts § 197b W, Saqqara, 5th Dynasty, rel, OE
@@ -9459,7 +9459,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	mr	mr	ADP	Cons.st	Case=Equ	7	case	_	_
 7	śnč̣	śnč̣	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+8	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-632
 # ref = Pyramid Texts § 197c W, Saqqara, 5th Dynasty, rel, OE
@@ -9474,7 +9474,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	mr	mr	ADP	Cons.st	Case=Equ	7	case	_	_
 7	ki҆.t	ki҆.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+8	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-633
 # ref = Pyramid Texts § 197d W, Saqqara, 5th Dynasty, rel, OE
@@ -9489,5 +9489,18 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	mr	mr	ADP	Cons.st	Case=Equ	7	case	_	_
 7	mrw.t	mrw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+8	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-634
+# ref = Pyramid Texts § 197d W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗č ꜥbꜣ ⸗f ḫnt(.i҆) ꜥnḫ.w
+# lit = "May you give his baton which presides over the living."
+# trans = "May you give his baton which presides over the living."
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ꜥbꜣ	ꜥbꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+5	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	_
+6	ꜥnḫ.w	ꜥnḫ	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
 
