@@ -9446,3 +9446,18 @@
 17	šꜥ.t	šꜥ.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
 18	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
 
+# sent_id = UDE-631
+# ref = Pyramid Texts § 197b W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗č śnč̣ Wni҆ś pn mr śnč̣ ⸗č
+# lit = "May you give the fear of this Unas like the fear of you."
+# trans = "May you make Unas's fear like your fear."
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	śnč̣	śnč̣	NOUN	LVC	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	mr	mr	ADP	Cons.st	Case=Equ	7	case	_	_
+7	śnč̣	śnč̣	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+
