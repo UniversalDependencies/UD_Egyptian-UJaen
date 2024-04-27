@@ -9584,3 +9584,60 @@
 14	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
 15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 
+# sent_id = UDE-640
+# ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ ⸗k ḥr ⸗f
+# lit = “You shall stand up on it.”
+# trans = “You shall stand up on it.”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	Case=Sup	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-641
+# ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
+# text = tꜣ pn [pr(.w)] [m] [(I҆)tm(.w)]
+# lit = “This land [came from Atum].”
+# trans = “This land [came from Atum].”
+# type = Verbal sentence
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	[pr(.w)]	pri̯	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+4	[m]	m	ADP	Cons.st	Case=Ela	5	case	_	_
+5	[(I҆)tm(.w)]	I҆tm.w	PROPN	_	Gender=Masc	3	obl	_	_
+
+# sent_id = UDE-641a
+# ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
+# text = tꜣ pn [pr(.w)] [m] [(I҆)tm(.w)]
+# lit = “This land [that came from Atum].”
+# trans = “This land [that came from Atum].”
+# type = Adjectival phrase with a participle
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	[pr]	pr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+4	[m]	m	ADP	Cons.st	Case=Ela	5	case	_	_
+5	[(I҆)tm(.w)]	I҆tm.w	PROPN	_	Gender=Masc	3	obl	_	_
+
+# sent_id = UDE-642
+# ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
+# text = [nšš] pr(.w) m Ḫprr
+# lit = “[The spittle] came from Kheprer.”
+# trans = “[The spittle] came from Kheprer.”
+# type = Verbal sentence
+1	[nšš]	nšš	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	pr(.w)	pri̯	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
+4	Ḫprr	Ḫprr	PROPN	_	Gender=Masc	2	obl	_	_
+
+# sent_id = UDE-642a
+# ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
+# text = [nšš] pr(.w) m Ḫprr
+# lit = “[The spittle] came from Kheprer.”
+# trans = “[The spittle] came from Kheprer.”
+# type = Adjectival phrase with a participle
+1	[nšš]	nšš	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	[pr]	pr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
+4	Ḫprr	Ḫprr	PROPN	_	Gender=Masc	2	obl	_	_
+
