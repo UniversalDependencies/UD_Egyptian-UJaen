@@ -10035,3 +10035,19 @@
 11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 12	i҆śč	i҆śč	CCONJ	_	_	10	cc	_	_
 
+# sent_id = UDE-661
+# ref = PT § 205a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = nšnš.n i҆wr.t i҆śpš.n ⸗k grḥ ḥtm.ti҆ m Śtẖ [šbšb]
+# lit = “After the pregnant one ejected, you illumined the night (certainly) being provided as Seth [who broke forth].”
+# trans = “After the pregnant one ejected, it is privded as Seth [who broke forth] that you illumined the night.”
+# type = Cleft sentence with adverbial focus after a verbal topic
+1	nšnš.n	nš	VERB	SFC|Past-2|Abstrel|VerbTop	Tense=Past|VerbForm=Fin|Voice=Act	3	dislocated	_	_
+2	i҆wr.t	i҆wr	NOUN	VerbForm=Part	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	i҆śpš.n	śpš	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	ḥtm.ti҆	ḥtm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=2|VerbForm=Conv	3	advcl	_	_
+7	m	m	ADP	Cons.st	Case=Equ	8	case	_	_
+8	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	6	obl	_	_
+9	[šbšb]	šbšb	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	amod	_	_
+
