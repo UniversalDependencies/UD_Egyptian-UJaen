@@ -10039,3 +10039,17 @@
 4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
 5	Ḥr.w-ḥwn.ti҆	Ḥr.w-ḥwn.ti҆	PROPN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-663
+# ref = Pyramid Texts § 206b W, Saqqara, 5th Dynasty, rel, OE
+# text = n ḥm fḫ-ti҆ n ⸗k
+# lit = "No one indeed got rid of you."
+# trans = "No one indeed got rid of you."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
+2	ḥm	ḥm	PART	Neg	PartType=Emp	3	advmod	_	_
+3-4	fḫ-ti҆	_	_	_	_	_	_	_	_
+3	fḫ	fḫ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+
