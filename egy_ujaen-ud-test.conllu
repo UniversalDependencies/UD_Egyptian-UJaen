@@ -9886,8 +9886,27 @@
 3	i҆ꜣḳ	i҆ꜣḳ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nsubj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-6	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	pśč̣.t	pśč̣.t	NUM	NOUN	Gender=Fem|Number=Sing	3	obj	_	_
 7	ḥtm	ḥtm	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	obj	_	_
+
+# sent_id = UDE-654
+# ref = Pyramid Texts § 202c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ ⸗k ꜥw.t m ꜥ Wni҆ś pn wꜣḥ.t ṭp Mḥ(.w) ḥnꜥ Šmꜥ(.w)
+# lit = “You shall give in this Unas's arm the crook that bends the head of Lower together with Upper Egypt.”
+# trans = “You shall give in this Unas's arm the crook that bends the head of Lower and Upper Egypt.”
+# type = Verbal sentence
+1	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ꜥw.t	ꜥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nmod	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	wꜣḥ.t	wꜣḥ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
+9	ṭp	ṭp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	obj	_	_
+10	Mḥ(.w)	Mḥ.w	PROPN	_	Case=Gen|Gender=Masc	10	nmod	_	_
+11	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	12	case	_	_
+12	Šmꜥ(.w)	Šmꜥ.w	PROPN	_	Case=Gen|Gender=Masc	10	conj	_	_
 
