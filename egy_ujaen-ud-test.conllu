@@ -10067,3 +10067,22 @@
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
 
+# sent_id = UDE-665
+# ref = Pyramid Texts § 206c W, Saqqara, 5th Dynasty, rel, OE
+# text = m čw i҆r ⸗k bꜣ.ti҆ śḫm.ti҆ r nčr(.w) mḥ.t(i҆)w ꜣḫ(.w) ⸗śn i҆śč
+# lit = "Look yourself, you are more powerful and more in control than the northern gods and their spirits."
+# trans = "Look, you are more powerful and more in control than the northern gods and their spirits."
+# type = Verbal sentence
+1	m	m	PART	_	_	2	discourse	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	5	dislocated	_	_
+3	i҆r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+6	śḫm.ti҆	śḫm	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	5	conj	_	_
+7	r	r	ADP	Cons.st	Case=Cmp	8	case	_	_
+8	nčr(.w)	nčr	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	6	obl	_	_
+9	mḥ.t(i҆)w	mḥ.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	8	amod	_	_
+10	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	8	conj	_	_
+11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+12	i҆śč	i҆śč	CCONJ	_	_	10	cc	_	_
+
