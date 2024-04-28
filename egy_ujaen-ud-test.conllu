@@ -9910,3 +9910,23 @@
 11	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	12	case	_	_
 12	Šmꜥ(.w)	Šmꜥ.w	PROPN	_	Case=Gen|Gender=Masc	10	conj	_	_
 
+# sent_id = UDE-655
+# ref = PT § 203a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ ⸗f ḫśf ⸗f ꜥḥꜥ ⸗f ḥr(.i҆)-ṭp wr.w m wr.w ⸗f
+# lit = “He will descend - he will draw near, so that he will stand, the great headman is in his great waters.”
+# trans = “(Both of them:) He will descend, and he will draw near, so that he will stand, and the chief will be in his great waters.”
+# type = Balanced sentence + Final clause
+1	hꜣ	hꜣi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḫśf	ḫśf	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7-8	ḥr(.i҆)-ṭp	_	_	_	_	_	_	_	_
+7	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	11	nsubj	_	_
+8	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
+9	wr.w	wr.w	NOUN	_	Gender=Masc|Number=Sing	7	amod	_	_
+10	m	m	ADP	Cons.st	Case=Loc	11	case	_	_
+11	wr.w	wr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+
