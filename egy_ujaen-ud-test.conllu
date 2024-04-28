@@ -10086,3 +10086,17 @@
 11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 12	i҆śč	i҆śč	CCONJ	_	_	10	cc	_	_
 
+# sent_id = UDE-666
+# ref = Pyramid Texts § 207a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆fḫ ⸗k ꜥb(.w) ⸗k n (I҆)tm(.w) m [I҆wn.w]
+# lit = “You shall release your cleanse to Atum in [Heliopolis].”
+# trans = “You shall release your cleanse to Atum in [Heliopolis].”
+# type = Verbal sentence
+1	i҆fḫ	fḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ꜥb(.w)	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	(I҆)tm(.w)	I҆tm.w	NOUN	_	Gender=Masc|Number=Sing	1	iobj	_	_
+6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+7	[I҆wn.w]	I҆wn.w	PROPN	_	_	1	obl	_	_
+
