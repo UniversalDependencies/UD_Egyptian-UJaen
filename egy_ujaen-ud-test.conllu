@@ -9964,3 +9964,29 @@
 12	tꜣ	tꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
 13	Šmꜥ(.w)	Šmꜥ(.w)	PROPN	_	_	12	nmod	_	_
 
+# sent_id = UDE-658
+# ref = Pyramid Texts § 204b W, Saqqara, 5th Dynasty, rel, OE
+# text = n fḫ-ti҆ n ⸗k
+# lit = "No one will get rid of you."
+# trans = "No one will get rid of you."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2-3	fḫ-ti҆	_	_	_	_	_	_	_	_
+2	fḫ	fḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+
+# sent_id = UDE-658a
+# ref = Pyramid Texts § 204b W, Saqqara, 5th Dynasty, rel, OE
+# text = n fḫ-ti҆ n ⸗k
+# lit = "No one got rid of you."
+# trans = "No one got rid of you."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2-3	fḫ-ti҆	_	_	_	_	_	_	_	_
+2	fḫ	fḫ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
+
