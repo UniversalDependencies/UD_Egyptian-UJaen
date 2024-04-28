@@ -10101,5 +10101,15 @@
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	[I҆wn.w]	I҆wn.w	PROPN	_	_	1	obl	_	_
 
+# sent_id = UDE-667
+# ref = Pyramid Texts § 207a W, Saqqara, 5th Dynasty, rel, OE
+# text = [hꜣ] [⸗k] ḥnꜥ ⸗f
+# lit = “[You shall descende] with him.”
+# trans = “[You shall descende] with him.”
+# type = Verbal sentence
+1	[hꜣ]	hꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	[⸗k]	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
 
