@@ -9930,3 +9930,16 @@
 11	wr.w	wr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 
+# sent_id = UDE-656
+# ref = Pyramid Texts § 203b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥs.n św Ḥw.t-nb.t šṭ.n ⸗f ḫśf
+# lit = "Nephthys favoured him (certainly) when he captured the one who drew near."
+# trans = "It was when he captured the one who drew near that Nephthys favoured him."
+# type = Cleft sentence with adverbial focus
+1	ḥs.n	ḥsi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	1	nsubj	_	_
+4	šṭ.n	šṭi̯	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	ḫśf	ḫśf	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	4	obj	_	_
+
