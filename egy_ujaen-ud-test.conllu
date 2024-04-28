@@ -9944,25 +9944,24 @@
 6	ḫśf	ḫśf	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	4	obj	_	_
 
 # sent_id = UDE-657
-# ref = Pyramid Texts § 204a W, Saqqara, 5th Dynasty, rel, OE
-# text = ḥtm.ti҆ n ⸗k čw m wr-ḥkꜣ(.w) Śtẖ i҆m(.i҆) Nbw.t nb tꜣ Šmꜥ(.w)
-# lit = "May you provide yourself and for you as Great of Magic, Seth, who is in Ombos, lord of Upper Egypt."
-# trans = "May you provide yourself as Great of Magic, Seth, the dweller in Ombos, lord of Upper Egypt."
-# type = Verbal sentence
-1	ḥtm.ti҆	ḥtm	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
-2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
-3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
-4	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
-5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
-6-7	wr-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
-6	wr	wr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-7	ḥkꜣ(.w)	ḥkꜣ(.w)	NOUN	_	Gender=Masc|Number=Plur	6	fixed	_	_
-8	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	6	appos	_	_
-9	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	8	amod	_	_
-10	Nbw.t	Nbw.t	PROPN	_	Gender=Fem	8	nmod	_	_
-11	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	appos	_	_
-12	tꜣ	tꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
-13	Šmꜥ(.w)	Šmꜥ(.w)	PROPN	_	_	12	nmod	_	_
+# ref = Pyramid Texts § 204a W, Saqqara, 5th Dynasty, rel, OE, UDE-662 below
+# text = ḥtmi҆.n ⸗k čw m wr-ḥkꜣ(.w) Śtẖ i҆m(.i҆) Nbw.t nb tꜣ Šmꜥ(.w)
+# lit = "You have provided yourself (certainly) as Great of Magic, Seth, who is in Ombos, lord of Upper Egypt."
+# trans = "It is as Great of Magic, Seth, the dweller in Ombos, lord of Upper Egypt that you have provided yourself."
+# type = Cleft sentence with adverbial focus
+1	ḥtmi҆.n	ḥtm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
+5-6	wr-ḥkꜣ(.w)	_	_	_	_	_	_	_	_
+5	wr	wr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	ḥkꜣ(.w)	ḥkꜣ(.w)	NOUN	_	Gender=Masc|Number=Plur	5	fixed	_	_
+7	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	appos	_	_
+8	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	7	amod	_	_
+9	Nbw.t	Nbw.t	PROPN	_	Gender=Fem	7	nmod	_	_
+10	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	7	appos	_	_
+11	tꜣ	tꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+12	Šmꜥ(.w)	Šmꜥ(.w)	PROPN	_	_	11	nmod	_	_
 
 # sent_id = UDE-658
 # ref = Pyramid Texts § 204b W, Saqqara, 5th Dynasty, rel, OE
