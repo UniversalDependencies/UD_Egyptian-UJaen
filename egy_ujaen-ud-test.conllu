@@ -10256,7 +10256,7 @@
 7	Šw	Šw	PROPN	_	Case=Gen|Gender=Masc	6	appos	_	_
 
 # sent_id = UDE-679
-# ref = PT § 209a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 209a/210a W, Saqqara, 5th Dynasty, rel, OE
 # text = pr ⸗k hꜣ(.w) ⸗k
 # lit = “You will go up - you will go down.”
 # trans = “(Both of them:) You will go up, and you will go down.”
@@ -10281,7 +10281,7 @@
 # ref = Pyramid Texts § 209a W, Saqqara, 5th Dynasty, rel, OE
 # text = śnk.w <⸗k> ḥnꜥ Nṭi҆
 # lit = "<You> will sink into darkness (certainly) together with Nedi."
-# trans = "It is with Nedi that you will sink into darkness."
+# trans = "It is with Nedi that <you> will sink into darkness."
 # type = Cleft sentence with adverbial focus
 1	śnk.w	śnk	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	<⸗k>	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
@@ -10289,7 +10289,7 @@
 4	Nṭi҆	Nṭi҆	NOUN	_	Gender=Masc	1	obl	_	_
 
 # sent_id = UDE-682
-# ref = PT § 209b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 209b/210b W, Saqqara, 5th Dynasty, rel, OE
 # text = pr ⸗k hꜣ.w ⸗k
 # lit = “You will go up - you will go down.”
 # trans = “(Both of them:) You will go up, and you will go down.”
@@ -10322,4 +10322,37 @@
 4-5	Sḫn-wr	_	_	_	_	_	_	_	_
 4	Sḫn	Sḫn	PROPN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	wr	wr	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+
+# sent_id = UDE-685
+# ref = Pyramid Texts § 210a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ.w ⸗k ḥnꜥ Rꜥw
+# lit = "You will go down (certainly) together with Re."
+# trans = "It is with Re that you will go down."
+# type = Cleft sentence with adverbial focus
+1	hꜣ.w	hꜣi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	1	obl	_	_
+
+# sent_id = UDE-686
+# ref = Pyramid Texts § 210a W, Saqqara, 5th Dynasty, rel, OE
+# text = śnk.w <⸗k> ḥnꜥ mśk.tt
+# lit = "<You> will sink into darkness (certainly) together with the Night-bark."
+# trans = "It is with the Night-bark that <you> will sink into darkness."
+# type = Cleft sentence with adverbial focus
+1	śnk.w	śnk	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	<⸗k>	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	mśk.t(i҆)t	mśk.ti҆t	NOUN	_	Gender=fem	1	obl	_	_
+
+# sent_id = UDE-687
+# ref = Pyramid Texts § 210b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ⸗k ḥnꜥ Ꜣś.t
+# lit = "You will go up (certainly) together with Isis."
+# trans = "It is with Isis that you will go up."
+# type = Cleft sentence with adverbial focus
+1	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	Ꜣś.t	Ꜣś.t	NOUN	_	Gender=Fem	1	obl	_	_
 
