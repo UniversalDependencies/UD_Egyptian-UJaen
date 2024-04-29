@@ -10230,3 +10230,14 @@
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 7	Nw.t	Nw.t	PROPN	_	Gender=Fem	5	appos	_	_
 
+# sent_id = UDE-677
+# ref = Pyramid Texts § 208c W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb ⸗k m ꜣḫ.t
+# lit = “You shall be purified in the horizon.”
+# trans = “You shall be purified in the horizon.”
+# type = Verbal sentence
+1	wꜥb	wꜥb	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+
