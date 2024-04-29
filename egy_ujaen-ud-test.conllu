@@ -10288,3 +10288,25 @@
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
 4	Nṭi҆	Nṭi҆	NOUN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-682
+# ref = PT § 209b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ⸗k hꜣ.w ⸗k
+# lit = “You will go up - you will go down.”
+# trans = “(Both of them:) You will go up, and you will go down.”
+# type = Balanced sentence
+1	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	hꜣ.w	hꜣi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+
+# sent_id = UDE-683
+# ref = Pyramid Texts § 209b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ⸗k ḥnꜥ Rꜥw
+# lit = "You will go up (certainly) together with Re."
+# trans = "It is with Re that you will go up."
+# type = Cleft sentence with adverbial focus
+1	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	Rꜥw	Rꜥw	NOUN	_	Gender=Masc	1	obl	_	_
+
