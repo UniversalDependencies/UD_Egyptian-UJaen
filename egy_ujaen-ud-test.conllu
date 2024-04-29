@@ -10310,3 +10310,16 @@
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
 4	Rꜥw	Rꜥw	NOUN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-684
+# ref = Pyramid Texts § 209c W, Saqqara, 5th Dynasty, rel, OE
+# text = wbn ⸗k ḥnꜥ Sḫn-wr
+# lit = "You will rise (certainly) together with Great Float-user."
+# trans = "It is with Re that you will go up."
+# type = Cleft sentence with adverbial focus
+1	wbn	wbn	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4-5	Sḫn-wr	_	_	_	_	_	_	_	_
+4	Sḫn	Sḫn	PROPN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	wr	wr	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+
