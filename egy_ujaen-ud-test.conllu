@@ -10135,3 +10135,16 @@
 4	ś.(w)t	ś.(w)t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
 5	Ni҆.w	Ni҆.w	NOUN	_	Case=Gen|Gender=Masc	4	nmod	_	_
 
+# sent_id = UDE-670
+# ref = Pyramid Texts § 207c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫpr ⸗k ḥnꜥ i҆t ⸗k (I҆)tm(.w)
+# lit = “You shall come into being with your father, Atum.”
+# trans = “You shall come into being with your father, Atum.”
+# type = Verbal sentence
+1	ḫpr	ḫpr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	4	case	_	_
+4	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	4	appos	_	_
+
