@@ -10112,3 +10112,14 @@
 3	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-668
+# ref = Pyramid Texts § 207b W, Saqqara, 5th Dynasty, rel, OE. For the meaning of mꜣr.w see Wb. II 30,10.
+# text = wč̣ꜥ ⸗k mꜣr.w Nn.t
+# lit = “You shall separate the maru (?) of the undersky.”
+# trans = “You shall separate the maru (?) of the undersky.”
+# type = Verbal sentence
+1	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obj	_	_
+4	Nn.t	Nn.t	NOUN	_	Case=Gen|Gender=Fem	3	nmod	_	_
+
