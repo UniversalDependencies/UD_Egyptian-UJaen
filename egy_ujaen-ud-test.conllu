@@ -10343,7 +10343,7 @@
 1	śnk.w	śnk	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	<⸗k>	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
-4	mśk.t(i҆)t	mśk.ti҆t	NOUN	_	Gender=Fem	1	obl	_	_
+4	mśk.t(i҆)t	mśk.ti҆t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 
 # sent_id = UDE-687
 # ref = Pyramid Texts § 210b W, Saqqara, 5th Dynasty, rel, OE
@@ -10365,5 +10365,29 @@
 1	wbn	wbn	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
-4	mꜥnč̣.t	mꜥnč̣.t	NOUN	_	Gender=Fem	1	obl	_	_
+4	mꜥnč̣.t	mꜥnč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+
+# sent_id = UDE-689
+# ref = Pyramid Texts § 211a W, Saqqara, 5th Dynasty, rel, OE
+# text = śḫm ⸗k m č̣.t ⸗k
+# lit = "You will have power (certainly) in your body."
+# trans = "It is in your body that you will have power."
+# type = Cleft sentence with adverbial focus
+1	śḫm	śḫm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Pron.st	Case=Loc	4	case	_	_
+4	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+
+# sent_id = UDE-690
+# ref = PT § 211a W, Saqqara, 5th Dynasty, rel, OE
+# text = n i҆m(.i҆)-rṭ ⸗k
+# lit = “There is no one who is in your foot.”
+# trans = “You have no enemy.”
+# type = Negative existence sentence
+1	n	n	PART	Neg	PartType=Neg	0	root	_	_
+2-3	i҆m(.i҆)-rṭ	_	_	_	_	_	_	_	_
+2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	rṭ	rṭ	NOUN	MWE	Gender=Masc|Number=Sing	2	fixed	_	_
+4	⸗k	k	PRON	SFP|Poss=Yexs	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 
