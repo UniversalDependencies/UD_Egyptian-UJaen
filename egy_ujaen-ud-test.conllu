@@ -10113,15 +10113,16 @@
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
 # sent_id = UDE-668
-# ref = Pyramid Texts § 207b W, Saqqara, 5th Dynasty, rel, OE. For the meaning of mꜣr.w see Wb. II 30,10.
-# text = wč̣ꜥ ⸗k mꜣr.w Nn.t
-# lit = “You shall separate the maru (?) of the undersky.”
-# trans = “You shall separate the maru (?) of the undersky.”
+# ref = Pyramid Texts § 207b W, Saqqara, 5th Dynasty, rel, OE. For the meaning of mꜣr.w see Wb. II 30, 9-10.
+# text = wč̣ꜥ ⸗k m mꜣr.w Nn.t
+# lit = “You shall have a judgement in the maru (?) of the undersky.”
+# trans = “You shall have a judgement in the maru (?) of the undersky.”
 # type = Verbal sentence
 1	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obj	_	_
-4	Nn.t	Nn.t	NOUN	_	Case=Gen|Gender=Fem	3	nmod	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obl	_	_
+5	Nn.t	Nn.t	NOUN	_	Case=Gen|Gender=Fem	4	nmod	_	_
 
 # sent_id = UDE-669
 # ref = Pyramid Texts § 207b W, Saqqara, 5th Dynasty, rel, OE
@@ -10161,7 +10162,7 @@
 5	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	[(I҆)tm(.w)]	I҆tm.w	PROPN	_	Gender=Masc	4	appos	_	_
 
-# sent_id = UDE-671
+# sent_id = UDE-672
 # ref = Pyramid Texts § 207d W, Saqqara, 5th Dynasty, rel, OE
 # text = wbn ⸗k ḥnꜥ i҆t ⸗k (I҆)tm(.w)
 # lit = “You shall rise with your father, Atum.”
@@ -10173,4 +10174,16 @@
 4	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	4	appos	_	_
+
+# sent_id = UDE-673
+# ref = PT § 207d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆fḫ n ⸗k m mꜣr.w
+# lit = “Release yourself from the (judgement in the) maru (?).”
+# trans = “Release yourself from maru (?).”
+# type = Verbal sentence
+1	i҆fḫ	fḫ	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obl	_	_
 
