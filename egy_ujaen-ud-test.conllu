@@ -10241,3 +10241,17 @@
 3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
 4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-678
+# ref = Pyramid Texts § 208c W, Saqqara, 5th Dynasty, rel, OE
+# text = śfḫ ⸗k ꜥb(.w) ⸗k m ši҆(.w) Šw
+# lit = “You shall get rid of your impurity in the lakes of Shu.”
+# trans = “YYou shall get rid of your impurity in the lakes of Shu.”
+# type = Verbal sentence
+1	śfḫ	śfḫ	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ꜥb(.w)	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	ši҆(.w)	ši҆	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	obl	_	_
+7	Šw	Šw	PROPN	_	Case=Gen|Gender=Masc	6	appos	_	_
+
