@@ -10123,3 +10123,15 @@
 3	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obj	_	_
 4	Nn.t	Nn.t	NOUN	_	Case=Gen|Gender=Fem	3	nmod	_	_
 
+# sent_id = UDE-669
+# ref = Pyramid Texts § 207b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ ⸗k ḥr ś.(w)t Ni҆.w
+# lit = “You shall stand in the places of Nu.”
+# trans = “You shall stand in the places of Nu.”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ś.(w)t	ś.(w)t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+5	Ni҆.w	Ni҆.w	NOUN	_	Case=Gen|Gender=Masc	4	nmod	_	_
+
