@@ -10187,3 +10187,15 @@
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 5	mꜣr.w	mꜣr.w	NOUN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-674
+# ref = Pyramid Texts § 207e W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭp ⸗k n rpw.t i҆wn.t
+# lit = "Your head is for the Heliopolitan lady."
+# trans = "Your head belongs to the Heliopolitan lady."
+# type = Adverbial sentence (possession) 
+1	ṭp	ṭp	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
+4	rpw.t	rpw.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	i҆wn.t	I҆wn	ADJ	NisbaNoun	Gender=Fem|Number=Sing	4	amod	_	_
+
