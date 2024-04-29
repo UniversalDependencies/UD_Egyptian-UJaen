@@ -5713,7 +5713,7 @@
 # text = ḫfꜥ ⸗śn č̣ ⸗śn n ⸗f ꜣm ⸗śn č̣ ⸗śn n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wni҆ś i҆n i҆t ⸗f rč̣ n ⸗f i҆n Rꜥw rč̣ n ⸗f i҆ti҆ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt i҆ś kꜣ wr ḥ(w) Kns.t n-n.tt Wni҆ś i҆ś i҆r(.i҆) ṭi҆.t i҆š.tt m ḥw.t
 # lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who is concerned five meals in the Mansion.”
 # trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who has a quintet of meals in the Mansion.”
-# type = Verbal sentence + subordination of nominal sentence and cleft sentence with a nominal focus
+# type = Verbal sentence after verbal topic + subordination of nominal sentence and cleft sentence with a nominal focus
 1	ḫfꜥ	ḫfꜥ	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	9	dislocated	_	_
@@ -7205,7 +7205,7 @@
 # text = hꜣ Wni҆ś si҆ i҆n(.ww) ⸗k bč ḥw(w).t(i҆w) ⸗k ḫr i҆t ⸗k ḫr (I҆)tm(.w)
 # lit = “O Unas, your messengers go, your heralds run (certainly) to your father, to Atum.”
 # trans = “O Unas, it is to your father, to Atum, that your messengers go and your heralds run.”
-# type = Cleft sentence with adverbial focus
+# type = Cleft sentence with adverbial focus after verbal topic
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
 3	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	6	dislocated	_	_
@@ -10399,10 +10399,37 @@
 # type = Balanced sentence
 1	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj:pass	_	_
-3	n	n	ADP	Pron.st	_	4	case	_	_
+3	n	n	ADP	Cons.st	_	4	case	_	_
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
 5	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj:pass	_	_
-7	n	n	ADP	Pron.st	_	8	case	_	_
+7	n	n	ADP	Cons.st	_	8	case	_	_
 8	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	obl	_	_
+2-3	i҆m(.i҆)-rṭ	_	_	_	_	_	_	_	_
+2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	rṭ	rṭ	NOUN	MWE	Gender=Masc|Number=Sing	2	fixed	_	_
+
+# sent_id = UDE-692
+# ref = PT § 211c W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb.n ⸗k m I҆mn.t(i҆)t šsp.n ⸗k ꜥb(.w) ⸗k m Ḥḳꜣ-ꜥnč̣(.w) ḫr i҆t ⸗k ḫr (I҆)tm(.w)
+# lit = “You became pure in the Western nome and you received your purification in the Bubastite nome (certainly) with your father, with Atum.”
+# trans = “It is with your father, with Atum, that you became pure in the Western nome and you received your purification in the Bubastite nome.”
+# type = Cleft sentence with adverbial focus after verbal topic
+1	wꜥb.n	wꜥb	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	5	dislocated	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	I҆mn.t(i҆)t	I҆mn.ti҆t	PROPN	_	Gender=Fem	1	obl	_	_
+5	šsp.n	šsp	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	ꜥb(.w)	ꜥb.w	NOUN	Obj	Gender=Masc|Number=Sing	5	obj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+10-11	Ḥḳꜣ-ꜥnč̣	_	_	_	_	_	_	_	_
+10	Ḥḳꜣ	ḥḳꜣ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+11	ꜥnč̣(.w)	ꜥnč̣	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	10	fixed	_	_
+12	ḫr	ḫr	ADP	Cons.st	_	13	case	_	_
+13	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+14	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod	_	_
+15	ḫr	ḫr	ADP	Cons.st	_	16	case	_	_
+16	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	13	conj	_	_
 
