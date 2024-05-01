@@ -10493,3 +10493,14 @@
 15	n	n	ADP	Cons.st	_	16	case	_	_
 16	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
+# sent_id = UDE-696
+# ref = PT § 214a W, Saqqara, 5th Dynasty, rel, OE. Read ḥw instead of wḥ and hi҆hi҆ instead of i҆hi҆h.
+# text = ḥw(w) i҆nn hi҆hi҆
+# lit = “Rouse! Turn about! Rejoice!.”
+# trans = “Rouse! Turn about! And rejoice!.”
+# type = Verbal sentence
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
+3	hi҆hi҆	hi҆hi҆	VERB	Imp	Mood=Imp	1	conj	_	_
+
+
