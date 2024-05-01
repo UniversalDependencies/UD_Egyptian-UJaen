@@ -10503,4 +10503,21 @@
 2	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
 3	hi҆hi҆	hi҆hi҆	VERB	Imp	Mood=Imp	1	conj	_	_
 
+# sent_id = UDE-697
+# ref = PT § 214b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś ꜥḥꜥ ḥmś r ḫꜣ m tʾ ḫꜣ m ḥ(n)ḳ.t
+# lit = “O Unas, stand up and sit down to a thousand of bread and a thousand of beer.”
+# trans = “O Unas, stand up and sit down to a thousand of bread and a thousand of beer.”
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
+3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+4	ḥmś	ḥmś	VERB	Imp	Mood=Imp	3	conj	_	_
+5	r	r	ADP	Cons.st	Case=All	6	case	_	_
+6	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
+7	m	m	ADP	Cons.st	_	8	case	_	_
+8	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	6	conj	_	_
+10	m	m	ADP	Cons.st	_	11	case	_	_
+11	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
