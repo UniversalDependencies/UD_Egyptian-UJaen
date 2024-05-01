@@ -10689,3 +10689,18 @@
 11	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	10	fixed	_	_
 12	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 
+# sent_id = UDE-707
+# ref = Pyramid Texts § 217b W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ Wni҆ś wn (⸗i҆) n ⸗k m ꜥꜣ
+# lit = "O Unas, (I) shall exist for you as an attendant (?)."
+# trans = "O Unas, (I) shall be an attendant (?) to you."
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	wn	wnn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	(⸗i҆)	i҆	PRON	SFP	Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	m	m	ADP	Cons.st	Case=Equ	8	case	_	_
+8	ꜥꜣ	ꜥꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+
