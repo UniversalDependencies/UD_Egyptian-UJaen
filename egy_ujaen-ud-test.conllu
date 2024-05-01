@@ -10521,3 +10521,21 @@
 10	m	m	ADP	Cons.st	_	11	case	_	_
 11	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
+# sent_id = UDE-698
+# ref = Pyramid Texts § 214c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜣšr.t šb.t(i҆)w ⸗k m pr nm(.t) tʾ-i҆tḥ m wśḫ.t
+# lit = "Roast meat and your rib-joints are from the slaughter house, and the i҆tḥ-bread from the broadhall."
+# trans = "Roast meat and your rib-joints are from the slaughter house, and the i҆tḥ-bread from the broadhall."
+# type = Adverbial sentences
+1	ꜣšr.t	ꜣšr.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	šb.t(i҆)w	šb.t	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	m	m	ADP	Cons.st	Case=Ela	5	case	_	_
+5	pr	pr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+6	nm(.t)	nm.t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7-8	tʾ-i҆tḥ	_	_	_	_	_	_	_	_
+7	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
+8	i҆tḥ	v	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	7	compound	_	_
+9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
+10	wśḫ.t	wśḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	parataxis	_	_
+
