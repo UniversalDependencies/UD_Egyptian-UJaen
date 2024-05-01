@@ -10600,3 +10600,33 @@
 9	r	r	ADP	Cons.st	Case=All	10	case	_	_
 10	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
 
+# sent_id = UDE-702
+# ref = PT § 216b W, Saqqara, 5th Dynasty, rel, OE, cf. Edel 1955/1964: § 1109.
+# text = (i҆)m ḥr(.w) r i҆s i҆mč̣r ⸗k i҆r (⸗i҆)
+# lit = “Do not be far from the tomb in order that you may turn toward (me).”
+# trans = “Do not be far from the tomb that you may turn toward (me).”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+2	ḥr(.w)	ḥri̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	i҆mč̣r	i҆mč̣r	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	i҆r	r	ADP	Pron.st	Case=All	8	case	_	_
+8	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+
+# sent_id = UDE-702a
+# ref = PT § 216b W, Saqqara, 5th Dynasty, rel, OE, cf. Edel 1955/1964: § 1109.
+# text = (i҆)m ḥr(.w) r i҆s i҆mč̣r ⸗k i҆r (⸗i҆)
+# lit = “Do not be far from the tomb; it is toward (me) that you turn.”
+# trans = “Do not be far from the tomb; it is to (me) that you must turn.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+2	ḥr(.w)	ḥri̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	i҆mč̣r	i҆mč̣r	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	parataxis	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+7	i҆r	r	ADP	Pron.st	Case=All	8	case	_	_
+8	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+
