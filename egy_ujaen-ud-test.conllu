@@ -4970,17 +4970,17 @@
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-334
-# ref = Pyramid Texts § 100e W|111b N, Saqqara, 5th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
-# text = Wśr(.w) Wni҆ś hꜣ nḫḫ.n (⸗i҆) <n> ⸗k ḫr ⸗k ḫr ⸗k
-# lit = "Osiris Unas, oh, (I) endured <for> you, with you and with you."
-# trans = "Osiris Unas, oh, (I) endure <for> you, with you and with you."
+# ref = Pyramid Texts § 100e W|112 N, Saqqara, 5th Dynasty, rel, OE, cf. UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
+# text = Wśr(.w) Wni҆ś hꜣ nḫḫ (⸗ś) n ⸗k ḫr ⸗k ḫr ⸗k
+# lit = "Osiris Unas, oh, may it endure for you, with you and with you."
+# trans = "Osiris Unas, oh, may it endure for you, with you and with you."
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
 3	hꜣ	hꜣ	INTJ	_	_	4	discourse	_	_
-4	nḫḫ.n	nḫi҆ḫi̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-6	<n>	n	ADP	Pron.st	Case=Ben	7	case	_	_
+4	nḫḫ(.w)	nḫi҆ḫi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	n	n	ADP	Pron.st	Case=Ben	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
 8	ḫr	ḫr	ADP	Pron.st	Case=Com	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
@@ -5328,14 +5328,14 @@
 
 # sent_id = UDE-360
 # ref = Pyramid Texts § 112 N, Saqqara, 6th Dynasty, rel, OE, cf. 366
-# text = ḥ(w) hꜣ nḫḫ <śi҆> ḫr ⸗k
+# text = ḥ(w) hꜣ nḫḫ (⸗ś) ḫr ⸗k
 # lit = "Oh, may <it> truly endure with you!"
 # trans = "Oh, may <it> truly endure with you!"
 # type = Verbal sentence
 1	ḥ(w)	ḥw	PART	_	_	3	discourse	_	_
 2	hꜣ	hꜣ	INTJ	_	_	3	discourse	_	_
 3	nḫḫ	nḫi҆ḫi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-4	<śi҆>	śi҆	PRON	DepPron|Ellipsis|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+4	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	ḫr	ḫr	ADP	Pron.st	Case=Com	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 
@@ -10629,4 +10629,43 @@
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 7	i҆r	r	ADP	Pron.st	Case=All	8	case	_	_
 8	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	obl	_	_
+
+# sent_id = UDE-703
+# ref = Pyramid Texts § 216c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣.n (⸗i҆) n ⸗k i҆r.t Ḥr.w
+# lit = “(I) gave you the Eye of Horus.”
+# trans = “(I) give you the Eye of Horus.”
+# type = Verbal sentence
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	iobj	_	_
+5	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+
+# sent_id = UDE-704
+# ref = Pyramid Texts § 216c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆p.n (⸗i҆) n ⸗k ś(i҆)
+# lit = "(I) alloted it to you."
+# trans = "(I) allot it to you."
+# type = Verbal sentence
+1	i҆p.n	i҆p	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	iobj	_	_
+5	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+
+# sent_id = UDE-705
+# ref = Pyramid Texts § 216c W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-334, UDE-273, UDE-112 and Allen 1984: 189 (§ 300)
+# text = hꜣ nḫḫ (⸗ś) n ⸗k ḫr ⸗k
+# lit = "Oh, may it endure for you with you."
+# trans = "Oh, may it endure for you with you."
+# type = Verbal sentence
+1	hꜣ	hꜣ	INTJ	_	_	4	discourse	_	_
+2	nḫḫ	nḫi҆ḫi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+3	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+6	ḫr	ḫr	ADP	Pron.st	Case=Com	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
