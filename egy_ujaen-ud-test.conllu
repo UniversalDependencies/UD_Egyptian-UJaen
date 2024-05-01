@@ -10535,7 +10535,26 @@
 6	nm(.t)	nm.t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7-8	tʾ-i҆tḥ	_	_	_	_	_	_	_	_
 7	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
-8	i҆tḥ	v	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	7	compound	_	_
+8	i҆tḥ	rtḥ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	compound	_	_
 9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
 10	wśḫ.t	wśḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	parataxis	_	_
+
+# sent_id = UDE-699
+# ref = PT § 215a W, Saqqara, 5th Dynasty, rel, OE
+# text = [ḥ]tm(.w) nčr m ḥtp-nčr ḥtm(.w) Wni҆ś m tʾ ⸗f pn
+# lit = “The god was provided with a god's offering - Unas was provided with this bread of his.”
+# trans = “(Both of them:) The god was provided with a god's offering, and Unas was provided with this bread of his.”
+# type = Balanced sentence
+1	ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
+4-5	ḥtp-nčr	_	_	_	_	_	_	_	_
+4	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
+6	ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj:pass	_	_
+8	m	m	ADP	Cons.st	Case=Ins	9	case	_	_
+9	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 
