@@ -5427,7 +5427,7 @@
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 5-6	m-ꜥ	_	_	_	_	_	_	_	_
 5	m	m	ADP	Cons.st	Case=Abl	7	case	_	_
-6	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+6	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	5	fixed	_	_
 7	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
 
 # sent_id = UDE-366
@@ -10684,4 +10684,8 @@
 7	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+10-11	m-ꜥ	_	_	_	_	_	_	_	_
+10	m	m	ADP	Cons.st	Case=Abl	12	case	_	_
+11	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	10	fixed	_	_
+12	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 
