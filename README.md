@@ -1,12 +1,21 @@
 # Summary
 
-Egyptian-UJaen is the first morphosyntactic treebank created for Pre-Coptic Egyptian. It contains Egyptian sentences manually annotated at the University of Jaén (Spain) that were selected from texts written in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic (for an overall description of these linguistic stages, see the Language Page for Egyptian; and the bibliography below).
+Egyptian-UJaen is the first morphosyntactic treebank created for Pre-Coptic Egyptian in Universal Dependencies.
+It contains sentences manually annotated at the University of Jaén (Spain) that were selected from texts written
+in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic.
 
 
 # Introduction
 
-The Egyptian-UJaen Treebank contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The first release of the treebank contains Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below).
+The Egyptian-UJaen Treebank contains a corpus of Egyptian texts manually annotated at the University of Jaén
+following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD)
+project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features
+with those from other languages. The first release of the treebank contains Old Egyptian multiword expressions
+and sentences from the Pyramid Texts (see list of sources, below).
 
+The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
+and Demotic. For an overall description of these linguistic stages, see the [Language Page for
+Egyptian](https://universaldependencies.org/egy/index.html); and the bibliography below.
 
 # Further Details
 
@@ -55,8 +64,8 @@ I thank Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti (CIRCS
 - Díaz Hernández, Roberto A. 2022. “The Man-impersonal Verb Forms of the Suffix Pronoun Conjugation in Earlier Egyptian”, LingAeg 30, 25–90.
 - Edel, Elmar. 1955/1964. Altägyptische Grammatik, Rome.
 - Erman, Adolf. 1933. Neuägyptische Grammatik, Leipzig.
-- Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols.), Berlin. 
-- Gardiner, Alan H. 19573. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs, 
+- Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols.), Berlin.
+- Gardiner, Alan H. 19573. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs,
 Oxford.
 - Johnson, Janet H. 2000. Thus Wrote ꜥOnchsheshonqy. An Introductory Grammar of Demotic, Chicago.
 - Junge, Friedrich. 2008. Neuägyptisch. Einführung in die Grammatik, Wiesbaden.
