@@ -11423,3 +11423,12 @@
 13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
 14	Wnw	Wnw	PROPN	_	_	11	obl	_	_
 
+# sent_id = UDE-747
+# ref = PT § 229c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ḫr sbn
+# lit = “Fall down, crawl away.”
+# trans = “Fall down and crawl away.”
+# type = Verbal sentence
+1	i҆ḫr	ḫr	VERB	Imp	Mood=Imp	0	root	_	_
+2	sbn	sbn	VERB	Imp	Mood=Imp	1	conj	_	_
+
