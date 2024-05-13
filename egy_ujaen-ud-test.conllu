@@ -10779,7 +10779,6 @@
 7	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	3	obl	_	_
 8	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
 
-
 # sent_id = UDE-712
 # ref = PT § 218e W, Saqqara, 5th Dynasty, rel, OE
 # text = šm n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Śtẖ
@@ -10877,15 +10876,15 @@
 11	ḥbś	ḥbś	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
 12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 13	ḫśṭč̣	ḫśṭč̣	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
-14	šm	šmi̯	VERB	SFC|Sub	Mood=Sub	2	advcl	_	_
+14	šm	šmi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 15	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
 16	m	m	ADP	Cons.st	Case=Ins	17	case	_	_
 17	wḫꜣ.t(i҆)	wḫꜣ.t	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 18	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
-19	rḫś	rḫś	VERB	SFC|Sub	Mood=Sub	2	advcl	_	_
+19	rḫś	rḫś	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 20	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
 21	i҆ḥ	i҆ḥ	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
-22	šm	šmi̯	VERB	SFC|Sub	Mood=Sub	2	root	_	_
+22	šm	šmi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 23	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	22	nsubj	_	_
 24	m	m	ADP	Cons.st	Case=Loc	25	case	_	_
 25-26	wꜣč̣-ꜥn	_	_	_	_	_	_	_	_
