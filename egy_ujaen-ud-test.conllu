@@ -11322,10 +11322,25 @@
 # lit = “Hepenu-snake, (I) say this (certainly) against you.”
 # trans = “O Hepenu-snake, it is against you that (I) say this.”
 # type = Cleft sentence with adverbial focus
-1	hpn.w	hpn.w	NOUN	_	Gender=Masc|Number=Sing	2	dislocated	_	_
+1	hpn.w	hpn.w	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	_
 2	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
 5	r	r	ADP	Pron.st	_	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-741
+# ref = PT § 227b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫśr-nčr č̣ṭ (⸗i҆) nn r ⸗k
+# lit = “The one who repels the god (i.e. scorpion), (I) say this (certainly) against you.”
+# trans = “O the one who repels the god (i.e. scorpion), it is against you that (I) say this.”
+# type = Cleft sentence with adverbial focus
+1-2	ḫśr-nčr	_	_	_	_	_	_	_	_
+1	ḫśr	ḫśr	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	7	vocative	_	_
+2	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	_
+6	r	r	ADP	Pron.st	_	7	case	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 
