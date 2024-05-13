@@ -11276,3 +11276,56 @@
 6	i҆m	m	ADP	Pron.st	Case=Ela	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
+# sent_id = UDE-737
+# ref = PT § 226a W, Saqqara, 5th Dynasty, rel, OE
+# text = hi҆w śč̣r sbn ḫr ḥm-pśč̣.t m mw
+# lit = “Monster, lie down, crawl away, that the Sunlight's Servant (i.e. pelican) may fell into the water.”
+# trans = “Monster, lie down, crawl away, that the Sunlight's Servant (i.e. pelican) may fell into the water.”
+# type = Verbal sentence
+1	hi҆w	hi҆w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+2	śč̣r	śč̣r	VERB	Imp	Mood=Imp	0	root	_	_
+3	sbn	sbn	VERB	Imp	Mood=Imp	2	conj	_	_
+4	ḫr	ḫr	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+5-6	ḥm-pśč̣.t	_	_	_	_	_	_	_	_
+5	ḥm	ḥm	NOUN	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	pśč̣.t	pśč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	compound	_	_
+7	m	m	ADP	Pron.st	_	8	case	_	_
+8	mw	mw	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
+
+# sent_id = UDE-738
+# ref = PT § 226b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥfꜣ.w pnꜥ mꜣ čw Rꜥw
+# lit = “Snake, overturn, that Re may see you.”
+# trans = “Snake, overturn, that Re may see you.”
+# type = Verbal sentence
+1	ḥfꜣ.w	ḥfꜣ.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+2	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+3	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+4	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	nsubj	_	_
+
+# sent_id = UDE-739
+# ref = PT § 227a W, Saqqara, 5th Dynasty, rel, OE. Is ḥśḳ{m} an w-Passive?
+# text = ḥśḳ{m} ṭp kꜣ km wr 
+# lit = “Cut off the head of the great black bull.”
+# trans = “Cut off the head of the great black bull.”
+# type = Verbal sentence
+1	ḥśḳ{m}	ḥśḳ	VERB	Imp	Mood=Imp	0	root	_	_
+2	ṭp	ṭp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
+3	kꜣ	kꜣ	NOUN	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	km	km	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	wr	wr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+
+# sent_id = UDE-740
+# ref = PT § 227b W, Saqqara, 5th Dynasty, rel, OE
+# text = hpn.w č̣ṭ (⸗i҆) nn r ⸗k
+# lit = “Hepenu-snake, (I) say this (certainly) against you.”
+# trans = “O Hepenu-snake, it is against you that I say this.”
+# type = Cleft sentence with adverbial focus
+1	hpn.w	hpn.w	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	_
+2	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+5	r	r	ADP	Pron.st	_	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
+
