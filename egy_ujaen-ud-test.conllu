@@ -10899,3 +10899,66 @@
 33	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	32	nmod	_	_
 34	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	_
 
+# sent_id = UDE-715
+# ref = Pyramid Texts § 219b T, Saqqara, 6th Dynasty, rel, OE
+# text = ḥbś ⸗k bꜣ
+# lit = "Your garment is the leopard-skin."
+# trans = "Your garment is the leopard-skin."
+# type = Nominal sentence (A = B)
+1	ḥbś	ḥbś	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-716
+# ref = Pyramid Texts § 219b T, Saqqara, 6th Dynasty, rel, OE
+# text = ḥbś ⸗k ḫśṭč̣
+# lit = "Your garment is the kilt."
+# trans = "Your garment is the kilt."
+# type = Nominal sentence (A = B)
+1	ḥbś	ḥbś	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	ḫśṭč̣	ḫśṭč̣	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-717
+# ref = Pyramid Texts § 219c W, Saqqara, 5th Dynasty, rel, OE
+# text = šm ⸗k m wḫꜣ.t(i҆) <⸗k>
+# lit = “You shall go in <your> sandals.”
+# trans = “You shall walk in <your> sandals.”
+# type = Verbal sentence
+1	šm	šmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
+4	wḫꜣ.t(i҆)	wḫꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+
+# sent_id = UDE-718
+# ref = Pyramid Texts § 219c W, Saqqara, 5th Dynasty, rel, OE
+# text = rḫś <⸗k> i҆ḥ
+# lit = “<You> shall slaughter an ox.”
+# trans = “<You> shall slaughter an ox.”
+# type = Verbal sentence
+1	rḫś	rḫś	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	<⸗k>	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆ḥ	i҆ḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-719
+# ref = Pyramid Texts § 220a T, Saqqara, 6th Dynasty, rel, OE
+# text = šm ⸗k m wꜣč̣-ꜥn m śꜥḥ ⸗k nb m ś.(w)t ⸗k nb(.wt) 
+# lit = “You shall go in the Wadj-an bark in each of your dignities and in all your places.”
+# trans = “You shall go in the Wadj-an bark in each of your dignities and in all your places.”
+# type = Verbal sentence
+1	šm	šmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4-5	wꜣč̣-ꜥn	_	_	_	_	_	_	_	_
+4	wꜣč̣	wꜣč̣	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	ꜥn	ꜥn	NOUN	_	Gender=Masc|Number=Sing	4	compound	_	_
+6	m	m	ADP	Cons.st	_	7	case	_	_
+7	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
+10	m	m	ADP	Cons.st	_	11	case	_	_
+11	ś.(w)t	ś.t	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+
