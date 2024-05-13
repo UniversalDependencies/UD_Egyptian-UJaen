@@ -11400,3 +11400,25 @@
 11	i҆nśb.n	nśbi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	ccomp	_	_
 12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 
+# sent_id = UDE-746
+# ref = Pyramid Texts § 229a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥn.t tw nn n.t (I҆)tm(.w) ḥr.t č(ꜣ)s-bḳś.w Nḥb.w-kꜣ(.w) śsꜣ.t ẖnn.w m Wnw
+# lit = “The fingernail of Atum which is on the vertebra of Nehebu-kau, which stilled the turmoil in Hermopolis, is this.”
+# trans = “The fingernail of Atum which is on the vertebra of Nehebu-kau and which stilled the turmoil in Hermopolis, is this here.”
+# type = Nominal sentence (A pw B)
+1	ꜥn.t	ꜥn.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	3	cop	_	_
+3	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	_
+5	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	1	nmod	_	_
+6	ḥr.t	ḥr	ADJ	NisbaPrep	Gender=Fem|Number=Sing	1	amod	_	_
+7-8	č(ꜣ)s-bḳś.w	_	_	_	_	_	_	_	_
+7	č(ꜣ)s	čꜣs	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+8	bḳś.w	bḳś.w	NOUN	_	Gender=Masc|Number=Sing	7	compound	_	_
+9-10	Nḥb.w-kꜣ(.w)	_	_	_	_	_	_	_	_
+9	Nḥb.w	Nḥb.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+10	kꜣ(.w)	kꜣ(.w)	NOUN	_	Gender=Masc|Number=Plur	9	flat	_	_
+11	śsꜣ.t	sꜣi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau	1	amod	_	_
+12	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
+13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
+14	Wnw	Wnw	PROPN	_	_	11	obl	_	_
