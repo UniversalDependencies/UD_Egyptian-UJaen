@@ -11344,3 +11344,26 @@
 6	r	r	ADP	Pron.st	_	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
 
+# sent_id = UDE-742
+# ref = PT § 227c W, Saqqara, 5th Dynasty, rel, OE. Is ḥśḳ{m} an w-Passive?
+# text = pnꜥ čw ḫbḫ{n} tꜣ 
+# lit = “Overturn yourself, slide into the earth.”
+# trans = “Overturn yourself and slide into the earth.”
+# type = Verbal sentence
+1	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	ḫbḫ{n}	ḫbḫ	VERB	Imp	Mood=Imp	1	conj	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+
+# sent_id = UDE-743
+# ref = PT § 227c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ.n (⸗i҆) nn r ⸗k
+# lit = “(I) said this (certainly) against you.”
+# trans = “It is against you that (I) have said this.”
+# type = Cleft sentence with adverbial focus
+1	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+4	r	r	ADP	Pron.st	_	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+
