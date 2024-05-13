@@ -10704,3 +10704,21 @@
 7	m	m	ADP	Cons.st	Case=Equ	8	case	_	_
 8	ꜥꜣ	ꜥꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 
+# sent_id = UDE-708
+# ref = Pyramid Texts § 218a T, Saqqara, 6th Dynasty, rel, OE
+# text = wṭ(n) n ⸗f m śꜥḥ ⸗f nb m ś.t ⸗f nb.t 
+# lit = "Presenting him in each of his dignities, in each of his places."
+# trans = "Offering is made to him in all his dignities, in each of his places."
+# type = Narrative Infinitive
+1	wṭ(n)	wṭn	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	nb	nb	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+8	m	m	ADP	Cons.st	_	9	case	_	_
+9	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+11	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+
