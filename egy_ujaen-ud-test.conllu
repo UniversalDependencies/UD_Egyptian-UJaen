@@ -10764,3 +10764,96 @@
 8	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	4	obl	_	_
 9	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
 
+# sent_id = UDE-711a
+# ref = PT § 218d W, Saqqara, 5th Dynasty, rel, OE
+# text = šm.n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Ḥr.w
+# lit = “You have gone, that you may command the word to the Mounds of Horus.”
+# trans = “You have gone, that you may command the word to the Mounds of Horus.”
+# type = Verbal sentence
+1	šm.n	šmi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+3	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	3	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	3	obl	_	_
+8	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+
+
+# sent_id = UDE-712
+# ref = PT § 218e W, Saqqara, 5th Dynasty, rel, OE
+# text = šm n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Śtẖ
+# lit = “Go yourself, that you may command the word to the Mounds of Seth.”
+# trans = “Go, that you may govern the Mounds of Seth.”
+# type = Verbal sentence
+1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	4	obj	_	_
+7	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
+8	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	4	obl	_	_
+9	Śtẖ	Śtẖ	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+
+# sent_id = UDE-712a
+# ref = PT § 218e W, Saqqara, 5th Dynasty, rel, OE
+# text = šm.n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Śtẖ
+# lit = “You have gone, that you may command the word to the Mounds of Seth.”
+# trans = “You have gone, that you may command the word to the Mounds of Seth.”
+# type = Verbal sentence
+1	šm.n	šmi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+3	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	3	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	3	obl	_	_
+8	Śtẖ	Śtẖ	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+
+# sent_id = UDE-713
+# ref = PT § 218f W, Saqqara, 5th Dynasty, rel, OE
+# text = šm n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Wśr(.w)
+# lit = “Go yourself, that you may command the word to the Mounds of Osiris.”
+# trans = “Go, that you may govern the Mounds of Osiris.”
+# type = Verbal sentence
+1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	4	obj	_	_
+7	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
+8	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	4	obl	_	_
+9	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+
+# sent_id = UDE-713a
+# ref = PT § 218f W, Saqqara, 5th Dynasty, rel, OE
+# text = šm.n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Wśr(.w)
+# lit = “You have gone, that you may command the word to the Mounds of Osiris.”
+# trans = “You have gone, that you may command the word to the Mounds of Osiris.”
+# type = Verbal sentence
+1	šm.n	šmi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+3	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	3	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	3	obl	_	_
+8	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+
+# sent_id = UDE-714
+# ref = Pyramid Texts § 219a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp-č̣-nśw m śꜥḥ ⸗k nb
+# lit = "An offering which the king gives in each of your dignities."
+# trans = "An offering which the king gives in each of your dignities."
+# type = Offering formula
+1-3	ḥtp-č̣-nśw	_	_	_	_	_	_	_	_
+1	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+2	č̣	rč̣i̯	X	_	_	0	root	_	_
+3	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	nb	nb	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+
