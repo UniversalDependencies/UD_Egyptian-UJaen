@@ -10962,3 +10962,100 @@
 12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 13	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
 
+# sent_id = UDE-720
+# ref = Pyramid Texts § 220b W/224b, Saqqara, 5th Dynasty, rel, OE
+# text = nḥb.t ⸗k ḫnt ꜥnḫ.w
+# lit = "Your lotus-bud sceptre is at the fore of the living."
+# trans = "Your lotus-bud sceptre is at the fore of the living."
+# type = Adverbial sentence
+1	nḥb.t	nḥb.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	ḫnt	ḫnt	ADP	Cons.st	_	4	case	_	_
+4	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	0	root	_	_
+
+# sent_id = UDE-721
+# ref = Pyramid Texts § 220b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = mṭw ⸗k ḫnt ꜣḫ.w I҆np.w i҆ś ḫnt(.i҆) i҆mn.t(i҆)w Ꜥnč̣.t(i҆) i҆ś ḫnt(.i҆) śpꜣ.(w)t i҆ꜣb.tt
+# lit = "Your staff is at the fore of the spirits as Anubis who presides over the Westerners and as Anedjti who presides over the eastern nomes."
+# trans = "Your staff is at the fore of the spirits as Anubis who presides over the Westerners and as Anedjti who presides over the eastern nomes."
+# type = Adverbial sentence
+1	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	ḫnt	ḫnt	ADP	Cons.st	_	4	case	_	_
+4	ꜣḫ.w	ꜣḫ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+5	I҆np.w	I҆np.w	PROPN	_	Gender=Masc	4	obl	_	_
+6	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	5	case	_	_
+7	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
+8	i҆mn.t(i҆)w	i҆mn	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+9	Ꜥnč̣.t(i҆)	Ꜥnč̣.ti҆	PROPN	_	_	4	obl	_	_
+10	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	9	case	_	_
+11	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Number=Sing	9	amod	_	_
+12	śpꜣ.(w)t	śpꜣ.t	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
+13	i҆ꜣb.tt	i҆ꜣb	ADJ	NisbaNoun	Gender=Fem|Number=Plur	12	amod	_	_
+
+# sent_id = UDE-722
+# ref = Pyramid Texts § 221a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp w(i҆) ḫr.t ⸗k
+# lit = "How content is your situation."
+# trans = "How content is your situation."
+# type = Adjectival sentence
+1	ḥtp	ḥtp	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	_
+3	ḫr.t	ḫr.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+
+# sent_id = UDE-723
+# ref = Pyramid Texts § 221a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜣḫ ⸗k hꜣ Wni҆ś m-ꜥb śn(.w) ⸗k nčr(.w)
+# lit = "Your spirit, O Unas, is among your brothers, the gods."
+# trans = "Your spirit, O Unas, is among your brothers, the gods."
+# type = Adverbial sentence
+1	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	hꜣ	hꜣ	INTJ	_	_	4	discourse	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	dislocated	_	_
+5-6	m-ꜥb	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+6	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	śn(.w)	śn(.w)	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	0	root	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+
+# sent_id = UDE-724
+# ref = Pyramid Texts § 221b W, Saqqara, 5th Dynasty, rel, OE. The meaning of nš is unclear, see Wb. II 338, 12.
+# text = nš w(i҆) ś(i҆) nš w(i҆) ś(i҆)
+# lit = "How changed (?) it is! How changed (?) it is!"
+# trans = "How changed (?) it is! How changed (?) it is!"
+# type = Adjectival sentence
+1	nš	nš	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	_
+3	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+4	nš	nš	ADJ	_	Gender=Masc|Number=Sing	1	conj	_	_
+5	w(i҆)	wi҆	INTJ	_	_	4	discourse	_	_
+6	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
+# sent_id = UDE-725
+# ref = PT § 221b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆nč̣ mś.w <⸗k> {nb}
+# lit = “Protect <your> children.”
+# trans = “Protect <your> children.”
+# type = Verbal sentence
+1	i҆nč̣	nč̣	VERB	Imp	Mood=Imp	0	root	_	_
+2	mś.w	mś	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+3	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	{nb}	{nb}	X	_	Typo=Yes	3	dep	_	_
+
+# sent_id = UDE-726
+# ref = PT § 221b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = śꜣ čw č̣r ⸗k pw i҆m(.i҆) tꜣ
+# lit = “Beware yourself of this boundary of yours which is on earth.”
+# trans = “Beware of this your boundary on earh.”
+# type = Verbal sentence
+1	śꜣ	śꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	č̣r	č̣r	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	amod	_	_
+7	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+
