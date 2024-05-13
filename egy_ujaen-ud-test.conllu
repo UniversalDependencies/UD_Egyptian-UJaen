@@ -11136,3 +11136,74 @@
 20	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	16	obl	_	_
 21	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	20	nmod	_	_
 
+# sent_id = UDE-730a
+# ref = PT § 222b-c W, Saqqara, 6th Dynasty, rel, OE
+# text = šm.n ⸗k wč̣ ⸗k mṭw n i҆ꜣ.(w)t Ḥr.w wč̣ ⸗k mṭw n i҆ꜣ.(w)t Śtẖ i҆č̣ṭ ⸗k mṭw n i҆ꜣ.(w)t Wśr(.w)
+# lit = “You have gone, that you may command the word to the Mounds of Horus, that you may command the word to the Mounds of Seth and say the word to the Mound of Osiris.”
+# trans = “You have gone, that you may govern the Mounds of Horus, that you govern the Mounds of Seth and address the Mounds of Osiris.”
+# type = Verbal sentence
+1	šm.n	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+3	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	3	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	3	obl	_	_
+8	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
+9	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+11	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	9	obj	_	_
+12	n	n	ADP	Cons.st	Case=Dat	13	case	_	_
+13	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	9	obl	_	_
+14	Śtẖ	Śtẖ	PROPN	_	Case=Gen|Gender=Masc	13	nmod	_	_
+15	i҆č̣ṭ	č̣ṭ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+16	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+17	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	15	obj	_	_
+18	n	n	ADP	Cons.st	Case=Dat	19	case	_	_
+19	i҆ꜣ.(w)t	i҆ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	15	obl	_	_
+20	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	19	nmod	_	_
+
+# sent_id = UDE-731
+# ref = Pyramid Texts § 223a-224a N, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtp-č̣-nśw sꜣ ⸗k ḥr nś.t ⸗k ḥbś ⸗k bꜣ ḥbś ⸗k ḫśṭč̣ šm ⸗k m wḫꜣ.t(i҆) <⸗k> rḫś ⸗k i҆ḥ šm ⸗k m wꜣč̣-ꜥn m ś.(w)t ⸗k nb(.wt) m śꜥḥ ⸗k nb  
+# lit = "An offering which the king gives, being your son on your throne, being your garment the leopard-skin, being your garment the kilt, in order that you may go in <your> sandals, that you may slaughter an ox, that you may go in the Wadj-an bark in all your places and in each of your dignities."
+# trans = "An offering which the king gives, being your son on your throne, being your garment the leopard-skin, being your garment the kilt, that you may go in <your> sandals, that you may slaughter an ox, that you may go in the Wadj-an bark in all your places and in each of your dignities."
+# type = Offering formula
+1-3	ḥtp-č̣-nśw	_	_	_	_	_	_	_	_
+1	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+2	č̣	rč̣i̯	X	_	_	0	root	_	_
+3	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	dep	_	_
+4	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	ḥr	ḥr	ADP	Cons.st	Case=Loc	7	case	_	_
+7	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	parataxis	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	ḥbś	ḥbś	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+11	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+12	ḥbś	ḥbś	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
+13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
+14	ḫśṭč̣	ḫśṭč̣	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
+15	šm	šmi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+16	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+17	m	m	ADP	Cons.st	Case=Ins	18	case	_	_
+18	wḫꜣ.t(i҆)	wḫꜣ.t	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+19	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nmod	_	_
+20	rḫś	rḫś	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+21	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nsubj	_	_
+22	i҆ḥ	i҆ḥ	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
+23	šm	šmi̯	VERB	SFC|Sub	Mood=Sub	2	advcl	_	_
+24	⸗k	k	PRON	SFP|Subj|Finalcl	Gender=Masc|Number=Sing|Person=2|PronType=Prs	23	nsubj	_	_
+25	m	m	ADP	Cons.st	Case=Loc	26	case	_	_
+26-27	wꜣč̣-ꜥn	_	_	_	_	_	_	_	_
+26	wꜣč̣	wꜣč̣	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
+27	ꜥn	ꜥn	NOUN	_	Gender=Masc|Number=Sing	26	compound	_	_
+28	m	m	ADP	Cons.st	_	29	case	_	_
+29	ś.(w)t	ś.t	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	_
+30	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	29	nmod	_	_
+31	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	29	amod	_	_
+32	m	m	ADP	Cons.st	_	33	case	_	_
+33	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
+34	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	33	nmod	_	_
+35	nb	nb	ADJ	_	Gender=Masc|Number=Sing	33	amod	_	_
+
