@@ -10722,3 +10722,16 @@
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 11	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 
+# sent_id = UDE-709
+# ref = PT § 218c W, Saqqara, 5th Dynasty, rel, OE. Read ḥw instead of wḥ.
+# text = ḥw(w) kw Wni҆ś i҆nn kw Wni҆ś
+# lit = “Rouse yourself, Unas! Turn about yourself, Unas!”
+# trans = “Rouse yourself, Unas! Turn about yourself, Unas!”
+# type = Verbal sentence
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
+4	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
+5	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	vocative	_	_
+
