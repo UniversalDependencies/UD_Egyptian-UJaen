@@ -11367,3 +11367,17 @@
 4	r	r	ADP	Pron.st	_	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-744
+# ref = Pyramid Texts § 228a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫr ḥr r ḥr mꜣ.n ḥr ḥr
+# lit = "Face falls to face (certainly) after face has seen face."
+# trans = "It is after face saw face that face falls to face."
+# type = Cleft sentence with adverbial focus
+1	ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	r	r	ADP	Pron.st	_	4	case	_	_
+4	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+
