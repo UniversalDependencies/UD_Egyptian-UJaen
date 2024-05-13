@@ -11381,3 +11381,22 @@
 6	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 7	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 
+# sent_id = UDE-745
+# ref = Pyramid Texts § 228b W, Saqqara, 5th Dynasty, rel, OE, for pr.i҆(w) cf. Edel 1955/1964: 240 (§ 516) and Allen 1984: 196 (§ 310)
+# text = pr.i҆(w) nm km wꜣč̣ r ⸗ś ꜥm.n ⸗f n ⸗f i҆nśb.n ⸗f
+# lit = "The balck and green knife will go forth thereat (certainly) after it swallowed for itself the one whom it tasted."
+# trans = "It is after it swallowed for itself the one whom it tasted that the balck and green knife will go forth thereat."
+# type = Cleft sentence with adverbial focus
+1	pr.i҆(w)	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nm	nm	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	km	km	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	wꜣč̣	wꜣč̣	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+5	r	r	ADP	Pron.st	_	6	case	_	_
+6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+7	ꜥm.n	ꜥm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	n	n	ADP	Pron.st	Case=Ben	10	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Emp	7	obl	_	_
+11	i҆nśb.n	nśbi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	ccomp	_	_
+12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+
