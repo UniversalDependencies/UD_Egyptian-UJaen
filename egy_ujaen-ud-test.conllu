@@ -5962,12 +5962,12 @@
 # sent_id = UDE-399
 # ref = PT § 123i W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
 # text = psḥ ⸗f č̣ ⸗f n Tti҆
-# lit = “(When) he bites, he gives (it) to Teti.”
-# trans = “When he bites, he gives it to Teti.”
+# lit = “(If) he bites, he shall give (it) to Teti.”
+# trans = “If he bites, he shall give it to Teti.”
 # type = Verbal sentence with a verbal topic
 1	psḥ	psḥ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	č̣	rč̣i̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	iobj	_	_
@@ -5975,12 +5975,12 @@
 # sent_id = UDE-400
 # ref = PT § 123i T, Saqqara, 6th Dynasty, rel, OE, cf. UDE-385
 # text = nṭbṭb ⸗f č̣ ⸗f n Tti҆
-# lit = “(When) he sips, he gives (it) to Teti.”
-# trans = “When he sips, he gives it to Teti.”
+# lit = “(If) he sips, he shall give (it) to Teti.”
+# trans = “If he sips, he shall give it to Teti.”
 # type = Verbal sentence with a verbal topic
 1	nṭbṭb	nṭbṭb	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	č̣	rč̣i̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	iobj	_	_
@@ -11603,7 +11603,7 @@
 # ref = PT § 232c W, Saqqara, 5th Dynasty, rel, OE
 # text = psḥ ⸗k Wni҆ś č̣ ⸗f wꜥ ⸗k
 # lit = “(If) you bite Unas, he shall cause in order that you be alone.”
-# trans = If you bites Unas, he shall cause you to be alone.”
+# trans = If you bite Unas, he shall cause you to be alone.”
 # type = Verbal sentence with a verbal topic
 1	psḥ	psḥ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
@@ -11612,4 +11612,20 @@
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 6	wꜥ	wꜥi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+
+# sent_id = UDE-762
+# ref = PT § 232c W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣꜣ ⸗k Wni҆ś č̣ ⸗f śnnw ⸗k
+# lit = “(If) you see Unas, he shall cause in order that you be the second.”
+# trans = If you see Unas, he shall cause you to have a companion.”
+# type = Verbal sentence with a verbal topic
+1	mꜣꜣ	mꜣꜣ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
+4	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	śnnw	śnnw	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+
+
 
