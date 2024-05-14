@@ -11537,3 +11537,51 @@
 4	psḥ	psḥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	obj	_	_
 
+# sent_id = UDE-756
+# ref = Pyramid Texts § 231c W, Saqqara, 5th Dynasty, rel, OE
+# text = n psḥ św Wni҆ś
+# lit = "Unas did not bite him."
+# trans = "Unas did not bite him."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	psḥ	psḥ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+
+# sent_id = UDE-757
+# ref = PT § 232a W, Saqqara, 5th Dynasty, rel, OE
+# text = śwt i҆i҆ r Wni҆ś
+# lit = “It was he who came against Unas.”
+# trans = “It was he who came against Unas.”
+# type = Nominal sentence (i҆nk)
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	i҆i҆	i҆wi̯	NOUN	Tense=Past|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obl	_	_
+
+# sent_id = UDE-758
+# ref = Pyramid Texts § 232a W, Saqqara, 5th Dynasty, rel, OE
+# text = n šm Wni҆ś r ⸗f
+# lit = "Unas did not go against him."
+# trans = "Unas did not go against him."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	šm	šm	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	r	r	ADP	Pron.st	Case=All	4	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-759
+# ref = PT § 232b W, Saqqara, 5th Dynasty, rel, OE
+# text = šsp <sp> 2 n mꜣꜣ ⸗f Wni҆ś
+# lit = “Wellcome, twice, for he sees Unas.”
+# trans = “Wellcome, wellcome, for he sees Unas.”
+# type = Verbal sentence
+1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+2	<sp>	sp	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3	2	2	NUM	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
+4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
+5	mꜣꜣ	mꜣꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
+
