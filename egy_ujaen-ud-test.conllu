@@ -11653,3 +11653,14 @@
 3	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 
+# sent_id = UDE-765
+# ref = Pyramid Texts § 234a W, Saqqara, 5th Dynasty, rel, OE
+# text = šn(.w) mč̣r ḥꜣ rḫ.(w)t
+# lit = "The male (?) was encircled (certainly) around the plebs."
+# trans = "It is the around the plebs that the male (?) was encircled."
+# type = Cleft sentence with adverbial focus
+1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	mč̣r	mč̣r	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	ḥꜣ	ḥꜣ	ADP	Cons.st	_	4	case	_	_
+4	rḫ.(w)t	rḫ.wt	NOUN	_	Gender=Fem|Number=Coll	1	obl:agent	_	_
+
