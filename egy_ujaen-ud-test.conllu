@@ -11525,3 +11525,15 @@
 16	psḥ	psḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Act	14	nmod	_	_
 17	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 
+# sent_id = UDE-755
+# ref = Pyramid Texts § 231c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n s pn psḥ Wni҆ś
+# lit = “It is this person who has bitten Unas.”
+# trans = “It is this person who has bitten Unas.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	s	s	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	psḥ	psḥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	obj	_	_
+
