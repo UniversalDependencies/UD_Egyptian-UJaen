@@ -11501,3 +11501,27 @@
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
 4	nꜥw	nꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
 
+# sent_id = UDE-754
+# ref = PT § 231a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ Rꜥw psḥ n Wni҆ś tꜣ psḥ n Wni҆ś Gb(b) psḥ n Wni҆ś i҆t n(.i҆) psḥ św
+# lit = “O Re, bite for Unas the earth, bite for Unas Geb, bite for Unas the father of the one who would bit him.”
+# trans = “O Re, bite for Unas the earth, bite for Unas Geb, bite for Unas the father of the one who would bit him.”
+# type = Verbal sentence
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	vocative	_	_
+3	psḥ	psḥ	VERB	Imp	Mood=Imp	0	root	_	_
+4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obl	_	_
+6	tꜣ	tꜣ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+7	psḥ	psḥ	VERB	Imp	Mood=Imp	3	conj	_	_
+8	n	n	ADP	Cons.st	Case=Ben	9	case	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	obl	_	_
+10	Gb(b)	Gbb	PROPN	_	Gender=Masc	7	obj	_	_
+11	psḥ	psḥ	VERB	Imp	Mood=Imp	3	conj	_	_
+12	n	n	ADP	Cons.st	Case=Ben	13	case	_	_
+13	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	obl	_	_
+14	i҆t	i҆t	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
+15	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	_
+16	psḥ	psḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Act	14	nmod	_	_
+17	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+
