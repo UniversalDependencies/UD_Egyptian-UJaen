@@ -11490,3 +11490,14 @@
 5	i҆n	i҆n	ADP	Cons.st	_	6	case	_	_
 6	Mꜣfṭ.t	Mꜣfṭ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
 
+# sent_id = UDE-753
+# ref = Pyramid Texts § 230d W, Saqqara, 5th Dynasty, rel, OE
+# text = p{n}<s>ḥ(.w) śbꜣg i҆n nꜥw 
+# lit = “He who was made weary was bitten (certainly) by the serpent.”
+# trans = “It is by the serpent that he who was made weary was bitten.”
+# type = Cleft sentence with adverbial focus
+1	p{n}<s>ḥ(.w)	psḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	śbꜣg	bꜣgi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Cau	1	nsubj:pass	_	_
+3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
+4	nꜥw	nꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
+
