@@ -11574,7 +11574,7 @@
 # sent_id = UDE-759
 # ref = PT § 232b W, Saqqara, 5th Dynasty, rel, OE
 # text = šsp <sp> 2 n mꜣꜣ ⸗f Wni҆ś
-# lit = “Wellcome, twice, for he sees Unas.”
+# lit = “Receive, twice, for he sees Unas.”
 # trans = “Wellcome, wellcome, for he sees Unas.”
 # type = Verbal sentence
 1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
@@ -11582,6 +11582,20 @@
 3	2	2	NUM	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
 5	mꜣꜣ	mꜣꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
+
+# sent_id = UDE-760
+# ref = PT § 232b W, Saqqara, 5th Dynasty, rel, OE
+# text = šsp <sp> 2 n ṭgg ⸗f Wni҆ś
+# lit = “Receive, twice, for he looks at Unas.”
+# trans = “Wellcome, wellcome, for he looks at Unas.”
+# type = Verbal sentence
+1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+2	<sp>	sp	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3	2	2	NUM	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
+4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
+5	ṭgg	ṭgi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
 
