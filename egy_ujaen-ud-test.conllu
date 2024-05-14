@@ -11693,3 +11693,22 @@
 6	nn	nn	ADV	_	AdvType=Loc	1	advmod	_	_
 7	śrḳ.t	śrḳ.t	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	_
 
+# sent_id = UDE-768
+# ref = Pyramid Texts § 234b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = čꜣs(.wi҆) nw n.(i҆)w Ꜣbw i҆m.(i҆)w rʾ n(.i҆) Wśr(.w) č(ꜣ)s.wn Ḥr.w ḥr bḳś.w
+# lit = “These (are) the two spells of Elephantine that are in the mouth of Osiris, which Horus has knotted on the spine.”
+# trans = “These (are) the two spells of Elephantine that are in the mouth of Osiris, which Horus has knotted on the spine.”
+# type = Nominal sentence (A pw)
+1	čꜣs(.wi҆)	čꜣs	NOUN	_	Gender=Masc|Number=Dual	2	nsubj	_	_
+2	nw	nw	DET	Dem	Gender=Com|Number=Plur|PronType=Dem	1	nsubj	_	_
+3	n.(i҆)w	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Plur	1	amod	_	_
+4	Ꜣbw	Ꜣbw	PROPN	_	_	1	nmod	_	_
+5	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	amod	_	_
+6	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+7	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+8	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	6	nmod	_	_
+9	č(ꜣ)s.wn	čꜣs	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Fin	1	acl	_	_
+10	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	9	nsubj	_	_
+11	ḥr	ḥr	ADP	Cons.st	_	12	case	_	_
+12	bḳś.w	bḳś.w	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+
