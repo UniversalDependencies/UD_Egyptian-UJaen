@@ -11645,8 +11645,8 @@
 # sent_id = UDE-764
 # ref = PT § 233b W, Saqqara, 5th Dynasty, rel, OE
 # text = šn(.w) p.t šn(.w) tꜣ
-# lit = “Sky was encircled - earth was encircled.”
-# trans = “(Both of them:) sky was encircled, and earth was encircled.”
+# lit = “Sky was enchanted - earth was enchanted.”
+# trans = “(Both of them:) sky was enchanted, and earth was enchanted.”
 # type = Balanced sentence
 1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj:pass	_	_
@@ -11656,11 +11656,25 @@
 # sent_id = UDE-765
 # ref = Pyramid Texts § 234a W, Saqqara, 5th Dynasty, rel, OE
 # text = šn(.w) mč̣r ḥꜣ rḫ.(w)t
-# lit = "The male (?) was encircled (certainly) around the plebs."
-# trans = "It is the around the plebs that the male (?) was encircled."
+# lit = "The male (?) was enchanted (certainly) around the plebs."
+# trans = "It is the around the plebs that the male (?) was enchanted."
 # type = Cleft sentence with adverbial focus
 1	šn(.w)	šni̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	mč̣r	mč̣r	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
 3	ḥꜣ	ḥꜣ	ADP	Cons.st	_	4	case	_	_
 4	rḫ.(w)t	rḫ.wt	NOUN	_	Gender=Fem|Number=Coll	1	obl:agent	_	_
+
+# sent_id = UDE-766
+# ref = Pyramid Texts § 234a W, Saqqara, 5th Dynasty, rel, OE
+# text = šn-t(i҆) nčr šp ṭp ⸗f
+# lit = "One shall enchant the god whose head is blind."
+# trans = "One shall enchant the god with a bild head."
+# type = Verbal sentence
+1-2	šn-t(i҆)	_	_	_	_	_	_	_	_
+1	šn	šni̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	šp	šp	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	amod	_	_
+5	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
