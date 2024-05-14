@@ -11599,3 +11599,17 @@
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
 
+# sent_id = UDE-761
+# ref = PT § 232c W, Saqqara, 5th Dynasty, rel, OE
+# text = psḥ ⸗k Wni҆ś č̣ ⸗f wꜥ ⸗k
+# lit = “(If) you bite Unas, he shall cause in order that you be alone.”
+# trans = If you bites Unas, he shall cause you to be alone.”
+# type = Verbal sentence with a verbal topic
+1	psḥ	psḥ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
+4	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+6	wꜥ	wꜥi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+
