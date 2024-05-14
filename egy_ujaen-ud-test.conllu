@@ -11609,7 +11609,7 @@
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 4	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	wꜥ	wꜥi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 
@@ -11623,7 +11623,7 @@
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 4	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	śnnw	śnnw	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 
@@ -11677,4 +11677,19 @@
 4	šp	šp	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	amod	_	_
 5	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-767
+# ref = Pyramid Texts § 234a W, Saqqara, 5th Dynasty, rel, OE
+# text = šn-t(i҆) ⸗č č̣ś ⸗č nn śrḳ.t
+# lit = "One shall enchant you, i.e. your body, here, scorpion."
+# trans = "One shall enchant you yourself here, O you scorpion."
+# type = Verbal sentence
+1-2	šn-t(i҆)⸗č	_	_	_	_	_	_	_	_
+1	šn	šni̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗č	č	PRON	SFP|Obj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+4	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	3	appos	_	_
+5	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	nn	nn	ADV	_	AdvType=Loc	1	advmod	_	_
+7	śrḳ.t	śrḳ.t	NOUN	_	Gender=Fem|Number=Sing	3	dislocated	_	_
 
