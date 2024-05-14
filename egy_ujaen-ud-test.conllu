@@ -11454,3 +11454,39 @@
 3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
 4	bꜣbꜣ	bꜣbꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
+# sent_id = UDE-750
+# ref = PT § 230b W, Saqqara, 5th Dynasty, rel, OE
+# text = śt mw ꜥḥꜥ č̣r.ti҆
+# lit = “Pour out the waters, while the two kites stand up.”
+# trans = “Pour out the water, while the two kites stand up.”
+# type = Verbal sentence
+1	śt	śti̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	1	obj	_	_
+3	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	č̣r.ti҆	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+
+# sent_id = UDE-751
+# ref = Pyramid Texts § 230c W, Saqqara, 5th Dynasty, rel, OE
+# text = tmm rʾ ⸗k i҆n š(m)ś.t
+# lit = "Your mouth will be closed (certainly) by the instrument of punishment."
+# trans = "It is by the instrument of punishment that your mouth will be closed."
+# type = Cleft sentence with adverbial focus
+1	tmm	tmm	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+4	i҆n	i҆n	ADP	Cons.st	_	5	case	_	_
+5	š(m)ś.t	š(m)ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obl:agent	_	_
+
+# sent_id = UDE-752
+# ref = Pyramid Texts § 230c W, Saqqara, 5th Dynasty, rel, OE
+# text = tmm rʾ n(.i҆) š(m)ś.t i҆n Mꜣfṭ.t
+# lit = "The mouth of the instrument of punishment will be closed (certainly) by Mafdet."
+# trans = "It is by Mafdet that the mouth of the instrument of punishment will be closed."
+# type = Cleft sentence with adverbial focus
+1	tmm	tmm	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	š(m)ś.t	š(m)ś.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	i҆n	i҆n	ADP	Cons.st	_	6	case	_	_
+6	Mꜣfṭ.t	Mꜣfṭ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+
