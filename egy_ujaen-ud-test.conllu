@@ -11794,3 +11794,20 @@
 2	ḫm(.w)	ḫm	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
 3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 
+# sent_id = UDE-776
+# ref = PT § 237a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫr č̣.t pr.t m tꜣ ḫr śč̣.t pr.t m Nw.w
+# lit = “The cobra that came from the earth falls - the flame that came from Nu falls.”
+# trans = “(Both of them:) The cobra that came from the earth shall fall, and the flame that came from Nu shall fall.”
+# type = Balanced sentence
+1	ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	č̣.t	č̣.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	pr.t	pri̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	amod	_	_
+4	m	m	ADP	Cons.st	Case=Ela	5	case	_	_
+5	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	śč̣.t	śč̣.t	NOUN	Subj	Gender=Fem|Number=Sing	6	nsubj	_	_
+8	pr.t	pri̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	amod	_	_
+9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
+10	Nw.w	Nw.w	PROPN	_	_	8	obl	_	_
+
