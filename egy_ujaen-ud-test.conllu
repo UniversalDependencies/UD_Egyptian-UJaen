@@ -11278,11 +11278,11 @@
 
 # sent_id = UDE-737
 # ref = PT § 226a W, Saqqara, 5th Dynasty, rel, OE
-# text = hi҆w śč̣r sbn ḫr ḥm-pśč̣.t m mw
+# text = hi҆.w śč̣r sbn ḫr ḥm-pśč̣.t m mw
 # lit = “Monster, lie down, crawl away, that the Sunlight's Servant (i.e. pelican) may fell into the water.”
 # trans = “Monster, lie down, crawl away, that the Sunlight's Servant (i.e. pelican) may fell into the water.”
 # type = Verbal sentence
-1	hi҆w	hi҆w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+1	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
 2	śč̣r	śč̣r	VERB	Imp	Mood=Imp	0	root	_	_
 3	sbn	sbn	VERB	Imp	Mood=Imp	2	conj	_	_
 4	ḫr	ḫr	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
@@ -11906,4 +11906,13 @@
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
 7	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-784
+# ref = PT § 241b W, Saqqara, 5th Dynasty, rel, OE
+# text = hi҆.w śč̣r
+# lit = “Monster, lie down.”
+# trans = “Monster, lie down.”
+# type = Verbal sentence
+1	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+2	śč̣r	śč̣r	VERB	Imp	Mood=Imp	0	root	_	_
 
