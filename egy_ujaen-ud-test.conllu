@@ -11771,3 +11771,16 @@
 8	sp	sp	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
 9	2	2	NUM	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
 
+# sent_id = UDE-774
+# ref = PT § 236c W, Saqqara, 5th Dynasty, rel, OE. Cf. UDE-734
+# text = mi҆.ti҆ mi҆.ti҆ i҆ꜥ.ti҆ ḫꜣś.t n (⸗i҆)
+# lit = “Fluid one, fluid one, you shall wash the desert for (me).”
+# trans = “Fluid one, fluid one, you shall wash the desert for (me).”
+# type = Verbal sentence
+1	mi҆.ti҆	mi҆.ti҆	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
+2	mti҆	mti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+3	i҆ꜥ.ti҆	i҆ꜥi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	ḫꜣś.t	ḫꜣś.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
+6	(⸗i҆)	i҆	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
