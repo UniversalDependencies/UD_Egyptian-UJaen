@@ -11882,3 +11882,28 @@
 8	i҆ty	i҆ty	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 9	i҆ꜣi҆	i҆ꜣi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	amod	_	_
 
+# sent_id = UDE-782
+# ref = Pyramid Texts § 241a W, Saqqara, 5th Dynasty, rel, OE
+# text = tf i҆tm(.w)
+# lit = "The spittle is failed."
+# trans = "The spittle is failed."
+# type = Verbal sentence
+1	tf	tf	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	i҆tm(.w)	tm	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+
+# sent_id = UDE-783
+# ref = Pyramid Texts § 241a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆m(.i҆) i҆bw skr(.w) i҆r pr n(.i҆) mw.t ⸗f
+# lit = "The one who is in Ibu has rushed to the house of his mother."
+# trans = "The one who is in Ibu has rushed to the house of his mother."
+# type = Verbal sentence
+1-2	i҆m(.i҆)-i҆bw	_	_	_	_	_	_	_	_
+1	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	i҆bw	i҆bw	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
+3	skr(.w)	skr	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	i҆r	r	ADP	Cons.st	Case=All	5	case	_	_
+5	pr	pr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
