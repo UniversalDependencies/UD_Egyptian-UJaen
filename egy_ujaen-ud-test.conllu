@@ -11746,3 +11746,28 @@
 3	mtꜣ	mtꜣ	NOUN	_	_	1	nmod	_	_
 4	śḫr.w	ḫr	VERB	OSSC|Stat	Gender=Com|Number=Plur|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	_
 
+# sent_id = UDE-772
+# ref = Pyramid Texts § 235b W, Saqqara, 5th Dynasty, rel, OE
+# text = Ḥmn pi҆
+# lit = “Hemen (is) this.”
+# trans = “This is Hemen.”
+# type = Nominal sentence (A pw)
+1	Ḥmn	Ḥmn	PROPN	_	Gender=Masc	0	root	_	_
+2	pi҆	pi҆	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+
+# sent_id = UDE-773
+# ref = PT § 236a-b W, Saqqara, 5th Dynasty, rel, OE. For the meaning of ꜣw see Wb. I 5, 12.
+# text = mti҆ mti҆ mtw.ti҆ mtw.ti҆ ꜣw mw.t ⸗f sp 2
+# lit = “Vessel, vessel, seminal one, seminal one, announce (?) his mother - twice.”
+# trans = “O vessel, vessel, O seminal one, seminal one, announce (?) his mother - twice.”
+# type = Verbal sentence
+1	mti҆	mti҆	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	_
+2	mti҆	mti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+3	mtw.ti҆	mtw.ti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+4	mtw.ti҆	mtw.ti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+5	ꜣw	ꜣw	VERB	Imp	Mood=Imp	0	root	_	_
+6	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	sp	sp	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
+9	2	2	NUM	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
+
