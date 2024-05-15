@@ -11424,7 +11424,7 @@
 14	Wnw	Wnw	PROPN	_	_	11	obl	_	_
 
 # sent_id = UDE-747
-# ref = PT § 229c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 229c/237b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆ḫr sbn
 # lit = “Fall down, crawl away.”
 # trans = “Fall down and crawl away.”
@@ -11810,4 +11810,18 @@
 8	pr.t	pri̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	amod	_	_
 9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
 10	Nw.w	Nw.w	PROPN	_	_	8	obl	_	_
+
+# sent_id = UDE-777
+# ref = Pyramid Texts § 238a, Saqqara, 5th Dynasty, rel, OE
+# text = ḥr (⸗i҆) ḥr ⸗k ḥr(.i҆) ri҆.t ⸗f
+# lit = "(My) face is on you, the one who is on his coil."
+# trans = "(My) face is on you, you on his coil."
+# type = Adverbial sentence
+1	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+3	ḥr	ḥr	ADP	Pron.st	Case=Sup	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Case=Sup|Gender=Masc|Number=Sing	4	appos	_	_
+6	ri҆.t	ri҆.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
