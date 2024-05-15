@@ -11735,3 +11735,14 @@
 1	i҆b(.w)	i҆b	NOUN	Subj	Gender=Masc|Number=Plur	2	nsubj	_	_
 2	č̣r.w	č̣r	VERB	OSSC|Stat	Gender=Com|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 
+# sent_id = UDE-771
+# ref = Pyramid Texts § 235a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆wn.ti҆(w) i҆m.(i҆)w mtꜣ śḫr.w
+# lit = "The bowmen who are in Meta (?) were felled."
+# trans = "The bowmen who are in Meta (?) were felled."
+# type = Verbal sentence
+1	i҆wn.ti҆(w)	i҆wn.ti҆w	NOUN	Subj	Gender=Masc|Number=Plur	4	nsubj	_	_
+2	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	amod	_	_
+3	mtꜣ	mtꜣ	NOUN	_	_	1	nmod	_	_
+4	śḫr.w	ḫr	VERB	OSSC|Stat	Gender=Com|Number=Plur|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	_
+
