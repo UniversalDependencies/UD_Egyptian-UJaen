@@ -11825,3 +11825,17 @@
 6	ri҆.t	ri҆.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-778
+# ref = PT § 238a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ ḥr č(ꜣ)s ⸗k i҆m(.i҆) nꜣw.t ⸗f
+# lit = “Go down on your vertebra, the one who is in his bush.”
+# trans = “Go down on your vertebra, O you in his bush.”
+# type = Verbal sentence
+1	hꜣ	hꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+2	ḥr	ḥr	ADP	Pron.st	Case=Sup	3	case	_	_
+3	č(ꜣ)s	čꜣs	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	vocative	_	_
+6	nꜣw.t	nꜣw.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
