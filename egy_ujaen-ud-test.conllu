@@ -11839,3 +11839,17 @@
 6	nꜣw.t	nꜣw.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-779
+# ref = PT § 238b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥm n (⸗i҆) ḥkn.t m ḥr(.wi҆) śn.wi҆
+# lit = “Turn back because of (me), the one who praises with two faces.”
+# trans = “Turn back because of (me), you the one who praises with two faces.”
+# type = Verbal sentence
+1	ḥm	ḥmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
+4	ḥkn.t	ḥkn	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	1	vocative	_	_
+5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
+6	ḥr(.wi҆)	ḥr	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
+7	śn.wi҆	śn.w	NUM	ADJ	Gender=Masc|Number=Dual	6	amod	_	_
+
