@@ -11784,3 +11784,13 @@
 5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
 6	(⸗i҆)	i҆	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-775
+# ref = PT § 236c W, Saqqara, 5th Dynasty, rel, OE
+# text = (i҆)m ḫm(.w) w(i҆)
+# lit = “Don't ignore me.”
+# trans = “Don't ignore me.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+2	ḫm(.w)	ḫm	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
+
