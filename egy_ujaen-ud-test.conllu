@@ -11977,10 +11977,33 @@
 # sent_id = UDE-789
 # ref = Pyramid Texts § 244a W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣.t i҆r p.t
-# lit = "The cobra (goes) to the sky."
-# trans = "The cobra (goes) to the sky."
+# lit = "The cobra (is) to the sky."
+# trans = "The cobra (is) to the sky."
 # type = Adverbial sentence
 1	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
-2	i҆r	r	ADP	Cons.st	Case=All	3	case	_	_
+2	i҆r	r	ADP	Cons.st	_	3	case	_	_
 3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = UDE-790
+# ref = Pyramid Texts § 244a W, Saqqara, 5th Dynasty, rel, OE
+# text = spꜣ Ḥr.w i҆r tꜣ
+# lit = "The centipede of Horus (is) to the earth."
+# trans = "The centipede of Horus (is) to the earth."
+# type = Adverbial sentence
+1	spꜣ	spꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	i҆r	r	ADP	Cons.st	_	4	case	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-791
+# ref = Pyramid Texts § 244b W, Saqqara, 5th Dynasty, rel, OE
+# text = nr kꜣ Ḥr.w ḫnṭ ⸗f
+# lit = “The ox-herd, Horus, he treads.”
+# trans = “The ox-herd, Horus, he treads.”
+# type = Verbal sentence
+1	nr	nr	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_
+2	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	appos	_	_
+4	ḫnṭ	ḫnṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 
