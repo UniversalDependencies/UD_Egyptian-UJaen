@@ -11954,7 +11954,23 @@
 # type = Verbal sentence
 1	pr	pri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	ḥč̣.t	ḥč̣.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj	_	_
-3	ꜥm.n	ꜥm.n	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+3	ꜥm.n	ꜥm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	wr.t	wr.t	NOUN	Subj	Gender=Fem|Number=Sing	3	obj	_	_
+
+# sent_id = UDE-788
+# ref = Pyramid Texts § 243b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥm.n nś ḥč̣.t wr.t n mꜣ-ti҆ nś
+# lit = “The White Crown's tongue has swallowed the Great One (certainly) without one being able to see the tongue.”
+# trans = “It is without one being able to see the tongue how the White Crown's tongue has swallowed the Great One.”
+# type = Verbal sentence
+1	ꜥm.n	ꜥm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nś	nś	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	ḥč̣.t	ḥč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	wr.t	wr.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
+5	n	n	PART	Neg	PartType=Neg	6	advmod	_	_
+6-7	mꜣ-ti҆	_	_	_	_	_	_	_	_
+6	mꜣ	mꜣꜣ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	1	advcl	_	_
+7	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	nś	nś	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
 
