@@ -12085,3 +12085,19 @@
 13	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	12	appos	_	_
 14	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	13	nmod	_	_
 
+# sent_id = UDE-797
+# ref = Pyramid Texts § 247a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḫm(.w) śč̣.t n gm(.w) tkꜣ m pr ẖr(.i҆) nbw.t(i҆)
+# lit = "(When) the flame was estinguished, no lamp was found in the house which is under the Ombite."
+# trans = "(When) the flame was estinguished, no lamp was found in the house where the Ombite is."
+# type = Verbal sentence
+1	ꜥḫm(.w)	ꜥḫm	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	4	dislocated	_	_
+2	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+4	gm(.w)	gmi̯	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	tkꜣ	tkꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+7	pr	pr	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+8	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	7	amod	_	_
+9	nbw.t(i҆)	Nbw.t	NOUN	NisbaNoun	Gender=Masc|Number=Sing	7	nmod	_	_
+
