@@ -12049,3 +12049,18 @@
 3	čpḥ.t	čpḥ.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
+# sent_id = UDE-795
+# ref = Pyramid Texts § 245b W, Saqqara, 5th Dynasty, rel, OE, see Allen 2017: 135.
+# text = ḫꜣnf.t Ḥr.w ḫt.t tꜣ i҆ i҆m hi҆.w sbn(.w)
+# lit = "The cooking-pot of Horus that pervades the earth, O, make the monster crawl away."
+# trans = "O cooking-pot of Horus that pervades the earth, make the monster crawl away."
+# type = Verbal sentence 
+1	ḫꜣnf.t	ḫꜣnf.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	vocative	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	ḫt.t	ḫt	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	1	amod	_	_
+4	tꜣ	tꜣ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
+5	i҆	i҆	INTJ	_	_	6	discourse	_	_
+6	i҆m	rč̣i̯	VERB	Imp	Mood=Imp	0	root	_	_
+7	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+8	sbn(.w)	sbn	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	_
+
