@@ -11946,3 +11946,15 @@
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	conj	_	_
 9	I҆k(i҆)-nhy	I҆ki҆-nhy	PROPN	_	Gender=Masc	8	dislocated	_	_
 
+# sent_id = UDE-787
+# ref = Pyramid Texts § 243a W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ḥč̣.t ꜥm.n ⸗ś wr.t
+# lit = “The White Crown shall go forth having swallowed the Great One.”
+# trans = “You shall provide your face with it, that it may cleanse you.”
+# type = Verbal sentence
+1	pr	pri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	ḥč̣.t	ḥč̣.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	ꜥm.n	ꜥm.n	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	wr.t	wr.t	NOUN	Subj	Gender=Fem|Number=Sing	3	obj	_	_
+
