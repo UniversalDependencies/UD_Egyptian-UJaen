@@ -11812,7 +11812,7 @@
 10	Nw.w	Nw.w	PROPN	_	_	8	obl	_	_
 
 # sent_id = UDE-777
-# ref = Pyramid Texts § 238a, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 238a W, Saqqara, 5th Dynasty, rel, OE
 # text = ḥr (⸗i҆) ḥr ⸗k ḥr(.i҆) ri҆.t ⸗f
 # lit = "(My) face is on you, the one who is on his coil."
 # trans = "(My) face is on you, you on his coil."
@@ -12023,4 +12023,29 @@
 8	ny	n	PART	Neg	PartType=Neg	9	advmod	_	_
 9	ḫm	ḫm	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	1	advcl	_	_
 10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	9	nsubj	_	_
+
+# sent_id = UDE-793
+# ref = Pyramid Texts § 245a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥr (⸗i҆) ḥr ⸗k i҆m(.i҆) nꜣw.t ⸗f
+# lit = "(My) face is on you, the one who is in his bush."
+# trans = "(My) face is on you, O you in his bush."
+# type = Adverbial sentence
+1	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+3	ḥr	ḥr	ADP	Pron.st	Case=Sup	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	dislocated	_	_
+6	nꜣw.t	nꜣw.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-794
+# ref = Pyramid Texts § 245a W, Saqqara, 5th Dynasty, rel, OE
+# text = śčꜣs.ti҆ i҆m(.i҆) čpḥ.t ⸗f
+# lit = “You shall be dragged off, O you who are in his cave.”
+# trans = “You shall be dragged off, O you who are in his cave.”
+# type = Verbal sentence
+1	śčꜣs.ti҆	śčꜣs	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Cau	0	root	_	_
+2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	vocative	_	_
+3	čpḥ.t	čpḥ.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
