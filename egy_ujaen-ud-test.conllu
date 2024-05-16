@@ -12101,3 +12101,20 @@
 8	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	7	amod	_	_
 9	nbw.t(i҆)	Nbw.t	NOUN	NisbaNoun	Gender=Masc|Number=Sing	7	nmod	_	_
 
+# sent_id = UDE-798
+# ref = Pyramid Texts § 247a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥfꜣ psḥ ḫtḫt pr psḥ ⸗f i҆mn ⸗f i҆m ⸗f
+# lit = "The biting snake is all over the house of him whom it would bite and it hides in it."
+# trans = "The biting snake is all over the house of him whom it would bite, hiding in it."
+# type = Adverbial sentence
+1	ḥfꜣ	ḥfꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	psḥ	psḥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	amod	_	_
+3	ḫtḫt	ḫtḫt	ADP	Cons.st	_	4	case	_	_
+4	pr	pr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	psḥ	psḥ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	i҆mn	i҆mn	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	i҆m	m	ADP	Pron.st	Case=Loc	10	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+
