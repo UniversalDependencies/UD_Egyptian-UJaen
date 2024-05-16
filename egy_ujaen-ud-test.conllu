@@ -12064,3 +12064,24 @@
 7	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
 8	sbn(.w)	sbn	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	_
 
+# sent_id = UDE-796
+# ref = Pyramid Texts § 246a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆š.w i҆nb ḳꜣꜥ.w č̣b.t n(i҆).y nw pr m rʾ ⸗k r ⸗k č̣ś ⸗k
+# lit = "The expectoration of a wall, the vomit of a brick, that which came from your mouth was turned back against you, your body."
+# trans = "O you expectoration of a wall, you vomit of a brick, that which came from your mouth was turned back against yourself."
+# type = Verbal sentence 
+1	i҆š.w	i҆šš	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	5	dislocated	_	_
+2	i҆nb	i҆nb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	ḳꜣꜥ.w	ḳꜣꜥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	5	dislocated	_	_
+4	č̣b.t	č̣b.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	n(i҆).y	ni҆	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	_
+7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	_
+8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+9	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+11	r	r	ADP	Pron.st	_	12	case	_	_
+12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	root	_	_
+13	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	12	appos	_	_
+14	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	13	nmod	_	_
+
