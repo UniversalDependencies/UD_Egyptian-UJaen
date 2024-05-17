@@ -12210,3 +12210,12 @@
 10	n	n	ADP	Pron.st	Case=Cau	11	case	_	_
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
 
+# sent_id = UDE-806
+# ref = Pyramid Texts § 218b W, Saqqara, 5th Dynasty, rel, OE
+# text = śč̣ ṭšr.t
+# lit = "Breaking the red jars."
+# trans = "Breaking the red jars."
+# type = Narrative Infinitive
+1	śč̣	śč̣	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
+2	ṭšr.t	ṭšr.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+
