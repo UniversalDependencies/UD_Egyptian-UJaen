@@ -12344,3 +12344,15 @@
 11	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
 12	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
 
+# sent_id = UDE-814
+# ref = Pyramid Texts § 251c W, Saqqara, 5th Dynasty, rel, OE
+# text = čwt ꜥḥꜥ.ti҆ ḥr.t(i҆) r ⸗f
+# lit = "You stand and you are far off from him."
+# trans = "You stand far off from him."
+# type = Verbal sentence
+1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	ꜥḥꜥ.ti҆	ꜥḥꜥ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+3	ḥr.t(i҆)	ḥri̯	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	2	conj	_	_
+4	r	r	ADP	Pron.st	_	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
