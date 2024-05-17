@@ -12324,3 +12324,23 @@
 18	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	17	fixed	_	_
 19	Nw.t	Nw.t	PROPN	_	Gender=Fem	15	obl	_	_
 
+# sent_id = UDE-813
+# ref = PT § 251b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥw ꜣ mꜣ ⸗k ḥr-ṭp Wśr(.w) wč̣ ⸗f mṭ(w) n ꜣḫ(.w)
+# lit = “May you just look upon Osiris when he commands the word to the spirits.”
+# trans = “May you just look upon Osiris when he governs the spirits.”
+# type = Verbal sentence
+1	ḥw	ḥw	INTJ	_	_	3	discourse	_	_
+2	ꜣ	ꜣ	PART	_	PartType=Mod	3	discourse	_	_
+3	mꜣ	mꜣꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5-6	ḥr-ṭp	_	_	_	_	_	_	_	_
+5	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
+6	ṭp	ṭp	NOUN	MWE	Gender=Masc|Number=Sing	5	fixed	_	_
+7	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	obl	_	_
+8	wč̣	wč̣	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	mṭ(w)	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	8	obj	_	_
+11	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
+12	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
+
