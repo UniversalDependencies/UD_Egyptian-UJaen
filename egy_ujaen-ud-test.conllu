@@ -12251,3 +12251,20 @@
 5	r	r	ADP	Cons.st	_	6	case	_	_
 6	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-809
+# ref = PT § 250b W, Saqqara, 5th Dynasty, rel, OE
+# text = fḫ.n ⸗f Ḥr.w m-ḫt ⸗f
+# lit = “It is behind him that he left Horus.”
+# trans = “It is behind him that he left Horus.”
+# type = Cleft sentence with adverbial focus
+1	fḫ.n	fḫ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
+4-5	m-ḫt	_	_	_	_	_	_	_	_
+4	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+5	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+
+
+
