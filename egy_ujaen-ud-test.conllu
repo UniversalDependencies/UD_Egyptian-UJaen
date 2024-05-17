@@ -12134,3 +12134,14 @@
 8	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	7	case	_	_
 9	ti҆	ti҆	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	_
 
+# sent_id = UDE-800
+# ref = PT § 248a W, Saqqara, 5th Dynasty, rel, OE
+# text = rw rw r ⸗k
+# lit = “Lion, go away!”
+# trans = “Lion, go away!”
+# type = Verbal sentence
+1	rw	rw	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+2	rw	rwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
+
