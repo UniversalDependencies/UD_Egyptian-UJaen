@@ -12273,18 +12273,26 @@
 # type = Cleft sentence with adverbial focus
 1	rṭ	rṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	č̣nḥ(.wi҆)	č̣nḥ	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
-3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
 5	bi҆k	bi҆k	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
 # sent_id = UDE-811
-# ref = Pyramid Texts § 250c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆(w) šw.ti҆ m gmḥś.w
-# lit = "His two plumes are (those of) a hawk."
-# trans = "His two plumes are (those of) a hawk."
+# ref = Pyramid Texts § 250c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(w) šw.ti҆ m gmḥś.w i҆n.n św bꜣ ⸗f ḥtm.n św ḥkꜣ(.w) ⸗f
+# lit = "The two plumes are (those of) a hawk after his ba fetched him, after his magic provided him."
+# trans = "The two plumes are (those of) a hawk, his ba having fetched him, his magic having provided him."
 # type = i҆w + adverbial sentence 
 1	i҆(w)	i҆w	PART	_	_	4	discourse	_	_
 2	šw.ti҆	šw.ti҆	NOUN	_	Gender=Fem|Number=Dual	4	nsubj	_	_
 3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
 4	gmḥś.w	gmḥś.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	i҆n.n	i҆ni҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	_
+6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+7	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	ḥtm.n	ḥtm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
+10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 
