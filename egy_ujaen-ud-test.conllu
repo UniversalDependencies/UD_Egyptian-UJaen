@@ -12211,11 +12211,43 @@
 11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	_
 
 # sent_id = UDE-806
-# ref = Pyramid Texts § 218b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 249b W, Saqqara, 5th Dynasty, rel, OE
 # text = śč̣ ṭšr.t
 # lit = "Breaking the red jars."
 # trans = "Breaking the red jars."
 # type = Narrative Infinitive
 1	śč̣	śč̣	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
 2	ṭšr.t	ṭšr.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-807
+# ref = PT § 250a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆ n ⸗č Wni҆ś pn Nw.t i҆i҆ n ⸗č Wni҆ś pn Nw.t
+# lit = “This Unas comes (certainly) to you, Nut - this Unas comes (certainly) to you, Nut.”
+# trans = “It is to you, Nut, that this Unas comes - It is to you, Nut, that this Unas comes.”
+# type = Two cleft sentences with adverbial focus
+1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Cons.pron	_	3	case	_	_
+3	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	Nw.t	Nw.t	PROPN	_	Gender=Fem	3	dislocated	_	_
+7	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	n	n	ADP	Cons.pron	_	9	case	_	_
+9	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nsubj	_	_
+11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+12	Nw.t	Nw.t	PROPN	_	Gender=Fem	9	dislocated	_	_
+
+# sent_id = UDE-808
+# ref = PT § 250b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḳmꜣ.n ⸗f i҆t ⸗f r tꜣ
+# lit = “It is to the earth that he has cast his father.”
+# trans = “It is in the ground that he has laid his father (i.e. he buried his father).”
+# type = Cleft sentence with adverbial focus
+1	ḳmꜣ.n	ḳmꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	r	r	ADP	Cons.st	_	6	case	_	_
+6	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	1	obl	_	_
 
