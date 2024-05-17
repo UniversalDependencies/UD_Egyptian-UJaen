@@ -12145,3 +12145,27 @@
 3	r	r	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 
+# sent_id = UDE-801
+# ref = Pyramid Texts § 248b W, Saqqara, 5th Dynasty, rel, OE, see Edel 1955/1964: 514 (§ 1004).
+# text = i҆(w) ⸗k tr rr ꜥꜣ
+# lit = "Are you really here?"
+# trans = "Are you really here?"
+# type = i҆w + adverbial sentence
+1	i҆(w)	i҆w	PART	_	_	5	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	tr	tr	PART	_	_	5	discourse	_	_
+4	rr	rri҆	PART	_	_	5	discourse	_	_
+5	ꜥꜣ	ꜥꜣ	ADV	NOUN	AdvType=Loc	0	root	_	_
+
+# sent_id = UDE-802
+# ref = Pyramid Texts § 248b W, Saqqara, 5th Dynasty, rel, OE, see Edel 1955/1964: 514 (§ 1004).
+# text = i҆(w) ⸗k tr rr i҆m
+# lit = "Are you really there?"
+# trans = "Are you really there?"
+# type = i҆w + adverbial sentence
+1	i҆(w)	i҆w	PART	_	_	5	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	tr	tr	PART	_	_	5	discourse	_	_
+4	rr	rri҆	PART	_	_	5	discourse	_	_
+5	i҆m	i҆m	ADV	NOUN	AdvType=Loc	0	root	_	_
+
