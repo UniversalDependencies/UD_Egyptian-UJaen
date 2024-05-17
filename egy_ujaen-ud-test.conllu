@@ -12226,13 +12226,13 @@
 # trans = “It is to you, Nut, that this Unas comes - It is to you, Nut, that this Unas comes.”
 # type = Two cleft sentences with adverbial focus
 1	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	n	n	ADP	Cons.pron	_	3	case	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	Nw.t	Nw.t	PROPN	_	Gender=Fem	3	dislocated	_	_
 7	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-8	n	n	ADP	Cons.pron	_	9	case	_	_
+8	n	n	ADP	Pron.st	_	9	case	_	_
 9	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nsubj	_	_
 11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
@@ -12264,4 +12264,16 @@
 4	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
 5	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-810
+# ref = PT § 250c W, Saqqara, 5th Dynasty, rel, OE
+# text = rṭ č̣nḥ(.wi҆) ⸗f m bi҆k
+# lit = “His two wings grow into (those of a) falcon.”
+# trans = “It is into (those of a) falcon that his wings grow.”
+# type = Cleft sentence with adverbial focus
+1	rṭ	rṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	č̣nḥ(.wi҆)	č̣nḥ	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
+6	bi҆k	bi҆k	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
