@@ -12179,3 +12179,16 @@
 2	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
 3	čf	čf	VERB	Imp	Mood=Imp	0	root	_	_
 
+# sent_id = UDE-804
+# ref = Pyramid Texts § 249a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r.t tw nn [n.t] [Ḥr.w] [rwč̣.t]
+# lit = “The firm eye of Horus is this.”
+# trans = “The firm eye of Horus is this.”
+# type = Nominal sentence (A pw B)
+1	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	3	cop	_	_
+3	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	[n.t]	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	_
+5	[Ḥr.w]	Ḥr.w	PROPN	_	Gender=Masc	1	nmod	_	_
+6	[rwč̣.t]	rwč̣	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	amod	_	_
+
