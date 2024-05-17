@@ -12356,3 +12356,26 @@
 4	r	r	ADP	Pron.st	_	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
+# sent_id = UDE-815
+# ref = Pyramid Texts § 251d W, Saqqara, 5th Dynasty, rel, OE
+# text = n čw i҆m ⸗śn
+# lit = "You are not among them."
+# trans = "You are not among them."
+# type = Negative adverbial sentence
+1	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+2	čw	čw	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	i҆m	m	ADP	Pron.st	_	4	case	_	_
+4	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-816
+# ref = Pyramid Texts § 251d W, Saqqara, 5th Dynasty, rel, OE
+# text = n wnn ⸗k i҆m ⸗śn
+# lit = "You will not be among them."
+# trans = "You will not be among them."
+# type = Negative verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	wnn	wnn	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin	0	root	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆m	m	ADP	Pron.st	_	5	case	_	_
+5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+
