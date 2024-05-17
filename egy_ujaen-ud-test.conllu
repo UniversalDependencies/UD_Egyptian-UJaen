@@ -9567,7 +9567,7 @@
 # text = mś.n čw I҆ḫ.t[-wt.t] [śškr.n] [čw] I҆ḫ.t-wr.t n čwt i҆ś Ḥr.w šn(.w) m sꜣ i҆r.t ⸗f
 # lit = “Ikhet[-wetet] has borne you - Ikhet-weret [has adorned you], for you are Horus being encircled with the protection of his Eye.”
 # trans = “(Both of them:) Ikhet[-wetet] has borne you, and Ikhet-weret [has adorned you], for you are Horus encircled with the protection of his Eye.”
-# type = Balanced sentence
+# type = Balanced sentence + nominal sentence (i҆nk)
 1	mś.n	mśi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 3	I҆ḫ.t[-wt.t]	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	1	nsubj	_	_
@@ -12295,4 +12295,32 @@
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 11	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+
+# sent_id = UDE-812
+# ref = PT § 251a W, Saqqara, 5th Dynasty, rel, OE 
+# text = wp ⸗k ś.t ⸗k m p.t m-ꜥb śbꜣ(.w) n.(i҆)w p.t n čwt i҆ś śbꜣ wꜥ.ti҆ r-rmn Nw.t
+# lit = “You shall part your place in the sky in the association of the stars of the sky, for you are the Lone Star at the shoulder of Nut.”
+# trans = “You shall part your place in the sky among the stars of the sky, for you are the Lone Star beside Nut.”
+# type = Verbal sentence + nominal sentence (i҆nk)
+1	wp	wpi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7-8	m-ꜥb	_	_	_	_	_	_	_	_
+7	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+8	ꜥb	ꜥb	NOUN	MWE	Gender=Masc|Number=Sing	7	fixed	_	_
+9	śbꜣ(.w)	śbꜣ	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+10	n.(i҆)w	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Plur	9	amod	_	_
+11	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+12	n	n	ADP	Cons.st	Case=Cau	15	mark	_	_
+13	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+14	i҆ś	i҆ś	PART	Neg	PartType=Emp	13	advmod	_	_
+15	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
+16	wꜥ.ti҆	wꜥ.ti҆	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
+17-18	r-rmn	_	_	_	_	_	_	_	_
+17	r	r	ADP	Cons.st	_	19	case	_	_
+18	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	17	fixed	_	_
+19	Nw.t	Nw.t	PROPN	_	Gender=Fem	15	obl	_	_
 
