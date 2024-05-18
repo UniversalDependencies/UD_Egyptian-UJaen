@@ -12484,3 +12484,14 @@
 19	i҆t(w)	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	iobj	_	_
 20	nčr(.w)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
 
+# sent_id = UDE-823
+# ref = Pyramid Texts § 254b W, Saqqara, 5th Dynasty, rel
+# text = i҆gr n ⸗k nčr(.w)
+# lit = "The gods are silent (certainly) because of you."
+# trans = "It is because of you that the gods are silent."
+# type = Cleft sentence with adverbial focus
+1	i҆gr	gr	VERB	SFC|Pres|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Cau	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+
