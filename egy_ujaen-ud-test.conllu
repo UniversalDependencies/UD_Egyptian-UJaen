@@ -12444,5 +12444,16 @@
 6	mr	mr	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	4	conj	_	_
 7	ꜣ.t	ꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	nmod	_	_
 
-
+# sent_id = UDE-821
+# ref = PT § 253  W, Saqqara, 5th Dynasty, rel, OE
+# text = si҆ i҆n(.w) ⸗f bč śi҆n(.w) ⸗f
+# lit = “His messengers go - his couriers run.”
+# trans = “(Both of them:) His messengers go, and his couriers run.”
+# type = Balanced sentence
+1	si҆	si҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆n(.w)	i҆n	NOUN	Subj	Gender=Masc|Number=Plur	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	bč	bč	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+5	śi҆n(.w)	śi҆n	NOUN	Subj	Gender=Masc|Number=Plur	4	nsubj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
