@@ -6967,13 +6967,13 @@
 
 # sent_id = UDE-471
 # ref = PT § 136a W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wni҆ś śꜣ k(w) ši҆
+# text = hꜣ Wni҆ś sꜣ k(w) ši҆
 # lit = “O Unas, beware yourself of the lake.”
 # trans = “O Unas, beware of the lake.”
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	śꜣ	śꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 4	k(w)	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	ši҆	ši҆	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 
@@ -11047,11 +11047,11 @@
 
 # sent_id = UDE-726
 # ref = PT § 221b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = śꜣ čw č̣r ⸗k pw i҆m(.i҆) tꜣ
+# text = sꜣ čw č̣r ⸗k pw i҆m(.i҆) tꜣ
 # lit = “Beware yourself of this boundary of yours which is on earth.”
 # trans = “Beware of this your boundary on earh.”
 # type = Verbal sentence
-1	śꜣ	śꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	č̣r	č̣r	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
