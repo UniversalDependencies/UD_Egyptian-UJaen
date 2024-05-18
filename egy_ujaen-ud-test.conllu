@@ -12457,3 +12457,17 @@
 5	śi҆n(.w)	śi҆n	NOUN	Subj	Gender=Masc|Number=Plur	4	nsubj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-822
+# ref = Pyramid Texts § 253d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt
+# lit = "They announce (certainly) to the one with sweeping upper arm in the east."
+# trans = "It is to the one with sweeping upper arm in the east that they announce."
+# type = Cleft sentence with adverbial focus
+1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
+4	č̣śr	č̣śr	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	1	iobj	_	_
+5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
+6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
+7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+
