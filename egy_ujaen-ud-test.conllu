@@ -359,7 +359,7 @@
 7	r	r	ADP	Cons.st	Case=All	8	case	_	_
 8	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
-10	mrr	mri̯	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	8	acl	_	_
+10	mrr	mri̯	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	8	acl	_	_
 11	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	10	nsubj	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 13	i҆m	m	ADP	Pron.st	Case=Loc	14	case	_	_
@@ -12458,10 +12458,10 @@
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-822
-# ref = Pyramid Texts § 253d W, Saqqara, 5th Dynasty, rel, OE
-# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt
-# lit = "They announce (certainly) to the one with sweeping upper arm in the east."
-# trans = "It is to the one with sweeping upper arm in the east that they announce."
+# ref = Pyramid Texts § 253d-254a W, Saqqara, 5th Dynasty, rel, OE. For šm.t see Edel 1955/1964: § 739 and Allen 1984: 319 (§ 470), for č̣ṭ(.w) as a relative form see Allen 2017: 188. 
+# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt šm.t wꜥ pn i҆m(.i҆) ⸗k č̣ṭ(.w) nčr
+# lit = "They announce (certainly) to the one with sweeping upper arm in the east the going of this one who is you, of whom the god says: (...)"
+# trans = "It is to the one with sweeping upper arm in the east that they announce that this one who is you goes, of whom the god says: (...)."
 # type = Cleft sentence with adverbial focus
 1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -12470,4 +12470,11 @@
 5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	šm.t	šmi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	1	ccomp	_	_
+9	wꜥ	wꜥ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+11	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	9	appos	_	_
+12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	č̣ṭ(.w)	č̣ṭ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	9	acl	_	_
+14	nčr	nčr	NOUN	Subj|MWE	Gender=Masc|Number=Sing	13	nsubj	_	_
 
