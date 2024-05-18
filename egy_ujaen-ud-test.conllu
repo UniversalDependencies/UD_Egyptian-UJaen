@@ -12459,9 +12459,9 @@
 
 # sent_id = UDE-822
 # ref = Pyramid Texts § 253d-254a W, Saqqara, 5th Dynasty, rel, OE. For šm.t see Edel 1955/1964: § 739 and Allen 1984: 319 (§ 470), for č̣ṭ(.w) as a relative form see Allen 2017: 188. 
-# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt šm.t wꜥ pn i҆m(.i҆) ⸗k č̣ṭ(.w) nčr
-# lit = "They announce (certainly) to the one with sweeping upper arm in the east the going of this one who is you, of whom the god says: (...)"
-# trans = "It is to the one with sweeping upper arm in the east that they announce that this one who is you goes, of whom the god says: (...)."
+# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt šm.t wꜥ pn i҆m(.i҆) ⸗k č̣ṭ(.w) nčr wč̣ ⸗f mṭw n i҆t(w) nčr(.w)
+# lit = "They announce (certainly) to the one with sweeping upper arm in the east the going of this one who is you, of whom the god says that he will command the word to the fathers of the gods."
+# trans = "It is to the one with sweeping upper arm in the east that they announce that this one who is you goes, of whom the god says that he will govern the fathers of the gods."
 # type = Cleft sentence with adverbial focus
 1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -12476,5 +12476,11 @@
 11	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	9	appos	_	_
 12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 13	č̣ṭ(.w)	č̣ṭ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	9	acl	_	_
-14	nčr	nčr	NOUN	Subj|MWE	Gender=Masc|Number=Sing	13	nsubj	_	_
+14	nčr	nčr	NOUN	Subj	Gender=Masc|Number=Sing	13	nsubj	_	_
+15	wč̣	wč̣	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+16	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+17	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	15	obj	_	_
+18	n	n	ADP	Cons.st	Case=Dat	19	case	_	_
+19	i҆t(w)	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	iobj	_	_
+20	nčr(.w)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
 
