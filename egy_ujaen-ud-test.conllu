@@ -12495,3 +12495,32 @@
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
 
+# sent_id = UDE-824
+# ref = PT § 254b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = (w)ṭ.n pśč̣.t ꜥ ⸗śn i҆r rʾ ⸗śn ṭp-rṭ(.wi҆) wꜥ pn i҆m ⸗k č̣ṭ.w nčr wč̣ ⸗f mṭw n i҆t(w) nčr(.w)
+# lit = “The Ennead put their hands on their mouths (certainly) at the feet of this one who is you, of whom the god says that he will command the word to the fathers of the gods.”
+# trans = “The Ennead put their hands on their mouths (certainly) before this one who is you, of whom the god says that he will govern the fathers of the gods.”
+# type = Cleft sentence with adverbial focus
+1	(w)ṭ.n	wṭi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	nsubj	_	_
+3	ꜥ	ꜥ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
+5	i҆r	r	ADP	Pron.st	_	6	case	_	_
+6	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
+8-9	ṭp-rṭ(.wi҆)	_	_	_	_	_	_	_	_
+10	ṭp	ṭp	ADP	Cons.st	_	12	case	_	_
+11	rṭ(.wi҆)	rṭ(.wi҆)	NOUN	MWE	Gender=Masc|Number=Dual	10	fixed	_	_
+12	wꜥ	wꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+13	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+14	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	12	appos	_	_
+15	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nmod	_	_
+16	č̣ṭ.w	č̣ṭ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	12	acl	_	_
+17	nčr	nčr	NOUN	Subj	Gender=Masc|Number=Sing	16	nsubj	_	_
+18	wč̣	wč̣	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	16	ccomp	_	_
+19	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+20	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	18	obj	_	_
+21	n	n	ADP	Cons.st	Case=Dat	22	case	_	_
+22	i҆t(w)	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	18	iobj	_	_
+23	nčr(.w)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
+
