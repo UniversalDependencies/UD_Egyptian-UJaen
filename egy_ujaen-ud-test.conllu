@@ -4461,7 +4461,7 @@
 3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	i҆śšꜣ.w	śẖꜣꜣ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	3	acl	_	_
+6	i҆śšꜣ.w	śẖꜣꜣ	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 
 # sent_id = UDE-300
@@ -12378,4 +12378,42 @@
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	i҆m	m	ADP	Pron.st	_	5	case	_	_
 5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-817
+# ref = Pyramid Texts § 252a W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣ ꜥḥꜥ.t(i҆) Wni҆ś pn m bꜣ
+# lit = "See being stand this Unas as a ram."
+# trans = "See standing this Unas as a ram."
+# type = Verbal sentence
+1	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+2	ꜥḥꜥ.t(i҆)	ꜥḥꜥ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	obj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
+6	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
+# sent_id = UDE-818
+# ref = Pyramid Texts § 252a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92 (§ 10.6)
+# text = ꜥb(.wi҆) ṭp ⸗f śm(ꜣ.wi҆) n čwt i҆ś si҆ km sꜣ si҆.t km.t mś.w si҆.t bꜣḳ.t śnḳ.w fṭ.t wꜣp.t
+# lit = "The two horns of his head are (those of) two wild bulls, for you are dark ram, son of a dark ewe, whom a white ewe bore, whom four ewes suckle."
+# trans = "The two horns of his head are (those of) two wild bulls, for you are dark ram, son of a dark ewe, whom a white ewe bore, whom four ewes suckle."
+# type = Nominal sentence (A = B)
+1	ꜥb(.wi҆)	ꜥb	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	4	nsubj	_	_
+2	ṭp	ṭp	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	1	nmod	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	śm(ꜣ.wi҆)	śmꜣ	NOUN	_	Gender=Fem|Number=Dual	0	root	_	_
+5	n	n	ADP	Cons.st	Case=Cau	8	mark	_	_
+6	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+7	i҆ś	i҆ś	PART	Neg	PartType=Emp	6	advmod	_	_
+8	si҆	sr	NOUN	_	Gender=Masc|Number=Sing	4	advcl	_	_
+9	km	km	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
+10	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	appos	_	_
+11	si҆.t	sr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	km.t	km	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
+13	mś.w	mśi̯	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	8	acl	_	_
+14	si҆.t	sr.t	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+15	bꜣḳ.t	bꜣḳ	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+16	śnḳ.w	śnḳ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	8	acl	_	_
+17	fṭ.t	i҆fṭ.w	NUM	NOUN	Gender=Fem	16	nsubj	_	_
+18	wꜣp.t	wꜣp.t	NOUN	_	Gender=Fem|Number=Sing	17	appos	_	_
 
