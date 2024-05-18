@@ -12432,13 +12432,17 @@
 
 # sent_id = UDE-820
 # ref = PT § 253a W, Saqqara, 5th Dynasty, rel, OE
-# text = sꜣ čn Ḥr.w ṭšr i҆r.t(i҆)
-# lit = “Beware yourself of Horus, the one with red eyes.”
-# trans = “Beware of red-eyed Horus!”
+# text = sꜣ čn Ḥr.w ṭšr i҆r.t(i҆) mr ꜣ.t
+# lit = “Beware yourself of Horus, the one with red eyes, the one with violent power.”
+# trans = “Beware of red-eyed Horus, the one with violent power!”
 # type = Verbal sentence
 1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	čn	čn	PRON	DepPron	Gender=Com|Number=Plur|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
 4	ṭšr	ṭšr	ADJ	Lim	Gender=Masc|Number=Sing	3	appos	_	_
 5	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
+6	mr	mr	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	4	conj	_	_
+7	ꜣ.t	ꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	nmod	_	_
+
+
 
