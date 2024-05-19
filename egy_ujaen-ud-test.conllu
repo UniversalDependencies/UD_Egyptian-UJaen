@@ -12665,3 +12665,14 @@
 7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-834
+# ref = Pyramid Texts § 257c W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ⸗k m Ṭ(w)ꜣ.t
+# lit = "You will emerge (certainly) from the Duat."
+# trans = "It is from the Duat that you will emerge."
+# type = Cleft sentence with adverbial focus
+1	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
+4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl	_	_
+
