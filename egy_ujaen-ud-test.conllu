@@ -12702,3 +12702,20 @@
 5	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 6	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	4	nsubj	_	_
 
+# sent_id = UDE-837
+# ref = PT § 258c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp Ḥr.w ḥr i҆t ⸗f ḥtp (I҆)tm(.w) ḥr rnp.(w)t ⸗f
+# lit = “Horus is content about his father - Atum is content about his years.”
+# trans = “(Both of them:) Horus is content about his father, and Atum is content about his years.”
+# type = Balanced sentence
+1	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	_	4	case	_	_
+4	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	ḥr	ḥr	ADP	Cons.st	_	9	case	_	_
+9	rnp.(w)t	rnp.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
