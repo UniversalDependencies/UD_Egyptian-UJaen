@@ -12637,3 +12637,16 @@
 9	ḫr	ḫr	ADP	Cons.st	_	10	case	_	_
 10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
 
+# sent_id = UDE-832
+# ref = Pyramid Texts § 257a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r.n n ⸗k sꜣ ⸗k Ḥr.w
+# lit = “Your son, Horus, acted (certainly) for you.”
+# trans = “It is for you that your son Horus acted.”
+# type = Cleft sentence with adverbial focus
+1	i҆r.n	i҆ri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	sꜣ	sꜣ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	appos	_	_
+
