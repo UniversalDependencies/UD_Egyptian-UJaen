@@ -12620,3 +12620,20 @@
 5	tm	tm	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
 6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 
+# sent_id = UDE-831
+# ref = PT § 256d W, Saqqara, 5th Dynasty, rel, OE
+# text = nḫi҆ rn ⸗k ḫr r(m)č(.w) ḫpr rn ⸗k ḫr nčr(.w)
+# lit = “Your name shall endure among men - your name shall come into being among the gods.”
+# trans = “(Both of them:) Your name shall endure among men, and your name shall come into being among the gods.”
+# type = Balanced sentence
+1	nḫi҆	nḫi҆	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	ḫr	ḫr	ADP	Cons.st	_	5	case	_	_
+5	r(m)č(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	ḫpr	ḫpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	ḫr	ḫr	ADP	Cons.st	_	10	case	_	_
+10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+
