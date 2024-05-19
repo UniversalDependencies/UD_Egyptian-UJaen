@@ -7789,7 +7789,7 @@
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	śk	śki̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
 3	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
 5	śk	śki̯	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
 6	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
@@ -12606,4 +12606,17 @@
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	ḥꜣ	ḥꜣ	ADP	Pron.st	_	10	case	_	_
 10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+
+# sent_id = UDE-830
+# ref = PT § 256c W, Saqqara, 5th Dynasty, rel, OE
+# text = n śk ⸗k n tm ⸗k
+# lit = “You shall not perish, you shall not cease.”
+# trans = “You shall not perish, you shall not cease.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	śk	śki̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
+5	tm	tm	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
+6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 
