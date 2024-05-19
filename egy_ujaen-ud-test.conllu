@@ -12793,9 +12793,19 @@
 # trans = “Unas, raise yourself from your side!”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	čsw	čsw	VERB	Imp	Mood=Imp	0	root	_	_
+2	čsw	čsi̯	VERB	Imp	Mood=Imp	0	root	_	_
 3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	ḥr	ḥr	ADP	Cons.st	_	5	case	_	_
 5	gś	gś	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-845
+# ref = PT § 260a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r wč̣ (⸗i҆)
+# lit = “Do (my) command!”
+# trans = “Do (my) command!”
+# type = Verbal sentence
+1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 
