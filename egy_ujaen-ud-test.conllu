@@ -12719,3 +12719,23 @@
 9	rnp.(w)t	rnp.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 
+# sent_id = UDE-838
+# ref = PT § 258d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtp nčr(.w) i҆ꜣb.ti҆w i҆mn.ti҆w ḥr Wr.t ḫpr.t m ẖnw-ꜥ.w(i҆) mśw.t nčr(.w)
+# lit = “The gods of East and West are content about the Great One who came into being in the interior of the arms of her who bore the god.”
+# trans = “The gods of East and West are content about the Great One who came into being within the embrace of her who bore the god.”
+# type = Cleft sentence with adverbial focus
+1	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nčr(.w)	nčr	NOUN	Subj	Gender=Masc|Number=Plur	1	nsubj	_	_
+3	i҆ꜣb.t(i҆)w	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+4	i҆mn.ti҆w	i҆mn.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+5	ḥr	ḥr	ADP	Cons.st	_	6	case	_	_
+6	Wr.t	Wr.t	PROPN	_	Gender=Fem	1	obl	_	_
+7	ḫpr.t	ḫpr	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
+8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+9-10	ẖnw-ꜥ.w(i҆)	_	_	_	_	_	_	_	_
+9	ẖnw	ẖnw	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	7	obl	_	_
+10	ꜥ.w(i҆)	ꜥ	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Dual	9	fixed	_	_
+11	mśw.t	mśw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+
