@@ -12579,3 +12579,31 @@
 12	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	10	amod	_	_
 13	i҆tr.t(i҆)	i҆tr.t	NOUN	_	Gender=Fem|Number=Dual	10	nmod	_	_
 
+# sent_id = UDE-828
+# ref = Pyramid Texts § 256b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ ꜥḥꜥ ḥꜣ ⸗k
+# lit = "Someone standing stands (certainly) behind you."
+# trans = "It is behind you that someone stands."
+# type = Cleft sentence with adverbial focus
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	ḥꜣ	ḥꜣ	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-829
+# ref = PT § 256b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ śn ⸗k ḥꜣ ⸗k ꜥḥꜥ n(.i҆)-ś(w) ⸗k ḥꜣ ⸗k
+# lit = “Your brother stands behind you - your relative stands behind you.”
+# trans = “(Both of them:) Your brother stands behind you, and your relative stands behind you.”
+# type = Balanced sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	śn	śn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	ḥꜣ	ḥꜣ	ADP	Pron.st	_	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+6	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	n(.i҆)-ś(w)	n.i҆-św	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	ḥꜣ	ḥꜣ	ADP	Pron.st	_	10	case	_	_
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+
