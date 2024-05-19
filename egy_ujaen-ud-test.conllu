@@ -12740,7 +12740,7 @@
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
 # sent_id = UDE-839
-# ref = Pyramid Texts § 259a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 259a/259b/260a W, Saqqara, 5th Dynasty, rel, OE
 # text = Wni҆ś pi҆
 # lit = “Unas (is) this.”
 # trans = “This is Unas.”
@@ -12756,4 +12756,46 @@
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
 2	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+
+# sent_id = UDE-841
+# ref = PT § 259a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś ptr
+# lit = “Unas, observe!”
+# trans = “Unas, observe!”
+# type = Verbal sentence
+1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	ptr	ptr	VERB	Imp	Mood=Imp	0	root	_	_
+
+# sent_id = UDE-842
+# ref = PT § 259b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ śč̣m
+# lit = “Unas (is) this; hear!”
+# trans = “This is Unas; hear!”
+# type = Nominal sentence (A pw) + Imperative
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	śč̣m	śč̣m	VERB	Imp	Mood=Imp	1	parataxis	_	_
+
+# sent_id = UDE-843
+# ref = PT § 259b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś wn i҆m
+# lit = “Unas, be there!”
+# trans = “Unas, be there!”
+# type = Verbal sentence
+1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	wn	wnn	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆m	i҆m	ADV	_	AdvType=Loc	2	advmod	_	_
+
+# sent_id = UDE-844
+# ref = PT § 260a W, Saqqara, 5th Dynasty, rel, OE
+# text = čsw čw ḥr gś ⸗k
+# lit = “Unas, be there!”
+# trans = “Unas, raise yourself from your side!”
+# type = Verbal sentence
+1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	čsw	čsw	VERB	Imp	Mood=Imp	0	root	_	_
+3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+4	ḥr	ḥr	ADP	Cons.st	_	5	case	_	_
+5	gś	gś	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
