@@ -12739,3 +12739,27 @@
 11	mśw.t	mśw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
+# sent_id = UDE-839
+# ref = Pyramid Texts § 259a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆
+# lit = “Unas (is) this.”
+# trans = “This is Unas.”
+# type = Nominal sentence (A pw)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+
+# sent_id = UDE-840
+# ref = PT § 259a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś mꜣ
+# lit = “Unas, see!”
+# trans = “Unas, see!”
+# type = Verbal sentence
+1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
+2	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+
+
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	i҆r	r	ADP	Pron.st	Case=Loc	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
