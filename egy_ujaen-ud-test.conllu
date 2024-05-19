@@ -12676,3 +12676,16 @@
 3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
 4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl	_	_
 
+# sent_id = UDE-835
+# ref = Pyramid Texts § 258a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆nč̣-(⸗i҆)-ḥr ⸗k śꜣi҆
+# lit = "(I) shall ask your face, O wise one."
+# trans = "(I) shall ask your face, O wise one"
+# type = Verbal sentence
+1-3	i҆nč̣-(⸗i҆)-ḥr	_	_	_	_	_	_	_	_
+1	i҆nč̣	nč̣	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	śꜣi҆	śꜣꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	4	vocative	_	_
+
