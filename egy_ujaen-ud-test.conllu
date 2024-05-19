@@ -12801,11 +12801,14 @@
 
 # sent_id = UDE-845
 # ref = PT § 260a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r wč̣ (⸗i҆)
-# lit = “Do (my) command!”
-# trans = “Do (my) command!”
+# text = i҆r wč̣ (⸗i҆) mśč̣č̣ ḳṭṭ śbꜣg.y
+# lit = “Do (my) command, the one who hates sleep when he is made limp!”
+# trans = “Do (my) command! O you who hate sleep when you are made limp!”
 # type = Verbal sentence
 1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+4	mśč̣č̣	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	vocative	_	_
+5	ḳṭṭ	ḳṭṭ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+6	śbꜣg.y	bꜣgi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	4	advcl	_	_
 
