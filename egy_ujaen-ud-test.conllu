@@ -12524,3 +12524,26 @@
 20	i҆t(w)	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	iobj	_	_
 21	nčr(.w)	nčr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	_
 
+# sent_id = UDE-825
+# ref = Pyramid Texts § 255a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ r ꜥꜣ(.wi҆) ꜣḫ.t i҆sn ꜥꜣ(.wi҆) ḳbḥ(.w) ꜥḥꜥ ⸗k ḫnt ⸗śn Gb(b) i҆ś ḫnt(.i҆) pśč̣.t ⸗f
+# lit = "Stand at the doors of the horizon, open the doors of the firmament, that you may stand at their fore like Geb who is at the fore of his Ennead."
+# trans = "Stand at the doors of the horizon, open the doors of the firmament, that you may stand at their fore like Geb who is at the fore of his Ennead."
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	r	r	ADP	Cons.st	_	3	case	_	_
+3	ꜥꜣ(.wi҆)	ꜥꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	1	obl	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	i҆sn	sn	VERB	Imp	Mood=Imp	1	parataxis	_	_
+6	ꜥꜣ(.wi҆)	ꜥꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obj	_	_
+7	ḳbḥ(.w)	ḳbḥ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	ḫnt	ḫnt	ADP	Cons.st	_	11	case	_	_
+11	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	obl	_	_
+12	Gb(b)	Gbb	PROPN	_	Gender=Masc	10	obl	_	_
+13	i҆ś	i҆ś	ADP	_	Case=Equ	12	case	_	_
+14	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	12	amod	_	_
+15	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+
