@@ -12800,7 +12800,7 @@
 6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-845
-# ref = PT § 260a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 260a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r wč̣ (⸗i҆) mśč̣č̣ ḳṭṭ śbꜣg.y
 # lit = “Do (my) command, the one who hates sleep when he is made limp!”
 # trans = “Do (my) command! O you who hate sleep when you are made limp!”
@@ -12811,4 +12811,14 @@
 4	mśč̣č̣	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	vocative	_	_
 5	ḳṭṭ	ḳṭṭ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 6	śbꜣg.y	bꜣgi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	4	advcl	_	_
+
+# sent_id = UDE-846
+# ref = PT § 260b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ i҆m(.i҆) Nṭi҆.t
+# lit = “Stand, the one who is in Nedit!”
+# trans = “Stand! O you in Nedit!”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	vocative	_	_
+3	Nṭi҆.t	Nṭi҆.t	PROPN	_	Gender=Masc	2	nmod	_	_
 
