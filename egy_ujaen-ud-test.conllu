@@ -12650,3 +12650,18 @@
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	appos	_	_
 
+# sent_id = UDE-833
+# ref = Pyramid Texts § 257b W, Saqqara, 5th Dynasty, rel, OE
+# text = śṭꜣ wr.w mꜣ.n ⸗śn šꜥ.t i҆m.(i҆)t ꜥ ⸗k
+# lit = “The great ones tremble (certainly), after having seen the knife which is in your arm.”
+# trans = “The great ones tremble (certainly), having seen the knife in your arm.”
+# type = Cleft sentence with adverbial focus
+1	śṭꜣ	śṭꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	wr.w	wr	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	šꜥ.t	šꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	3	obj	_	_
+6	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+
