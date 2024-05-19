@@ -12847,3 +12847,19 @@
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 5	I҆wn.w	I҆wn.w	PROPN	_	_	1	obl	_	_
 
+# sent_id = UDE-849
+# ref = Pyramid Texts § 261a W, Saqqara, 5th Dynasty, rel, OE
+# text = Ḥr.w pw wč̣ n ⸗f i҆r.t n i҆t ⸗f
+# lit = “Horus (is) this who was commanded to act for his father.”
+# trans = “It is Horus who has been commanded to act for his father.”
+# type = Nominal sentence (A pw)
+1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	wč̣	wč̣	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	amod	_	_
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
+6	i҆r.t	i҆r.t	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	xcomp	_	_
+7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
+8	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
