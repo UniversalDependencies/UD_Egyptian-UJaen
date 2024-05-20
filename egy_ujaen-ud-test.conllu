@@ -13059,3 +13059,23 @@
 12	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 13	i҆sf.t	i҆sf.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 
+# sent_id = UDE-863
+# ref = Pyramid Texts § 265d-e W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ (i҆)r(.i҆) śšr.w sꜣꜣ i҆ꜣr.(w)t grḥ pw n(.i҆) ꜣgb.i҆ wr pr m Wr.t
+# lit = "Unas is the one concerning the linen that the uraei guard (on) this night of the great flood that came from the Great One (f.)."
+# trans = "Unas is the companion of the linen that the uraei guard during this night of the great flood that came from the Great One."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	(i҆)r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+4	śšr.w	śšr.w	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+5	sꜣꜣ	sꜣu̯	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	_	_
+6	i҆ꜣr.(w)t	i҆ꜣr.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+7	grḥ	grḥ	ADV	NOUN	AdvType=Tim	5	advmod	_	_
+8	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+10	ꜣgb.i҆	ꜣgb.w	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+11	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	amod	_	_
+12	m	m	ADP	Cons.st	Case=Ela	13	case	_	_
+13	Wr.t	Wr.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+
