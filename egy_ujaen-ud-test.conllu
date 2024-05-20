@@ -13038,3 +13038,24 @@
 4	I҆w	I҆w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	nśi҆śi҆	nśrśr	NOUN	_	Gender=Masc|Number=Sing	4	flat	_	_
 
+# sent_id = UDE-862
+# ref = Pyramid Texts § 265b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś m I҆w-nśi҆śi҆ (w)ṭ.n Wni҆ś mꜣꜥ.t i҆m ⸗f m ś.t i҆sf.t
+# lit = "Unas came (certainly) from the Island of Fire, on which Unas set Right in the place of Wrong."
+# trans = "It is from the Island of Fire that Unas came, where Unas set Right in the place of Wrong."
+# type = Cleft sentence with adverbial focus
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
+4-5	I҆w-nśi҆śi҆	_	_	_	_	_	_	_	_
+4	I҆w	I҆w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	nśi҆śi҆	nśrśr	NOUN	_	Gender=Masc|Number=Sing	4	flat	_	_
+6	(w)ṭ.n	wṭi̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	acl	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	mꜣꜥ.t	mꜣꜥ.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+9	i҆m	m	ADP	Pron.st	Case=Loc	10	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+11	m	m	ADP	Cons.st	_	12	case	_	_
+12	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+13	i҆sf.t	i҆sf.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+
