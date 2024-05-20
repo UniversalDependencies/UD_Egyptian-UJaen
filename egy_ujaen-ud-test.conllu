@@ -13096,3 +13096,21 @@
 8	šr.t	šr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
 9	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
 
+# sent_id = UDE-865
+# ref = PT § 266b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr ⸗f m ꜣḫ.t rꜥw nb wꜥb.w nčr(.w) n mꜣ ⸗f
+# lit = “He will emerge (certainly) from the horizon every day, that all gods will be cleansed at the sight of him.”
+# trans = “It is from the horizon daily that he will emerge, and all gods will be cleansed at the sight of him.”
+# type = Verbal sentence
+1	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ela	44	case	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	rꜥw	rꜥw	ADV	NOUN	AdvType=Tim	1	advmod	_	_
+6	nb	nb	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
+7	wꜥb.w	wꜥb	VERB	SFC|FutPass|Finalcl	Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+8	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
+9	n	n	ADP	Cons.st	_	10	case	_	_
+10	mꜣ	mꜣꜣ	NOUN	Inf	Gender=Masc|VerbForm=Inf	7	obl	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+
