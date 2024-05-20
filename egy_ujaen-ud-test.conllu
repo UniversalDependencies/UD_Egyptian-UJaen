@@ -12894,3 +12894,15 @@
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	ꜥꜣ	ꜥꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
+# sent_id = UDE-852
+# ref = PT § 262a W, Saqqara, 5th Dynasty, rel, OE
+# text = pr.n Wni҆ś i҆m.(w)t(i҆) mn.t(i҆) pśč̣.t
+# lit = “Unas issued (certainly) from between the thighs of the Ennead”
+# trans = “It is from between the thighs of the Ennead that Unas ussed.”
+# type = Cleft sentence with adverbial focus
+1	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.st	_	4	case	_	_
+4	mn.t(i҆)	mn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
+5	pśč̣.t	pśč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Coll	4	nmod	_	_
+
