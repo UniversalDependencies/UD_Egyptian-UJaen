@@ -12954,3 +12954,14 @@
 6	ṭp.t	ṭp	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
 7	nb.t(i҆)	nb.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
 
+# sent_id = UDE-856
+# ref = Pyramid Texts § 263b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫꜥ Wni҆ś m śbꜣ
+# lit = "Unas appears (certainly) as a star."
+# trans = "It is as a star that Unas appears."
+# type = Cleft sentence with adverbial focus
+1	ḫꜥ	ḫꜥi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
