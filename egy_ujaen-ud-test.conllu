@@ -12906,3 +12906,19 @@
 4	mn.t(i҆)	mn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
 5	pśč̣.t	pśč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Coll	4	nmod	_	_
 
+# sent_id = UDE-853
+# ref = Pyramid Texts § 262b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆wr(.w) Wni҆ś i҆n Śḫm.t
+# lit = “Unas was conceived (certainly) by Sakhmet.”
+# trans = “It is by Sakhmet that Unas was conceived.”
+# type = Cleft sentence with adverbial focus
+1	i҆wr(.w)	i҆wr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
+3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
+4	Śḫm.t	Śḫm.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
+
+
+5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
+8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
