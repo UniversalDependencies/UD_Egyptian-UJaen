@@ -13080,3 +13080,19 @@
 13	m	m	ADP	Cons.st	Case=Ela	14	case	_	_
 14	Wr.t	Wr.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
 
+# sent_id = UDE-864
+# ref = Pyramid Texts § 266a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫꜥ Wni҆ś m Nfr-tm m sššn (i҆)r(.i҆) šr.t Rꜥw
+# lit = "Unas will appear (certainly) as Nefertem, as the lotus-bloom which is at the nose of Re."
+# trans = "Unas will appear (certainly) as Nefertem, as the lotus-bloom which is at the nose of Re."
+# type = Cleft sentence with adverbial focus
+1	ḫꜥ	ḫꜥi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	Nfr-tm	Nfr-tm	PROPN	_	Gender=Masc	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
+6	sššn	sššn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	(i҆)r(.i҆)	r	ADJ	NisbaPrep	Gender=Masc|Number=Sing	6	amod	_	_
+8	šr.t	šr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
+9	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+
