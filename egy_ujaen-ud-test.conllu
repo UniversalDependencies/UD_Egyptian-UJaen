@@ -12884,3 +12884,13 @@
 13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	12	obj	_	_
 
+# sent_id = UDE-851
+# ref = Pyramid Texts § 262a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ ꜥꜣ
+# lit = "Unas is a great one."
+# trans = "Unas is a great one."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ꜥꜣ	ꜥꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+
