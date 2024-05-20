@@ -12940,3 +12940,17 @@
 15	rꜥw	rꜥw	ADV	NOUN	AdvType=Tim	10	advmod	_	_
 16	nb	nb	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
 
+# sent_id = UDE-855
+# ref = Pyramid Texts § 263b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś r ś.t ⸗f ṭp.t nb.t(i҆)
+# lit = "Unas came (certainly) to his throne which is upon the Two Ladies."
+# trans = "It is to his throne upon the Two Ladies that Unas came."
+# type = Cleft sentence with adverbial focus
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	ṭp.t	ṭp	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	4	amod	_	_
+7	nb.t(i҆)	nb.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
+
