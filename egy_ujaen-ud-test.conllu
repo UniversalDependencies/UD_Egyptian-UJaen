@@ -12982,3 +12982,19 @@
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 10	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 
+# sent_id = UDE-858
+# ref = Pyramid Texts § 264b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ nw n(.i҆) sšsš wb(n) m tꜣ wꜥb(.w)
+# lit = “Unas is this of lotus that sprang up clean from the world.”
+# trans = “Unas is this lotus that sprang up clean from the world.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pi҆	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	sšsš	sšsš	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	wb(n)	wbn	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
+7	m	m	ADP	Cons.st	_	8	case	_	_
+8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+9	wꜥb(.w)	wꜥb	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	5	advcl	_	_
+
