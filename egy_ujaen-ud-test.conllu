@@ -12965,3 +12965,20 @@
 3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
 4	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-857
+# ref = PT § 264a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ i҆ꜣꜣ.w(i҆) č̣ṭ my n špś.i҆ m rn ⸗f pw
+# lit = “O you two fighters (?), please tell the noble one in this his name.”
+# trans = “O you two fighters (?), please tell the noble one of whatever identity.”
+# type = Verbal sentence
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	i҆ꜣꜣ.w(i҆)	i҆ꜣꜣ.w	NOUN	_	Gender=Masc|Number=Dual	3	vocative	_	_
+3	č̣ṭ	č̣ṭ	VERB	Imp	Mood=Imp	0	root	_	_
+4	my	my	PART	Neg	PartType=Mod	3	advmod	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6	špś.i҆	špś.w	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+7	m	m	ADP	Cons.st	Case=Ins	8	case	_	_
+8	rn	rn	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+
