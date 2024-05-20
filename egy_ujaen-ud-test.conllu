@@ -8205,7 +8205,7 @@
 # text = ḫnt(.i҆) ḳꜣ.t i҆mn.t(i҆)t i҆p ⸗f i҆b(.w) śḫm ⸗f m ḥꜣ.t(i҆w)
 # lit = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
 # trans = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
-# type = Verbal sentence
+# type = Verbal sentence with nominal topic
 1	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	dislocated	_	_
 2	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 3	i҆mn.t(i҆)t	i҆mn.t	ADJ	NisbaNoun	Gender=Fem|Number=Sing	2	amod	_	_
@@ -12862,4 +12862,25 @@
 7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
 8	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+
+# sent_id = UDE-850
+# ref = PT § 261a-b W, Saqqara, 5th Dynasty, rel, OE; i҆śṭ is probably a variant for i҆śč̣, cf. Wb. IV 373.
+# text = nb ḳr i҆śꜣḥ śn ⸗f i҆śṭ Śtẖ wčs ⸗f čw śwt wčs ⸗f (I҆)tm(.w)
+# lit = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
+# trans = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
+# type = Verbal sentence with nominal topic + Cleft sentence with nominal focus
+1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	dislocated	_	_
+2	ḳr	ḳr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	i҆śꜣḥ	śꜣḥ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+4	śn	śn	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+6	i҆śṭ	śč̣	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+7	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	wčs	wčs	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obj	_	_
+11	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	dislocated	_	_
+12	wčs	wčs	VERB	SFC|Fut	Tense=Fut	8	parataxis	_	_
+13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	12	obj	_	_
 
