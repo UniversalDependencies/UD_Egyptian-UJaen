@@ -6638,7 +6638,7 @@
 4	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 6-7	ṭp.(i҆)w-ꜥ.w(i҆)	_	_	_	_	_	_	_	_
-6	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	3	conj	_	_
+6	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Gender=Masc|Number=Plur	3	conj	_	_
 7	ꜥ.w(i҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	6	fixed	_	_
 8	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 9	ṭwꜣ(.w)	ṭwꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -12441,7 +12441,7 @@
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
 4	ṭšr	ṭšr	ADJ	Lim	Gender=Masc|Number=Sing	3	appos	_	_
 5	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
-6	mr	mr	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	4	conj	_	_
+6	mr	mr	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
 7	ꜣ.t	ꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	nmod	_	_
 
 # sent_id = UDE-821
@@ -12466,7 +12466,7 @@
 1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
-4	č̣śr	č̣śr	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	1	iobj	_	_
+4	č̣śr	č̣śr	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	1	iobj	_	_
 5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
@@ -13189,7 +13189,7 @@
 9	i҆nś	i҆nś.i҆	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 
 # sent_id = UDE-869
-# ref = Pyramid Texts § 268c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 269a W, Saqqara, 5th Dynasty, rel, OE
 # text = Wni҆ś pi҆ Śi҆ꜣ i҆mn.t Rꜥw śnk i҆b ḫnt(.i҆) čpḥ.t Nw(.w)
 # lit = "Unas is Sia, the Sun's west, one with a dark heart (?), who presides over the cavern of Nu."
 # trans = "Unas is Sia, the Sun's west, a reserved one (?), who presides over the cavern of Nu."
@@ -13204,4 +13204,31 @@
 8	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	conj	_	_
 9	čpḥ.t	čpḥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	8	nmod	_	_
 10	Nw(.w)	Nw.w	PROPN	_	Gender=Masc	9	nmod	_	_
+
+# sent_id = UDE-870
+# ref = Pyramid Texts § 268c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ ḥr.(i҆)w wnw.t ṭp.(i҆)w-ꜥ Rꜥw i҆r.y wꜣ.t n Wni҆ś śwꜣ Wni҆ś m-ẖnw pẖr.t n.t ꜥḥꜣ.w ḥr
+# lit = "O those who are over the hours, who are before Re, make a way for Unas, that Unas may pass within the cirucit of that with belligerent face."
+# trans = "O those who are in charge of hours, who are before Re, prepare a way for Unas, that Unas may pass within the cirucit of that with belligerent face."
+# type = Verbal sentence
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	ḥr.(i҆)w	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Plur	7	vocative	_	_
+3	wnw.t	wnw.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4-5	ṭp.(i҆)w-ꜥ	_	_	_	_	_	_	_	_
+4	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Gender=Masc|Number=Plur	2	conj	_	_
+5	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+6	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	4	nmod	_	_
+7	i҆r.y	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+8	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+9	n	n	ADP	Cons.st	Case=Ben	10	case	_	_
+10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	obl	_	_
+11	śwꜣ	wꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	advcl	_	_
+12	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	nsubj	_	_
+13-14	m-ẖnw	_	_	_	_	_	_	_	_
+13	m	m	ADP	Cons.st	Case=Loc	15	case	_	_
+14	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	13	fixed	_	_
+15	pẖr.t	pẖr.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+16	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	_
+17	ꜥḥꜣ.w	ꜥḥꜣ	ADJ	Lim	Gender=Masc|Number=Sing|Verbform=Part	15	nmod	_	_
+18	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 
