@@ -13065,7 +13065,7 @@
 # lit = "Unas is the one concerning the linen that the uraei guard (on) this night of the great flood that came from the Great One (f.)."
 # trans = "Unas is the companion of the linen that the uraei guard during this night of the great flood that came from the Great One."
 # type = Nominal sentence (A pw B)
-1	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	3	nsubj	_	_
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	(i҆)r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 4	śšr.w	śšr.w	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
@@ -13113,4 +13113,27 @@
 9	n	n	ADP	Cons.st	_	10	case	_	_
 10	mꜣ	mꜣꜣ	NOUN	Inf	Gender=Masc|VerbForm=Inf	7	obl	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+
+# sent_id = UDE-866
+# ref = Pyramid Texts § 267a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś p(i҆) ḥr(.i҆) kꜣ(.w) ṭmč̣ i҆b(.w) n ḥr(.i҆) śꜣ Wr ẖr(.i҆) mč̣ꜣ.t nčr Śi҆ꜣ i҆mn.t Rꜥw
+# lit = "Unas is the who is over the kas, who unites hearts for the one over the wisdom of the Great One (m.), the one who is under the book of the god - Perception at the Re's west."
+# trans = "Unas is the one in charge of kas, who unites minds for the one in charge of the wisdom of the Great One (m.), the one who bears the god's book - Perception at the Re's west."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	p(i҆)	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+4	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
+5	ṭmč̣	ṭmč̣	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	conj	_	_
+6	i҆b(.w)	i҆b	NOUN	MWE	Gender=Masc|Number=Plur	5	obj	_	_
+7	n	n	ADP	Cons.st	Case=Ben	8	case	_	_
+8	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	5	obl	_	_
+9	śꜣ	śꜣꜣ	NOUN	_	Gender=Masc|Number=sing	8	nmod	_	_
+10	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+11	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	3	conj	_	_
+12	mč̣ꜣ.t	mč̣ꜣ.t	NOUN	_	Gender=Fem|Number=sing	11	nmod	_	_
+13	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+14	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	13	appos	_	_
+15	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	14	appos	_	_
+16	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	15	nmod	_	_
 
