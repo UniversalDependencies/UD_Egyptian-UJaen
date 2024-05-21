@@ -13137,3 +13137,32 @@
 15	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	14	appos	_	_
 16	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	15	nmod	_	_
 
+# sent_id = UDE-867
+# ref = Pyramid Texts § 267c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś r ś.t ⸗f ḥr.t kꜣ(.w) ṭmč̣ Wni҆ś i҆b(.w) ḥr śꜣ Wr.t ḫpr Wni҆ś m Śi҆ꜣ ẖr(.i҆) mč̣ꜣ.t nčr i҆mn.t Rꜥw nč̣č̣ m-ꜥ Wni҆ś
+# lit = "Unas came (certainly) to his throne which is over the kas in order that Unas may unite hearts on the wisdom of the Great One (f.) and in order that Unas may become Sia who bears the god's book, the Sun's west, the one who is advised by Unas."
+# trans = "Unas came (certainly) to his throne which is over the kas in order that Unas may unite minds due to the wisdom of the Great One (f.) and in order that Unas may become Sia who bears the god's book, the Sun's west, the one who is advised by Unas."
+# type = Verbal sentence
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	ḥr.t	ḥr	ADJ	NisbaPrep	Gender=Fem|Number=Sing	4	amod	_	_
+7	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+8	ṭmč̣	ṭmč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	_
+10	i҆b(.w)	i҆b	NOUN	Obj|MWE	Gender=Masc|Number=Plur	8	obj	_	_
+11	ḥr	ḥr	ADP	Cons.st	_	12	case	_	_
+12	śꜣ	śꜣꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	obl	_	_
+13	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	12	nmod	_	_
+14	ḫpr	ḫpr	VERB	SFC|Sub	Mood=Sub	1	advcl	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	14	nsubj	_	_
+16	m	m	ADP	Cons.st	Case=Equ	17	case	_	_
+17	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	14	obl	_	_
+18	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	17	amod	_	_
+19	mč̣ꜣ.t	mč̣ꜣ.t	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+21	i҆mn.t	i҆mn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	18	appos	_	_
+22	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	21	nmod	_	_
+
