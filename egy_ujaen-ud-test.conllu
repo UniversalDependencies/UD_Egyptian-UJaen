@@ -12740,7 +12740,7 @@
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 
 # sent_id = UDE-839
-# ref = Pyramid Texts § 259a/259b/260a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 259a/259b/260a/268c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wni҆ś pi҆
 # lit = “Unas (is) this.”
 # trans = “This is Unas.”
@@ -13187,4 +13187,21 @@
 7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
 8	ḥꜣb	ḥꜣb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
 9	i҆nś	i҆nś.i҆	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+
+# sent_id = UDE-869
+# ref = Pyramid Texts § 268c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ Śi҆ꜣ i҆mn.t Rꜥw śnk i҆b ḫnt(.i҆) čpḥ.t Nw(.w)
+# lit = "Unas is Sia, the Sun's west, one with a dark heart (?), who presides over the cavern of Nu."
+# trans = "Unas is Sia, the Sun's west, a reserved one (?), who presides over the cavern of Nu."
+# type = Cleft sentence with nominal focus
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	0	root	_	_
+4	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
+5	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+6	śnk	śnk	ADJ	Lim	Gender=Masc|Number=Sing	4	conj	_	_
+7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	conj	_	_
+9	čpḥ.t	čpḥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	8	nmod	_	_
+10	Nw(.w)	Nw.w	PROPN	_	Gender=Masc	9	nmod	_	_
 
