@@ -21,7 +21,7 @@
 2	m	m	ADP	Cons.st	Case=Ess	3	case	_	_
 3-4	ꜣw.t-i҆b	_	_	_	_	_	_	_	_
 3	ꜣw.t	ꜣwi̯	NOUN	Inf	Definite=Cons|Gender=Masc	0	root	_	_
-4	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	3	fixed	_	_
+4	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	3	compound	_	_
 
 # sent_id = UDE-3
 # ref = TPPI § 15, 13, Dra Abu el-Naga, First Intermediate Period, histbio, OE
@@ -13170,4 +13170,21 @@
 24	m	m	ADP	Cons.st	Case=Abl	26	case	_	_
 25	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	24	fixed	_	_
 26	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	23	obl	_	_
+
+# sent_id = UDE-868
+# ref = Pyramid Texts § 268b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n Wni҆ś č̣ṭ i҆m.(i҆)t-i҆b Wr.t m ḥꜣb i҆nś
+# lit = "It is Unas who says what is in the heart of the Great One in the Festival of the Red Linen."
+# trans = "It is Unas who says what is in the heart of the Great One in the Festival of the Red Linen."
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4-5	i҆m.t-i҆b	_	_	_	_	_	_	_	_
+4	i҆m.(i҆)t	m	NOUN	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	3	obj	_	_
+5	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	4	compound	_	_
+6	Wr.t	Wr.t	PROPN	Gen	Case=Gen|Gender=Fem	5	nmod	_	_
+7	m	m	ADP	Cons.st	Case=Tem	8	case	_	_
+8	ḥꜣb	ḥꜣb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+9	i҆nś	i҆nś.i҆	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
 
