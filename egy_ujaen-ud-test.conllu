@@ -13535,3 +13535,43 @@
 2	ś:šy	šwi̯	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
+# sent_id = UDE-890
+# ref = Pyramid Texts § 276a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ṭ.y Wr.t n kꜣ Nḫn
+# lit = "The Great One (f.) was censed (certainly) fro the bull of Nekhen."
+# trans = "It is for the bull of Nekhen than the Great One was censed."
+# type = Verbal sentence 
+1	i҆ṭ.y	i҆ṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	Wr.t	Wr.t	PROPN	_	Gender=Fem	1	nsubj:pass	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	kꜣ	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+5	Nḫn	Nḫn	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = UDE-891
+# ref = Pyramid Texts § 276b W, Saqqara, 6th Dynasty, rel, OE
+# text = nś(r) hh r ⸗čn ḥꜣ.(i҆)w k(ꜣ)r
+# lit = "The flame of the blast is against you who are behind the shrine."
+# trans = "he flame of the blast is against you who are behind the shrine."
+# type = Adverbial sentence
+1	nś(r)	nśr	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	hh	hh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+5	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	4	appos	_	_
+6	k(ꜣ)r	kꜣr	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+
+# sent_id = UDE-892
+# ref = Pyramid Texts § 276b T, Saqqara, 6th Dynasty, rel, OE
+# text = nśr hh n(.i҆) Tti҆ r ⸗čn ḥꜣ.(i҆)w kꜣr
+# lit = "The flame of the blast of Teti is against you who are behind the shrine."
+# trans = "The flame of the blast of Teti is against you who are behind the shrine"
+# type = Adverbial sentence
+1	nś(r)	nśr	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	hh	hh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nmod	_	_
+5	r	r	ADP	Pron.st	_	6	case	_	_
+6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+7	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	appos	_	_
+8	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+
