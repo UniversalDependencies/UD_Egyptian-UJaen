@@ -13347,9 +13347,9 @@
 
 # sent_id = UDE-877
 # ref = PT § 272c-273a W, Saqqara, 5th Dynasty, rel, OE
-# text = č̣bꜣ Wni҆ś m {k} <nb> ⸗čn r-č̣r ⸗čn
-# lit = “Array Unas as lord of you all.”
-# trans = “Array Unas as lord of you all.”
+# text = č̣bꜣ Wni҆ś m {k} <nb> ⸗čn r-č̣r ⸗čn wč̣ Wni҆ś mṭw n rmč wč̣ꜥ Wni҆ś mṭw n ꜥnḫ.w m-ẖnw i҆ṭb Rꜥw
+# lit = “Array Unas as lord of you all in order that Unas may command the word to the people and that Unas judge the word the living within the Sun's shore.”
+# trans = “Array Unas as lord of you all that Unas may govern the people and that Unas judge the living within the Sun's shore.”
 # type = Verbal sentence
 1	č̣bꜣ	č̣bꜣ	VERB	Imp	Mood=Imp	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
@@ -13361,4 +13361,19 @@
 7	r	r	ADP	Cons.st	_	9	case	_	_
 8	č̣r	č̣r	NOUN	MWE	Gender=Masc|Number=Sing	7	fixed	_	_
 9	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nmod	_	_
+10	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+11	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	10	nsubj	_	_
+12	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	10	obj	_	_
+13	n	n	ADP	Cons.st	Case=Dat	14	case	_	_
+14	rmč	rmč	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+15	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub|Finalcl	Mood=Sub	10	conj	_	_
+16	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	15	nsubj	_	_
+17	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	15	obj	_	_
+18	n	n	ADP	Cons.st	Case=Dat	19	case	_	_
+19	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	15	iobj	_	_
+20-21	m-ẖnw	_	_	_	_	_	_	_	_
+20	m	m	ADP	Cons.st	Case=Loc	22	case	_	_
+21	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	20	fixed	_	_
+22	i҆ṭb	i҆ṭb	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+23	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	22	nmod	_	_
 
