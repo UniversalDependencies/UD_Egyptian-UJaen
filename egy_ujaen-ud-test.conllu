@@ -444,11 +444,11 @@
 
 # sent_id = UDE-35
 # ref = Letters to the Dead pl. V, 7, unknown provenance, First Intermediate Period, rel, OE
-# text = śmḫ św n-i҆b-n(.i҆) ẖrṭ(.w) ⸗č(n)
+# text = ś:mḫ św n-i҆b-n(.i҆) ẖrṭ(.w) ⸗č(n)
 # lit = “Forget it for the heart of your children.”
 # trans = "Forget it for the sake/love of your children."
 # type = Verbal sentence
-1	śmḫ	mḫ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
+1	ś:mḫ	mḫ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3-5	n-i҆b-n(.i҆)	_	_	_	_	_	_	_	_
 3	n	n	ADP	Cons.st	Case=Ben	6	case	_	_
@@ -914,11 +914,11 @@
 
 # sent_id = UDE-67
 # ref = PT § 10c N, Saqqara, 6th Dynasty, rel, OE
-# text = śms.n ⸗f św (i҆)r ⸗f
+# text = ś:ms.n ⸗f św (i҆)r ⸗f
 # lit = “It is to him that he proceeded.”
 # trans = “It is to him that he addresed.”
 # type = Cleft sentence with adverbial focus
-1	śms.n	ms	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+1	ś:ms.n	ms	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 4	(i҆)r	r	ADP	Pron.st	Case=All	5	case	_	_
@@ -1257,26 +1257,26 @@
 
 # sent_id = UDE-88
 # ref = PT § 16c N, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
-# text = (i҆)m śfḫḫ.w ⸗k i҆m ⸗f
+# text = (i҆)m ś:fḫḫ.w ⸗k i҆m ⸗f
 # lit = “Don't be that you will let loose of him.”
 # trans = “Don't let loose of him.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
-2	śfḫḫ.w	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
+2	ś:fḫḫ.w	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
 # sent_id = UDE-89
 # ref = PT § 16d W/47c Nt, Saqqara, 5th Dynasty, rel, OE, cf. Edel 1955/1964: § 1109.
-# text = sꜣ(w) (i҆)m ⸗k śfḫḫ.w i҆m ⸗f
+# text = sꜣ(w) (i҆)m ⸗k ś:fḫḫ.w i҆m ⸗f
 # lit = “Beware lest you let loose of him.”
 # trans = “Beware lest you let loose of him.”
 # type = Verbal sentence
 1	sꜣ(w)	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	(i҆)m	i҆mi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Polarity=Neg|VerbForm=Fin	1	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	śfḫḫ.w	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
+4	ś:fḫḫ.w	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
 5	i҆m	m	ADP	Pron.st	Case=Ela	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
@@ -1560,7 +1560,7 @@
 
 # sent_id = UDE-109
 # ref = Pyramid Texts § 20b N, Saqqara, 6th Dynasty, rel, OE
-# text = ḥtm ⸗k ḥr ⸗k i҆m ⸗ś śwꜥb ⸗ś čw
+# text = ḥtm ⸗k ḥr ⸗k i҆m ⸗ś ś:wꜥb ⸗ś čw
 # lit = “You shall provide your face with it in order that it may cleanse you.”
 # trans = “You shall provide your face with it, that it may cleanse you.”
 # type = Verbal sentence
@@ -1570,7 +1570,7 @@
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	i҆m	m	ADP	Pron.st	Case=Ins	6	case	_	_
 6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
-7	śwꜥb	wꜥb	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	1	advcl	_	_
+7	ś:wꜥb	wꜥb	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	1	advcl	_	_
 8	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
 
@@ -2098,11 +2098,11 @@
 
 # sent_id = UDE-145
 # ref = Pyramid Texts § 29a W, Saqqara, 5th Dynasty, rel, OE
-# text = śwꜥb ⸗k ḳś(.w) ⸗k tm.i҆w
+# text = ś:wꜥb ⸗k ḳś(.w) ⸗k tm.i҆w
 # lit = “You shall cleanse your bones being complete.”
 # trans = “You shall cleanse all your bones that you will be provided .”
 # type = Verbal sentence
-1	śwꜥb	śwꜥb	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+1	ś:wꜥb	wꜥb	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
@@ -2141,13 +2141,13 @@
 
 # sent_id = UDE-148
 # ref = Pyramid Texts § 30a W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wni҆ś i҆śmn (⸗i҆) n ⸗k ꜥr.t(i҆) ⸗k pśš.t(i҆)
+# text = hꜣ Wni҆ś i҆ś:mn (⸗i҆) n ⸗k ꜥr.t(i҆) ⸗k pśš.t(i҆)
 # lit = "O Unas, I shall fix for you your two jaws, they being divided."
 # trans = "O Unas, I shall fix for you your jaws, which are divided."
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
-3	i҆śmn	mn	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+3	i҆ś:mn	mn	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
 4	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
@@ -2291,7 +2291,7 @@
 
 # sent_id = UDE-158
 # ref = Pyramid Texts § 33a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆č n ⸗k śn(i҆) r mḫnt ⸗k śḥč̣ ⸗śn(i҆) ḥr ⸗k
+# text = i҆č n ⸗k śn(i҆) r mḫnt ⸗k ś:ḥč̣ ⸗śn(i҆) ḥr ⸗k
 # lit = "Take them to your forehead in order that they may brighten your face."
 # trans = "Take them to your forehead that they may brighten your face."
 # type = Verbal sentence
@@ -2302,14 +2302,14 @@
 5	r	r	ADP	Cons.st	Case=All	6	case	_	_
 6	mḫnt	mḫnt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-8	śḥč̣	ḥč̣	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	1	advcl	_	_
+8	ś:ḥč̣	ḥč̣	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	1	advcl	_	_
 9	⸗śn(i҆)	śni҆	PRON	SFP	Gender=Com|Number=Dual|Person=3|PronType=Prs	8	nsubj	_	_
 10	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	8	obj	_	_
 11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
 
 # sent_id = UDE-159
 # ref = Pyramid Texts § 34a W, Saqqara, 5th Dynasty, rel, OE
-# text = ḥtp n ⸗k Rꜥw i҆m(.i҆) p.t śḥtp ⸗f n ⸗k nb(.wi҆)
+# text = ḥtp n ⸗k Rꜥw i҆m(.i҆) p.t ś:ḥtp ⸗f n ⸗k nb(.wi҆)
 # lit = “Ra, who is in the sky, shall be gracious to you while he conciliates the Two Lords for you.”
 # trans = “Ra, who is in the sky, shall be gracious to you when he conciliates the Two Lords for you.”
 # type = Verbal sentence
@@ -2319,7 +2319,7 @@
 4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	nsubj	_	_
 5	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
 6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
-7	śḥtp	ḥtp	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Cau	1	advcl	_	_
+7	ś:ḥtp	ḥtp	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Cau	1	advcl	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	n	n	ADP	Pron.st	Case=Ben	10	case	_	_
 10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
@@ -2755,12 +2755,12 @@
 
 # sent_id = UDE-189
 # ref = PT § 43a Nt, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
-# text = (i҆)m śfḫḫ(.w) ⸗k i҆m ⸗ś
+# text = (i҆)m ś:fḫḫ(.w) ⸗k i҆m ⸗ś
 # lit = “Don't be that you will let loose of her.”
 # trans = “Don't let loose of it.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
-2	śfḫḫ(.w)	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
+2	ś:fḫḫ(.w)	fḫḫ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Cau	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
@@ -2833,13 +2833,13 @@
 
 # sent_id = UDE-195
 # ref = PT § 46a Nt, Saqqara, 6th Dynasty, rel, OE 
-# text = Wśr(.w) N(i҆).t śnḫt.n ⸗k i҆r.t Ḥr.w ḫr ⸗k
+# text = Wśr(.w) N(i҆).t ś:nḫt.n ⸗k i҆r.t Ḥr.w ḫr ⸗k
 # lit = “Osiris Neith, you made forceful the Eye of Horus (certainly) with you.”
 # trans = “Osiris Neith, it is with you that you have made forceful the Eye of Horus.”
 # type = Cleft sentence with adverbial focus
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	śnḫt.n	nḫt	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
+3	ś:nḫt.n	nḫt	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
 4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
@@ -2937,19 +2937,19 @@
 
 # sent_id = UDE-202
 # ref = PT § 16c N, Saqqara, 6th Dynasty, rel, OE, cf. Allen 1984: § 202-203.
-# text = (i҆)m ⸗k <ś>fḫḫ(.w) i҆m ⸗f
+# text = (i҆)m ⸗k <ś:>fḫḫ(.w) i҆m ⸗f
 # lit = “You shall not let loose of him.”
 # trans = “You shall not let loose of him.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	<ś>fḫḫ(.w)	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
+3	<ś:>fḫḫ(.w)	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
 # sent_id = UDE-203
 # ref = Pyramid Texts § 48a Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) N(i҆).t m n ⸗k č̣bꜥ Śtẖ śmꜣꜣ i҆r.t Ḥr.w ḥč̣.t
+# text = Wśr(.w) N(i҆).t m n ⸗k č̣bꜥ Śtẖ ś:mꜣꜣ i҆r.t Ḥr.w ḥč̣.t
 # lit = "Osiris Neith, take for yourself the finger of Seth which causes the white Eye of Horus to see."
 # trans = "Osiris Neith, take the finger of Seth which causes the white Eye of Horus to see."
 # type = Verbal sentence
@@ -2960,14 +2960,14 @@
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
 7	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	śmꜣꜣ	mꜣꜣ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	6	amod	_	_
+8	ś:mꜣꜣ	mꜣꜣ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	6	amod	_	_
 9	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	8	obj	_	_
 10	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	_
 11	ḥč̣.t	ḥč̣	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 
 # sent_id = UDE-204
 # ref = Pyramid Texts § 48b Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) N(i҆).t m n ⸗k i҆r.t Ḥr.w i҆śḥč̣.t ṭp č̣bꜥ Śtẖ
+# text = Wśr(.w) N(i҆).t m n ⸗k i҆r.t Ḥr.w i҆ś:ḥč̣.t ṭp č̣bꜥ Śtẖ
 # lit = "Osiris Neith, take for yourself the Eye of Horus which illumines the tip of the finger of Seth."
 # trans = "Osiris Neith, take the Eye of Horus which illumines the tip of Seth's finger."
 # type = Verbal sentence
@@ -2978,7 +2978,7 @@
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	i҆śḥč̣.t	ḥč̣	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	6	amod	_	_
+8	i҆ś:ḥč̣.t	ḥč̣	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	6	amod	_	_
 9	ṭp	ṭp	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Sing	8	obj	_	_
 10	č̣bꜥ	č̣bꜥ	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
 11	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	10	nmod	_	_
@@ -3308,11 +3308,11 @@
 
 # sent_id = UDE-228
 # ref = Pyramid Texts § 52c W, Saqqara, 5th Dynasty, rel, OE
-# text = śnč̣m ⸗č n ⸗f ẖr(.i҆) ⸗č
+# text = ś:nč̣m ⸗č n ⸗f ẖr(.i҆) ⸗č
 # lit = “You shall make (it) pleasant for him who is under you.”
 # trans = “You shall make (it) pleasant for him who has you.”
 # type = Verbal sentence
-1	śnč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+1	ś:nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
 2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
@@ -3321,11 +3321,11 @@
 
 # sent_id = UDE-229
 # ref = Pyramid Texts § 52c W, Saqqara, 5th Dynasty, rel, OE
-# text = śꜣḫ ⸗č św ẖr(.i҆) ⸗č
+# text = ś:ꜣḫ ⸗č św ẖr(.i҆) ⸗č
 # lit = “You shall make a spirit of him who is under you.”
 # trans = “You shall make a spirit of him who has you.”
 # type = Verbal sentence
-1	śꜣḫ	ꜣḫ	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+1	ś:ꜣḫ	ꜣḫ	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
 2	⸗č	č	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 4	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	3	appos	_	_
@@ -3537,13 +3537,13 @@
 
 # sent_id = UDE-242
 # ref = Pyramid Texts § 56c-57a N, Saqqara, 6th Dynasty, rel, OE
-# text = šsp.t i҆r.wt śškr.t wr-ꜥ č̣ ⸗č kś tꜣ(.wi҆) n Ppy pn i҆mr kś.w ⸗śn n Ḥr.w
+# text = šsp.t i҆r.wt ś:škr.t wr-ꜥ č̣ ⸗č kś tꜣ(.wi҆) n Ppy pn i҆mr kś.w ⸗śn n Ḥr.w
 # lit = “The one who receives the doers, the one who adorns the Great One of Arm, you shall cause in order that the Two Lands may bow to this Pepi as they will bow to Horus.”
 # trans = “The one who receives the women of action, the one who adorns the Great carrying chair, you shall cause the Two Lands to bow to this Pepi as they will bow to Horus.”
 # type = Verbal sentence
 1	šsp.t	šsp	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	dislocated	_	_
 2	i҆r.wt	i҆ri̯	NOUN	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nmod	_	_
-3	śškr.t	śškr	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	1	conj	_	_
+3	ś:škr.t	škr	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	1	conj	_	_
 4-5	wr-ꜥ	_	_	_	_	_	_	_	_
 4	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 5	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	4	fixed	_	_
@@ -5258,14 +5258,14 @@
 
 # sent_id = UDE-355
 # ref = Pyramid Texts § 109a N, Saqqara, 6th Dynasty, rel, OE
-# text = m i҆r.t Ḥr.w śi҆p.tn ⸗f
+# text = m i҆r.t Ḥr.w ś:i҆p.tn ⸗f
 # lit = "Take the Eye of Horus which he examined."
 # trans = "Take the green Eye of Horus which he examined."
 # type = Verbal sentence
 1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
-4	śi҆p.tn	i҆p	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Cau	2	acl	_	_
+4	ś:i҆p.tn	i҆p	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Cau	2	acl	_	_
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 
 # sent_id = UDE-356
@@ -6261,7 +6261,7 @@
 
 # sent_id = UDE-422
 # ref = Pyramid Texts § 128c-129c W, Saqqara, 5th Dynasty, rel, OE
-# text = šṭ n ⸗čn Wni҆ś ḥnꜥ ⸗čn wnm ⸗f m wnm.t ⸗čn i҆m (⸗ś) swr ⸗f m swr.t ⸗čn i҆m (⸗ś) ꜥnḫ ⸗f m ꜥnḫ.t ⸗čn i҆m (⸗ś) ḥmś ⸗f m ḥmś.t ⸗čn i҆m (⸗ś) wśr ⸗f m wśr.t ⸗čn i҆m (⸗ś) śḳṭ ⸗f m śḳṭṭ.t ⸗čn i҆m (⸗ś)
+# text = šṭ n ⸗čn Wni҆ś ḥnꜥ ⸗čn wnm ⸗f m wnm.t ⸗čn i҆m (⸗ś) swr ⸗f m swr.t ⸗čn i҆m (⸗ś) ꜥnḫ ⸗f m ꜥnḫ.t ⸗čn i҆m (⸗ś) ḥmś ⸗f m ḥmś.t ⸗čn i҆m (⸗ś) wśr ⸗f m wśr.t ⸗čn i҆m (⸗ś) ś:ḳṭ ⸗f m ś:ḳṭṭ.t ⸗čn i҆m (⸗ś)
 # lit = "Take for yourself Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in that in which you sail."
 # trans = "Take Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in what you sail in."
 # type = Verbal sentence
@@ -6306,10 +6306,10 @@
 39	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	38	nsubj	_	_
 40	i҆m	m	ADP	Pron.st	_	41	case	_	_
 41	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	38	obl	_	_
-42	śḳṭ	śḳṭi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	conj	_	_
+42	ś:ḳṭ	ḳṭi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	conj	_	_
 43	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_
 44	m	m	ADP	Cons.st	_	45	case	_	_
-45	śḳṭṭ.t	śḳṭi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Cau	42	advcl	_	_
+45	ś:ḳṭṭ.t	ḳṭi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Cau	42	advcl	_	_
 46	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	45	nsubj	_	_
 47	i҆m	m	ADP	Pron.st	_	48	case	_	_
 48	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
@@ -7222,12 +7222,12 @@
 
 # sent_id = UDE-486
 # ref = PT § 140c W, Saqqara, 5th Dynasty, rel, OE
-# text = (I҆)tm(.w) śi҆ꜥ n ⸗k św
+# text = (I҆)tm(.w) ś:i҆ꜥ n ⸗k św
 # lit = “Atum, make him ascend to you!”
 # trans = “O Atum, raise him up to you!”
 # type = Verbal sentence
 1	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	śi҆ꜥ	i҆ꜥr	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
+2	ś:i҆ꜥ	i҆ꜥr	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 3	n	n	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -8270,11 +8270,11 @@
 
 # sent_id = UDE-554
 # ref = PT § 160b W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-695, below
-# text = śi҆ꜥ n ⸗k św šn n ⸗k św m ẖnw-ꜥ(.wi҆) ⸗k sꜣ ⸗k pw n(.i҆) č̣.t ⸗k n č̣.t
+# text = ś:i҆ꜥ n ⸗k św šn n ⸗k św m ẖnw-ꜥ(.wi҆) ⸗k sꜣ ⸗k pw n(.i҆) č̣.t ⸗k n č̣.t
 # lit = “Make him ascend to you! Enclose him in the interior of your (two) arms for yourself! (For,) your son of your body is this for ever.”
 # trans = “Raise him up to you! Enclose him within your embrace for yourself! (For,) he is your bodily son for ever.”
 # type = Verbal sentence + nominal sentence (A pw)
-1	śi҆ꜥ	i҆ꜥr	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
+1	ś:i҆ꜥ	i҆ꜥr	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -9551,27 +9551,27 @@
 
 # sent_id = UDE-638
 # ref = PT § 198b N, Saqqara, 6th Dynasty, rel, OE
-# text = mś.n čw I҆ḫ.t-wr.t śškr.n čw I҆ḫ.t-wt.t
+# text = mś.n čw I҆ḫ.t-wr.t ś:škr.n čw I҆ḫ.t-wt.t
 # lit = “Ikhet-weret has borne you - Ikhet-wetet has adorned you.”
 # trans = “(Both of them:) Ikhet-weret has borne you, and Ikhet-wetet has adorned you.”
 # type = Balanced sentence
 1	mś.n	mśi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 3	I҆ḫ.t-wr.t	I҆ḫ.t-wr.t	PROPN	_	Gender=Fem	1	nsubj	_	_
-4	śškr.n	śẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
+4	ś:škr.n	ẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
 5	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 6	I҆ḫ.t-wt.t	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	4	nsubj	_	_
 
 # sent_id = UDE-639
 # ref = PT § 198c-d W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-629, Allen 2017: 92 (§ 10.6). 
-# text = mś.n čw I҆ḫ.t[-wt.t] [śškr.n] [čw] I҆ḫ.t-wr.t n čwt i҆ś Ḥr.w šn(.w) m sꜣ i҆r.t ⸗f
+# text = mś.n čw I҆ḫ.t[-wt.t] [ś:škr.n] [čw] I҆ḫ.t-wr.t n čwt i҆ś Ḥr.w šn(.w) m sꜣ i҆r.t ⸗f
 # lit = “Ikhet[-wetet] has borne you - Ikhet-weret [has adorned you], for you are Horus being encircled with the protection of his Eye.”
 # trans = “(Both of them:) Ikhet[-wetet] has borne you, and Ikhet-weret [has adorned you], for you are Horus encircled with the protection of his Eye.”
 # type = Balanced sentence + nominal sentence (i҆nk)
 1	mś.n	mśi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
 3	I҆ḫ.t[-wt.t]	I҆ḫ.t-wt.t	PROPN	_	Gender=Fem	1	nsubj	_	_
-4	[śškr.n]	śẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
+4	[ś:škr.n]	ẖkr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	1	parataxis	_	_
 5	[čw]	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 6	I҆ḫ.t-wr.t	I҆ḫ.t-wr.t	PROPN	_	Gender=Fem	4	nsubj	_	_
 7	n	n	ADP	Cons.st	Case=Cau	10	mark	_	_
@@ -10243,11 +10243,11 @@
 
 # sent_id = UDE-678
 # ref = Pyramid Texts § 208c W, Saqqara, 5th Dynasty, rel, OE
-# text = śfḫ ⸗k ꜥb(.w) ⸗k m ši҆(.w) Šw
+# text = ś:fḫ ⸗k ꜥb(.w) ⸗k m ši҆(.w) Šw
 # lit = “You shall get rid of your impurity in the lakes of Shu.”
 # trans = “You shall get rid of your impurity in the lakes of Shu.”
 # type = Verbal sentence
-1	śfḫ	śfḫ	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
+1	ś:fḫ	fḫ	VERB	SFC|Sub	Mood=Sub|Voice=Cau	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	ꜥb(.w)	ꜥb.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
@@ -10458,12 +10458,12 @@
 
 # sent_id = UDE-694
 # ref = PT § 213a W, Saqqara, 5th Dynasty, rel, OE
-# text = (I҆)tm(.w) śi҆ꜣ n ⸗k Wni҆ś pn
+# text = (I҆)tm(.w) ś:i҆ꜣ n ⸗k Wni҆ś pn
 # lit = “Atum, make ascend this Unas to you.”
 # trans = “O Atum, raise this Unas to you.”
 # type = Verbal sentence
 1	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	śi҆ꜣ	śi҆ꜣ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
+2	ś:i҆ꜣ	i҆ꜣ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc|Number=Sing	2	obj	_	_
@@ -10585,17 +10585,17 @@
 
 # sent_id = UDE-701
 # ref = PT § 216a W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wni҆ś śi҆ꜥ kw n (⸗i҆) i҆mś kw r (⸗i҆)
+# text = hꜣ Wni҆ś ś:i҆ꜥ kw n (⸗i҆) i҆mś kw r (⸗i҆)
 # lit = “O Unas, ascend yourself to (me), betake yourself toward (me).”
 # trans = “O Unas, elevate yourself to (me), betake yourself toward (me).”
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	śi҆ꜥ	śi҆ꜥ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
+3	ś:i҆ꜥ	i҆ꜥ	VERB	Imp	Mood=Imp|Voice=Cau	0	root	_	_
 4	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	n	n	ADP	Cons.st	Case=All	6	case	_	_
 6	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-7	i҆mś	mś	VERB	Imp	Mood=Imp|Voice=Cau	3	conj	_	_
+7	i҆mś	mś	VERB	Imp	Mood=Imp	3	conj	_	_
 8	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	7	expl	_	_
 9	r	r	ADP	Cons.st	Case=All	10	case	_	_
 10	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
@@ -11402,7 +11402,7 @@
 
 # sent_id = UDE-746
 # ref = Pyramid Texts § 229a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥn.t tw nn n.t (I҆)tm(.w) ḥr.t č(ꜣ)s-bḳś.w Nḥb.w-kꜣ(.w) śsꜣ.t ẖnn.w m Wnw
+# text = ꜥn.t tw nn n.t (I҆)tm(.w) ḥr.t č(ꜣ)s-bḳś.w Nḥb.w-kꜣ(.w) ś:sꜣ.t ẖnn.w m Wnw
 # lit = “The fingernail of Atum which is on the vertebra of Nehebu-kau, which stilled the turmoil in Hermopolis, is this.”
 # trans = “The fingernail of Atum which is on the vertebra of Nehebu-kau and which stilled the turmoil in Hermopolis, is this here.”
 # type = Nominal sentence (A pw B)
@@ -11418,7 +11418,7 @@
 9-10	Nḥb.w-kꜣ(.w)	_	_	_	_	_	_	_	_
 9	Nḥb.w	Nḥb.w	PROPN	_	Case=Gen|Gender=Masc	7	nmod	_	_
 10	kꜣ(.w)	kꜣ(.w)	NOUN	_	Gender=Masc|Number=Plur	9	flat	_	_
-11	śsꜣ.t	sꜣi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau	1	amod	_	_
+11	ś:sꜣ.t	sꜣi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Cau	1	amod	_	_
 12	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
 13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
 14	Wnw	Wnw	PROPN	_	_	11	obl	_	_
@@ -11492,12 +11492,12 @@
 
 # sent_id = UDE-753
 # ref = Pyramid Texts § 230d W, Saqqara, 5th Dynasty, rel, OE
-# text = p{n}<s>ḥ(.w) śbꜣg i҆n nꜥw
+# text = p{n}<s>ḥ(.w) ś:bꜣg i҆n nꜥw
 # lit = “He who was made weary was bitten (certainly) by the serpent.”
 # trans = “It is by the serpent that he who was made weary was bitten.”
 # type = Cleft sentence with adverbial focus
 1	p{n}<s>ḥ(.w)	psḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	śbꜣg	bꜣgi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Cau	1	nsubj:pass	_	_
+2	ś:bꜣg	bꜣgi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Cau	1	nsubj:pass	_	_
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
 4	nꜥw	nꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
 
@@ -11737,14 +11737,14 @@
 
 # sent_id = UDE-771
 # ref = Pyramid Texts § 235a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆wn.ti҆(w) i҆m.(i҆)w mtꜣ śḫr.w
+# text = i҆wn.ti҆(w) i҆m.(i҆)w mtꜣ ś:ḫr.w
 # lit = "The bowmen who are in Meta (?) were felled."
 # trans = "The bowmen who are in Meta (?) were felled."
 # type = Verbal sentence
 1	i҆wn.ti҆(w)	i҆wn.ti҆w	NOUN	Subj	Gender=Masc|Number=Plur	4	nsubj	_	_
 2	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	amod	_	_
 3	mtꜣ	mtꜣ	NOUN	_	_	1	nmod	_	_
-4	śḫr.w	ḫr	VERB	OSSC|Stat	Gender=Com|Number=Plur|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	_
+4	ś:ḫr.w	ḫr	VERB	OSSC|Stat	Gender=Com|Number=Plur|Person=3|VerbForm=Fin|Voice=Cau	0	root	_	_
 
 # sent_id = UDE-772
 # ref = Pyramid Texts § 235b W, Saqqara, 5th Dynasty, rel, OE
@@ -12040,11 +12040,11 @@
 
 # sent_id = UDE-794
 # ref = Pyramid Texts § 245a W, Saqqara, 5th Dynasty, rel, OE
-# text = śčꜣs.ti҆ i҆m(.i҆) čpḥ.t ⸗f
+# text = ś:čꜣs.ti҆ i҆m(.i҆) čpḥ.t ⸗f
 # lit = “You shall be dragged off, O you who are in his cave.”
 # trans = “You shall be dragged off, O you who are in his cave.”
 # type = Verbal sentence
-1	śčꜣs.ti҆	śčꜣs	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Cau	0	root	_	_
+1	ś:čꜣs.ti҆	čꜣs	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Cau	0	root	_	_
 2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	vocative	_	_
 3	čpḥ.t	čpḥ.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
@@ -12801,7 +12801,7 @@
 
 # sent_id = UDE-845
 # ref = PT § 260a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r wč̣ (⸗i҆) mśč̣č̣ ḳṭṭ śbꜣg.y
+# text = i҆r wč̣ (⸗i҆) mśč̣č̣ ḳṭṭ ś:bꜣg.y
 # lit = “Do (my) command, the one who hates sleep when he is made limp!”
 # trans = “Do (my) command! O you who hate sleep when you are made limp!”
 # type = Verbal sentence
@@ -12810,7 +12810,7 @@
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 4	mśč̣č̣	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	vocative	_	_
 5	ḳṭṭ	ḳṭṭ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
-6	śbꜣg.y	bꜣgi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	4	advcl	_	_
+6	ś:bꜣg.y	bꜣgi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv|Voice=Cau	4	advcl	_	_
 
 # sent_id = UDE-846
 # ref = PT § 260b W, Saqqara, 5th Dynasty, rel, OE
@@ -13207,7 +13207,7 @@
 
 # sent_id = UDE-870
 # ref = Pyramid Texts § 268c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆ ḥr.(i҆)w wnw.t ṭp.(i҆)w-ꜥ Rꜥw i҆r.y wꜣ.t n Wni҆ś śwꜣ Wni҆ś m-ẖnw pẖr.t n.t ꜥḥꜣ.w ḥr
+# text = i҆ ḥr.(i҆)w wnw.t ṭp.(i҆)w-ꜥ Rꜥw i҆r.y wꜣ.t n Wni҆ś ś:wꜣ Wni҆ś m-ẖnw pẖr.t n.t ꜥḥꜣ.w ḥr
 # lit = "O those who are over the hours, who are before Re, make a way for Unas, that Unas may pass within the cirucit of that with belligerent face."
 # trans = "O those who are in charge of hours, who are before Re, prepare a way for Unas, that Unas may pass within the cirucit of that with belligerent face."
 # type = Verbal sentence
@@ -13222,7 +13222,7 @@
 8	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 9	n	n	ADP	Cons.st	Case=Ben	10	case	_	_
 10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	obl	_	_
-11	śwꜣ	wꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	advcl	_	_
+11	ś:wꜣ	wꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Voice=Cau	7	advcl	_	_
 12	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	nsubj	_	_
 13-14	m-ẖnw	_	_	_	_	_	_	_	_
 13	m	m	ADP	Cons.st	Case=Loc	15	case	_	_
@@ -13234,7 +13234,7 @@
 
 # sent_id = UDE-871
 # ref = Pyramid Texts § 270a-e W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆w Wni҆ś r ś.t{t} ⸗f ḫnt ś.(w)t ḥꜣ nčr (w)ṭ ṭp č̣bꜣ ḥnw.t śpṭ.t nḫt(.t) ẖr(.i҆) i҆ś ṭś śpṭ swꜣ ḥt.t wč̣ꜥ.t šn.w m-ṭp kꜣ śꜣhṭ.t i҆m.(i҆)w kkw ḥnw.t wśr.t ḥꜣ.t nčr-ꜥꜣ
+# text = i҆w Wni҆ś r ś.t{t} ⸗f ḫnt ś.(w)t ḥꜣ nčr (w)ṭ ṭp č̣bꜣ ḥnw.t śpṭ.t nḫt(.t) ẖr(.i҆) i҆ś ṭś śpṭ swꜣ ḥt.t wč̣ꜥ.t šn.w m-ṭp kꜣ ś:ꜣhṭ.t i҆m.(i҆)w kkw ḥnw.t wśr.t ḥꜣ.t nčr-ꜥꜣ
 # lit = "Unas shall be to his throne in front of the thrones behind the god, the one with a set head, arrayed of a sharp strong horn as one who bears a sharp knife which cuts throats, (a horn) that removes trouble from before the Bull, that causes those who are in darkness to quake, the powerful horn that is behind the great god."
 # trans = "Unas is bound for his throne in front of the thrones behind the god, the one with head set, arrayed with sharp strong horn as one who bears a sharp knife which cuts throats, (a horn) that removes trouble from before the Bull, that causes those who are in darkness to quake, the powerful horn that is behind the great god."
 # type = i҆w + adverbial sentence 
@@ -13265,7 +13265,7 @@
 24	m	m	ADP	Cons.st	_	26	case	_	_
 25	ṭp	ṭp	NOUN	MWE	Gender=Masc|Number=Sing	24	fixed	_	_
 26	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
-27	śꜣhṭ.t	ꜣhṭ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	13	amod	_	_
+27	ś:ꜣhṭ.t	ꜣhṭ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	13	amod	_	_
 28	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	27	obj	_	_
 29	kkw	kkw	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_
 30	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	_
@@ -13285,7 +13285,7 @@
 2	ṭꜣ.n	ṭꜣr	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	ss.w	i҆ss	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	obj	_	_
-5	śḳr.n	śḳr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Cau	2	conj	_	_
+5	śḳr.n	śḳr	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin	2	conj	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
 7	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
