@@ -1154,7 +1154,7 @@
 7	[ḫr]	ḫr	ADP	Cons.st	Case=Com	8	case	_	_
 8-9	[pśč̣.t-ꜥꜣ.t]	_	_	_	_	_	_	_	_
 8	[pśč̣.t]	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	3	obl	_	_
-9	[ꜥꜣ.t]	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	8	fixed	_	_
+9	[ꜥꜣ.t]	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	8	compound	_	_
 10	[m]	m	ADP	Cons.st	Case=Loc	11	case	_	_
 11-12	[Ḥw.t-śr]	_	_	_	_	_	_	_	_
 11	[Ḥw.t]	Ḥw.t	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -13231,4 +13231,47 @@
 16	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	_
 17	ꜥḥꜣ.w	ꜥḥꜣ	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	15	nmod	_	_
 18	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+
+# sent_id = UDE-871
+# ref = Pyramid Texts § 270a-e W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Wni҆ś r ś.t{t} ⸗f ḫnt ś.(w)t ḥꜣ nčr (w)ṭ ṭp č̣bꜣ ḥnw.t śpṭ.t nḫt(.t) ẖr(.i҆) i҆ś ṭś śpṭ swꜣ ḥt.t wč̣ꜥ.t šn.w m-ṭp kꜣ śꜣhṭ.t i҆m.(i҆)w kkw ḥnw.t wśr.t ḥꜣ.t nčr-ꜥꜣ
+# lit = "Unas shall be to his throne in front of the thrones behind the god, the one with a set head, arrayed of a sharp strong horn as one who bears a sharp knife which cuts throats, (a horn) that removes trouble from before the Bull, that causes those who are in darkness to quake, the powerful horn that is behind the great god."
+# trans = "Unas is bound for his throne in front of the thrones behind the god, the one with head set, arrayed with sharp strong horn as one who bears a sharp knife which cuts throats, (a horn) that removes trouble from before the Bull, that causes those who are in darkness to quake, the powerful horn that is behind the great god."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	ś.t{t}	ś.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	ḫnt	ḫnt	ADP	Cons.st	_	7	case	_	_
+7	ś.(w)t	ś.t	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
+8	ḥꜣ	ḥꜣ	ADP	Cons.st	_	9	case	_	_
+9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+10	(w)ṭ	wṭi̯	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	appos	_	_
+11	ṭp	ṭp	NOUN	MWE	Gender=Masc|Number=Sing	10	nmod	_	_
+12	č̣bꜣ	č̣bꜣ	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	appos	_	_
+13	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
+14	śpṭ.t	śpṭ	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+15	nḫt(.t)	nḫt	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
+16	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	12	obl	_	_
+17	i҆ś	i҆ś	ADP	_	Case=Equ	16	case	_	_
+18	ṭś	ṭś	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+19	śpṭ	śpṭ	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
+20	swꜣ	swꜣ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	amod	_	_
+21	ḥt.t	ḥt.t	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+22	wč̣ꜥ.t	wč̣ꜥ.t	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	amod	_	_
+23	šn.w	šn.w	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
+24-25	m-ṭp	_	_	_	_	_	_	_	_
+24	m	m	ADP	Cons.st	_	26	case	_	_
+25	ṭp	ṭp	NOUN	MWE	Gender=Masc|Number=Sing	24	fixed	_	_
+26	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+27	śꜣhṭ.t	ꜣhṭ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Cau	13	amod	_	_
+28	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	27	obj	_	_
+29	kkw	kkw	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_
+30	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	_
+31	wśr.t	wśr.t	ADJ	_	Gender=Fem|Number=Sing	30	amod	_	_
+32	ḥꜣ.t	ḥꜣ	ADJ	NisbaPrep	Gender=Fem|Number=Plur	30	amod	_	_
+33-34	nčr-ꜥꜣ	_	_	_	_	_	_	_	_
+33	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
+34	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	33	compound	_	_
 
