@@ -13273,7 +13273,7 @@
 32	ḥꜣ.t	ḥꜣ	ADJ	NisbaPrep	Gender=Fem|Number=Plur	30	amod	_	_
 33-34	nčr-ꜥꜣ	_	_	_	_	_	_	_	_
 33	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
-34	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	33	compound	_	_
+34	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	33	compound	_	_
 
 # sent_id = UDE-872
 # ref = Pyramid Texts § 271a W, Saqqara, 5th Dynasty, rel, OE
@@ -13332,7 +13332,7 @@
 7	m	m	ADP	Cons.st	Case=Equ	8	case	_	_
 8-9	nčr-ꜥꜣ	_	_	_	_	_	_	_	_
 8	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
-9	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	8	compound	_	_
+9	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	8	compound	_	_
 
 # sent_id = UDE-876
 # ref = PT § 272c W, Saqqara, 5th Dynasty, rel, OE
@@ -13422,4 +13422,34 @@
 3	twr	twr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	obj	_	_
+
+# sent_id = UDE-881
+# ref = Pyramid Texts § 274a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥmś Wni҆ś ḥnꜥ ẖnn.w Rꜥw
+# lit = "Unas shall sit with those who row Re."
+# trans = "Unas shall sit with those who row Re."
+# type = Cleft sentence with adverbial focus
+1	ḥmś	ḥmś	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	ẖnn.w	ẖni̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	obl	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	4	nmod	_	_
+
+# sent_id = UDE-882
+# ref = PT § 123i W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = wč̣ Wni҆ś nfr.t i҆r ⸗f ś(i҆) Wni҆ś pi҆ nčr-ꜥꜣ
+# lit = “If Unas command what is good, he (i.e. Re) shall do it, (for) Unas is the great god.”
+# trans = “If Unas command something good, he (i.e. Re) shall do it, for Unas is the great god.”
+# type = Verbal sentence with a verbal topic
+1	wč̣	wč̣	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	nfr.t	nfr.t	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	_
+4	i҆r	i҆ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	9	nsubj	_	_
+8	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	cop	_	_
+9-10	nčr-ꜥꜣ	_	_	_	_	_	_	_	_
+9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	4	parataxis	_	_
+10	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	9	compound	_	_
 
