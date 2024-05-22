@@ -13411,3 +13411,15 @@
 4	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-880
+# ref = Pyramid Texts § 274a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜣmś Wni҆ś twr ⸗f Wni҆ś
+# lit = "The staff of Unas, he shall respect Unas."
+# trans = "The staff of Unas, he shall respect Unas"
+# type = Verbal sentence with nominal topic
+1	ꜣmś	ꜣmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	twr	twr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	obj	_	_
+
