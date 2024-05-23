@@ -13937,3 +13937,30 @@
 6	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	5	fixed	_	_
 7	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	5	nmod	_	_
 
+# sent_id = UDE-916
+# ref = Pyramid Texts § 282b W, Saqqara, 5th Dynasty, rel, OE
+# text = m ⸗k ś(i҆) i҆w ⸗ś m-ḫśf(.w) ⸗k i҆mn.t nfr.t m-ḫśf(.w) ⸗k m nꜣb.(w)t ⸗ś nfr.t
+# lit = "Look, she comes to meet you, the beautiful West (comes) to meet you (certainly) with her beautiful tresses."
+# trans = "Look, she comes to meet you, the beautiful West (comes) to meet you (certainly) with her beautiful tresses."
+# type = Verbal sentence
+1-2	m ⸗k	_	_	_	_	_	_	_	_
+1	m	m	PART	_	_	3	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	ś(i҆)	śi҆	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	_
+4	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6-7	m-ḫśf(.w)	_	_	_	_	_	_	_	_
+6	m	m	ADP	Cons.st	_	8	case	_	_
+7	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	6	fixed	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+9	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	nfr.t	nfr	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+11-12	m-ḫśf(.w)	_	_	_	_	_	_	_	_
+11	m	m	ADP	Cons.st	_	13	case	_	_
+12	ḫśf(.w)	ḫśf.w	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
+13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	orphan	_	_
+14	m	m	ADP	Cons.st	_	15	case	_	_
+15	nꜣb.(w)t	nꜣb.t	NOUN	_	Gender=Fem|Number=Plur	9	orphan	_	_
+16	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+17	nfr.(w)t	nfr	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+
