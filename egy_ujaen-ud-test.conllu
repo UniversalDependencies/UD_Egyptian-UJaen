@@ -2812,7 +2812,7 @@
 # lit = "Look, you have blinded him."
 # trans = "Look, you have blinded him."
 # type = Verbal sentence
-1	m	m	PART	_	_	2	discourse	_	_
+1	m	m	PART	_	_	3	discourse	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	3	dislocated	_	_
 3	šp.n	šp	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	0	root	_	_
 4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -4337,7 +4337,7 @@
 # lit = "Look, it is deposited on the ground (?)."
 # trans = "Look, it is deposited on the ground (?)."
 # type = Verbal sentence
-1	m	m	PART	_	_	2	discourse	_	_
+1	m	m	PART	_	_	3	discourse	_	_
 2	ś(i҆)	śi҆	PRON	DepPron	Gender=Fem|Number=Sing|Person=3	3	dislocated	_	_
 3	ḥbnbn	ḥbnbn	VERB	SFC|Pres	Tense=Pres|VerbForm=Fin	0	root	_	_
 4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -4885,7 +4885,7 @@
 # trans = "It slips (?)."
 # type = Verbal sentence
 1	i҆(w)	i҆w	PART	Particle	_	3	discourse	_	_
-2	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj:outer	_	_
+2	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dislocated	_	_
 3	nbꜣbꜣ	nbꜣbꜣ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	0	root	_	_
 4	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 
@@ -9995,10 +9995,10 @@
 # lit = "Look yourself, you are more powerful and more in control than the gods of Upper Egypt and their spirits."
 # trans = "Look, you are more powerful and more in control than the gods of Upper Egypt and their spirits."
 # type = Verbal sentence
-1	m	m	PART	_	_	2	discourse	_	_
+1	m	m	PART	_	_	5	discourse	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	5	dislocated	_	_
 3	i҆r	r	ADP	Pron.st	_	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 5	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 6	śḫm.ti҆	śḫm	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	5	conj	_	_
 7	r	r	ADP	Cons.st	Case=Cmp	8	case	_	_
@@ -10073,10 +10073,10 @@
 # lit = "Look yourself, you are more powerful and more in control than the northern gods and their spirits."
 # trans = "Look, you are more powerful and more in control than the northern gods and their spirits."
 # type = Verbal sentence
-1	m	m	PART	_	_	2	discourse	_	_
+1	m	m	PART	_	_	5	discourse	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2	5	dislocated	_	_
 3	i҆r	r	ADP	Pron.st	_	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 5	bꜣ.ti҆	bꜣ	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 6	śḫm.ti҆	śḫm	VERB	OSSC|Stat	Gender=Com|Number=Sing|Person=2|VerbForm=Fin	5	conj	_	_
 7	r	r	ADP	Cons.st	Case=Cmp	8	case	_	_
@@ -13944,7 +13944,7 @@
 # trans = "Look, she comes to meet you, the beautiful West (comes) to meet you (certainly) with her beautiful tresses."
 # type = Verbal sentence
 1-2	m ⸗k	_	_	_	_	_	_	_	_
-1	m	m	PART	_	_	3	discourse	_	_
+1	m	m	PART	_	_	4	discourse	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
 3	ś(i҆)	śi҆	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	dislocated	_	_
 4	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -13963,4 +13963,15 @@
 15	nꜣb.(w)t	nꜣb.t	NOUN	_	Gender=Fem|Number=Plur	9	orphan	_	_
 16	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
 17	nfr.(w)t	nfr	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+
+# sent_id = UDE-917
+# ref = Pyramid Texts § 282c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(w) ⸗ś č̣ṭ ⸗ś
+# lit = "She says."
+# trans = "She says."
+# type = Verbal sentence
+1	i҆(w)	i҆w	PART	Particle	_	3	discourse	_	_
+2	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	dislocated	_	_
+3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 
