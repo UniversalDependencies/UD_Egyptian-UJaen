@@ -1276,7 +1276,7 @@
 1	sꜣ(w)	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	(i҆)m	i҆mi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Polarity=Neg|VerbForm=Fin	1	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	ś:fḫḫ.w	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
+4	ś:fḫḫ.w	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advmod	_	_
 5	i҆m	m	ADP	Pron.st	Case=Ela	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
@@ -2943,7 +2943,7 @@
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	<ś:>fḫḫ(.w)	fḫḫ	ADV	NegCom	Polarity=Neg|VerbForm=Inf|Voice=Cau	2	advmod	_	_
+3	<ś:>fḫḫ(.w)	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advmod	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
@@ -7143,8 +7143,8 @@
 5	wčs.n	wčs	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 6	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
 7-8	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	5	nsubj	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	5	nsubj	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-482
 # ref = PT § 139b W, Saqqara, 5th Dynasty, rel, OE
@@ -7289,8 +7289,8 @@
 10	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
 11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
 12-13	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-12	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	7	appos	_	_
-13	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	12	fixed	_	_
+12	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	7	appos	_	_
+13	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	12	fixed	_	_
 
 # sent_id = UDE-491
 # ref = Pyramid Texts § 141d W, Saqqara, 5th Dynasty, rel, OE
@@ -7642,8 +7642,8 @@
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
 5	ṭwꜣ.t(i҆)	ṭwꜣ.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
 6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-7	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	6	fixed	_	_
+6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+7	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	6	fixed	_	_
 
 # sent_id = UDE-515
 # ref = Pyramid Texts § 148b W, Saqqara, 5th Dynasty, rel, OE
@@ -7656,8 +7656,8 @@
 3	<m>	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	PROPN	_	Gender=Masc	0	root	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-516
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
@@ -7670,8 +7670,8 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-517
 # ref = Pyramid Texts § 148c W, Saqqara, 5th Dynasty, rel, OE
@@ -7684,8 +7684,8 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-518
 # ref = Pyramid Texts § 148d W, Saqqara, 5th Dynasty, rel, OE
@@ -7698,8 +7698,8 @@
 3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	śꜣb	śꜣb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-519
 # ref = Pyramid Texts § 148d W, Saqqara, 5th Dynasty, rel, OE
@@ -7711,8 +7711,8 @@
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	0	root	_	_
 4-5	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-4	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-5	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	4	fixed	_	_
+4	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	4	fixed	_	_
 
 # sent_id = UDE-520
 # ref = Pyramid Texts § 149a W, Saqqara, 5th Dynasty, rel, OE
@@ -7777,8 +7777,8 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	2	vocative	_	_
-6	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	5	fixed	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-525
 # ref = PT § 149d W, Saqqara, 5th Dynasty, rel, OE
@@ -7942,8 +7942,8 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 9	nb	nb	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
 10	ḫr.wt	ḫr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 11	ś.t	ś.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
@@ -8057,8 +8057,8 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-541
 # ref = PT § 153c W, Saqqara, 5th Dynasty, rel, OE
@@ -8116,8 +8116,8 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 9	ṭwꜣ	ṭwꜣ	NOUN	Tense=Pres|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	1	obl	_	_
 10	i҆ś	i҆ś	ADP	_	Case=Equ	9	case	_	_
 11	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	9	amod	_	_
@@ -8192,8 +8192,8 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 9	č̣bꜣ(.w)	č̣bꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	1	advcl	_	_
 10	m	m	ADP	Cons.st	Case=Ins	11	case	_	_
 11	I҆np.w	I҆np.w	PROPN	_	Gender=Masc	9	obl	_	_
@@ -8246,8 +8246,8 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	6	amod	_	_
-8	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	7	fixed	_	_
+7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-553
 # ref = PT § 160a W, Saqqara, 5th Dynasty, rel, OE
@@ -8312,8 +8312,8 @@
 8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	nmod	_	_
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
-11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
+10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	9	amod	_	_
+11	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	10	fixed	_	_
 
 # sent_id = UDE-556
 # ref = PT § 161b W, Saqqara, 5th Dynasty, rel, OE
@@ -8439,8 +8439,8 @@
 8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	nmod	_	_
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing	9	amod	_	_
-11	śk(.w)	śki̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	10	fixed	_	_
+10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	9	amod	_	_
+11	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	10	fixed	_	_
 12	sn	sni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	amod	_	_
 13	i҆r	r	ADP	Cons.st	Case=Cmp	14	case	_	_
 14	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl	_	_
@@ -8487,9 +8487,9 @@
 6	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	4	obl	_	_
 7	śn(.wi҆)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
-9	i҆ḫm.w(i҆)	ḫm	VERB	OSSC	Gender=Masc|Number=Dual|Person=3|VerbForm=Fin	0	root	_	_
-10	rm(.w)	rmi̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	9	advmod	_	_
-11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
+9	i҆ḫm.w(i҆)	ḫm	VERB	OSSC	Gender=Masc|Number=Dual|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	_
+10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	advmod	_	_
+11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
 
 # sent_id = UDE-566
 # ref = PT § 164a W, Saqqara, 5th Dynasty, rel, OE
@@ -10607,9 +10607,9 @@
 # trans = “Do not be far from the tomb that you may turn toward (me).”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advmod	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
-4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆mč̣r	i҆mč̣r	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 7	i҆r	r	ADP	Pron.st	Case=All	8	case	_	_
@@ -10622,9 +10622,9 @@
 # trans = “Do not be far from the tomb; it is to (me) that you must turn.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advmod	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
-4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆mč̣r	i҆mč̣r	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 7	i҆r	r	ADP	Pron.st	Case=All	8	case	_	_
@@ -11791,7 +11791,7 @@
 # trans = “Don't ignore me.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	ADV	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
 3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 
 # sent_id = UDE-776
@@ -13609,4 +13609,25 @@
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	_
+
+# sent_id = UDE-895
+# ref = Pyramid Texts § 277b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r tm ⸗k i҆r(.w) ś.t n Wni҆ś i҆r.kꜣ Wni҆ś fꜣ.t m i҆t ⸗f Gb(b)
+# lit = "If you don't make a place for me, Unas will make a curse (?) on his father Geb."
+# trans = "If you fail to make a place for me, Unas will lay a curse (?) on his father Geb."
+# type = Verbal sentence
+1	i҆r	i҆r	PART	_	Top=Yes	2	mark	_	_
+2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	8	advcl	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	advmod	_	_
+5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	_
+8	i҆r.kꜣ	i҆ri̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	_
+10	fꜣ.t	fꜣ.t	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
+11	m	m	ADP	Cons.st	_	12	case	_	_
+12	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+14	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	12	appos	_	_
 
