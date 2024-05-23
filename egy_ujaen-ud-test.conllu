@@ -13753,11 +13753,15 @@
 
 # sent_id = UDE-904
 # ref = Pyramid Texts § 278c W, Saqqara, 5th Dynasty, rel, OE
-# text = tꜣ ṭni̯(.w) ṭni̯.t
-# lit = "The earth is enterely dammed up."
-# trans = "The earth is enterely dammed up."
+# text = tꜣ ṭni̯(.w) ṭni̯.t ṭmč̣(.w) čn(.wi҆) smꜣ(.w) i҆ḫm.t(i҆)
+# lit = "The earth is enterely dammed up after the borders haver been joined together and the two river banks united."
+# trans = "The earth is enterely dammed up after the borders haver been joined together and the two river banks united."
 # type = Verbal sentence
 1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	ṭni̯(.w)	ṭni̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	ṭni̯.t	ṭni̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+4	ṭmč̣(.w)	ṭmč̣	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	2	advcl	_	_
+5	čn(.wi҆)	čn.w	NOUN	_	Gender=Masc|Number=Dual	4	nsubj:pass	_	_
+6	smꜣ(.w)	smꜣ	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	_
+7	i҆ḫm.t(i҆)	i҆ḫm.t	NOUN	_	Gender=Fem|Number=Dual	6	nsubj:pass	_	_
 
