@@ -13781,7 +13781,7 @@
 8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
 
 # sent_id = UDE-906
-# ref = PT § 279b-c W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 279b-c T, Saqqara, 6th Dynasty, rel, OE
 # text = ś:štꜣ(.w) wꜣ.(w)t r ś:wꜣ.w ś:ḥtm(.w) rwṭ.w r prr.w
 # lit = “The roads have been inaccessible to those who pass - the slopes have been destroyed fro those who go.”
 # trans = “(Both of them:) The roads have been inaccessible to travellers, and the slopes have been destroyed fro those who would go up.”
@@ -13794,4 +13794,35 @@
 6	rwṭ.w	rwṭ	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
 7	r	r	ADP	Cons.st	_	4	case	_	_
 8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
+
+# sent_id = UDE-907
+# ref = PT § 279d W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣꜥ nwḥ
+# lit = “Guide the rope!”
+# trans = “Guide the rope!”
+# type = Verbal sentence
+1	mꜣꜥ	mꜣꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	nwḥ	nwḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-908
+# ref = PT § 279d W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ꜣ mśḳ.t
+# lit = “Cross the Mesqet!”
+# trans = “Cross the Mesqet!”
+# type = Verbal sentence
+1	č̣ꜣ	č̣ꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	mśḳ.t	mśḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-909
+# ref = PT § 279d W, Saqqara, 5th Dynasty, rel, OE
+# text = śḳr bč̣ m rʾ mr Ḥp(.y)
+# lit = “Smite the ball at the mouth of the canal of Hapi!”
+# trans = “Smite the ball at the mouth of the canal of Hapi!”
+# type = Verbal sentence
+1	śḳr	śḳr	VERB	Imp	Mood=Imp	0	root	_	_
+2	bč̣	bč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	mr	mr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+6	Ḥp(.y)	Ḥp(.y)	PROPN	_	Gender=Masc	5	nmod	_	_
 
