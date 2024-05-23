@@ -154,7 +154,7 @@
 1-2	wꜣ-i҆b	_	_	_	_	_	_	_	_
 1	wꜣ	wꜣi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
-3	ꜣ.t	ꜣ.t	NOUN	Adv	Case=Tem|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
+3	ꜣ.t	ꜣ.t	NOUN	ADV	Case=Tem|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
 # sent_id = UDE-14
@@ -13692,4 +13692,50 @@
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 11	mwmw	mwmw	ADV	NOUN	AdvType=Man	6	advmod	_	_
+
+# sent_id = UDE-900
+# ref = Pyramid Texts § 278b W, Saqqara, 5th Dynasty, rel, OE
+# text = śr ḥn.t
+# lit = “The pelican shall prophesy.”
+# trans = “The pelican shall prophesy.”
+# type = Verbal sentence
+1	śr	śr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	ḥn.t	ḥn.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-901
+# ref = Pyramid Texts § 278b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr pśč̣.t(i҆)
+# lit = “The bird shall go up.”
+# trans = “The bird shall go up.”
+# type = Verbal sentence
+1	pr	pri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	pśč̣.t(i҆)	pśč̣.ti҆	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-902
+# ref = Pyramid Texts § 278b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ Wr
+# lit = “The Great One (m.) shall stand up.”
+# trans = “The Great One shall stand up.”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-903
+# ref = Pyramid Texts § 278c W, Saqqara, 5th Dynasty, rel, OE
+# text = mṭw pśč̣.(w)t
+# lit = “The Enneads shall speak.”
+# trans = “The Enneads shall speak.”
+# type = Verbal sentence
+1	mṭw	mṭwi҆	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	pśč̣.(w)t	pśč̣.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+
+# sent_id = UDE-904
+# ref = Pyramid Texts § 278c W, Saqqara, 5th Dynasty, rel, OE
+# text = tꜣ ṭni̯(.w) ṭni̯.t
+# lit = "The earth is enterely dammed up."
+# trans = "The earth is enterely dammed up."
+# type = Verbal sentence
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	ṭni̯(.w)	ṭni̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	ṭni̯.t	ṭni̯	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
 
