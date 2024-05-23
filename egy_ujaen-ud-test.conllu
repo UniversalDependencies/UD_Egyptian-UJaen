@@ -13780,3 +13780,18 @@
 7	r	r	ADP	Cons.st	_	4	case	_	_
 8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
 
+# sent_id = UDE-906
+# ref = PT § 279b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:štꜣ(.w) wꜣ.(w)t r ś:wꜣ.w ś:ḥtm(.w) rwṭ.w r prr.w
+# lit = “The roads have been inaccessible to those who pass - the slopes have been destroyed fro those who go.”
+# trans = “(Both of them:) The roads have been inaccessible to travellers, and the slopes have been destroyed fro those who would go up.”
+# type = Balanced sentence
+1	ś:štꜣ(.w)	štꜣ	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	wꜣ.(w)t	wꜣ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj:pass	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	ś:wꜣ.w	wꜣi̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	1	obl	_	_
+5	ś:ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
+6	rwṭ.w	rwṭ	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
+7	r	r	ADP	Cons.st	_	4	case	_	_
+8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
+
