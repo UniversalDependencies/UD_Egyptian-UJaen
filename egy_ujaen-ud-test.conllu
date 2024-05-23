@@ -13200,7 +13200,7 @@
 4	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
 5	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 6	śnk	śnk	ADJ	Lim	Gender=Masc|Number=Sing	4	conj	_	_
-7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+7	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	6	nmod	_	_
 8	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	conj	_	_
 9	čpḥ.t	čpḥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	8	nmod	_	_
 10	Nw(.w)	Nw.w	PROPN	_	Gender=Masc	9	nmod	_	_
@@ -13920,4 +13920,20 @@
 10	i҆w.t	i҆wi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	xcomp	_	_
 11	i҆m	m	ADP	Pron.st	Case=Loc	12	case	_	_
 12	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+
+# sent_id = UDE-915
+# ref = Pyramid Texts § 282a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(.w) i҆n Wr-śkꜣ.t ḥr(.i҆)-i҆b Ṭ(w)ꜣ.t
+# lit = “He said, namely, Wer-sekat, one who is on the heart of Duat.”
+# trans = “He said, Wer-sekat, who dwells in Duat.”
+# type = Cleft sentence with adverbial focus
+1	i҆(.w)	i҆	VERB	OSSC|Initial	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆n	i҆n	ADP	Cons.st	Case=Ins	3	case	_	_
+3-4	Wr-śkꜣ.t	_	_	_	_	_	_	_	_
+3	Wr	Wr	PROPN	_	Gender=Masc	1	obl	_	_
+4	śkꜣ.t	śkꜣ.t	NOUN	_	_	4	flat	_	_
+5-6	ḥr(.i҆)-i҆b	_	_	_	_	_	_	_	_
+5	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	appos	_	_
+6	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	5	fixed	_	_
+7	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	5	nmod	_	_
 
