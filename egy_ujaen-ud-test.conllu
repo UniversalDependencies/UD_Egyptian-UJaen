@@ -541,7 +541,7 @@
 
 # sent_id = UDE-43
 # ref = Urk. I 252, 2, Kar, Edfu, 6th Dynasty, histbio, OE
-# text = i҆ ꜥnḫ.w ṭp.(i҆)w tꜣ ꜥḳ.t(i҆)⸗śn r i҆s pn n(.i҆) ẖr.t-nčr
+# text = i҆ ꜥnḫ.w ṭp.(i҆)w tꜣ ꜥḳ.t(i҆) ⸗śn r i҆s pn n(.i҆) ẖr.t-nčr
 # lit = “O living who are on earth, who will enter this tomb of the necropolis.”
 # trans = “O you who live on earth, who shall enter this tomb of the necropolis.”
 # type = Noun phrase
@@ -549,7 +549,6 @@
 2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-5-6	ꜥḳ.t(i҆)⸗śn	_	_	_	_	_	_	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	fixed	_	_
 7	r	r	ADP	Cons.st	Case=Ill	8	case	_	_
@@ -3347,7 +3346,7 @@
 
 # sent_id = UDE-231
 # ref = Pyramid Texts § 53a-b N, Saqqara, 6th Dynasty, rel, OE
-# text = č̣ ⸗č šꜥ.t ⸗f m i҆r(.ti҆) ꜣḫ(.w) nb(.w) mꜣꜣ.ti҆⸗śn n ⸗f śč̣m.t(i҆)⸗f nb rn ⸗f i҆śč
+# text = č̣ ⸗č šꜥ.t ⸗f m i҆r(.ti҆) ꜣḫ(.w) nb(.w) mꜣꜣ.ti҆ ⸗śn n ⸗f śč̣m.t(i҆) ⸗f nb rn ⸗f i҆śč
 # lit = “You shall give his terror in the eyes of all the spirits who will look at him and of everyone who will hear his name.”
 # trans = “You shall put his terror in the eyes of all the spirits who will look at him and of everyone who will hear his name.”
 # type = Verbal sentence
@@ -3359,12 +3358,10 @@
 6	i҆r(.ti҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
 7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
 8	nb(.w)	nb	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
-9-10	mꜣꜣ.ti҆⸗śn	_	_	_	_	_	_	_	_
 9	mꜣꜣ.ti҆	mꜣꜣ	VERB	_	Tense=Fut|VerbForm=Part	7	acl	_	_
 10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	fixed	_	_
 11	n	n	ADP	Pron.st	Case=Acc	12	case	_	_
 12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-13-14	śč̣m.t(i҆)⸗f	_	_	_	_	_	_	_	_
 13	śč̣m.t(i҆)	śč̣m	NOUN	_	Case=Gen|Tense=Fut|VerbForm=Part	6	conj	_	_
 14	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	fixed	_	_
 15	nb	nb	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
@@ -7067,11 +7064,10 @@
 
 # sent_id = UDE-478
 # ref = Pyramid Texts § 137d W, Saqqara, 5th Dynasty, rel, OE
-# text = mṭw.t(i҆)⸗f(i҆) nb m rn n(.i҆) Wni҆ś č̣w pr ⸗k wč̣.n św Gbb m twꜣ m nʾ.t i҆r.t ḥm ⸗f nn ⸗f
+# text = mṭw.t(i҆) ⸗f(i҆) nb m rn n(.i҆) Wni҆ś č̣w pr ⸗k wč̣.n św Gbb m twꜣ m nʾ.t i҆r.t ḥm ⸗f nn ⸗f
 # lit = “Anyone who shall speak bad against the name of Unas when you go forth, Geb committed him to a low state in the town he belongs so that he will turn back and become inert.”
 # trans = “Anyone who shall speak bad against the name of Unas when you go forth, Geb committed him to a low state in his town so that he will turn back and become inert.”
 # type = Verbal sentence
-1-2	mṭw.t(i҆)⸗f(i҆)	_	_	_	_	_	_	_	_
 1	mṭw.t(i҆)	mṭwi̯	NOUN	_	Tense=Fut|VerbForm=Part	11	dislocated	_	_
 2	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	fixed	_	_
 3	nb	nb	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
@@ -8361,12 +8357,11 @@
 
 # sent_id = UDE-559
 # ref = PT § 161c W, Saqqara, 5th Dynasty, rel, OE
-# text = n ḥm.wt(i҆)⸗f(i҆) nb
+# text = n ḥm.wt(i҆) ⸗f(i҆) nb
 # lit = “There is none who will retreat.”
 # trans = “There is none who will retreat.”
 # type = Negative existence sentence
 1	n	n	PART	Neg	PartType=Neg	0	root	_	_
-2-3	ḥm.wt(i҆)⸗f(i҆)	_	_	_	_	_	_	_	_
 2	ḥm.wt(i҆)	ḥmi̯	NOUN	_	Tense=Fut|VerbForm=Part	1	nsubj	_	_
 3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
 4	nb	nb	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
