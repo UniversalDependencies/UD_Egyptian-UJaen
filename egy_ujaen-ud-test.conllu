@@ -13902,3 +13902,22 @@
 8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
 9	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 
+# sent_id = UDE-914
+# ref = Pyramid Texts § 281b W, Saqqara, 5th Dynasty, rel, OE
+# text = wp.n ⸗f tꜣ m rḫ.tn ⸗f hrw mr.n ⸗f i҆w.t i҆m (⸗f)
+# lit = “He parted the earth (certainly) by means of what he knw on the day when he wished to come.”
+# trans = “He parted the earth (certainly) by means of what he knw on the day when he wished to come.”
+# type = Cleft sentence with adverbial focus
+1	wp.n	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Ins	5	case	_	_
+5	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	hrw	hrw	ADV	NOUN	AdvType=Tim	5	advmod	_	_
+8	mr.n	mri̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl	_	_
+9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	i҆w.t	i҆wi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	xcomp	_	_
+11	i҆m	m	ADP	Pron.st	Case=Loc	12	case	_	_
+12	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+
