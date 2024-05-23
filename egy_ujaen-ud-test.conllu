@@ -13831,7 +13831,7 @@
 # text = i҆nr śḫ.(w)t ⸗k I҆ꜣṭ ṭp-ꜥ(.wi҆) i҆wn śbꜣ(.w) mꜣ.n ⸗śn i҆wn Kns.t kꜣ n(.i҆) p.t
 # lit = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
 # trans = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	i҆nr	nr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
@@ -13854,7 +13854,7 @@
 # text = i҆nr śḫ.(w)t ⸗k I҆ꜣṭ ṭp-ꜥ.w(i҆) i҆wn śbꜣ(.w) mꜣ.n ⸗śn i҆wn Kns.t kꜣ n(.i҆) p.t
 # lit = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
 # trans = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	i҆nr	nr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
@@ -13871,4 +13871,17 @@
 13	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_
 14	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
 15	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+
+# sent_id = UDE-912
+# ref = PT § 280c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ꜣḫ nr i҆ḥ(.w) ṭp mi҆s ⸗f
+# lit = “The Ox-herd is overwhelmed (certainly) before his stem (?).”
+# trans = “It is before his stem (?) that the ox-herd is overwhelmed.”
+# type = Cleft sentence with adverbial focus
+1	i҆ꜣḫ	i҆ꜣḫi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nr	nr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	i҆ḥ(.w)	i҆ḥ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	ṭp	ṭp	ADP	Cons.st	_	5	case	_	_
+5	mi҆s	mi҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
