@@ -5029,7 +5029,7 @@
 5	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	wꜣḥ.t	wꜣḥ.t	NOUN	Subj	Gender=Fem|Number=Sing	4	conj	_	_
 7	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
-8	mr.t	mri̯	VERB	ADJ|VerbForm=RelForm|Futur	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Fin	4	acl	_	_
+8	mr.t	mri̯	VERB	ADJ|VerbForm=RelForm|Fut	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Fin	4	acl	_	_
 9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
 10	nfr.t	nfr	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	amod	_	_
 11	n	n	ADP	Pron.st	Case=Ben	12	case	_	_
@@ -13674,4 +13674,22 @@
 2	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
 3	wꜣ.n	wꜣ	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+
+# sent_id = UDE-899
+# ref = Pyramid Texts § 278a W, Saqqara, 5th Dynasty, rel, OE
+# text = gm.y Wni҆ś m wꜣ.t ⸗f wnm ⸗f n ⸗f św mwmw
+# lit = "Whoever Unas will find in his way, he will eat him for himself piecemeal (?)."
+# trans = "Whoever Unas will find in his way, he will devour him piecemeal (?)."
+# type = Verbal sentence
+1	gm.y	gmi̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Fin	6	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	wnm	wnm	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Pron.st	Case=Ben	9	case	_	_
+9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=PronType=Emp	6	obl	_	_
+10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+11	mwmw	mwmw	ADV	NOUN	AdvType=Man	6	advmod	_	_
 
