@@ -5990,7 +5990,7 @@
 # text = śč̣r Tti҆ wč̣ꜣ(.w) rꜥw nb
 # lit = “Teti shall lie down being in good health every day.”
 # trans = “Teti shall down in good health.”
-# type = Verbal sentence with a verbal topic
+# type = Verbal sentence
 1	śč̣r	śč̣r	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	wč̣ꜣ(.w)	wč̣ꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	2	advcl	_	_
@@ -12869,7 +12869,7 @@
 # lit = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
 # trans = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
 # type = Verbal sentence with nominal topic + Cleft sentence with nominal focus
-1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	dislocated	_	_
+1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	dislocated	_	_
 2	ḳr	ḳr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	i҆śꜣḥ	śꜣḥ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
 4	śn	śn	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
