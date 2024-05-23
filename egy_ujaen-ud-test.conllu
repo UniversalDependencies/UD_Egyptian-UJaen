@@ -1276,7 +1276,7 @@
 1	sꜣ(w)	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	(i҆)m	i҆mi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Polarity=Neg|VerbForm=Fin	1	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	ś:fḫḫ.w	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advmod	_	_
+4	ś:fḫḫ.w	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advcl	_	_
 5	i҆m	m	ADP	Pron.st	Case=Ela	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
@@ -2943,7 +2943,7 @@
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	<ś:>fḫḫ(.w)	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advmod	_	_
+3	<ś:>fḫḫ(.w)	fḫḫ	VERB	NegCom	VerbForm=Inf|Voice=Cau	2	advcl	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 
@@ -8488,7 +8488,7 @@
 7	śn(.wi҆)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	i҆ḫm.w(i҆)	ḫm	VERB	OSSC	Gender=Masc|Number=Dual|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	_
-10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	advmod	_	_
+10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	advcl	_	_
 11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
 
 # sent_id = UDE-566
@@ -10607,7 +10607,7 @@
 # trans = “Do not be far from the tomb that you may turn toward (me).”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advmod	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆mč̣r	i҆mč̣r	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -10622,7 +10622,7 @@
 # trans = “Do not be far from the tomb; it is to (me) that you must turn.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advmod	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆mč̣r	i҆mč̣r	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -11791,7 +11791,7 @@
 # trans = “Don't ignore me.”
 # type = Verbal sentence
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advmod	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
 3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 
 # sent_id = UDE-776
