@@ -372,7 +372,7 @@
 # trans = “(I) am not forgetful.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	mh.n	mh	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	mh.n	mh	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 
@@ -2671,7 +2671,7 @@
 # trans = “It cannot be away from you.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	bi҆ꜣ.n	bi҆ꜣi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	bi҆ꜣ.n	bi҆ꜣi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	i҆r	r	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
@@ -6066,7 +6066,7 @@
 1	wꜣč̣	wꜣč̣	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
 2	šw	šw	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
-4	i҆č.n	i҆či̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+4	i҆č.n	i҆či̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
 6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
@@ -6080,7 +6080,7 @@
 1	wꜣč̣	wꜣč̣	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
-4	i҆č.n	i҆či̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+4	i҆č.n	i҆či̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 5	šw	šw	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
 6	i҆š.t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
@@ -6235,7 +6235,7 @@
 # trans = “He cannot eat the abomination of these two, just as Seth rejects the death.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
 5	nw.i҆	nw	NOUN	Dem	Case=Gen|Gender=Masc|Number=Dual|PronType=Dem	4	nmod	_	_
@@ -6414,7 +6414,7 @@
 # trans = “He cannot eat it.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	wnm.n	wnm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
@@ -6458,7 +6458,7 @@
 # trans = “He cannot drink it.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	ś(i҆)	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
@@ -6469,7 +6469,7 @@
 # trans = “Teti cannot drink it.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	swr.n	swr	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	ś(i҆)	ś(i҆)	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
 
@@ -6822,7 +6822,7 @@
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	dislocated	_	_
 3	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
-4	šm.n	šmi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+4	šm.n	šmi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 6	i҆ś	i҆ś	PART	Neg	PartType=Emp	4	advmod	_	_
 7	m(w)t.ti҆	mwt	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	4	advcl	_	_
@@ -7542,7 +7542,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
-3	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
@@ -7554,7 +7554,7 @@
 # trans = “Your son cannot have power over him.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
@@ -7568,7 +7568,7 @@
 # type = Verbal sentence
 1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
-3	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+3	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
@@ -7580,7 +7580,7 @@
 # trans = “Your father cannot have power over him.”
 # type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres	0	root	_	_
+2	śḫm.n	śḫm	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|Verbform=Fin|Voice=Act	0	root	_	_
 3	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	i҆m	m	ADP	Pron.st	_	6	case	_	_
@@ -13615,7 +13615,7 @@
 # text = i҆r tm ⸗k i҆r(.w) ś.t n Wni҆ś i҆r.kꜣ Wni҆ś fꜣ.t m i҆t ⸗f Gb(b)
 # lit = "If you don't make a place for me, Unas will make a curse (?) on his father Geb."
 # trans = "If you fail to make a place for me, Unas will lay a curse (?) on his father Geb."
-# type = Verbal sentence
+# type = Marked verbal topic + verbal sentence
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	8	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
@@ -13630,4 +13630,37 @@
 12	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
 14	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	12	appos	_	_
+
+# sent_id = UDE-896
+# ref = Pyramid Texts § 277b T, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r tm ⸗k i҆r(.w) ś.t n TTi҆ pn i҆r.kꜣ ⸗f fꜣ.t m i҆t ⸗f Gb(b)
+# lit = "If you don't make a place for this Teti, he will make a curse (?) on his father Geb."
+# trans = "If you fail to make a place for this Teti, he will lay a curse (?) on his father Geb."
+# type = Marked verbal topic + verbal sentence
+1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
+2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	9	advcl	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
+5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
+6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
+7	TTi҆	TTi҆	PROPN	_	Gender=Masc	4	iobj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	i҆r.kꜣ	i҆ri̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	fꜣ.t	fꜣ.t	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
+12	m	m	ADP	Cons.st	_	13	case	_	_
+13	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+14	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
+15	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	13	appos	_	_
+
+# sent_id = UDE-897
+# ref = Pyramid Texts § 277c W, Saqqara, 5th Dynasty, rel, OE
+# text = tꜣ n mṭw.n ⸗f
+# lit = "The earth, it cannot speak."
+# trans = "The earth cannot speak."
+# type = Verbal sentence
+1	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+1	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
+2	mṭw.n	mṭwi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 
