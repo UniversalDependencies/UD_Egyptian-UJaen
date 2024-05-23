@@ -13709,7 +13709,18 @@
 # trans = “The bird shall go up.”
 # type = Verbal sentence
 1	pr	pri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	pśč̣.t(i҆)	pśč̣.ti҆	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+2	pśč̣.t(i҆)	pśč̣.ti҆	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+
+# sent_id = UDE-901a
+# ref = PT § 278b W, Saqqara, 5th Dynasty, rel, OE
+# text = śr ḥn.t pr pśč̣.t(i҆)
+# lit = “The pelican will prophesy - The bird will go up.”
+# trans = “(Both of them:) The pelican will prophesy, and the bird will go up.”
+# type = Balanced sentence
+1	śr	śr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ḥn.t	ḥn.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	pr	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	pśč̣.t(i҆)	pśč̣.t(i҆)	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 
 # sent_id = UDE-902
 # ref = Pyramid Texts § 278b W, Saqqara, 5th Dynasty, rel, OE
@@ -13728,6 +13739,17 @@
 # type = Verbal sentence
 1	mṭw	mṭwi҆	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	pśč̣.(w)t	pśč̣.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+
+# sent_id = UDE-903a
+# ref = PT § 278b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ Wr mṭw pśč̣.(w)t
+# lit = “The Great One (m.) will stand up - The Enneads will speak.”
+# trans = “(Both of them:) The Great One (m.) will stand up, and the Enneads will speak.”
+# type = Balanced sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	mṭw	mṭwi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	pśč̣.(w)t	pśč̣.(w)t	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 
 # sent_id = UDE-904
 # ref = Pyramid Texts § 278c W, Saqqara, 5th Dynasty, rel, OE
