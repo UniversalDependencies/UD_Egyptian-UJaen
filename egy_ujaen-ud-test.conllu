@@ -8065,7 +8065,7 @@
 # text = mr.w ⸗f m(w)t ⸗čn m(w)t ⸗čn
 # lit = “If he will wish that you die, you will die.”
 # trans = “If he wishes you to die, you will die.”
-# type = Verbal sentence
+# type = Verbal sentence with a verbal topic
 1	mr.w	mri̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	5	dislocated	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	m(w)t	mwt	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
@@ -13884,4 +13884,21 @@
 4	ṭp	ṭp	ADP	Cons.st	_	5	case	_	_
 5	mi҆s	mi҆s	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-913
+# ref = PT § 281a W, Saqqara, 5th Dynasty, rel, OE
+# text = hꜣ śnč̣ śṭꜣ mṭś.w ṭp-ꜥ(.wi҆) ḳrr n(.i҆) p.t
+# lit = “(When) the descend, the violent ones will tremble before the storm of the sky.”
+# trans = “(When) the descend, the violent ones will tremble before the storm of the sky.”
+# type = Verbal sentence with a verbal topic
+1	hꜣ	hꜣi̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	3	dislocated	_	_
+2	śnč̣	śnč̣	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	śṭꜣ	śṭꜣ	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	mṭś.w	mṭś	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+5-6	ṭp-ꜥ(.wi҆)	_	_	_	_	_	_	_	_
+5	ṭp	ṭp	ADP	Cons.st	_	7	case	_	_
+6	ꜥ(.wi҆)	ꜥ	NOUN	MWE	Gender=Masc|Number=Dual	5	fixed	_	_
+7	ḳrr	ḳrr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+9	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 
