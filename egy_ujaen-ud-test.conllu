@@ -13564,7 +13564,7 @@
 # ref = Pyramid Texts § 276b T, Saqqara, 6th Dynasty, rel, OE
 # text = nś(r) hh n(.i҆) Tti҆ pn r ⸗čn ḥꜣ.(i҆)w kꜣr
 # lit = "The flame of the blast of Teti is against you who are behind the shrine."
-# trans = "The flame of the blast of Teti is against you who are behind the shrine"
+# trans = "The flame of the blast of Teti is against you who are behind the shrine."
 # type = Adverbial sentence
 1	nś(r)	nśr	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	7	nsubj	_	_
 2	hh	hh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
@@ -13575,4 +13575,24 @@
 7	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
 8	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	7	appos	_	_
 9	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+
+# sent_id = UDE-893
+# ref = Pyramid Texts § 276c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ nčr-ꜥꜣ ḫmm rn ⸗f (i҆)ḫ.t ḥr ś.t n nb wꜥ
+# lit = "O great god whose name is unknown, a meal is in place for the sole lord."
+# trans = "O great god whose name is unknown, a meal is in place for the sole lord."
+# type = Adverbial sentence
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2-3	nčr-ꜥꜣ	_	_	_	_	_	_	_	_
+2	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	9	dislocated	_	_
+3	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	2	compound	_	_
+4	ḫmm	ḫmi̯	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	acl	_	_
+5	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	(i҆)ḫ.t	i҆ḫ.t	NOUN	Subj	Definite=Cons|Gender=Fem|Number=Sing	7	nsubj	_	_
+8	ḥr	ḥr	ADP	Cons.st	_	9	case	_	_
+9	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+10	n	n	ADP	Cons.st	Case=Ben	11	case	_	_
+11	nb	nb	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	ꜥꜣ	ꜥꜣ	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
 
