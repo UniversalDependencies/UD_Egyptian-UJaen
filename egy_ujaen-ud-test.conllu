@@ -13827,7 +13827,7 @@
 6	Ḥp(.y)	Ḥp(.y)	PROPN	_	Gender=Masc	5	nmod	_	_
 
 # sent_id = UDE-910
-# ref = PT § 280a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 280a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆nr śḫ.(w)t ⸗k I҆ꜣṭ ṭp-ꜥ(.wi҆) i҆wn śbꜣ(.w) mꜣ.n ⸗śn i҆wn Kns.t kꜣ n(.i҆) p.t
 # lit = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
 # trans = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
@@ -13839,6 +13839,29 @@
 5-6	ṭp-ꜥ(.wi҆)	_	_	_	_	_	_	_	_
 5	ṭp	ṭp	ADP	Cons.st	_	7	case	_	_
 6	ꜥ(.wi҆)	ꜥ	NOUN	MWE	Gender=Masc|Number=Dual	5	fixed	_	_
+7	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	śbꜣ(.w)	śbꜣ	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
+9	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
+10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+11	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	Kns.t	Kns.t	PROPN	_	Gender=Fem	11	nmod	_	_
+13	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_
+14	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
+15	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+
+# sent_id = UDE-911
+# ref = PT § 280a-b T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆nr śḫ.(w)t ⸗k I҆ꜣṭ ṭp-ꜥ.w(i҆) i҆wn śbꜣ(.w) mꜣ.n ⸗śn i҆wn Kns.t kꜣ n(.i҆) p.t
+# lit = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
+# trans = “Your fields, star, fear (certainly) before the pillar of the stars, after they saw the pillar of Kenzet, the bull of the sky.”
+# type = Verbal sentence
+1	i҆nr	nr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	śḫ.(w)t	śḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	I҆ꜣṭ	I҆ꜣṭ	PROPN	_	Gender=Masc	2	appos	_	_
+5-6	ṭp-ꜥ.w(i҆)	_	_	_	_	_	_	_	_
+5	ṭp	ṭp	ADP	Cons.st	_	7	case	_	_
+6	ꜥ.w(i҆)	ꜥ	NOUN	MWE	Gender=Masc|Number=Dual	5	fixed	_	_
 7	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 8	śbꜣ(.w)	śbꜣ	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
 9	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
