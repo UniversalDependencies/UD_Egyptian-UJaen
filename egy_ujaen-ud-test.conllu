@@ -13969,3 +13969,21 @@
 3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 
+# sent_id = UDE-918
+# ref = PT § 282c-283a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆(.w) mś.n (⸗i҆) wbn ꜥb ⸗f i҆wn śṭm kꜣ n(.i҆) p.t
+# lit = “May he come, the one (I) borne, whose horn rises, the painted pillar, the bull of sky!”
+# trans = “Wellcome, the one (I) borne, whose horn rises, the painted pillar, the bull of sky!.”
+# type = Verbal sentence
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	mś.n	mśi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	appos	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	wbn	wbn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	_
+5	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+8	śṭm	śṭm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	_
+9	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+10	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
+11	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+
