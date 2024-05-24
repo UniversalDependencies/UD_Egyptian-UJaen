@@ -12422,7 +12422,7 @@
 2	r	r	ADP	Pron.st	_	3	case	_	_
 3	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
-5	ḫśbč̣	ḫśbč̣	ADJ	Lim	Gender=Masc|Number=Sing	4	appos	_	_
+5	ḫśbč̣	ḫśbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	4	appos	_	_
 6	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	5	nmod	_	_
 
 # sent_id = UDE-820
@@ -12434,9 +12434,9 @@
 1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
 2	čn	čn	PRON	DepPron	Gender=Com|Number=Plur|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
-4	ṭšr	ṭšr	ADJ	Lim	Gender=Masc|Number=Sing	3	appos	_	_
+4	ṭšr	ṭšr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	3	appos	_	_
 5	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
-6	mr	mr	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
+6	mr	mr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
 7	ꜣ.t	ꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	nmod	_	_
 
 # sent_id = UDE-821
@@ -12461,7 +12461,7 @@
 1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
-4	č̣śr	č̣śr	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	1	iobj	_	_
+4	č̣śr	č̣śr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	1	iobj	_	_
 5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
@@ -12923,9 +12923,9 @@
 3	mś.t	mśi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obj	_	_
 5	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
-6	śpṭ	śpṭ	ADJ	Lim	Gender=Masc|Number=Sing	5	appos	_	_
+6	śpṭ	śpṭ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	5	appos	_	_
 7	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-8	ꜣw	ꜣwi̯	ADJ	VerbForm=Part|Lim	Gender=Masc|Number=Sing	6	conj	_	_
+8	ꜣw	ꜣwi̯	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	_
 9	šm.(w)t	šm.t	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
 10	i҆nn	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	amod	_	_
 11	ḫr.t	ḫr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Coll	10	obj	_	_
@@ -13194,7 +13194,7 @@
 3	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	0	root	_	_
 4	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	_
 5	Rꜥw	Rꜥw	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
-6	śnk	śnk	ADJ	Lim	Gender=Masc|Number=Sing	4	conj	_	_
+6	śnk	śnk	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	4	conj	_	_
 7	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	6	nmod	_	_
 8	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	conj	_	_
 9	čpḥ.t	čpḥ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	8	nmod	_	_
@@ -13224,7 +13224,7 @@
 14	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	13	fixed	_	_
 15	pẖr.t	pẖr.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
 16	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	_
-17	ꜥḥꜣ.w	ꜥḥꜣ	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part	15	nmod	_	_
+17	ꜥḥꜣ.w	ꜥḥꜣ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	15	nmod	_	_
 18	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 
 # sent_id = UDE-871
@@ -13242,9 +13242,9 @@
 7	ś.(w)t	ś.t	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	_
 8	ḥꜣ	ḥꜣ	ADP	Cons.st	_	9	case	_	_
 9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-10	(w)ṭ	wṭi̯	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	appos	_	_
+10	(w)ṭ	wṭi̯	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	appos	_	_
 11	ṭp	ṭp	NOUN	MWE	Gender=Masc|Number=Sing	10	nmod	_	_
-12	č̣bꜣ	č̣bꜣ	ADJ	Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	appos	_	_
+12	č̣bꜣ	č̣bꜣ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	appos	_	_
 13	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 14	śpṭ.t	śpṭ	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
 15	nḫt(.t)	nḫt	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
@@ -14209,11 +14209,43 @@
 # lit = “He affixed his head (certainly) to his neck.”
 # trans = “It was to his neck that he affixed his head.”
 # type = Cleft sentence with adverbial focus
-1	č(ꜣ)s.n	č(ꜣ)si̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	č(ꜣ)s.n	čꜣs	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 5	ḥr	ḥr	ADP	Cons.st	_	6	case	_	_
 6	wśr.t	wśr.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-934
+# ref = Pyramid Texts § 286d-e W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w wśr.t Wni҆ś ḥr mk.t ⸗f m rn ⸗f pw n(.i҆) č(ꜣ)s ṭp č(ꜣ)s ⸗f ṭp n(.i҆) Ḥp i҆m ⸗f hrw pw n(.i҆) śpḥ ng(ꜣ)
+# lit = "The neck of Unas is on his trunk in his name of Affixer of head by means of which he affixed the head of Apis on that day of lassoing the steer."
+# trans = "The neck of Unas is on his trunk in his name of Affixer of head by means of which he affixed the head of Apis on that day of lassoing the steer."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	wśr.t	wśr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	ḥr	ḥr	ADP	Cons.st	_	5	case	_	_
+5	mk.t	mk.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	m	m	ADP	Cons.st	_	8	case	_	_
+8	rn	rn	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+11	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	8	amod	_	_
+12	č(ꜣ)s	čꜣs	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	8	nmod	_	_
+13	ṭp	ṭp	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
+14	č(ꜣ)s	čꜣs	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	12	acl	_	_
+15	⸗f	f	PPRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+16	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	14	obj	_	_
+17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
+18	Ḥp	Ḥp	PROPN	_	Gender=Masc	16	nmod	_	_
+19	i҆m	m	ADP	Pron.st	_	19	case	_	_
+20	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+21	hrw	hrw	ADV	NOUN	AdvType=Tim	14	advmod	_	_
+22	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
+23	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	21	amod	_	_
+24	śpḥ	śpḥ	NOUN	Inf	Gender=Masc|VerbForm=Inf	21	nmod	_	_
+25	ng(ꜣ)	ngꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	_
 
