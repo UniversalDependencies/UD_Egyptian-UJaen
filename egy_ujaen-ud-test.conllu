@@ -13921,9 +13921,9 @@
 # text = i҆(.w) i҆n Wr-śkꜣ.t ḥr(.i҆)-i҆b Ṭ(w)ꜣ.t
 # lit = “He said, namely, Wer-sekat, one who is on the heart of Duat.”
 # trans = “He said, Wer-sekat, who dwells in Duat.”
-# type = Cleft sentence with adverbial focus
+# type = Verbal sentence
 1	i҆(.w)	i҆	VERB	OSSC|Initial	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	i҆n	i҆n	ADP	Cons.st	Case=Ins	3	case	_	_
+2	i҆n	i҆n	ADP	Cons.st	_	3	case	_	_
 3-4	Wr-śkꜣ.t	_	_	_	_	_	_	_	_
 3	Wr	Wr	PROPN	_	Gender=Masc	1	obl	_	_
 4	śkꜣ.t	śkꜣ.t	NOUN	_	_	3	flat	_	_
@@ -14035,8 +14035,21 @@
 # type = Verbal sentence
 1	ś:wꜣ	ś:wꜣ	VERB	Imp|Voice=Cau	Mood=Imp	0	root	_	_
 2	m	m	ADP	Cons.st	_	3	case	_	_
-3	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=sing	1	obl	_	_
+3	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	ẖnm.n	ẖnm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 6	čw	čw	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+
+# sent_id = UDE-923
+# ref = Pyramid Texts § 284a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆.t(i҆) i҆n i҆mn.t nfr.t r Wni҆ś
+# lit = “She said, namely, the beautiful West to Unas.”
+# trans = “She, the beautiful West, said to Unas.”
+# type = Verbal sentence 
+1	i҆.t(i҆)	i҆	VERB	OSSC|Initial	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆n	i҆n	ADP	Cons.st	_	3	case	_	_
+3	i҆mn.t	i҆mn.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+4	nfr.t	nfr	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
+5	r	r	ADP	Cons.st	_	6	case	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
 
