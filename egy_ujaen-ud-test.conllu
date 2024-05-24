@@ -14053,3 +14053,35 @@
 5	r	r	ADP	Cons.st	_	6	case	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-924
+# ref = PT § 284b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆s(i҆) ẖn ⸗k r śḫ.t ḥtp i҆č ⸗k ḥi҆p.t n ḥr(.i҆) ḳꜣ.t ⸗f
+# lit = “Go in order that you may row to the Field of Offerings and take the trip to him who is on his plant.”
+# trans = “Go, you should row to the Field of Offerings and travel to him who is on his plant.”
+# type = Verbal sentence
+1	i҆s(i҆)	si҆	VERB	Imp	Mood=Imp	0	root	_	_
+2	ẖn	ẖni̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	r	r	ADP	Cons.st	Case=All	5	case	_	_
+5	śḫ.t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+6	ḥtp	ḥtp	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	i҆č	i҆či̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	conj	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+9	ḥi҆p.t	ḥi҆p.t	NOUN	MWE	Gender=Masc|Number=Sing	7	obj	_	_
+10	n	n	ADP	Cons.st	Case	11	case	_	_
+11	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	7	obl	_	_
+12	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+
+# sent_id = UDE-925
+# ref = Pyramid Texts § 285a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(.w) i҆n ḫnt(.i҆) mni҆.t ⸗f
+# lit = “He said, namely, the one who is in front of his mooring post.”
+# trans = “He, the one who presides over his mooring post, said.”
+# type = Verbal sentence
+1	i҆(.w)	i҆	VERB	OSSC|Initial	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆n	i҆n	ADP	Cons.st	_	3	case	_	_
+3	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	1	obl	_	_
+4	mni҆.t	mni҆.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
