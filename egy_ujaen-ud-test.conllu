@@ -7603,7 +7603,7 @@
 # lit = ""You are distinguished", said they, "in your name of God"."
 # trans = ""You are distinguished", said they, "in your name of God"."
 # type = Adjectival sentence
-1	čn	čn	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+1	čn	čn	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
 4	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
@@ -13976,14 +13976,44 @@
 # trans = “Wellcome, the one (I) borne, whose horn rises, the painted pillar, the bull of sky!.”
 # type = Verbal sentence
 1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-2	mś.n	mśi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	appos	_	_
+2	mś.n	mśi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	dislocated	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-4	wbn	wbn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	_
+4	wbn	wbn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	appos	_	_
 5	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
 8	śṭm	śṭm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	_
-9	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+9	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	4	_	_
 10	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
 11	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
+
+# sent_id = UDE-919
+# ref = PT § 282c-283a T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆i҆(.w) mś.n (⸗i҆) r Tti҆ wbn ꜥb ⸗f i҆wn śṭm kꜣ n(.i҆) p.t
+# lit = “May he come, the one (I) borne, whose horn rises, the painted pillar, the bull of sky!”
+# trans = “Wellcome, the one (I) borne, whose horn rises, the painted pillar, the bull of sky!.”
+# type = Verbal sentence
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	mś.n	mśi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	dislocated	_	_
+3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	r	r	ADP	Cons.st	_	5	case	_	_
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
+6	wbn	wbn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	appos	_	_
+7	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+10	śṭm	śṭm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	amod	_	_
+11	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
+12	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	_
+13	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+
+# sent_id = UDE-920
+# ref = PT § 283b W, Saqqara, 5th Dynasty, rel, OE
+# text = čni҆ i҆r.w ⸗k
+# lit = “Your shape is distinguished.”
+# trans = “Your shape is distinguished.”
+# type = Adjectival sentence
+1	čn	čn	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 
