@@ -14027,3 +14027,16 @@
 2	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 
+# sent_id = UDE-922
+# ref = PT § 283b W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:wꜣ m ḥtp ẖnm.n (⸗i҆) čw
+# lit = “Pass in peace after (I) have protected you.”
+# trans = “Pass in peace, for (I) have protected you.”
+# type = Verbal sentence
+1	ś:wꜣ	ś:wꜣ	VERB	Imp|Voice=Cau	Mood=Imp	0	root	_	_
+2	m	m	ADP	Cons.st	_	3	case	_	_
+3	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=sing	1	obl	_	_
+4	ẖnm.n	ẖnm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+6	čw	čw	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+
