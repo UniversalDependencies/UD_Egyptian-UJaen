@@ -14068,7 +14068,7 @@
 7	i҆č	i҆či̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	conj	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
 9	ḥi҆p.t	ḥi҆p.t	NOUN	MWE	Gender=Masc|Number=Sing	7	obj	_	_
-10	n	n	ADP	Cons.st	Case	11	case	_	_
+10	n	n	ADP	Cons.st	_	11	case	_	_
 11	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	7	obl	_	_
 12	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
@@ -14084,4 +14084,24 @@
 3	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	1	obl	_	_
 4	mni҆.t	mni҆.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
+# sent_id = UDE-926
+# ref = Pyramid Texts § 285a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = hb ⸗k m tꜣ r wmt.t ⸗k r mt.t ⸗k r śčt.t ⸗k
+# lit = “You shall sink into the earth to your thickness, to your middle, to your full span (?).”
+# trans = “You shall sink into the earth to your thickness, to your middle, to your full span (?).”
+# type = Verbal sentence
+1	hb	hbu̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	_	4	case	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	r	r	ADP	Cons.st	_	6	case	_	_
+6	wmt.t	wmt.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	r	r	ADP	Cons.st	_	9	case	_	_
+9	mt.t	mty.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+11	r	r	ADP	Cons.st	_	12	case	_	_
+12	śčt.t	śčt.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
 
