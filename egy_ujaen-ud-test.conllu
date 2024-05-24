@@ -8201,7 +8201,7 @@
 # text = ḫnt(.i҆) ḳꜣ.t i҆mn.t(i҆)t i҆p ⸗f i҆b(.w) śḫm ⸗f m ḥꜣ.t(i҆w)
 # lit = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
 # trans = “The one who presides over the Western Height shall examine the hearts and have control of the hearts.”
-# type = Verbal sentence with nominal topic
+# type = Verbal sentence with a nominal topic
 1	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Gender=Masc|Number=Sing	4	dislocated	_	_
 2	ḳꜣ.t	ḳꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 3	i҆mn.t(i҆)t	i҆mn.t	ADJ	NisbaNoun	Gender=Fem|Number=Sing	2	amod	_	_
@@ -12863,7 +12863,7 @@
 # text = nb ḳr i҆śꜣḥ śn ⸗f i҆śṭ Śtẖ wčs ⸗f čw śwt wčs ⸗f (I҆)tm(.w)
 # lit = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
 # trans = “Lord of Storm, whom his brother kicked, whom Seth broke, he (i.e. Horus) shall bear you, (for) it is he who will bear Atum.”
-# type = Verbal sentence with nominal topic + Cleft sentence with nominal focus
+# type = Verbal sentence with a nominal topic + Cleft sentence with nominal focus
 1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	dislocated	_	_
 2	ḳr	ḳr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	i҆śꜣḥ	śꜣḥ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
@@ -13411,7 +13411,7 @@
 # text = ꜣmś Wni҆ś twr ⸗f Wni҆ś
 # lit = "The staff of Unas, he shall respect Unas."
 # trans = "The staff of Unas, he shall respect Unas"
-# type = Verbal sentence with nominal topic
+# type = Verbal sentence with a nominal topic
 1	ꜣmś	ꜣmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
 3	twr	twr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
@@ -14136,4 +14136,35 @@
 10	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	8	amod	_	_
 11	i҆nś(.w)	i҆nś	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+
+# sent_id = UDE-929
+# ref = PT § 286a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = nb ḥtp(.w) č̣ ⸗f n ⸗k ꜥ {⸗k} <⸗f>
+# lit = “Lord of Offerings, he shall give you his hand.”
+# trans = “Lord of Offerings shall give you his hand.”
+# type = Verbal sentence with a nominal topic
+1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	dislocated	_	_
+2	ḥtp(.w)	ḥtp	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+8	{⸗k}	k	X	_	Typo=Yes	7	dep	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-929
+# ref = PT § 286a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = nb ḥtp.w č̣ ⸗f n ⸗k ꜥ ⸗f
+# lit = “Lord of Offerings, he shall give you his hand.”
+# trans = “Lord of Offerings shall give you his hand.”
+# type = Verbal sentence with a nominal topic
+1	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	dislocated	_	_
+2	ḥtp.w	ḥtp	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
