@@ -3534,15 +3534,15 @@
 
 # sent_id = UDE-242
 # ref = Pyramid Texts § 56c-57a N, Saqqara, 6th Dynasty, rel, OE
-# text = šsp.t i҆r.wt ś:škr.t wr-ꜥ č̣ ⸗č kś tꜣ(.wi҆) n Ppy pn i҆mr kś.w ⸗śn n Ḥr.w
+# text = šsp.t i҆r.wt ś:škr.t Wr-ꜥ č̣ ⸗č kś tꜣ(.wi҆) n Ppy pn i҆mr kś.w ⸗śn n Ḥr.w
 # lit = “The one who receives the doers, the one who adorns the Great One of Arm, you shall cause in order that the Two Lands may bow to this Pepi as they will bow to Horus.”
 # trans = “The one who receives the women of action, the one who adorns the Great carrying chair, you shall cause the Two Lands to bow to this Pepi as they will bow to Horus.”
 # type = Verbal sentence
 1	šsp.t	šsp	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	dislocated	_	_
 2	i҆r.wt	i҆ri̯	NOUN	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nmod	_	_
 3	ś:škr.t	škr	NOUN	Voice=Cau	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	1	conj	_	_
-4-5	wr-ꜥ	_	_	_	_	_	_	_	_
-4	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+4-5	Wr-ꜥ	_	_	_	_	_	_	_	_
+4	Wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 5	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	4	fixed	_	_
 6	č̣	rč̣i̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
@@ -11943,7 +11943,7 @@
 
 # sent_id = UDE-787
 # ref = Pyramid Texts § 243a W, Saqqara, 5th Dynasty, rel, OE
-# text = pr ḥč̣.t ꜥm.n ⸗ś wr.t
+# text = pr ḥč̣.t ꜥm.n ⸗ś Wr.t
 # lit = “The White Crown shall go forth having swallowed the Great One.”
 # trans = “You shall provide your face with it, that it may cleanse you.”
 # type = Verbal sentence
@@ -11951,18 +11951,18 @@
 2	ḥč̣.t	ḥč̣.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	ꜥm.n	ꜥm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 4	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-5	wr.t	wr.t	NOUN	Subj	Gender=Fem|Number=Sing	3	obj	_	_
+5	Wr.t	Wr.t	NOUN	Subj	Gender=Fem|Number=Sing	3	obj	_	_
 
 # sent_id = UDE-788
 # ref = Pyramid Texts § 243b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥm.n nś ḥč̣.t wr.t n mꜣ-ti҆ nś
+# text = ꜥm.n nś ḥč̣.t Wr.t n mꜣ-ti҆ nś
 # lit = “The White Crown's tongue has swallowed the Great One (certainly) without one being able to see the tongue.”
 # trans = “It is without one being able to see the tongue how the White Crown's tongue has swallowed the Great One.”
 # type = Verbal sentence
 1	ꜥm.n	ꜥm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	nś	nś	NOUN	Subj	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	ḥč̣.t	ḥč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	wr.t	wr.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
+4	Wr.t	Wr.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
 5	n	n	PART	Neg	PartType=Neg	6	advmod	_	_
 6-7	mꜣ-ti҆	_	_	_	_	_	_	_	_
 6	mꜣ	mꜣꜣ	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	1	advcl	_	_
@@ -14104,4 +14104,36 @@
 11	r	r	ADP	Cons.st	_	12	case	_	_
 12	śčt.t	śčt.t	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
 13	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	_
+
+# sent_id = UDE-927
+# ref = Pyramid Texts § 285c W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣ ⸗k Rꜥw m i҆nč.(w)t ⸗f
+# lit = “You shall see Re in his fetters.”
+# trans = “You shall see Re in his fetters.”
+# type = Verbal sentence
+1	mꜣ	mꜣꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	i҆nč.(w)t	i҆nč.t	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-926
+# ref = Pyramid Texts § 285c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭwꜣ ⸗k Rꜥw m prw.t ⸗f m sꜣ Wr i҆m(.i҆) i҆nś(.w) ⸗f
+# lit = “You shall praise Re in his loosing (from fetters) by means of the protection of the Great One, who is in his red linens.”
+# trans = “You shall praise Re in his loosing (from fetters) by means of the amulet of the Great One, who is in his red linens.”
+# type = Verbal sentence
+1	ṭwꜣ	ṭwꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	prw.t	prw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	m	m	ADP	Cons.st	_	8	case	_	_
+8	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+10	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	8	amod	_	_
+11	i҆nś(.w)	i҆nś	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 
