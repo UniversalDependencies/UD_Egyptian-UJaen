@@ -14296,3 +14296,24 @@
 3	č̣ꜥm	č̣ꜥm	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
+# sent_id = UDE-938
+# ref = PT § 288a, Saqqara, 5th Dynasty, rel, OE
+# text = Tfn.t Wni҆ś twꜣ.t Šw ś:śḫ ⸗ś ś.t ⸗f m Č̣ṭ.w m Č̣ṭ.t m Č̣ṭ.wt
+# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, .”
+# trans = “# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, .”
+# type = Verbal sentence with a nominal topic
+1	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	5	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	twꜣ.t	twꜣ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	1	amod	_	_
+4	Šw	Šw	PROPN	_	Gender=Masc	3	obj	_	_
+5	ś:śḫ	wśḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	ś.t	ś.t	NOUN	Obj	Gender=Fem|Number=Sing	5	obj	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
+10	Č̣ṭ.w	Č̣ṭ.w	PROPN	_	_	5	obl	_	_
+11	m	m	ADP	Cons.st	Case=Loc	12	case	_	_
+12	Č̣ṭ.t	Č̣ṭ.t	PROPN	_	_	10	conj	_	_
+13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
+14	Č̣ṭ.wt	Č̣ṭ.wt	PROPN	_	_	10	conj	_	_
+
