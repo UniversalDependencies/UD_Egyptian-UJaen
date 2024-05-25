@@ -14285,3 +14285,14 @@
 7	mꜣꜣ.w	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obl	_	_
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 
+# sent_id = UDE-937
+# ref = Pyramid Texts § 288a W, Saqqara, 5th Dynasty, rel, OE
+# text = Ḥkn.wtt ṭp č̣ꜥm ⸗ś
+# lit = "Hekenutet is on her sceptre."
+# trans = "Hekenutet is on her sceptre."
+# type = Adverbial sentence
+1	Ḥkn.wtt	Ḥkn.wtt	PROPN	_	Gender=Fem	3	nsubj	_	_
+2	ṭp	ṭp	ADP	Cons.st	_	4	case	_	_
+4	č̣ꜥm	č̣ꜥm	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+5	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+
