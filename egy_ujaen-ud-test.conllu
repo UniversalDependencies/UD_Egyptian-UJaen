@@ -14297,10 +14297,10 @@
 4	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
 # sent_id = UDE-938
-# ref = PT § 288a, Saqqara, 5th Dynasty, rel, OE
-# text = Tfn.t Wni҆ś twꜣ.t Šw ś:śḫ ⸗ś ś.t ⸗f m Č̣ṭ.w m Č̣ṭ.t m Č̣ṭ.wt
-# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, .”
-# trans = “# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, .”
+# ref = PT § 288a-289b, Saqqara, 5th Dynasty, rel, OE
+# text = Tfn.t Wni҆ś twꜣ.t Šw ś:śḫ ⸗ś ś.t ⸗f m Č̣ṭ.w m Č̣ṭ.t m Č̣ṭ.wt ś:ꜥḥꜥ ⸗ś i҆ꜣ.t(i҆) m-ḫnt wr.w sk ⸗ś š n Wni҆ś m śḫ.t i҆ꜣr.w ś:mn ⸗ś ꜣḥ.t ⸗f m śḫ.t(i҆) ḥtp(.w)
+# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, she shall set up two standards in front of the great ones, she shall excavate a pool for Unas in the Field of Rushes, she shall confirm his land in the two Field of Offerings.”
+# trans = “# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, she shall set up two standards in front of the great ones, she shall excavate a pool for Unas in the Field of Rushes, and she shall confirm his land in the two Field of Offerings.”
 # type = Verbal sentence with a nominal topic
 1	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	5	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
@@ -14316,4 +14316,26 @@
 12	Č̣ṭ.t	Č̣ṭ.t	PROPN	_	_	10	conj	_	_
 13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
 14	Č̣ṭ.wt	Č̣ṭ.wt	PROPN	_	_	10	conj	_	_
+15	ś:ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub|Voice=Cau	Mood=Sub	5	conj	_	_
+16	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+17	i҆ꜣ.t(i҆)	i҆ꜣ.t	NOUN	_	Gender=Fem|Number=Dual	15	obj	_	_
+18-19	m-ḫnt	_	_	_	_	_	_	_	_
+18	m	m	ADP	Cons.st	_	20	case	_	_
+19	ḫnt	ḫnt	NOUN	_	Gender=Masc|Number=Sing	18	fixed	_	_
+20	wr.w	wr.w	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+21	sk	sk	VERB	SFC|Sub	Mood=Sub	5	conj	_	_
+22	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+23	š	š	NOUN	Obj	Gender=Masc|Number=Sing	21	obj	_	_
+23	n	n	ADP	Cons.st	Case=Dat	24	case	_	_
+24	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	21	iobj	_	_
+25	m	m	ADP	Cons.st	Case=Loc	26	case	_	_
+26	śḫ.t	śḫ.t	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
+27	i҆ꜣr.w	i҆ꜣr	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	_
+28	ś:mn	mn	VERB	SFC|Sub|Voice=Cau	Mood=Sub	5	conj	_	_
+29	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+30	ꜣḥ.t	ꜣḥ.t	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
+31	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nmod	_	_
+32	m	m	ADP	Cons.st	Case=Loc	33	case	_	_
+33	śḫ.t(i҆)	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	28	obl	_	_
+34	ḥtp(.w)	ḥtp	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	33	nmod	_	_
 
