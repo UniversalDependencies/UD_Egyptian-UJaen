@@ -14399,9 +14399,9 @@
 
 # sent_id = UDE-941
 # ref = PT § 290c-291c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆w nč̣.n św Wni҆ś m-ꜥ i҆r.w nn i҆[r] [⸗f] nḥm.w šb(.w) ⸗f m-ꜥ ⸗f śk św wn(.w)
-# lit = "Unas has protected himself from the arm of those who would do this against [him], who would take away his food from his arm when he was present"
-# trans = "Unas has protected himself from those who would do this against [him], who would take away his food from him when he was present."
+# text = i҆w nč̣.n św Wni҆ś m-ꜥ i҆r.w nn i҆[r] [⸗f] nḥm.w šb(.w) ⸗f m-ꜥ ⸗f śk św wn(.w) nḥm.w mś.wt ⸗f m-ꜥ ⸗f śk ś(i҆) wn.(i҆) nḥm(.w) čꜣw m [fnč̣] [⸗f] ś:ꜥḥꜥ.w hrw ⸗f n(.i҆) ꜥnḫ
+# lit = "Unas has protected himself from the arm of those who would do this against [him], who would take away his food from his arm when it was present, who would take away his supper from his arm when it was present and who would take the air from [his] [nose], who would bring t a standsill his day of life."
+# trans = "Unas has protected himself from those who would do this against [him], who would take away his food from him when it was present, who would take away his supper from his arm when it was present, who would take the air from [his] [nose], who would bring t a standsill his day of life."
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	nč̣.n	nč̣	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
@@ -14424,4 +14424,24 @@
 17	śk	śk	PART	_	_	19	mark	_	_
 18	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 19	wn(.w)	wnn	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
+20	nḥm.w	nḥm	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	7	conj	_	_
+21	mś.wt	mś.wt	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
+22	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nmod	_	_
+23-24	m-ꜥ	_	_	_	_	_	_	_	_
+23	m	m	ADP	Cons.st	Case=Ins	25	case	_	_
+24	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	23	fixed	_	_
+25	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obl	_	_
+26	śk	śk	PART	_	_	28	mark	_	_
+27	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+28	wn(.w)	wnn	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	20	advcl	_	_
+29	nḥm(.w)	nḥm	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	7	conj	_	_
+30	čꜣw	čꜣw	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	_
+31	m	m	ADP	Cons.st	_	32	case	_	_
+32	[fnč̣]	fnč̣	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	_
+33	[⸗f]	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	_
+34	ś:ꜥḥꜥ.w	ꜥḥꜥ	NOUN	Tense=Past|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	7	conj	_	_
+35	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	34	obj	_	_
+36	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
+37	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	35	amod	_	_
+38	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	_
 
