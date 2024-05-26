@@ -14341,29 +14341,59 @@
 
 # sent_id = UDE-939
 # ref = PT § 289c-290b W, Saqqara, 5th Dynasty, rel, OE
-# text = wč̣ꜥ Wni҆ś mṭw m mḥ.t-wr.t i҆m.(w)t(i҆) ẖnn.w(i҆) śk wśr ⸗f m wśr i҆r.t Tbi҆ nḫt(.w) ⸗f nḫt.w i҆r.t Tbi҆
+# text = wč̣ꜥ Wni҆ś mṭw m mḥ.t-wr.t i҆m.(w)t(i҆) ẖnn.w(i҆) śk wśr(.w) ⸗f m wśr.w i҆r.t Tbi҆ nḫt(.w) ⸗f nḫt.w i҆r.t Tbi҆
 # lit = “Unas shall separate the speech between the two contestants in the Great Immersion, for the power of Unas is like the power of Tebi's eye and his strength is the strength of Tebi's eye.”
 # trans = “Unas shall judge between the two contestants in the Great Immersion because the power of Unas is like the power of Tebi's eye and his strength is the strength of Tebi's eye.”
 # type = Verbal sentence with śk + adverbial sentence
 1	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
-4	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 5-6	mḥ.t-wr.t	_	_	_	_	_	_	_	_
 5	mḥ.t	mḥy.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 6	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 7	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.st	Case=Com	8	case	_	_
 8	ẖnn.w(i҆)	ẖnn.w	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
 9	śk	śk	PART	_	_	13	mark	_	_
-10	wśr	wśr	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+10	wśr(.w)	wśr.w	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 12	m	m	ADP	Cons.st	Case=Equ	13	case	_	_
-13	wśr	wśr	NOUN	_	Gender=Masc|Number=Sing	1	advcl	_	_
-14	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-15	Tbi҆	Tbi҆	PROPN	_	Gender=Masc	14	nmod	_	_
+13	wśr.w	wśr.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	advcl	_	_
+14	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	Tbi҆	Tbi҆	PROPN	_	Case=Gen|Gender=Masc	14	nmod	_	_
 16	nḫt(.w)	nḫt.w	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
 17	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
-18	nḫt.w	nḫt.w	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
-19	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
-20	Tbi҆	Tbi҆	PROPN	_	Gender=Masc	19	nmod	_	_
+18	nḫt.w	nḫt.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	13	conj	_	_
+19	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+20	Tbi҆	Tbi҆	PROPN	_	Case=Gen|Gender=Masc	19	nmod	_	_
+
+# sent_id = UDE-940
+# ref = PT § 289c-290b T, Saqqara, 6th Dynasty, rel, OE
+# text = wč̣ꜥ Tti҆ pn mṭw ḥr mḥ.t-wr.t i҆m.wt(i҆) ẖnn.w(i҆) śk wśr.w Tti҆ pn wśr.w i҆r.t Tbi҆ nḫt.w Tti҆ pn nḫt.w i҆r.t Tbi҆
+# lit = “Unas shall separate the speech between the two contestants on the Great Immersion, for the power of Unas is the power of Tebi's eye and his strength is the strength of Tebi's eye.”
+# trans = “Unas shall judge between the two contestants on the Great Immersion because the power of Unas is the power of Tebi's eye and his strength is the strength of Tebi's eye.”
+# type = Verbal sentence with śk + nominal sentence
+1	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+5	ḥr	ḥr	ADP	Cons.st	Case=Sup	5	case	_	_
+6-7	mḥ.t-wr.t	_	_	_	_	_	_	_	_
+6	mḥ.t	mḥy.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+8	i҆m.wt(i҆)	i҆m.wti҆	ADP	Cons.st	Case=Com	9	case	_	_
+9	ẖnn.w(i҆)	ẖnn.w	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
+10	śk	śk	PART	_	_	14	mark	_	_
+11	wśr.w	wśr.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	Tti҆	Tti҆	PROPN	_	Case=Gen|Gender=Masc	11	nmod	_	_
+13	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+14	wśr.w	wśr.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	advcl	_	_
+15	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	Tbi҆	Tbi҆	PROPN	_	Case=Gen|Gender=Masc	15	nmod	_	_
+17	nḫt.w	nḫt.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	20	nsubj	_	_
+18	Tti҆	Tti҆	PROPN	_	Case=Gen|Gender=Masc	18	nmod	_	_
+19	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
+20	nḫt.w	nḫt.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	14	conj	_	_
+21	i҆r.t	i҆r.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	120	nmod	_	_
+22	Tbi҆	Tbi҆	PROPN	_	Case=Gen|Gender=Masc	21	nmod	_	_
 
