@@ -14399,9 +14399,9 @@
 
 # sent_id = UDE-941
 # ref = PT § 290c-291c W, Saqqara, 6th Dynasty, rel, OE
-# text = i҆w nč̣.n św Wni҆ś m-ꜥ i҆r.w nn i҆[r] [⸗f] nḥm.w šb(.w) ⸗f m-ꜥ ⸗f
-# lit = "Unas has protected himself from the arm of those who would do this against [him], who would take away his food from his arm."
-# trans = "Unas has protected himself from those who would do this against [him], who would take away his food from him."
+# text = i҆w nč̣.n św Wni҆ś m-ꜥ i҆r.w nn i҆[r] [⸗f] nḥm.w šb(.w) ⸗f m-ꜥ ⸗f śk św wn(.w)
+# lit = "Unas has protected himself from the arm of those who would do this against [him], who would take away his food from his arm when he was present"
+# trans = "Unas has protected himself from those who would do this against [him], who would take away his food from him when he was present."
 # type = Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	nč̣.n	nč̣	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
@@ -14421,4 +14421,7 @@
 14	m	m	ADP	Cons.st	Case=Ins	16	case	_	_
 15	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	14	fixed	_	_
 16	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+17	śk	śk	PART	_	_	19	mark	_	_
+18	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	wn(.w)	wnn	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
 
