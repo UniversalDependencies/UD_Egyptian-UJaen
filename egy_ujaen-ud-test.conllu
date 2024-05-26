@@ -14332,7 +14332,7 @@
 27	śḫ.t	śḫ.t	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
 28	i҆ꜣr.w	i҆ꜣr	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	_
 29	ś:mn	mn	VERB	SFC|Sub|Voice=Cau	Mood=Sub	5	conj	_	_
-30	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	_
+30	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	nsubj	_	_
 31	ꜣḥ.t	ꜣḥ.t	NOUN	_	Gender=Fem|Number=Sing	29	obj	_	_
 32	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
 33	m	m	ADP	Cons.st	Case=Loc	34	case	_	_
@@ -14444,4 +14444,19 @@
 36	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
 37	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	35	amod	_	_
 38	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	_
+
+# sent_id = UDE-942
+# ref = Pyramid Texts § 291d W, Saqqara, 5th Dynasty, rel, OE
+# text = nḫt Wni҆ś r ⸗śn ḫꜥ(.w) ḥr wč̣b ⸗f
+# lit = "Unas is stronger than they appearing on his shore."
+# trans = "Unas is stronger than they appearing on his shore."
+# type = Adjectival sentence + adverbial clause
+1	nḫt	nḫt	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+3	r	r	ADP	Pron.st	Case=Cmp	4	case	_	_
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	obl	1	_	_
+5	ḫꜥ(.w)	ḫꜥi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	2	advcl	_	_
+6	ḥr	ḥr	ADP	Cons.st	Case=Sup	7	case	_	_
+7	wč̣b	wč̣b	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
