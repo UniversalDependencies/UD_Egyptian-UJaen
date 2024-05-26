@@ -13628,7 +13628,7 @@
 
 # sent_id = UDE-896
 # ref = Pyramid Texts § 277b T, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r tm ⸗k i҆r(.w) ś.t n TTi҆ pn i҆r.kꜣ ⸗f fꜣ.t m i҆t ⸗f Gb(b)
+# text = i҆r tm ⸗k i҆r(.w) ś.t n Tti҆ pn i҆r.kꜣ ⸗f fꜣ.t m i҆t ⸗f Gb(b)
 # lit = "If you don't make a place for this Teti, he will make a curse (?) on his father Geb."
 # trans = "If you fail to make a place for this Teti, he will lay a curse (?) on his father Geb."
 # type = Marked verbal topic + verbal sentence
@@ -13638,7 +13638,7 @@
 4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
-7	TTi҆	TTi҆	PROPN	_	Gender=Masc	4	iobj	_	_
+7	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	iobj	_	_
 8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 9	i҆r.kꜣ	i҆ri̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
@@ -14550,7 +14550,7 @@
 6	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 
 # sent_id = UDE-948
-# ref = Pyramid Texts § 294a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 294a-c W, Saqqara, 5th Dynasty, rel, OE
 # text = ḫr(.w) ⸗f šṭ(.y) ⸗f čs(y) ⸗f [nn] [rč̣.n] [n] [⸗f] i҆t ⸗f Šw r-gś Śtẖ
 # lit = "He will appertain (?), take and lift up [this] [which] his father Shu gave [him] in the presence of Seth."
 # trans = "He will appertain (?), take and lift up [this] [which] his father Shu gave [him] in the presence of Seth."
@@ -14572,4 +14572,46 @@
 14	r	r	ADP	Cons.st	_	16	case	_	_
 15	gś	gś	NOUN	_	Gender=Masc|Number=Sing	14	fixed	_	_
 16	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	8	obl	_	_
+
+# sent_id = UDE-949
+# ref = Pyramid Texts § 294b T, Saqqara, 6th Dynasty, rel, OE
+# text = šṭ.y Tti҆ pn nn rč̣.n n ⸗f i҆t ⸗f Šw r-gś Śtẖ
+# lit = "This Teti will take this which his father Shu gave him in the presence of Seth."
+# trans = "This Teti will take this which his father Shu gave him in the presence of Seth."
+# type = Verbal sentence
+1	šṭ.y	šṭi҆	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+5	rč̣.n	rč̣i̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	acl	_	_
+6	n	n	ADP	Pron.st	Case=Dat	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+8	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	Šw	Šw	PROPN	_	Gender=Masc	8	appos	_	_
+11-12	r-gś	_	_	_	_	_	_	_	_
+11	r	r	ADP	Cons.st	_	13	case	_	_
+12	gś	gś	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
+13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	obl	_	_
+
+# sent_id = UDE-950
+# ref = Pyramid Texts § 294c T, Saqqara, 6th Dynasty, rel, OE
+# text = čs.y Tti҆ pn nn rč̣.n n ⸗f i҆t ⸗f Šw r-gś Śtẖ
+# lit = "This Teti will lift up this which his father Shu gave him in the presence of Seth."
+# trans = "This Teti will lift up this which his father Shu gave him in the presence of Seth."
+# type = Verbal sentence
+1	čs.y	čsi҆	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+5	rč̣.n	rč̣i̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	acl	_	_
+6	n	n	ADP	Pron.st	Case=Dat	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+8	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	Šw	Šw	PROPN	_	Gender=Masc	8	appos	_	_
+11-12	r-gś	_	_	_	_	_	_	_	_
+11	r	r	ADP	Cons.st	_	13	case	_	_
+12	gś	gś	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
+13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	obl	_	_
 
