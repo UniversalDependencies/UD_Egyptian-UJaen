@@ -14460,3 +14460,39 @@
 7	wč̣b	wč̣b	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-943
+# ref = Pyramid Texts § 292a-292d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ḫr ḥꜣ.t(i҆w) ⸗śn n č̣bꜥ(.w) ⸗f bśk(.w) ⸗śn n [i҆r.(i҆)w] [p.t] ṭšr(.w) ⸗śn n i҆r.(i҆)w tꜣ i҆wꜥ(.w) ⸗śn n šwꜣ.t pr(.w) ⸗śn n sn<sn>.t ꜥrr.(w)t ⸗śn n Ḥ(ꜥ)p(.i҆) wr 
+# lit = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
+# trans = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
+# type = Verbal sentence
+1	i҆ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ḥꜣ.t(i҆w)	ḥꜣ.ti҆	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+3	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	nmod	_	_
+4	n	n	ADP	Cons.st	_	5	case	_	_
+5	č̣bꜥ(.w)	č̣bꜥ	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	bśk(.w)	bśk	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
+8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+9	n	n	ADP	Cons.st	_	10	case	_	_
+10	[i҆r.(i҆)w]	r	NOUN	NisbaPrep	Gender=Masc|Number=Plur	7	orphan	_	_
+11	[p.t]	p.t	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+12	ṭšr(.w)	ṭšr	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
+13	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	12	nmod	_	_
+14	n	n	ADP	Cons.st	_	15	case	_	_
+15	i҆r.(i҆)w	r	NOUN	NisbaPrep	Gender=Masc|Number=Plur	12	orphan	_	_
+16	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+17	i҆wꜥ(.w)	i҆wꜥ	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
+18	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	17	nmod	_	_
+19	n	n	ADP	Cons.st	_	20	case	_	_
+20	šwꜣ.t	šwꜣ.t	NOUN	_	Gender=Fem|Number=Sing	17	orphan	_	_
+21	pr(.w)	pr	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
+22	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	21	nmod	_	_
+23	n	n	ADP	Cons.st	_	24	case	_	_
+24	sn<sn>.t	snsn.t	NOUN	_	Gender=Fem|Number=Sing	21	orphan	_	_
+25	ꜥrr.(w)t	ꜥrr.wt	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
+26	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	25	nmod	_	_
+27	n	n	ADP	Cons.st	_	28	case	_	_
+28	Ḥ(ꜥ)p(.i҆)	Ḥꜥpi҆	ROPN	_	Gender=Masc	25	orphan	_	_
+29	nb	nb	ADJ	_	Gender=Masc|Number=Sing	28	amod	_	_
+
