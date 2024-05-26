@@ -548,7 +548,7 @@
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
-4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+4	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	2	nmod	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
 6	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	fixed	_	_
 7	r	r	ADP	Cons.st	Case=Ill	8	case	_	_
@@ -14499,8 +14499,8 @@
 # sent_id = UDE-944
 # ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty, rel, OE
 # text = nč̣m i҆b n(.i҆) Wni҆ś [sp] [2]
-# lit = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
-# trans = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
+# lit = "The heart of Unas shall be swwt, [twice]."
+# trans = "Unas shall be happy, Unas shall be happy."
 # type = Verbal sentence
 1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
@@ -14508,4 +14508,44 @@
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nmod	_	_
 5	[sp]	sp	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
 6	[2]	2	NUM	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
+
+# sent_id = UDE-945
+# ref = Pyramid Texts § 293b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pw wꜥ(.w) kꜣ n(.i҆) p.t
+# lit = "Unas is the unique one, the bull of the sky."
+# trans = "Unas is the special one, the bull of the sky."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	wꜥ(.w)	wꜥ.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+
+# sent_id = UDE-946
+# ref = Pyramid Texts § 293c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ṭr.n ⸗f i҆r.w nn i҆r ⸗f
+# lit = "Unas has crushed those who would do against him."
+# trans = "Unas has crushed those who would act against him."
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
+2	ṭr.n	ṭr	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	i҆r.w	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	2	obj	_	_
+5	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
+6	i҆r	i҆r	ADP	Pron.st	_	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
+# sent_id = UDE-947
+# ref = Pyramid Texts § 293c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ḥtm.n ⸗f ṭp.(i҆)w ⸗śn tꜣ
+# lit = "Unas has annihilated their survivors."
+# trans = "Unas has annihilated their survivors."
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	_	2	dislocated	_	_
+2	ḥtm.n	ḥtm	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	obj	_	_
+5	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
+6	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 
