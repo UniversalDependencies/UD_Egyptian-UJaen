@@ -14496,3 +14496,16 @@
 28	Ḥ(ꜥ)p(.i҆)	Ḥꜥpi҆	PROPN	_	Gender=Masc	25	orphan	_	_
 29	wr	wr	ADJ	_	Gender=Masc|Number=Sing	28	amod	_	_
 
+# sent_id = UDE-944
+# ref = Pyramid Texts § 293a W, Saqqara, 5th Dynasty, rel, OE
+# text = nč̣m i҆b n(.i҆) Wni҆ś [sp] [2]
+# lit = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
+# trans = "Their hearts fall prey (certainly) to his fingers, their entrails to [those who belong to the sky], their red parts to those who belong to the earth, their heir to poverty, their houses to the conflagration, and their courtyards to the high Nile."
+# type = Verbal sentence
+1	nč̣m	nč̣m	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nmod	_	_
+5	[sp]	sp	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
+6	[2]	2	NUM	ADJ	Gender=Masc|Number=Sing	5	amod	_	_
+
