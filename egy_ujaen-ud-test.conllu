@@ -14274,7 +14274,7 @@
 # text = i҆ḫ mk-t(i҆) Wni҆ś i҆m i҆n mꜣꜣ.w św
 # lit = "So someone shall protect Unas there, namely those who see him."
 # trans = "So someone shall protect Unas there, namely those who see him."
-# type = śk + verbal sentence 
+# type = i҆ḫ + verbal sentence 
 1	i҆ḫ	i҆ḫ	PART	_	_	2	discourse	_	_
 2-3	mk-t(i҆)	_	_	_	_	_	_	_	_
 2	mk	mki̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
@@ -14297,10 +14297,10 @@
 4	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
 # sent_id = UDE-938
-# ref = PT § 288a-289b, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 288a-289b W, Saqqara, 5th Dynasty, rel, OE
 # text = Tfn.t Wni҆ś twꜣ.t Šw ś:śḫ ⸗ś ś.t ⸗f m Č̣ṭ.w m Č̣ṭ.t m Č̣ṭ.wt ś:ꜥḥꜥ ⸗ś i҆ꜣ.t(i҆) m-ḫnt wr.w sk ⸗ś š n Wni҆ś m śḫ.t i҆ꜣr.w ś:mn ⸗ś ꜣḥ.t ⸗f m śḫ.t(i҆) ḥtp(.w)
 # lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, she shall set up two standards in front of the great ones, she shall excavate a pool for Unas in the Field of Rushes, she shall confirm his land in the two Field of Offerings.”
-# trans = “# lit = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, she shall set up two standards in front of the great ones, she shall excavate a pool for Unas in the Field of Rushes, and she shall confirm his land in the two Field of Offerings.”
+# trans = “Tefnut of Unas, who Shu supports, she makes spacious his place in Busiris, in Mendes, in Djedut, she shall set up two standards in front of the great ones, she shall excavate a pool for Unas in the Field of Rushes, and she shall confirm his land in the two Field of Offerings.”
 # type = Verbal sentence with a nominal topic
 1	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	5	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
@@ -14338,4 +14338,32 @@
 33	m	m	ADP	Cons.st	Case=Loc	34	case	_	_
 34	śḫ.t(i҆)	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	29	obl	_	_
 35	ḥtp(.w)	ḥtp	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	34	nmod	_	_
+
+# sent_id = UDE-939
+# ref = PT § 289c-290b W, Saqqara, 5th Dynasty, rel, OE
+# text = wč̣ꜥ Wni҆ś mṭw m mḥ.t-wr.t i҆m.(w)t(i҆) ẖnn.w(i҆) śk wśr ⸗f m wśr i҆r.t Tbi҆ nḫt(.w) ⸗f nḫt.w i҆r.t Tbi҆
+# lit = “Unas shall separate the speech between the two contestants in the Great Immersion, for the power of Unas is like the power of Tebi's eye and his strength is the strength of Tebi's eye.”
+# trans = “Unas shall judge between the two contestants in the Great Immersion because the power of Unas is like the power of Tebi's eye and his strength is the strength of Tebi's eye.”
+# type = Verbal sentence with śk + adverbial sentence
+1	wč̣ꜥ	wč̣ꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
+5-6	mḥ.t-wr.t	_	_	_	_	_	_	_	_
+5	mḥ.t	mḥy.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7	i҆m.(w)t(i҆)	i҆m.wti҆	ADP	Cons.st	Case=Com	8	case	_	_
+8	ẖnn.w(i҆)	ẖnn.w	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
+9	śk	śk	PART	_	_	13	mark	_	_
+10	wśr	wśr	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+12	m	m	ADP	Cons.st	Case=Equ	13	case	_	_
+13	wśr	wśr	NOUN	_	Gender=Masc|Number=Sing	0	nsubj	_	_
+14	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+15	Tbi҆	Tbi҆	PROPN	_	Gender=Masc	14	nmod	_	_
+16	nḫt(.w)	nḫt.w	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+17	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
+18	nḫt.w	nḫt.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+19	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
+20	Tbi҆	Tbi҆	PROPN	_	Gender=Masc	19	nmod	_	_
 
