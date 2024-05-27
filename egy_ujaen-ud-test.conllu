@@ -14616,8 +14616,8 @@
 13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	obl	_	_
 
 # sent_id = UDE-951
-# ref = Pyramid Texts § 295a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆ṭ(.y) ꜣḫ.t n Ḥr.w-nḫn.y
+# ref = Pyramid Texts § 295a/295b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ṭ(.y) ꜣḫ.t n Ḥr.w-nḫn(.y)
 # lit = “The horizon was censed (certainly) for Horus of Nekhen.”
 # trans = “It was for Horus of Nekhen that the horizon was censed.”
 # type = Cleft sentence with adverbial focus
@@ -14626,5 +14626,59 @@
 3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
 4-5	Ḥr.w-nḫn.y	_	_	_	_	_	_	_	_
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	iobj	_	_
+5	nḫn(.y)	Nḫn	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
+
+# sent_id = UDE-952
+# ref = Pyramid Texts § 295a/295b T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆ṭ.y ꜣḫ.t n Ḥr.w-nḫn.y
+# lit = “The horizon was censed (certainly) for Horus of Nekhen.”
+# trans = “It was for Horus of Nekhen that the horizon was censed.”
+# type = Cleft sentence with adverbial focus
+1	i҆ṭ.y	i҆ṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	ꜣḫ.t	ꜣḫ.t	NOUN	Subj	Gender=Fem|Number=Sing	1	nsubj:pass	_	_
+3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
+4-5	Ḥr.w-nḫn.y	_	_	_	_	_	_	_	_
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	iobj	_	_
 5	nḫn.y	Nḫn	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
+
+# sent_id = UDE-953
+# ref = Pyramid Texts § 295a W, Saqqara, 5th Dynasty, rel, OE
+# text = (i҆)ḫ.t n (⸗i҆) nb.w
+# lit = "A meal (is) for (me), lords!."
+# trans = "A meal belongs to (me), O lords!."
+# type = Adverbial sentence (possession) 
+1	(i҆)ḫ.t	(i҆)ḫ.t	NOUN	Subj	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
+3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	0	root	_	_
+4	śšm	śšm	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+
+# sent_id = UDE-954
+# ref = Pyramid Texts § 295c W, Saqqara, 5th Dynasty, rel, OE
+# text = nśr n(.i҆) hh [⸗ś] [r] [⸗čn] ḥꜣ.(i҆)w kꜣr
+# lit = "The flame of [its] blast (is) [against] [you] who are behind the shrine."
+# trans = "The flame of [its] blast (is) [against] [you] who are behind the shrine."
+# type = Adverbial sentence
+1	nśr	nśr	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+3	hh	hh	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	[⸗ś]	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	[r]	r	ADP	Pron.st	_	6	case	_	_
+6	[⸗čn]	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+7	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	appos	_	_
+8	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+
+# sent_id = UDE-955
+# ref = Pyramid Texts § 295c T, Saqqara, 6th Dynasty, rel, OE
+# text = nśr n(.i҆) hh ⸗ś r ⸗čn ḥꜣ.(i҆)w kꜣr
+# lit = "The flame of [its] blast (is) [against] [you] who are behind the shrine."
+# trans = "The flame of [its] blast (is) [against] [you] who are behind the shrine."
+# type = Adverbial sentence
+1	nśr	nśr	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+3	hh	hh	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+4	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	r	r	ADP	Pron.st	_	6	case	_	_
+6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+7	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	appos	_	_
+8	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 
