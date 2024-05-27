@@ -12454,7 +12454,7 @@
 
 # sent_id = UDE-822
 # ref = Pyramid Texts § 253d-254a W, Saqqara, 5th Dynasty, rel, OE. For šm.t see Edel 1955/1964: § 739 and Allen 1984: 319 (§ 470), for č̣ṭ(.w) as a relative form see Allen 2017: 188. 
-# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt šm.t wꜥ pn i҆m(.i҆) ⸗k č̣ṭ(.w) nčr wč̣ ⸗f mṭw n i҆t(w) nčr(.w)
+# text = ḥww ⸗śn n č̣śr rmn ḥr i҆ꜣb.tt šm(i̯).t wꜥ pn i҆m(.i҆) ⸗k č̣ṭ(.w) nčr wč̣ ⸗f mṭw n i҆t(w) nčr(.w)
 # lit = "They announce (certainly) to the one with sweeping upper arm in the east the going of this one who is you, of whom the god says that he will command the word to the fathers of the gods."
 # trans = "It is to the one with sweeping upper arm in the east that they announce that this one who is you goes, of whom the god says that he will govern the fathers of the gods."
 # type = Cleft sentence with adverbial focus
@@ -12465,7 +12465,7 @@
 5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
-8	šm.t	šmi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	1	ccomp	_	_
+8	šm(i̯).t	šmi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	1	ccomp	_	_
 9	wꜥ	wꜥ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
 11	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	9	appos	_	_
@@ -12844,7 +12844,7 @@
 
 # sent_id = UDE-849
 # ref = Pyramid Texts § 261a W, Saqqara, 5th Dynasty, rel, OE
-# text = Ḥr.w pw wč̣ n ⸗f i҆r.t n i҆t ⸗f
+# text = Ḥr.w pw wč̣ n ⸗f i҆r(i̯).t n i҆t ⸗f
 # lit = “Horus (is) this who was commanded to act for his father.”
 # trans = “It is Horus who has been commanded to act for his father.”
 # type = Nominal sentence (A pw)
@@ -12853,7 +12853,7 @@
 3	wč̣	wč̣	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	amod	_	_
 4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
-6	i҆r.t	i҆r.t	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	xcomp	_	_
+6	i҆r(i̯).t	i҆r.t	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	xcomp	_	_
 7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
 8	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
@@ -13899,7 +13899,7 @@
 
 # sent_id = UDE-914
 # ref = Pyramid Texts § 281b W, Saqqara, 5th Dynasty, rel, OE
-# text = wp.n ⸗f tꜣ m rḫ.tn ⸗f hrw mr.n ⸗f i҆w.t i҆m (⸗f)
+# text = wp.n ⸗f tꜣ m rḫ.tn ⸗f hrw mr.n ⸗f i҆w(i̯).t i҆m (⸗f)
 # lit = “He parted the earth (certainly) by means of what he knw on the day when he wished to come.”
 # trans = “He parted the earth (certainly) by means of what he knw on the day when he wished to come.”
 # type = Cleft sentence with adverbial focus
@@ -13912,7 +13912,7 @@
 7	hrw	hrw	ADV	NOUN	AdvType=Tim	5	advmod	_	_
 8	mr.n	mri̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-10	i҆w.t	i҆wi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	xcomp	_	_
+10	i҆w(i̯).t	i҆wi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	xcomp	_	_
 11	i҆m	m	ADP	Pron.st	Case=Loc	12	case	_	_
 12	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
@@ -14935,4 +14935,22 @@
 5	i҆r.yt	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	0	root	_	_
 6	r	r	ADP	Pron.st	_	7	case	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
+# sent_id = UDE-968
+# ref = PT § 302a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w nśr n(.i҆) hh n(.i҆) ꜣḫ.t ⸗f m Rnn.wtt ṭp.(i҆)t ⸗f
+# lit = “The flaming blast of his uraeus is (like that of) Renenutet, the one who is upon him.”
+# trans = “The flaming blast of his uraeus is that of Renenutet, the one  who is upon him.”
+# type = i҆w + adverbial sentence
+1	i҆w	i҆w	PART	_	_	9	discourse	_	_
+2	nśr	nśr	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	hh	hh	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+6	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	m	m	ADP	Cons.st	Case=Equ	9	case	_	_
+9	Rnn.wtt	Rnn.wtt	PROPN	_	Gender=Fem	0	root	_	_
+10	ṭp.(i҆)t	ṭp	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	9	appos	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 
