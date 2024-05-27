@@ -14922,3 +14922,17 @@
 5	nḫt	nḫt	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-967
+# ref = PT § 301c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w mk.(w)t ⸗f m i҆r.yt r ⸗f
+# lit = “His protection is (like) what was done to him.”
+# trans = “His protection is what was done to him.”
+# type = i҆w + adverbial sentence
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	mk(w).t	mkw.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
+5	i҆r.yt	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	0	root	_	_
+6	r	r	ADP	Pron.st	_	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+
