@@ -14831,8 +14831,8 @@
 73	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	70	obl	_	_
 
 # sent_id = UDE-961
-# ref = Pyramid Texts § 300a T, Saqqara, 6th Dynasty, rel, OE
-# text = ꜥḥꜥ r ⸗f Wr m-ẖnw kꜣr ⸗f wꜣḥ ⸗f śꜥḥ ⸗f r tꜣ n Tti҆ pn i҆č.n Tti҆ pn Ḥw śḫm Tti҆ pn m Śi҆ꜣ
+# ref = Pyramid Texts § 300a-b T, Saqqara, 6th Dynasty, rel, OE
+# text = ꜥḥꜥ r ⸗f Wr m-ẖnw kꜣr ⸗f wꜣḥ ⸗f śꜥḥ ⸗f r tꜣ n Tti҆ pn
 # lit = “The Great One indeed shall rise within his shrine and lay his insignia on the ground for this Teti.”
 # trans = “The Great One indeed shall rise within his shrine and lay down his insignia for this Teti.”
 # type = Verbal sentence
@@ -14855,5 +14855,19 @@
 16	Tti҆	Tti҆	PROPN	_	Gender=Masc	9	obl	_	_
 17	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
 
-
+# sent_id = UDE-962
+# ref = Pyramid Texts § 300c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆č.n Tti҆ pn Ḥw śḫm Tti҆ pn m Śi҆ꜣ
+# lit = “This Teti took Hu (certainly) having power through Sia.”
+# trans = “It is having power through Sia that Teti took Hu.”
+# type = Cleft sentence with adverbial focus
+1	i҆č.n	i҆či̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	Ḥw	ḥw	PROPN	_	Gender=Masc	1	obj	_	_
+5	śḫm	śḫm	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+6	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsub	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	m	m	ADP	Cons.st	Case=Ins	9	case	_	_
+9	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	5	obl	_	_
 
