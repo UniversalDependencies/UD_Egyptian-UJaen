@@ -14954,3 +14954,44 @@
 10	ṭp.(i҆)t	ṭp	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	9	appos	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
 
+# sent_id = UDE-969
+# ref = PT § 302c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w (w)ṭ.n Wni҆ś nr.w ⸗f m i҆b ⸗śn m i҆r(i̯).t ḥꜣꜥ.(w)t i҆m ⸗śn
+# lit = “Unas has set the fear of him in their hearts by making strife with them.”
+# trans = “Unas has set the fear of him in their hearts by making strife with them.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	PART	Aspect=Perf	2	aux	_	_
+2	(w)ṭ.n	wṭi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	nr.w	nr.w	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+9	m	m	ADP	Cons.st	_	10	case	_	_
+10	i҆r(i̯).t	i҆ri̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	2	obl	_	_
+11	ḥꜣꜥ.(w)t	ḥꜣꜥ.yt	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
+12	i҆m	m	ADP	Pron.st	_	13	case	_	_
+13	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	10	obl	_	_
+
+# sent_id = UDE-970
+# ref = PT § 302c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w (w)ṭy.n Tti҆ pn nr.w ⸗f m i҆b ⸗śn m i҆r(i̯).t ḥꜣꜥ.wt i҆m ⸗śn
+# lit = “Unas has set the fear of him in their hearts by making strife with them.”
+# trans = “Unas has set the fear of him in their hearts by making strife with them.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	PART	Aspect=Perf	2	aux	_	_
+2	(w)ṭy.n	wṭi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	nr.w	nr.w	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
+8	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+9	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
+10	m	m	ADP	Cons.st	_	11	case	_	_
+11	i҆r(i̯).t	i҆ri̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	2	obl	_	_
+12	ḥꜣꜥ.wt	ḥꜣꜥ.yt	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+13	i҆m	m	ADP	Pron.st	_	14	case	_	_
+14	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+
