@@ -14751,9 +14751,9 @@
 
 # sent_id = UDE-960
 # ref = Pyramid Texts § 297b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f pẖr ⸗śn ḥꜣ ⸗čn (w)ṭ ⸗ś nšn m-m i҆r.w i҆r.wt ḫfḫf.t ⸗ś m pꜣw.t(i҆)w i҆pw
-# lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods,"
-# trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods."
+# text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f pẖr ⸗śn ḥꜣ ⸗čn (w)ṭ ⸗ś nšn m-m i҆r.w i҆r.wt ḫfḫf.t ⸗ś m pꜣw.t(i҆)w i҆pw sḫ.kꜣ ⸗f ꜥ.w(i҆) Šw ẖr(.i҆) Nw.t wṭ.kꜣ Tti҆ pn rmn ⸗f m snb.t tw rmn.t ⸗k r ⸗ś
+# lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods, then he will smite away the arms of Shu who is under Nut, then this Teti will thrust his shoulder into that rampart on which you lean."
+# trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods, then he will smite away the arms of Shu who supports Nut, then this Teti will thrust his shoulder into that rampart on which you lean."
 # type = Marked verbal topic + verbal sentence
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	18	advcl	_	_
@@ -14811,4 +14811,22 @@
 53	m	m	ADP	Cons.st	_	54	case	_	_
 54	pꜣw.t(i҆)w	pꜣw.ti҆	NOUN	_	Gender=Masc|Number=Plur	51	orphan	_	_
 55	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	54	det	_	_
+56	sḫ.kꜣ	sḫi̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	18	conj	_	_
+57	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	nsubj	_	_
+58	ꜥ.w(i҆)	 ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	56	obj	_	_
+59	Šw	Šw	PROPN	_	Case=Gen|Gender=Masc	58	nmod	_	_
+60	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	59	amod	_	_
+61	Nw.t	Nw.t	PROPN	_	Gender=Fem	59	nmod	_	_
+62	wṭ.kꜣ	wṭi̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	18	conj	_	_
+63	Tti҆	Tti҆	PROPN	_	Gender=Masc	62	nsubj	_	_
+64	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	63	det	_	_
+65	rmn	 rmn	NOUN	_	Gender=Masc|Number=Sing	62	obj	_	_
+66	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	65	nmod	_	_
+67	m	m	ADP	Cons.st	_	68	case	_	_
+68	snb.t	snb.t	NOUN	_	Gender=Fem|Number=Sing	62	orphan	_	_
+69	tw	tw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	68	det	_	_
+70	rmn.t	rmni̯	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	68	acl	_	_
+71	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	70	nsubj	_	_
+72	r	r	ADP	Pron.st	_	73	case	_	_
+73	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	70	obl	_	_
 
