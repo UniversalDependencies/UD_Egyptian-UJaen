@@ -14963,7 +14963,7 @@
 1	i҆w	i҆w	AUX	PART	Aspect=Perf	2	aux	_	_
 2	(w)ṭ.n	wṭi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
-4	nr.w	nr.w	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+4	nr.w	nr.w	NOUN	MWE	Gender=Masc|Number=Sing	2	obj	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
 7	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -14984,7 +14984,7 @@
 2	(w)ṭy.n	wṭi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-5	nr.w	nr.w	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
+5	nr.w	nr.w	NOUN	MWE	Gender=Masc|Number=Sing	2	obj	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	i҆b	i҆b	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -14994,4 +14994,22 @@
 12	ḥꜣꜥ.wt	ḥꜣꜥ.yt	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 13	i҆m	m	ADP	Pron.st	_	14	case	_	_
 14	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+
+# sent_id = UDE-971
+# ref = PT § 303a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w mꜣ.n nčr(.w) m ḥꜣꜥ.wt kśś ⸗śn n Wni҆ś m i҆ꜣ
+# lit = “The gods have seen in nakedness that they bow to Unas in adoration.”
+# trans = “The gods have seen in nakedness bowing in worship to Unas.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	mꜣ.n	mꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	ḥꜣꜥ.wt	ḥꜣꜥ.wt	PROPN	_	_	2	obl	_	_
+6	kśś	kśi̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+7	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Cons.st	_	9	case	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	obl	_	_
+10	m	m	ADP	Cons.st	_	11	case	_	_
+11	i҆ꜣ	i҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 
