@@ -14616,7 +14616,7 @@
 13	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	obl	_	_
 
 # sent_id = UDE-951
-# ref = Pyramid Texts § 295a/295b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 295a/295b/296a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆ṭ(.y) ꜣḫ.t n Ḥr.w-nḫn(.y)
 # lit = “The horizon was censed (certainly) for Horus of Nekhen.”
 # trans = “It was for Horus of Nekhen that the horizon was censed.”
@@ -14629,7 +14629,7 @@
 5	nḫn(.y)	Nḫn	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
 
 # sent_id = UDE-952
-# ref = Pyramid Texts § 295a/295b T, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 295a/295b/296a T, Saqqara, 6th Dynasty, rel, OE
 # text = i҆ṭ.y ꜣḫ.t n Ḥr.w-nḫn.y
 # lit = “The horizon was censed (certainly) for Horus of Nekhen.”
 # trans = “It was for Horus of Nekhen that the horizon was censed.”
@@ -14642,7 +14642,7 @@
 5	nḫn.y	Nḫn	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
 
 # sent_id = UDE-953
-# ref = Pyramid Texts § 295a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 295a/296a W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)ḫ.t n (⸗i҆) nb.w
 # lit = "A meal (is) for (me), lords!."
 # trans = "A meal belongs to (me), O lords!."
@@ -14681,4 +14681,18 @@
 6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
 7	ḥꜣ.(i҆)w	ḥꜣ	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	appos	_	_
 8	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
+
+# sent_id = UDE-956
+# ref = Pyramid Texts § 295d W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫfḫf.t hh ⸗ś r ⸗čn wčs.w Wr.t
+# lit = "The outburst of its blast is against you who bear the great goddess."
+# trans = "The outburst of its blast is against you who bear the great goddess."
+# type = Adverbial sentence
+1	ḫfḫf.t	ḫfḫf.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	hh	hh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	r	r	ADP	Pron.st	_	5	case	_	_
+5	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	_
+6	wčs.w	wčs	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	appos	_	_
+7	Wr.t	wr.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 
