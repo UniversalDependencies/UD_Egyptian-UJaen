@@ -14909,3 +14909,16 @@
 5	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
 6	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	5	flat	_	_
 
+# sent_id = UDE-966
+# ref = PT § 301c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w i҆r.t ⸗f m nḫt ⸗f
+# lit = “His eye is (like) his strength.”
+# trans = “His eye is his strength.”
+# type = i҆w + adverbial sentence
+1	i҆(w)	i҆w	PART	_	_	5	discourse	_	_
+2	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
+5	nḫt	nḫt	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
