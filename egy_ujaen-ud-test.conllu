@@ -14749,3 +14749,48 @@
 6	n	n	ADP	Cons.st	Case=Ben	7	case	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
 
+# sent_id = UDE-960
+# ref = Pyramid Texts § 297b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f
+# lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye."
+# trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye."
+# type = Marked verbal topic + verbal sentence
+1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
+2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	17	advcl	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	ṭr	ṭr	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
+5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
+7	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	wꜣḥ	wꜣḥ	VERB	NegCom	VerbForm=Inf	4	conj	_	_
+10	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+12	r	r	ADP	Cons.st	_	13	case	_	_
+13	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	9	obl	_	_
+14	n	n	ADP	Cons.st	Case=Ben	15	case	_	_
+15	Tti҆	Tti҆	PROPN	_	Gender=Masc	9	obl	_	_
+16	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+17	i҆w.kꜣ	i҆wi̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+18	Tti҆	Tti҆	PROPN	_	Gender=Masc	17	nsubj	_	_
+19	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
+20	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
+21	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	_
+22	m	m	ADP	Cons.st	Case=Equ	23	case	_	_
+23	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	17	advcl	_	_
+24	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	23	det	_	_
+25	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	23	appos	_	_
+26	ꜣ.t	ꜣ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_	
+27	wśr	wśr	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	amod	_	_
+28	m	m	ADP	Cons.st	_	29	case	_	_
+29	nkn.t	nkn	NOUN	_	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	27	obl	_	_
+30	i҆m	m	ADP	Pron.st	Case=Ins	21	case	_	_
+31	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obl	_	_
+32	rč̣.kꜣ	rč̣i̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	17	conj	_	_
+33	Tti҆	Tti҆	PROPN	_	Gender=Masc	32	nsubj	_	_
+34	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
+35	nśr	nśr	NOUN	_	Gender=Masc|Number=Sing	32	obj	_	_
+36	n	n	ADP	Cons.st	Case=Dat	37	case	_	_
+37	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
+38	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nmod	_	_
+
