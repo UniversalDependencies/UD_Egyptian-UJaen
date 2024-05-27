@@ -14750,7 +14750,7 @@
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
 
 # sent_id = UDE-960
-# ref = Pyramid Texts § 297b-c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 297b-299b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f pẖr ⸗śn ḥꜣ ⸗čn (w)ṭ ⸗ś nšn m-m i҆r.w i҆r.wt ḫfḫf.t ⸗ś m pꜣw.t(i҆)w i҆pw sḫ.kꜣ ⸗f ꜥ.w(i҆) Šw ẖr(.i҆) Nw.t wṭ.kꜣ Tti҆ pn rmn ⸗f m snb.t tw rmn.t ⸗k r ⸗ś
 # lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods, then he will smite away the arms of Shu who is under Nut, then this Teti will thrust his shoulder into that rampart on which you lean."
 # trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods, then he will smite away the arms of Shu who supports Nut, then this Teti will thrust his shoulder into that rampart on which you lean."
@@ -14829,4 +14829,31 @@
 71	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	70	nsubj	_	_
 72	r	r	ADP	Pron.st	_	73	case	_	_
 73	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	70	obl	_	_
+
+# sent_id = UDE-961
+# ref = Pyramid Texts § 300a T, Saqqara, 6th Dynasty, rel, OE
+# text = ꜥḥꜥ r ⸗f Wr m-ẖnw kꜣr ⸗f wꜣḥ ⸗f śꜥḥ ⸗f r tꜣ n Tti҆ pn i҆č.n Tti҆ pn Ḥw śḫm Tti҆ pn m Śi҆ꜣ
+# lit = “The Great One indeed shall rise within his shrine and lay his insignia on the ground for this Teti.”
+# trans = “The Great One indeed shall rise within his shrine and lay down his insignia for this Teti.”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+5-6	m-ẖnw	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+6	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	kꜣr	kꜣr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	wꜣḥ	wꜣḥ	VERB	SFC|Sub	Mood=Sub	1	conj	_	_
+10	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+13	r	r	ADP	Cons.st	_	14	case	_	_
+14	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	9	obl	_	_
+15	n	n	ADP	Cons.st	Case=Ben	16	case	_	_
+16	Tti҆	Tti҆	PROPN	_	Gender=Masc	9	obl	_	_
+17	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
+
+
 
