@@ -14895,3 +14895,17 @@
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	2	obj	_	_
 
+# sent_id = UDE-965
+# ref = PT § 301b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(w) ⸗f ḥr nś.t Ḥr.w-śmś.w
+# lit = “He is on the throne of Senior-Horus.”
+# trans = “He is on the throne of Senior-Horus.”
+# type = i҆w + adverbial sentence
+1	i҆(w)	i҆w	PART	_	_	4	discourse	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	_	4	case	_	_
+4	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	0	root	_	_
+5-6	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
+6	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	5	amod	6	flat	_	_
+
