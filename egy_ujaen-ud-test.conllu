@@ -14735,3 +14735,17 @@
 12	{nb}	{nb}	X	_	Typo=Yes	11	dep	_	_
 13	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 
+# sent_id = UDE-959
+# ref = Pyramid Texts § 297a W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜣḥ śꜥḥ ⸗k r tꜣ n Wni҆ś
+# lit = "Lay your insignia on the ground for Unas."
+# trans = "Lay down your insignia for Unas."
+# type = Verbal sentence
+1	wꜣḥ	wꜣḥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	r	r	ADP	Cons.st	_	5	case	_	_
+5	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	1	obl	_	_
+6	n	n	ADP	Cons.st	Case=Ben	7	case	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
+
