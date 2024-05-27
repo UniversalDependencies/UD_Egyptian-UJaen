@@ -14751,9 +14751,9 @@
 
 # sent_id = UDE-960
 # ref = Pyramid Texts § 297b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f
-# lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye."
-# trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye."
+# text = i҆r tm ⸗k ṭr čw ḥr ś.t ⸗k wꜣḥ ⸗k śꜥḥ ⸗k r tꜣ n Tti҆ pn i҆w.kꜣ Tti҆ pn ḥr ⸗f m Wr pw nb ꜣ.t wśr m nkn.t i҆m ⸗f rč̣.kꜣ Tti҆ pn nśr n i҆r.t ⸗f pẖr ⸗śn ḥꜣ ⸗čn (w)ṭ ⸗ś nšn m-m i҆r.w i҆r.wt ḫfḫf.t ⸗ś m pꜣw.t(i҆)w i҆pw
+# lit = "If you do not remove yourself from your place or lay your insigna on the ground for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will give flame to his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods,"
+# trans = "If you do not remove yourself from your place or lay down your insigna for Teti, then this Teti will come, his face being that of this Great One, the lord of power who is strong though that which was injured to him, then this Teti will put flame in his eye, that it will encompass you, and set storm among those who did deeds and its outburst among those original gods."
 # type = Marked verbal topic + verbal sentence
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	18	advcl	_	_
@@ -14794,4 +14794,21 @@
 37	n	n	ADP	Cons.st	Case=Dat	38	case	_	_
 38	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	33	iobj	_	_
 39	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	38	nmod	_	_
+40	pẖr	pẖr	VERB	SFC|Sub|Finalcl	Mood=Sub	33	advcl	_	_
+41	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	40	nsubj	_	_
+42	ḥꜣ	ḥꜣ	ADP	Pron.st	_	43	case	_	_
+43	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	40	obl	_	_
+44	(w)ṭ	wṭi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	40	conj	_	_
+45	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	_
+46	nšn	nšn.i҆	NOUN	_	Gender=Masc|Number=Sing	44	obj	_	_
+47-48	m-m	_	_	_	_	_	_	_	_
+47	m	m	ADP	Cons.st	Case=Dis	49	case	_	_
+48	m	m	ADP	_	_	47	fixed	_	_
+49	i҆r.w	i҆ri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	44	obl	_	_
+50	i҆r.wt	i҆r.yt	NOUN	_	Gender=Fem|Number=Plur	49	nmod	_	_
+51	ḫfḫf.t	ḫfḫf.t	NOUN	_	Gender=Fem|Number=Sing	44	conj	_	_
+52	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nmod	_	_
+53	m	m	ADP	Cons.st	_	54	case	_	_
+54	pꜣw.t(i҆)w	pꜣw.ti҆	NOUN	_	Gender=Masc|Number=Plur	51	orphan	_	_
+55	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	54	det	_	_
 
