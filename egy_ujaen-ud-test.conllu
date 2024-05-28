@@ -15053,9 +15053,9 @@
 
 # sent_id = UDE-975
 # ref = Pyramid Texts § 304c-e W, Saqqara, 5th Dynasty, rel, OE
-# text = pśč̣.t Ḥr.w m i҆ꜣḫ.w ś:nhṭ n ⸗f nb.w i҆r.w(w) pẖr n ⸗f pśč̣.t(i҆) tm.t(i҆)
-# lit = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him."
-# trans = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him."
+# text = pśč̣.t Ḥr.w m i҆ꜣḫ.w ś:nhṭ n ⸗f nb.w i҆r.w(w) pẖr n ⸗f pśč̣.t(i҆) tm.t(i҆) ḥmś(.w) r ⸗f m ś.t nb-tm
+# lit = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him, being seated on the throne of the Lord of All."
+# trans = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him, being seated on the throne of the Lord of All."
 # type = Adverbial sentence
 1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	4	dislocated	_	_
 2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	nsubj	_	_
@@ -15071,4 +15071,12 @@
 12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
 13	pśč̣.t(i҆)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	10	nsubj	_	_
 14	tm.t(i҆)	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	13	advcl	_	_
+15	ḥmś(.w)	ḥmśi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	10	advcl	_	_
+16	r	r	ADP	Pron.st	_	17	case	_	_
+17	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	15	obl	_	_
+18	m	m	ADP	Cons.st	_	19	case	_	_
+19	ś.t	ś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	15	obl	_	_
+20-21	nb-tm	_	_	_	_	_	_	_	_
+20	nb	nb	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
+21	tm	tm	NOUN	_	Gender=Masc|Number=Sing	20	compound	_	_
 
