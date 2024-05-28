@@ -15368,3 +15368,17 @@
 7	i҆r	r	ADP	Cons.st	_	8	case	_	_
 8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-995
+# ref = Pyramid Texts § 309a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n śn.t ⸗f nb.t P(i҆) rm.t św
+# lit = “It is his sister, the Lady of Pe, who laments him.”
+# trans = “It is his sister, the Lady of Pe, who laments him.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	śn.t	śn.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	nb.t	nb	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	appos	_	_
+5	P(i҆)	Pi҆	PROPN	_	Case=Gen	4	nmod	_	_
+6	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	root	_	_
+7	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+
