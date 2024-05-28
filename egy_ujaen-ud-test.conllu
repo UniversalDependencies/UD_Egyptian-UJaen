@@ -15080,3 +15080,17 @@
 20	nb	nb	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	_
 21	tm	tm	NOUN	_	Gender=Masc|Number=Sing	20	compound	_	_
 
+# sent_id = UDE-976
+# ref = PT § 305a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆č Wni҆ś p.t pšn ⸗f bi҆ꜣ ⸗ś
+# lit = “(When) Unas will take possession of the sky, he shall split its metal.”
+# trans = “(When) Unas will take possession of the sky, he shall split its metal.”
+# type = Verbal sentence with a verbal topic
+1	i҆č	i҆či̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	pšn	pšn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	bi҆ꜣ	bi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+7	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
