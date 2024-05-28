@@ -15122,3 +15122,22 @@
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	ṭ(w)ꜣ.t(i҆)w	Ṭ(w)ꜣ.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	7	nsubj	_	_
 
+# sent_id = UDE-979
+# ref = PT § 306b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = pśč̣ Wni҆ś mꜣ(w.y) m i҆ꜣb.t i҆wt n ⸗f wp ẖnn.w m kś.w
+# lit = “(When) Unas will shine, anew in the East, the one who parted chaos shall come to him bowing.”
+# trans = “(When) Unas will shine, anew in the East, the one who parted chaos shall come to him bowing.”
+# type = Verbal sentence with a verbal topic
+1	pśč̣	pśč̣	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	6	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	mꜣ(w.y)	mꜣwi̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|VerbForm=Conv	2	adv	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	i҆ꜣb.t	i҆ꜣb.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	i҆wt	i҆wt	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+7	n	n	ADP	Pron.st	_	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+9	wp	wpi̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	6	nsubj	_	_
+10	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+11	m	m	ADP	Cons.st	Case=Ess	12	case	_	_
+12	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
