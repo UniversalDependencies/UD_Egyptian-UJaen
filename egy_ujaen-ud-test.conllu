@@ -15306,7 +15306,7 @@
 
 # sent_id = UDE-991
 # ref = Pyramid Texts § 308c-d T, Saqqara, 6th Dynasty, rel, OE
-# text = ḥtm Tti҆ pn ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ ś:rwč̣(.w) Tti҆ pn ṭr(.w) śč̣b(.w) ⸗f
+# text = ḥtm Tti҆ pn ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ ś:rwč̣(.w) ḳś(.w) Tti҆ pn ṭr(.w) śč̣b(.w) ⸗f
 # lit = "This Teti will end his sleep (certainly) in his mansion on earth after his bones were made strong and his obstructions were removed."
 # trans = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
 # type = Cleft sentence with adverbial focus
@@ -15321,11 +15321,12 @@
 9	ṭp	ṭp	ADP	Cons.st	_	10	case	_	_
 10	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 11	ś:rwč̣(.w)	rwč̣	VERB	SFC|PastPass|Pred|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	_
-12	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	11	nsubj:pass	_	_
-13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
-14	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	11	conj	_	_
-15	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	14	nsubj:pass	_	_
-16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+12	ḳś(.w)	ḳś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	11	nsubj:pass	_	_
+13	Tti҆	Tti҆	PROPN	_	Case=Gen|Gender=Masc	12	nmod	_	_
+14	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+15	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	11	conj	_	_
+16	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	15	nsubj:pass	_	_
+17	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 
 # sent_id = UDE-992
 # ref = Pyramid Texts § 308e W, Saqqara, 5th Dynasty, rel, OE
