@@ -15423,3 +15423,30 @@
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
+# sent_id = UDE-999
+# ref = PT § 309d T, Saqqara, 6th Dynasty, rel, OE
+# text = n ḥmś.w Tti҆ pn m č̣ꜣč̣ꜣ.t nčr
+# lit = “This Teti will not sit in the god's court enter into Geb.”
+# trans = “This Teti will not sit in the god's court enter into Geb.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḥmś.w	ḥmśi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	č̣ꜣč̣ꜣ.t	č̣ꜣč̣ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+7	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = UDE-1000
+# ref = PT § 309d W, Saqqara, 5th Dynasty, rel, OE
+# text = n ḥmś ⸗f m č̣ꜣč̣ꜣ.t nčr
+# lit = “He will not sit in the god's court enter into Geb.”
+# trans = “He will not sit in the god's court enter into Geb.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḥmś	ḥmśi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	č̣ꜣč̣ꜣ.t	č̣ꜣč̣ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+7	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+
