@@ -15283,7 +15283,7 @@
 5	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	obl	_	_
 
 # sent_id = UDE-990
-# ref = Pyramid Texts § 308c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 308c-d W, Saqqara, 5th Dynasty, rel, OE
 # text = ḥtm ⸗f ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ śč̣(.w) ḳś(.w) ⸗f ṭr(.w) śč̣b(.w) ⸗f
 # lit = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
 # trans = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
@@ -15303,4 +15303,27 @@
 13	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	10	conj	_	_
 14	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	13	nsubj:pass	_	_
 15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
+
+# sent_id = UDE-991
+# ref = Pyramid Texts § 308c-d T, Saqqara, 6th Dynasty, rel, OE
+# text = ḥtm Tti҆ pn ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ ś:rwč̣(.w) Tti҆ pn ṭr(.w) śč̣b(.w) ⸗f
+# lit = "This Teti will end his sleep (certainly) in his mansion on earth after his bones were made strong and his obstructions were removed."
+# trans = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
+# type = Cleft sentence with adverbial focus
+1	ḥtm	ḥtm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	ḳṭ	ḳṭ	NOUN	Inf	Gender=Masc|VerbForm=Inf	1	obj	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+7	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	ṭp	ṭp	ADP	Cons.st	_	10	case	_	_
+10	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+11	ś:rwč̣(.w)	rwč̣	VERB	SFC|PastPass|Pred|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+12	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	11	nsubj:pass	_	_
+13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
+14	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	11	conj	_	_
+15	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	14	nsubj:pass	_	_
+16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
 
