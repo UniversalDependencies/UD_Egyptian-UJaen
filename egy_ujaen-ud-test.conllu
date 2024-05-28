@@ -15094,3 +15094,14 @@
 6	bi҆ꜣ	bi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# ref = Pyramid Texts § 305b W, Saqqara, 5th Dynasty, rel, OE
+# text = śšm.w Wni҆ś wꜣ.(w)t n Ḫpr(.i҆)
+# lit = "Unas will show the ways (certainly) to Khepri."
+# trans = "It is to Khepri that Unas will show the ways."
+# type = Cleft sentence with adverbial focus
+1	śšm.w	śšmi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+3	wꜣ.(w)t	wꜣ.t	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
+4	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+5	Ḫpr(.i҆)	Ḫpr.i҆	NOUN	_	Gender=Masc|Number=Sing	1	iobj	_	_
+
