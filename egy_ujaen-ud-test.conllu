@@ -15401,3 +15401,13 @@
 11	m	m	ADP	Pron.st	Case=Ins	12	case	_	_
 12	čꜣw	čꜣw	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 
+# sent_id = UDE-997
+# ref = PT § 309c W, Saqqara, 5th Dynasty, rel, OE
+# text = n ḫm ⸗f
+# lit = “He will not be excluded.”
+# trans = “He will not be excluded.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḫm	ḫm	VERB	SFC|Fut	Tense=Fut|Voice=Pass	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:pass	_	_
+
