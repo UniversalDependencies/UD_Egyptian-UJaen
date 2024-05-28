@@ -15139,5 +15139,25 @@
 9	wp	wpi̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	6	nsubj	_	_
 10	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 11	m	m	ADP	Cons.st	Case=Ess	12	case	_	_
-12	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+12	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+
+# sent_id = UDE-980
+# ref = PT § 306b-c T, Saqqara, 6th Dynasty, rel, OE
+# text = pśč̣ Tti҆ pn mꜣ(w).y m i҆ꜣb.t i҆wt n ⸗f wp ẖnn.w m kś.w
+# lit = “(When) this Teti will shine, anew in the East, the one who parted chaos shall come to him bowing.”
+# trans = “(When) this Teti will shine, anew in the East, the one who parted chaos shall come to him bowing.”
+# type = Verbal sentence with a verbal topic
+1	pśč̣	pśč̣	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	6	dislocated	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	mꜣ(w.y)	mꜣwi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	2	advcl	_	_
+5	m	m	ADP	Cons.st	_	6	case	_	_
+6	i҆ꜣb.t	i҆ꜣb.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+7	i҆wt	i҆wt	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+8	n	n	ADP	Pron.st	_	9	case	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+10	wp	wpi̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	7	nsubj	_	_
+11	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+12	m	m	ADP	Cons.st	Case=Ess	13	case	_	_
+13	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 
