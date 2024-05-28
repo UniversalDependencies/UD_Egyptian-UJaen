@@ -15013,3 +15013,41 @@
 10	m	m	ADP	Cons.st	_	11	case	_	_
 11	i҆ꜣ	i҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 
+# sent_id = UDE-972
+# ref = Pyramid Texts § 304a W, Saqqara, 5th Dynasty, rel, OE
+# text = ẖnn.w m p.t
+# lit = "Tumult is in the sky."
+# trans = "There is tumult in the sky."
+# type = Adverbial sentence
+1	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	m	m	ADP	Cons.st	_	3	case	_	_
+3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = UDE-973
+# ref = Pyramid Texts § 304b T, Saqqara, 6th Dynasty, rel, OE
+# text = mꜣ.n ⸗n mꜣ(w).t i҆.n ⸗śn nčr(.w) pꜣw.t(i҆)w
+# lit = ""We saw something new", said they, the primeval gods."
+# trans = ""We saw something new", said they, the primeval gods."
+# type = Verbal sentence
+1	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗n	n	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	mꜣ(w).t	mꜣw.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
+5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+6	nčr(.w)	nčr(.w)	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+7	pꜣw.t(i҆)w	pꜣw.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	6	nmod	_	_
+
+# sent_id = UDE-974
+# ref = Pyramid Texts § 304b W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣ<.n> ⸗n mꜣ(w).t i҆.n ⸗śn nčr(.w) pꜣw.t(i҆)w
+# lit = ""We saw something new", said they, the primeval gods."
+# trans = ""We saw something new", said they, the primeval gods."
+# type = Verbal sentence
+1	mꜣ<.n>	mꜣꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗n	n	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	mꜣ(w).t	mꜣw.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	i҆.n	i҆	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
+5	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+6	nčr(.w)	nčr(.w)	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+7	pꜣw.t(i҆)w	pꜣw.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	6	nmod	_	_
+
