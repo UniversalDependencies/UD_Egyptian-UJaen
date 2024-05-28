@@ -2546,39 +2546,39 @@
 7	nb.t	nb	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 
 # sent_id = UDE-175
-# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
 # text = n(.i҆) č̣.t ⸗k (i҆)ḫ.(w)t nb(.wt)
 # lit = "All things belonging to your body."
 # trans = "All things belong for yourself."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	4	nsubj	_	_
+2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 5	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 
 # sent_id = UDE-176
-# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
 # text = n(.i҆) kꜣ Wni҆ś (i҆)ḫ.(w)t nb(.wt)
 # lit = "All things belonging to the ka of Unas."
 # trans = "All things belong to the ka of Unas."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	kꜣ	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	4	nsubj	_	_
+2	kꜣ	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nmod	_	_
 3	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
-4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 5	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 
 # sent_id = UDE-177
-# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 37c W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
 # text = n(.i҆) č̣.t ⸗f (i҆)ḫ.(w)t nb(.wt)
 # lit = "All things belonging to his body."
 # trans = "All things belong to himself."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	4	nsubj	_	_
+2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
-4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj	_	_
+4	(i҆)ḫ.(w)t	i҆ḫ.t	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 5	nb(.wt)	nb	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 
 # sent_id = UDE-178
@@ -5794,14 +5794,14 @@
 6	pśč̣.ti҆	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	4	obl	_	_
 
 # sent_id = UDE-388
-# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
 # text = n(.i҆) św fḫḫ.i҆
 # lit = "He belongs to the looser ."
 # trans = "He belongs to the looser."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	fḫḫ.i҆	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	fḫḫ.i҆	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-389
 # ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
@@ -5813,14 +5813,14 @@
 2	fḫḫ(.i҆)	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-390
-# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
 # text = n(.i҆) św mꜣꜣ.i҆
 # lit = "He belongs to the seer."
 # trans = "He belongs to the seer."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-391
 # ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
@@ -6628,10 +6628,10 @@
 # lit = "He belongs to those who are behind Re, who are before the morning god."
 # trans = "He belongs to those who are in the suite of Re, who precede the morning god."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
 3-4	i҆m.(i҆)w-ḫt	_	_	_	_	_	_	_	_
-3	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	obj	_	_
+3	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	0	root	_	_
 4	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 6-7	ṭp.(i҆)w-ꜥ.w(i҆)	_	_	_	_	_	_	_	_
@@ -7583,15 +7583,15 @@
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
 # sent_id = UDE-511
-# ref = Pyramid Texts § 147a W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 147a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92
 # text = n(.i҆) kw mn nčr pw č̣ṭ.n sꜣ.t(i҆) (I҆)tm(.w)
 # lit = ""You belong, So-and-so, to this god", said the two daughters of Atum."
 # trans = ""You belong, So-and-so, to this god", said the twin children of Atum."
 # type = Adjectival sentence of possession
-1	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	0	root	_	_
-2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	mn	mn	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	4	nsubj	_	_
+2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	mn	mn	NOUN	_	Gender=Masc|Number=Sing	2	dislocated	_	_
+4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	1	parataxis	_	_
 7	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	6	nsubj	_	_
@@ -15174,4 +15174,17 @@
 5	śmś.w	śmś	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
 6	r	r	ADP	Cons.st	Case=Cmp	7	case	_	_
 7	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+
+# sent_id = UDE-982
+# ref = Pyramid Texts § 306e W, Saqqara, 5th Dynasty, rel, OE, Allen 2017: 92.
+# text = n.i҆ św śḫm m ś.t ⸗f
+# lit = "He belongs to the the one who is powerful on his throne."
+# trans = "He belongs to the the one who is powerful on his throne."
+# type = Adjectival sentence of possession
+1	n.i҆	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	śḫm	śḫm	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	0	root	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
