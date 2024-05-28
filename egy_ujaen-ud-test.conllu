@@ -15327,3 +15327,15 @@
 15	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	14	nsubj:pass	_	_
 16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
 
+# sent_id = UDE-992
+# ref = Pyramid Texts § 308e W, Saqqara, 5th Dynasty, rel, OE
+# text = wꜥb.n Wni҆ś m i҆r.t Ḥr.w
+# lit = "Unas became pure (certainly) through the Eye of Horus."
+# trans = "It is through the Eye of Horus that Unas became pure."
+# type = Cleft sentence with adverbial focus
+1	wꜥb.n	wꜥb	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
+4	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
+5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+
