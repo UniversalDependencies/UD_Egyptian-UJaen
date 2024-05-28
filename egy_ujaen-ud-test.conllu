@@ -15382,3 +15382,22 @@
 6	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 
+# sent_id = UDE-996
+# ref = Pyramid Texts § 309b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Wni҆ś r p.t i҆w Wni҆ś r p.t m čꜣw m čꜣw
+# lit = "Unas (is) to the sky, Unas (is) to the sky with the wind, with the wind."
+# trans = "Unas (is) to the sky, Unas (is) to the sky with the wind, with the wind."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	i҆w	i҆w	PART	_	_	8	discourse	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	_
+7	r	r	ADP	Cons.st	_	8	case	_	_
+8	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	parataxis	_	_
+9	m	m	ADP	Cons.st	_	10	case	_	_
+10	čꜣw	čꜣw	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+11	m	m	ADP	Pron.st	Case=Ins	12	case	_	_
+12	čꜣw	čꜣw	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+
