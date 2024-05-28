@@ -15051,3 +15051,24 @@
 6	nčr(.w)	nčr(.w)	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
 7	pꜣw.t(i҆)w	pꜣw.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	6	nmod	_	_
 
+# sent_id = UDE-975
+# ref = Pyramid Texts § 304c-e W, Saqqara, 5th Dynasty, rel, OE
+# text = pśč̣.t Ḥr.w m i҆ꜣḫ.w ś:nhṭ n ⸗f nb.w i҆r.w(w) pẖr n ⸗f pśč̣.t(i҆) tm.t(i҆)
+# lit = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him."
+# trans = "The Ennead, Horus is in the sunlight, while the lords of forms salutate him and all the Two Enneads serve him."
+# type = Adverbial sentence
+1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	4	dislocated	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	nsubj	_	_
+3	m	m	ADP	Cons.st	_	4	case	_	_
+4	i҆ꜣḫ.w	i҆ꜣḫ.w	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	ś:nhṭ	nhṭ	VERB	SFC|Pres|Pred|Voice=Cau	Tense=Pres|VerbForm=Fin	4	advcl	_	_
+6	n	n	ADP	Pron.st	Case=Dat	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+8	nb.w	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
+9	i҆r.w(w)	i҆r.w	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
+10	pẖr	pẖr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	5	conj	_	_
+11	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+13	pśč̣.t(i҆)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	10	nsubj	_	_
+14	tm.t(i҆)	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	13	advcl
+
