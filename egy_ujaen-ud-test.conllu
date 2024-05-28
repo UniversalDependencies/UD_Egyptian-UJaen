@@ -15258,3 +15258,49 @@
 5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
 6	ss.w	ss.w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-988
+# ref = Pyramid Texts § 308b W, Saqqara, 5th Dynasty, rel, OE
+# text = bw.t Tti҆ pn pw tꜣ
+# lit = “The detestation of this Teti is earth.”
+# trans = “The detestation of this Teti is earth.”
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	nsubj	_	_
+2	Tti҆	Tti҆	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	_
+5	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-989
+# ref = PT § 308b W, Saqqara, 5th Dynasty, rel, OE
+# text = n ꜥḳ Wni҆ś m Gb(b)
+# lit = “Unas will not enter into Geb.”
+# trans = “Unas will not enter into Geb.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ꜥḳ	ꜥḳ	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	obl	_	_
+
+# sent_id = UDE-990
+# ref = Pyramid Texts § 308c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥtm ⸗f ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ śč̣(.w) ḳś(.w) ⸗f ṭr(.w) śč̣b(.w) ⸗f
+# lit = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
+# trans = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
+# type = Cleft sentence with adverbial focus
+1	ḥtm	ḥtm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḳṭ	ḳṭ	NOUN	Inf	Gender=Masc|VerbForm=Inf	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	ṭp	ṭp	ADP	Cons.st	_	9	case	_	_
+9	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+10	śč̣(.w)	śč̣	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+11	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	10	nsubj:pass	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+13	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	10	conj	_	_
+14	śč̣b(.w)	śč̣b	NOUN	_	Gender=Masc|Number=Plur	13	nsubj:pass	_	_
+15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
+
