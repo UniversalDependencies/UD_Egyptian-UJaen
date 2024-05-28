@@ -15353,3 +15353,18 @@
 5	č̣r.t(i҆)	č̣r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl:agent	_	_
 6	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	_
 
+# sent_id = UDE-994
+# ref = Pyramid Texts § 308f W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:fḫ.n Wni҆ś rč̣.w ⸗f m Gśꜣ i҆r tꜣ
+# lit = "Unas released his outflow (certainly) to earth in Qus."
+# trans = "It is to earth in Qus that Unas released his outflow."
+# type = Cleft sentence with adverbial focus
+1	ś:fḫ.n	ś:fḫ	VERB	SFC|Past-2|Abstrel|Voice=Caus	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	rč̣.w	rč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	Gśꜣ	Gśꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	i҆r	r	ADP	Cons.st	_	8	case	_	_
+8	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
