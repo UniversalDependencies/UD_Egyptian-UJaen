@@ -15161,3 +15161,17 @@
 12	m	m	ADP	Cons.st	Case=Ess	13	case	_	_
 13	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 
+# sent_id = UDE-981
+# ref = Pyramid Texts § 306d W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:nhṭ n Wni҆ś nčr(.w) śmś.w r Wr
+# lit = "Make saludation, you gods, to Unas, being older than the Great One."
+# trans = "Make saludation, you gods, to Unas, who is older than the Great One."
+# type = Verbal sentence
+1	ś:nhṭ	nhṭ	VERB	Imp|Voice=Cau	Mood=Imp	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	iobj	_	_
+4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+5	śmś.w	śmś	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
+6	r	r	ADP	Cons.st	Case=Cmp	7	case	_	_
+7	Wr	Wr	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+
