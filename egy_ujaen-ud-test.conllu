@@ -15188,3 +15188,19 @@
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-983
+# ref = PT § 307a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆č Wni҆ś Ḥw i҆n(t)-t(i҆) n ⸗f nḥḥ
+# lit = “(When) Unas will assume Hu, one shall bring eternity to him.”
+# trans = “(When) Unas will assume Hu, someone shall bring eternity to him.”
+# type = Verbal sentence with a verbal topic
+1	i҆č	i҆či̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	4	dislocated	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	Ḥw	ḥw	PROPN	_	Gender=Masc	1	obj	_	_
+4-5	i҆n(t)-t(i҆)	_	_	_	_	_	_	_	_
+4	i҆n(t)	i҆ni̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+5	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	4	nsubj	_	_
+6	n	n	ADP	Pron.st	Case=Dat	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+8	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+
