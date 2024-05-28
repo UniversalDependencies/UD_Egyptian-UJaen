@@ -15204,3 +15204,32 @@
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
 8	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 
+# sent_id = UDE-984
+# ref = PT § 307b W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:mn-t(i҆) n ⸗f Śi҆ꜣ i҆r rṭ(.wi҆) ⸗f
+# lit = “Someone will establish Sia (certainly) at his feet for him.”
+# trans = “It is at his feet that someone will set Sia for him.”
+# type = Cleft sentence with adverbial focus
+1-2	ś:mn-t(i҆)	_	_	_	_	_	_	_	_
+1	ś:mn	mn	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+5	Śi҆ꜣ	Śi҆ꜣ	PROPN	_	Gender=Masc	1	obj	_	_
+6	i҆r	r	ADP	Pron.st	_	7	case	_	_
+7	rṭ(.wi҆)	rṭ	NOUN	MWE	Gender=Masc|Number=Dual	1	obl	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-985
+# ref = Pyramid Texts § 307c W, Saqqara, 5th Dynasty, rel, OE
+# text = hn.y n Wni҆ś i҆č.n ⸗f ꜣḫ.t
+# lit = "Ululate is for Unas after he took possession of the horizon."
+# trans = "Ululate belongs to Unas, for he took possession of the horizon."
+# type = Adverbial sentence
+1	hn.y	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+4	i҆č.n	i҆či̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	ꜣḫ.t	ꜣḫ.t	NOUN	Obj	Gender=Fem|Number=Sing	4	obj	_	_
+
