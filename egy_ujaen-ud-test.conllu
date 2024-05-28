@@ -15340,3 +15340,15 @@
 4	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 
+# sent_id = UDE-993
+# ref = Pyramid Texts § 308e W, Saqqara, 5th Dynasty, rel, OE
+# text = ṭr(.w) śč̣b ⸗f m č̣r.t(i҆) Wśr(.w)
+# lit = "His obstruction was removed with the aid of the two kites of Osiris."
+# trans = "His obstruction was removed by the two kites of Osiris."
+# type = Cleft sentence with adverbial focus
+1	ṭr(.w)	ṭr	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	śč̣b	śč̣b	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	č̣r.t(i҆)	č̣r.t	NOUN	_	Gender=Fem|Number=Dual	1	obl:agent	_	_
+
