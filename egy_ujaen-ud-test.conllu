@@ -15411,3 +15411,15 @@
 2	ḫm	ḫm	VERB	SFC|Fut	Tense=Fut|Voice=Pass	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:pass	_	_
 
+# sent_id = UDE-998
+# ref = PT § 309c W, Saqqara, 5th Dynasty, rel, OE
+# text = n ḫm.wt(i҆) ⸗f(i҆) i҆m ⸗f
+# lit = “There is none who will turn away from him.”
+# trans = “There is none who will turn away from him.”
+# type = Negative existence sentence
+1	n	n	PART	Neg	PartType=Neg	0	root	_	_
+2	ḥm.wt(i҆)	ḥmi̯	NOUN	_	Tense=Fut|VerbForm=Part	1	nsubj	_	_
+3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
+4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
+
