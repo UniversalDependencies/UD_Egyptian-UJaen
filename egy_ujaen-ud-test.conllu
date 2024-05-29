@@ -15650,3 +15650,24 @@
 12	ḳmꜣ.ti҆	ḳmꜣ	VERB	ADJ	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	11	amod	_	_
 13	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	12	obj	_	_
 
+# sent_id = UDE-1015
+# ref = Pyramid Texts § 313c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w Tti҆ pn r p.t i҆w Tti҆ pn r p.t m Šw ḥnꜥ Rꜥw
+# lit = "Unas (is) to the sky, Unas (is) to the sky in Shu and Re."
+# trans = "Unas (is) to the sky, Unas (is) to the sky with Shu and Re."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	5	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	r	r	ADP	Cons.st	_	5	case	_	_
+5	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	i҆w	i҆w	PART	_	_	10	discourse	_	_
+7	Tti҆	Tti҆	PROPN	_	Gender=Masc	10	nsubj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	r	r	ADP	Cons.st	_	10	case	_	_
+10	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	5	parataxis	_	_
+11	m	m	ADP	Cons.st	_	12	case	_	_
+12	Šw	Šw	PROPN	_	Gender=Masc	10	obl	_	_
+13	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	14	case	_	_
+14	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	10	obl	_	_
+
