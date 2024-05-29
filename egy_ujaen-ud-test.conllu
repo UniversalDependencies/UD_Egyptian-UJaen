@@ -6505,7 +6505,7 @@
 1	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
 3	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	_
-4	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	rč̣	rč̣i̯	NOUN	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
 7	n.t(i҆)w	n.t	NOUN	NisbaNoun	Gender=Masc|Number=Plur	4	iobj	_	_
@@ -15807,4 +15807,48 @@
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
+# sent_id = UDE-1026
+# ref = Pyramid Texts § 316a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ Gb(b) kꜣ Nw.t Ḥr.w pi҆ Wni҆ś i҆(w)ꜥ i҆t ⸗f
+# lit = “O Geb, Bull of Nut, Horus is Unas, the heir of his father.”
+# trans = “O Geb, Bull of Nut! Horus is Unas the heir of his father.”
+# type = Nominal sentence (A pw B)
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	Gb(b)	Gbb	PROPN	_	Gender=Masc	3	dislocated	_	_
+3	kꜣ	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	appos	_	_
+4	Nw.t	Nw.t	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	7	nsubj	_	_
+6	pi҆	pi҆	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	cop	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+8	i҆(w)ꜥ	i҆wꜥ.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	7	appos	_	_
+9	i҆t	i҆t	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
+# sent_id = UDE-1027
+# ref = Pyramid Texts § 316b-d W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ s.y i҆i҆.y fṭ.nw n(.i҆) fṭ.w i҆pw nčr(.w) i҆n.w mw (w)ṭ.w ꜥbꜥb.t i҆r.w hy m ḫpš n(.i҆) i҆t(.w) ⸗śn
+# lit = “Unas is the one who went and returned, the fourth of these four gods who brought water, who put purification (?), who did joy in the strength of their fathers.”
+# trans = “Unas is the one who went and returned, the fourth of these four gods who brought water, who carried out purification (?), who rejoiced in the strength of their fathers.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	s.y	si҆	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	0	root	_	_
+4	i҆i҆.y	i҆wi̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	3	conj	_	_
+5	fṭ.nw	fṭ.nw	NUM	ADJ	Gender=Masc|Number=Sing	4	appos	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	fṭ.w	i҆fṭ.w	NUM	NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
+8	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
+9	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	_
+10	i҆n.w	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	9	amod	_	_
+11	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	10	obj	_	_
+12	(w)ṭ.w	wṭi̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+13	ꜥbꜥb.t	ꜥbꜥb.t	NOUN	Obj	Gender=Fem|Number=Sing	12	obj	_	_
+14	i҆r.w	i҆ri̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
+15	hy	hy	NOUN	Obj	Gender=Masc|Number=Sing	14	obj	_	_
+16	m	m	ADP	Cons.st	Case=Ins	17	case	_	_
+17	ḫpš	ḫpš	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
+18	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
+19	i҆t(.w)	i҆t	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
+20	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
 
