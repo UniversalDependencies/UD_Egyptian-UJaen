@@ -15305,10 +15305,10 @@
 15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 
 # sent_id = UDE-991
-# ref = Pyramid Texts § 308c-d T, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 308c-d/312c-d T, Saqqara, 6th Dynasty, rel, OE
 # text = ḥtm Tti҆ pn ḳṭ ⸗f m ḥw.t ⸗f ṭp tꜣ ś:rwč̣(.w) ḳś(.w) Tti҆ pn ṭr(.w) śč̣b(.w) ⸗f
-# lit = "This Teti will end his sleep (certainly) in his mansion on earth after his bones were made strong and his obstructions were removed."
-# trans = "He will end his sleep (certainly) in his mansion on earth after his bones were broken and his obstructions were removed."
+# lit = "This Teti will end his sleep (certainly) in his mansion on earth after the bones of this Teti were made strong and his obstructions were removed."
+# trans = "He will end his sleep (certainly) in his mansion on earth after bones of this Teti were broken and his obstructions were removed."
 # type = Cleft sentence with adverbial focus
 1	ḥtm	ḥtm	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -15341,7 +15341,7 @@
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 
 # sent_id = UDE-993
-# ref = Pyramid Texts § 308e W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 308e W/312e T, Saqqara, 5th Dynasty, rel, OE
 # text = ṭr(.w) śč̣b ⸗f m č̣r.t(i҆) Wśr(.w)
 # lit = "His obstruction was removed with the aid of the two kites of Osiris."
 # trans = "His obstruction was removed by the two kites of Osiris."
@@ -15629,4 +15629,19 @@
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	m	m	ADP	Cons.st	_	5	case	_	_
 5	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	obl	_	_
+
+# sent_id = UDE-1014
+# ref = Pyramid Texts § 313a T, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n śn.t Tti҆ pn nb.t P(i҆) rm.t św
+# lit = “It is the sister of this Teti, the Lady of Pe, who laments him.”
+# trans = “It is the sister of this Teti, the Lady of Pe, who laments him.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	śn.t	śn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	nsubj	_	_
+3	Tti҆	Tti҆	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	nb.t	nb	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	appos	_	_
+6	P(i҆)	Pi҆	PROPN	_	Case=Gen	5	nmod	_	_
+7	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 
