@@ -15246,7 +15246,7 @@
 5	ss.w	ss.w	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 
 # sent_id = UDE-987
-# ref = Pyramid Texts § 308a T, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 308a/312a T, Saqqara, 6th Dynasty, rel, OE
 # text = Tti҆ pn pw Wśr(.w) m ss.w
 # lit = “Osiris is this Teti in a dust-devil (?).”
 # trans = “Osiris is this Teti in a dust-devil (?).”
@@ -15259,7 +15259,7 @@
 6	ss.w	ss.w	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
 # sent_id = UDE-988
-# ref = Pyramid Texts § 308b W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 308b/312b W, Saqqara, 5th Dynasty, rel, OE
 # text = bw.t Tti҆ pn pw tꜣ
 # lit = “The detestation of this Teti is earth.”
 # trans = “The detestation of this Teti is earth.”
@@ -15617,4 +15617,16 @@
 2	ḫśf	ḫśf	VERB	SFC|Fut	Tense=Fut|Voice=Pass	0	root	_	_
 3	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	2	nsubj:pass	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+
+# sent_id = UDE-1013
+# ref = PT § 312b T, Saqqara, 6th Dynasty, rel, OE
+# text = n ꜥḳ ⸗f m Gb(b)
+# lit = “He will not enter into Geb.”
+# trans = “He will not enter into Geb.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ꜥḳ	ꜥḳ	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	obl	_	_
 
