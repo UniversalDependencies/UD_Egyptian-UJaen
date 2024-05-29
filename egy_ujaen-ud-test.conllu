@@ -15554,3 +15554,16 @@
 14	ḥw.(w)t	ḥw.t	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
 15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 
+# sent_id = UDE-1008
+# ref = PT § 311a W, Saqqara, 5th Dynasty, rel, OE
+# text = nḥb Wni҆ś kꜣ(.w) nḥm ⸗f kꜣ(.w)
+# lit = “Unas allocates kas - he take away kas.”
+# trans = “(Both of them:) Unas allocates kas, and he take away kas.”
+# type = Balanced sentence
+1	nḥb	nḥb	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+4	nḥm	nḥm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+
