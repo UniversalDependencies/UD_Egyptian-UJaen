@@ -15570,8 +15570,8 @@
 # sent_id = UDE-1009
 # ref = PT § 311b W, Saqqara, 5th Dynasty, rel, OE
 # text = (w)ṭ ⸗f śṭb i҆ṭr ⸗f śṭb
-# lit = “Unas shall impose an obstacle and remove an obstacle.”
-# trans = “Unas shall impose an obstacle and remove an obstacle.”
+# lit = “He shall impose an obstacle and remove an obstacle.”
+# trans = “He shall impose an obstacle and remove an obstacle.”
 # type = Balanced sentence
 1	(w)ṭ	wṭi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
@@ -15579,4 +15579,20 @@
 4	i҆ṭr	ṭr	VERB	SFC|Sub	Mood=Sub	1	parataxis	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	śṭb	śṭb	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+
+# sent_id = UDE-1010
+# ref = Pyramid Texts § 311c W, Saqqara, 5th Dynasty, rel, OE
+# text = wrš Wni҆ś śč̣r ⸗f ś:ḥtp ⸗f nw.t(i҆) m Wnw
+# lit = "Unas spends day and night (certainly) propitiating the two adzes in Hermopolis."
+# trans = "It is propitiating the two adzes in Hermopolis that Unas spends day and night."
+# type = Cleft sentence with adverbial focus
+1	wrš	wršu̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	śč̣r	śč̣r	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	ś:ḥtp	ḥtp	VERB	SFC|Pres|Pred|Voice=Cau	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	nw.t(i҆)	nw.t	NOUN	Obj	Gender=Fem|Number=Dual	5	obj	_	_
+8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+9	Wnw	Wnw	PROPN	_	_	5	obl	_	_
 
