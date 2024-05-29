@@ -15884,3 +15884,14 @@
 2	śč̣m.n	śč̣m	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	mꜣꜥ.ti҆	mꜣꜥ.ti҆	NOUN	_	Gender=Fem|Number=Dual	2	nsubj	_	_
 
+# sent_id = UDE-1030
+# ref = Pyramid Texts § 317b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Šw m mtr.w
+# lit = "Shu was (like) a witness."
+# trans = "Shu was witness."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	Šw	Šw	PROPN	_	Gender=Masc	4	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	mtr.w	mtr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
