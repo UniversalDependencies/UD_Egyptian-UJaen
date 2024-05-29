@@ -15671,3 +15671,24 @@
 13	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	14	case	_	_
 14	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	10	obl	_	_
 
+# sent_id = UDE-1016
+# ref = PT § 313d T, Saqqara, 6th Dynasty, rel, OE
+# text = n ḫm Tti҆ pn
+# lit = “This Teti will not be excluded.”
+# trans = “This Teti will not be excluded.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḫm	ḫm	VERB	SFC|Fut	Tense=Fut|Voice=Pass	0	root	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
+# sent_id = UDE-1017
+# ref = PT § 313d T, Saqqara, 6th Dynasty, rel, OE
+# text = n ḫm.wt(i҆) ⸗f(i҆)
+# lit = “There is none who will turn away.”
+# trans = “There is none who will turn away.”
+# type = Negative existence sentence
+1	n	n	PART	Neg	PartType=Neg	0	root	_	_
+2	ḫm.wt(i҆)	ḫmi̯	NOUN	_	Tense=Fut|VerbForm=Part	1	nsubj	_	_
+3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	fixed	_	_
+
