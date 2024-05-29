@@ -15488,7 +15488,7 @@
 1	i҆w	i҆w	PART	_	_	5	discourse	_	_
 2	pꜣč̣	pꜣč̣	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
-4	i҆r	r	ADP	Pron.st	Case=Lat	5	case	_	_
+4	i҆r	r	ADP	Cons.st	_	5	case	_	_
 5	ḥr(.w)	ḥr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	7	case	_	_
 7	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	5	obl	_	_
@@ -15720,4 +15720,20 @@
 5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
 6	č̣ꜣč̣ꜣ.t	č̣ꜣč̣ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
 7	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = UDE-1020
+# ref = Pyramid Texts § 314a T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w pꜣč̣ n(.i҆) Tti҆ pn r ḥr(.w) ḥnꜥ Rꜥw
+# lit = "The bread-offering of this Teti is up above with Re."
+# trans = "The bread-offering of this Teti is up above with Re."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	7	discourse	_	_
+2	pꜣč̣	pꜣč̣	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nmod	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	r	r	ADP	Cons.st	_	7	case	_	_
+7	ḥr(.w)	ḥr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+8	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	9	case	_	_
+9	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	7	obl	_	_
 
