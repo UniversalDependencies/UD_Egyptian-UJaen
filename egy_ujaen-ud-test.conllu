@@ -1097,7 +1097,7 @@
 11	[Ppy]	Ppy	PROPN	_	Gender=Masc	9	nmod	_	_
 12	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 13	m	m	ADP	Cons.st	Case=Ins	14	case	_	_
-14	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+14	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 16	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	14	obj	_	_
 17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
@@ -1106,7 +1106,7 @@
 20	i҆m	m	ADP	Pron.st	Case=Ins	21	case	_	_
 21	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
 22	m	m	ADP	Cons.st	Case=Ins	23	case	_	_
-23	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+23	wp.tn	wpi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 24	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 25	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	23	obj	_	_
 26	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
@@ -2115,7 +2115,7 @@
 # type = Verbal sentence
 1	ḥtm	ḥtm	VERB	SFC|Sub	Mood=Sub|Voice=Act	0	root	_	_
 2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	i҆r.(i҆)t	r	NOUN	NisbaPrep	Case=Ben|Gender=Neut|Number=Sing	1	obj	_	_
+3	i҆r.(i҆)t	r	NOUN	NisbaPrep	Case=Ben|Gender=Fem|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 
 # sent_id = UDE-147
@@ -2499,7 +2499,7 @@
 4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
-7	mḥ.t	mḥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Neut|Number=Sing	3	obl	_	_
+7	mḥ.t	mḥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	3	obl	_	_
 8	i҆m	m	ADP	Pron.st	Case=Loc	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
@@ -2784,7 +2784,7 @@
 # lit = "What Thoth saw are the waters that are in it (i.e. the Eye of Horus)."
 # trans = "The water in it (i.e. the Eye of Horus) is what Thoth saw."
 # type = Nominal sentence (A = B)
-1	mꜣ.tn	mꜣꜣ	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Neut|Number=Sing	0	root	_	_
+1	mꜣ.tn	mꜣꜣ	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
 2	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	1	nsubj:outer	_	_
 3	mw	mw	NOUN	Subj	Gender=Masc|Number=Plur	1	nsubj	_	_
 4	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	3	amod	_	_
@@ -3931,7 +3931,7 @@
 8	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
 10	n	n	ADP	Cons.st	Case=Acc	11	case	_	_
-11	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Neut|Number=Sing	8	obj	_	_
+11	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	8	obj	_	_
 12	i҆m	m	ADP	Pron.st	Case=Ela	13	case	_	_
 13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	_
 
@@ -6271,42 +6271,42 @@
 7	wnm	wnm	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	m	m	ADP	Cons.st	_	10	case	_	_
-10	wnm.t	wnm	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+10	wnm.t	wnm	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 11	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
 12	i҆m	m	ADP	Pron.st	_	13	case	_	_
 13	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
 14	swr	swr	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
 15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 16	m	m	ADP	Cons.st	_	17	case	_	_
-17	swr.t	swr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+17	swr.t	swr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 18	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	17	nsubj	_	_
 19	i҆m	m	ADP	Pron.st	_	20	case	_	_
 20	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
 21	ꜥnḫ	ꜥnḫ	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
 22	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
 23	m	m	ADP	Cons.st	_	24	case	_	_
-24	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+24	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	21	advcl	_	_
 25	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	24	nsubj	_	_
 26	i҆m	m	ADP	Pron.st	_	27	case	_	_
 27	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	24	obl	_	_
 28	ḥmś	ḥmśi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
 29	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 30	m	m	ADP	Cons.st	_	31	case	_	_
-31	ḥmś.t	ḥmśi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	28	advcl	_	_
+31	ḥmś.t	ḥmśi̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	28	advcl	_	_
 32	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	31	nsubj	_	_
 33	i҆m	m	ADP	Pron.st	_	34	case	_	_
 34	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	31	obl	_	_
 35	wśr	wśr	VERB	SFC|Sub|Finalcl	Mood=Sub	7	conj	_	_
 36	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nsubj	_	_
 37	m	m	ADP	Cons.st	_	38	case	_	_
-38	wśr.t	wśr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+38	wśr.t	wśr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	35	advcl	_	_
 39	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	38	nsubj	_	_
 40	i҆m	m	ADP	Pron.st	_	41	case	_	_
 41	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	38	obl	_	_
 42	ś:ḳṭ	ḳṭi̯	VERB	SFC|Sub|Voice=Cau|Finalcl	Mood=Sub	7	conj	_	_
 43	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_
 44	m	m	ADP	Cons.st	_	45	case	_	_
-45	ś:ḳṭṭ.t	ḳṭi̯	VERB	NOUN|VerbForm=RelForm|Pres|Voice=Cau	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	42	advcl	_	_
+45	ś:ḳṭṭ.t	ḳṭi̯	VERB	NOUN|VerbForm=RelForm|Pres|Voice=Cau	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	42	advcl	_	_
 46	⸗čn	čn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=2|PronType=Prs	45	nsubj	_	_
 47	i҆m	m	ADP	Pron.st	_	48	case	_	_
 48	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	obl	_	_
@@ -6752,7 +6752,7 @@
 # lit = "What he (i.e. Horus) lives on, Unas lives on."
 # trans = "What he (i.e. Horus) lives on, Unas lives on."
 # type = Balanced sentence
-1	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
 4	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -6765,7 +6765,7 @@
 # lit = "What he (i.e. Horus) eats of, he (i.e. Unas) eats of."
 # trans = "What he (i.e. Horus) eats of, he (i.e. Unas) eats of."
 # type = Balanced sentence
-1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
 4	wnm	wnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -6778,7 +6778,7 @@
 # lit = "What he (i.e. Horus) eats of, Teti eats of."
 # trans = "What he (i.e. Horus) eats of, Teti eats of."
 # type = Balanced sentence
-1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	wnm.t	wnm	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
 4	wnm	wnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -6791,7 +6791,7 @@
 # lit = "What he (i.e. Horus) drinks of, he (i.e. Unas) drinks of."
 # trans = "What he (i.e. Horus) drinks of, he (i.e. Unas) drinks of."
 # type = Balanced sentence
-1	swr.t	swr	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	swr.t	swr	VERB	NOUN|Pres|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆m	i҆m	ADV	_	_	1	advmod	_	_
 4	swr	swr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -11267,7 +11267,7 @@
 2	i҆ꜥm	ꜥm	VERB	Imp	Mood=Imp	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
-5	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Neut|Number=Sing	2	obj	_	_
+5	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	2	obj	_	_
 6	i҆m	m	ADP	Pron.st	Case=Ela	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
@@ -13907,7 +13907,7 @@
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	m	m	ADP	Cons.st	Case=Ins	5	case	_	_
-5	rḫ.tn	rḫ	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
+5	rḫ.tn	rḫ	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	hrw	hrw	ADV	NOUN	AdvType=Tim	5	advmod	_	_
 8	mr.n	mri̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl	_	_
@@ -15827,9 +15827,9 @@
 
 # sent_id = UDE-1027
 # ref = Pyramid Texts § 316b-d W, Saqqara, 5th Dynasty, rel, OE
-# text = Wni҆ś pi҆ s.y i҆i҆.y fṭ.nw n(.i҆) fṭ.w i҆pw nčr(.w) i҆n.w mw (w)ṭ.w ꜥbꜥb.t i҆r.w hy m ḫpš n(.i҆) i҆t(.w) ⸗śn
-# lit = “Unas is the one who went and returned, the fourth of these four gods who brought water, who put purification (?), who did joy in the strength of their fathers.”
-# trans = “Unas is the one who went and returned, the fourth of these four gods who brought water, who carried out purification (?), who rejoiced in the strength of their fathers.”
+# text = Wni҆ś pi҆ s.y i҆i҆.y fṭ.nw n(.i҆) fṭ.w i҆pw nčr(.w) i҆n.w mw (w)ṭ.w ꜥbꜥb.t i҆r.w hy m ḫpš n(.i҆) i҆t(.w) ⸗śn i҆mr ⸗f mꜣꜥ-ḫrw ⸗f m i҆r.tn 	⸗f
+# lit = “Unas is the one who went and returned, the fourth of these four gods who brought water, who put purification (?), who did joy in the strength of their fathers, in order that he might desire his vindication by what he did.”
+# trans = “Unas is the one who went and returned, the fourth of these four gods who brought water, who carried out the purification (?), who rejoiced in the strength of their fathers, that he might desire to be vindicated by what he had done.”
 # type = Nominal sentence (A pw B)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
@@ -15851,4 +15851,13 @@
 18	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
 19	i҆t(.w)	i҆t	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
 20	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	nmod	_	_
+21	i҆mr	mri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	14	advcl	_	_
+22	⸗f	f	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+23-24	mꜣꜥ-ḫrw	_	_	_	_	_	_	_	_
+23	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
+24	ḫrw	ḫrw	NOUN	MWE	Gender=Masc|Number=Sing	7	fixed	_	_
+25	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
+26	m	m	ADP	Cons.st	Case=Ins	27	case	_	_
+27	i҆r.tn	i҆ri̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	21	advcl	_	_
+28	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
 
