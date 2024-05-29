@@ -15496,8 +15496,8 @@
 # sent_id = UDE-1004
 # ref = Pyramid Texts § 310b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w ꜥꜣb.t ⸗f m Nw.w
-# lit = "His feast in the Nu."
-# trans = "His feast in the Nu."
+# lit = "His feast is in the Nu."
+# trans = "His feast is in the Nu."
 # type = i҆w + adverbial sentence
 1	i҆w	i҆w	PART	_	_	5	discourse	_	_
 2	ꜥꜣb.t	ꜥꜣb.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
@@ -15740,8 +15740,8 @@
 # sent_id = UDE-1021
 # ref = Pyramid Texts § 314b T, Saqqara, 6th Dynasty, rel, OE
 # text = i҆w ꜥꜣb.t Tti҆ pn m Nw.w
-# lit = "His feast in the Nu."
-# trans = "His feast in the Nu."
+# lit = "The feast of this Teti is in the Nu."
+# trans = "The feast of this Teti is in the Nu."
 # type = i҆w + adverbial sentence
 1	i҆w	i҆w	PART	_	_	6	discourse	_	_
 2	ꜥꜣb.t	ꜥꜣb.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nsubj	_	_
@@ -15749,3 +15749,15 @@
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
 6	Nw.w	Nw.w	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-1022
+# ref = Pyramid Texts § 314c T, Saqqara, 6th Dynasty, rel, OE, for the meaning of nni̯ see Wb. II 276, 1-2. 
+# text = Tti҆ pn pw nn.w
+# lit = “This Teti is one who turns around.”
+# trans = “This Teti is one who turns around.”
+# type = Nominal sentence (A pw B)
+1	Tti҆	Tti҆	PROPN	_	Case=Gen|Gender=Masc	4	nsubj	_	_
+2	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	nn.w	nni̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+
