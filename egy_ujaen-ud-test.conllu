@@ -15631,10 +15631,10 @@
 5	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	obl	_	_
 
 # sent_id = UDE-1014
-# ref = Pyramid Texts § 313a T, Saqqara, 5th Dynasty, rel, OE
-# text = i҆n śn.t Tti҆ pn nb.t P(i҆) rm.t św
-# lit = “It is the sister of this Teti, the Lady of Pe, who laments him.”
-# trans = “It is the sister of this Teti, the Lady of Pe, who laments him.”
+# ref = Pyramid Texts § 313a-b T, Saqqara, 5th Dynasty, rel, OE. For ḳmꜣ.ti҆ see Edel 1955/1964: 304-305 (§ 628).
+# text = i҆n śn.t Tti҆ pn nb.t P(i҆) rm.t św ḳmꜣ.n św ḫnm.tt(i҆) ḳmꜣ.ti҆ Wśr(.w)
+# lit = “It is the sister of this Teti, the Lady of Pe, who laments him, after the two attendants who mourned for Osiris have mourned for him.”
+# trans = “It is the sister of this Teti, the Lady of Pe, who laments him, after the two attendants who mourned for Osiris have mourned for him.”
 # type = Cleft sentence with nominal focus
 1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
 2	śn.t	śn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	nsubj	_	_
@@ -15644,4 +15644,9 @@
 6	P(i҆)	Pi҆	PROPN	_	Case=Gen	5	nmod	_	_
 7	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	ḳmꜣ.n	ḳmꜣ	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+11	ḫnm.tt(i҆)	ḫnm.ti҆t	NOUN	Subj	Gender=Fem|Number=Dual	9	nsubj	_	_
+12	ḳmꜣ.ti҆	ḳmꜣ	VERB	ADJ	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	11	amod	_	_
+13	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	12	obj	_	_
 
