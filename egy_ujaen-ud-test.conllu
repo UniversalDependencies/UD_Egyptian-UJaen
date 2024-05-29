@@ -15526,9 +15526,31 @@
 3	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
-6	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	obl	_	_
-7	sḫn.n	sḫni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	obl	_	_
+7	sḫn.n	sḫni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	ḥw.(w)t	ḥw.t	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
+# sent_id = UDE-1007
+# ref = PT § 310d T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆šm Tti҆ pn ḥnꜥ Rꜥw i҆w Tti҆ pn ḥnꜥ Rꜥw sḫn.n Tti҆ pn ḥw.(w)t ⸗f
+# lit = “This Teti goes with Re - This Teti comes with Re after he has occupied his mansions.”
+# trans = “(Both of them:) This Teti goes with Re, and this Teti comes with Re after having occupied his mansions.”
+# type = Balanced sentence
+1	i҆šm	šmi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	5	case	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	obl	_	_
+6	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	10	case	_	_
+10	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	obl	_	_
+11	sḫn.n	sḫni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+12	Tti҆	Tti҆	PROPN	_	Gender=Masc	11	nsubj	_	_
+13	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+14	ḥw.(w)t	ḥw.t	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
+15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 
