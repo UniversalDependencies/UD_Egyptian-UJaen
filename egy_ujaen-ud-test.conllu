@@ -15707,3 +15707,17 @@
 7	śmś.w	śmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	appos	_	_
 8	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 
+# sent_id = UDE-1019
+# ref = PT § 313f T, Saqqara, 6th Dynasty, rel, OE
+# text = n ḥmś.w Tti҆ pn m č̣ꜣč̣ꜣ.t nčr
+# lit = “This Teti will not sit in the god's court enter into Geb.”
+# trans = “This Teti will not sit in the god's court enter into Geb.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḥmś.w	ḥmśi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	č̣ꜣč̣ꜣ.t	č̣ꜣč̣ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+7	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+
