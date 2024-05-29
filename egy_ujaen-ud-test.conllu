@@ -15450,3 +15450,46 @@
 5	č̣ꜣč̣ꜣ.t	č̣ꜣč̣ꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
 6	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-1001
+# ref = Pyramid Texts § 309e W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ ḥr(.i҆) wꜥ ⸗f śmś.w nčr(.w)
+# lit = “Unas is the one who is on his loneliness, the eldest of the gods.”
+# trans = “Unas is the one who is on his own, the eldest of the gods.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+4	wꜥ	wꜥ	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	śmś.w	śmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	appos	_	_
+7	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+
+# sent_id = UDE-1002
+# ref = Pyramid Texts § 309e T, Saqqara, 6th Dynasty, rel, OE
+# text = Tti҆ pn pw ḥr(.i҆) wꜥ ⸗f śmś.w nčr(.w)
+# lit = “This Teti is the one who is on his loneliness, the eldest of the gods.”
+# trans = “This Teti is the one who is on his own, the eldest of the gods.”
+# type = Nominal sentence (A pw B)
+1	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	nsubj	_	_
+2	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+5	wꜥ	wꜥ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	śmś.w	śmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	appos	_	_
+8	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+
+# sent_id = UDE-1003
+# ref = Pyramid Texts § 310a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w pꜣč̣ ⸗f i҆r ḥr(.w) ḥnꜥ Rꜥw
+# lit = "His bread-offering is up above with Re."
+# trans = "His bread-offering is up above with Re."
+# type = i҆w + adverbial sentence 
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	pꜣč̣	pꜣč̣	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	i҆r	r	ADP	Pron.st	Case=Lat	5	case	_	_
+5	ḥr(.w)	ḥr.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+6	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	7	case	_	_
+7	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	5	obl	_	_
+
