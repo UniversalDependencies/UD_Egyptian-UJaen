@@ -15916,3 +15916,19 @@
 13	mr.tn	mri̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	advcl	_	_
 14	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 
+# sent_id = UDE-1032
+# ref = PT § 318a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = ṭmč̣(.w) ꜥ.(w)t ⸗f i҆m.(w)t štꜣ.w smꜣ ⸗f i҆m.(i҆)w Nw.w
+# lit = “After his limbs, that were in concealment, have been reunited, he shall join those in Nu.”
+# trans = “Once his limbs, that were in concealment, have been reunited, he will join those in Nu.”
+# type = Verbal sentence with a verbal topic
+1	ṭmč̣(.w)	ṭmč̣	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	ꜥ.(w)t	ꜥ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj:pass	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	i҆m.(w)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Plur	2	amod	_	_
+5	štꜣ.w	štꜣ.w	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+6	smꜣ	smꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+7	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	i҆m.(i҆)w	m	NOUN	NisbaPrep	Gender=Masc|Number=Plur	6	obj	_	_
+9	Nw.w	Nw.w	PROPN	_	Gender=Masc	8	nmod	_	_
+
