@@ -16155,3 +16155,14 @@
 5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
 6	kk.w	kk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 
+# sent_id = UDE-1047
+# ref = PT § 323b W, Saqqara, 5th Dynasty, rel, OE
+# text = n mꜣꜣ ⸗f śḫṭ.w
+# lit = “He will not see those who fall upside.”
+# trans = “He will not see those who fall upside.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	mꜣꜣ	mꜣꜣ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	śḫṭ.w	śḫṭ	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	obj	_	_
+
