@@ -16080,3 +16080,20 @@
 15	ḥtꜣ	ḥtꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	12	obl	_	_
 16	h.w(i҆)	hʾ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
 
+# sent_id = UDE-1042
+# ref = PT § 321c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜣm n ⸗čn ꜣḫ.t tw č̣nn.wtt mč̣ṭ ⸗ś i҆b(.w) ⸗čn
+# lit = “This uraeus, the serpent djenenutet, shall burn for you while she strikes your hearts.”
+# trans = “This uraeus, the serpent djenenutet, shall burn for you striking your hearts.”
+# type = Verbal sentence
+1	ꜣm	ꜣm	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+5	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+6	č̣nn.wtt	č̣nn.wtt	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+7	mč̣ṭ	mč̣ṭ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+8	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	i҆b(.w)	i҆b	NOUN	MWE	Gender=Masc|Number=Plur	7	obj	_	_
+10	⸗čn	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+
