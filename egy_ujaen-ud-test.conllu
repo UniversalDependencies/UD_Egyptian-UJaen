@@ -16142,3 +16142,16 @@
 9	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 
+# sent_id = UDE-1046
+# ref = Pyramid Texts § 323a W, Saqqara, 5th Dynasty, rel, OE
+# text = bw.t Wni҆ś pw šꜣś m kk.w
+# lit = "The abomination of Unas is treading in darkness."
+# trans = "The abomination of Unas is treading in darkness."
+# type = Nominal sentence (A pw B)
+1	bw.t	bw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	šꜣś	šꜣś	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	kk.w	kk.w	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+
