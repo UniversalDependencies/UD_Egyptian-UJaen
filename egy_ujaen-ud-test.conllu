@@ -16125,3 +16125,20 @@
 5	n	n	ADP	Pron.st	Case=Lat	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 
+# sent_id = UDE-1045
+# ref = Pyramid Texts § 322b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ č̣śč̣ś n(.i҆) i҆t ⸗f nḫb n(.i҆) mw.t ⸗f
+# lit = "Unas is the alter ego of his father, the blossom of his mother."
+# trans = "Unas is the alter ego of his father, the blossom of his mother."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	č̣śč̣ś	č̣śč̣ś	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	nḫb	nḫb	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+9	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
