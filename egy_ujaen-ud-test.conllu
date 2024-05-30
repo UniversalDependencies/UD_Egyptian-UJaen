@@ -16218,3 +16218,29 @@
 10	ꜣsb	ꜣsb	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	_
 11	i҆ꜣḫ.w	i҆ꜣḫ.w	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 
+# sent_id = UDE-1051
+# ref = Pyramid Texts § 324c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ nśr m-ṭp čꜣ.w r č̣r.w p.t r č̣r.w tꜣ č̣r šw.t ꜥ(.wi҆) ḥnb.w m Wni҆ś
+# lit = “Unas is a flame on the head of the wind to the end of the sky and to the end of the earth before the hands of the lightning become empty of Unas.”
+# trans = “Unas is a flame before the wind to the end of the sky and to the end of the earth before the hands of the lightning become empty of Unas.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	dislocated	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	nśr	nśr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4-5	m-ṭp	_	_	_	_	_	_	_	_
+4	m	m	ADP	Cons.st	_	6	case	_	_
+5	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+6	čꜣ.w	čꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	_
+7	r	r	ADP	Cons.st	_	8	case	_	_
+8	č̣r.w	č̣r.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+7	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+8	r	r	ADP	Cons.st	_	9	case	_	_
+9	č̣r.w	č̣r.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+10	tꜣ	tꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+11	č̣r	č̣r	ADP	Cons.st	_	12	mark	_	_
+12	šw.t	šwi̯	VERB	SFC|Bi-Fut	Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	_
+13	ꜥ(.wi҆)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	12	nsubj	_	_
+14	ḥnb.w	ḥnb.w	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+15	m	m	ADP	Pron.st	_	16	case	_	_
+16	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	12	obl	_	_
+
