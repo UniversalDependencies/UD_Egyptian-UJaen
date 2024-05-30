@@ -16166,3 +16166,22 @@
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	śḫṭ.w	śḫṭ	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	obj	_	_
 
+# sent_id = UDE-1048
+# ref = Pyramid Texts § 323c W, Saqqara, 5th Dynasty, rel, OE
+# text = pr(.i҆) Wni҆ś m hrw pn i҆nt ⸗f Mꜣꜥ.t i҆(w) ⸗ś ḫr ⸗f
+# lit = "Unas will emerge (certainly) in this day, that he may bring Maat being she with him."
+# trans = "It is today that Unas will emerge, that he may bring Maat being she with him."
+# type = Cleft sentence with adverbial focus
+1	pr(.i҆)	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	_	4	case	_	_
+4	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆nt	i҆ni̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	Mꜣꜥ.t	Mꜣꜥ.t	PROPN	_	Gender=Fem	6	obj	_	_
+9	i҆(w)	i҆w	PART	Particle	_	12	mark	_	_
+10	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+11	ḫr	ḫr	ADP	Pron.st	_	12	case	_	_
+12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	advcl	_	_
+
