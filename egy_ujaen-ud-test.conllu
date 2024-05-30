@@ -16199,3 +16199,22 @@
 6	⸗čn	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	5	nmod	_	_
 7	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	dislocated	_	_
 
+# sent_id = UDE-1050
+# ref = Pyramid Texts § 324a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ wi҆č-i҆b sꜣ i҆b Šw ꜣw.y ꜣw.t ꜣsb i҆ꜣḫ.w
+# lit = “Unas is a wi҆č of heart, son of Shu's heart, being long-extended, fierce of brillance.”
+# trans = “Unas is a wi҆č of heart, the favourite son of Shu, being long-extended, fierce of brillance.”
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	dislocated	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+3-4	wi҆č-i҆b	_	_	_	_	_	_	_	_
+3	wi҆č	wi҆č	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	3	fixed	_	_
+5	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	appos	_	_
+6	i҆b	i҆b	NOUN	MWE	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+7	Šw	Šw	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	_
+8	ꜣw.y	ꜣwi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	6	advcl	_	_
+9	ꜣw.t	ꜣw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	8	advmod	_	_
+10	ꜣsb	ꜣsb	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	_
+11	i҆ꜣḫ.w	i҆ꜣḫ.w	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
+
