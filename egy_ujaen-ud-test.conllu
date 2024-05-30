@@ -152,7 +152,7 @@
 # trans = “One who is ready to attack at the moment of striking.”
 # type = Noun phrase
 1-2	wꜣ-i҆b	_	_	_	_	_	_	_	_
-1	wꜣ	wꜣi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+1	wꜣ	wꜣi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	ꜣ.t	ꜣ.t	NOUN	ADV	Case=Tem|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
@@ -276,7 +276,7 @@
 # trans = “An open-hearted.”
 # type = Noun phrase
 1-2	pgꜣ-i҆b	_	_	_	_	_	_	_	_
-1	pgꜣ	pgꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+1	pgꜣ	pgꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 
 # sent_id = UDE-24
@@ -383,7 +383,7 @@
 # trans = “One who earns his trust (i.e. his confidant) in the temple of Min.”
 # type = Noun phrase
 1-2	mḥ-i҆b	_	_	_	_	_	_	_	_
-1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+1	mḥ	mḥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
@@ -397,7 +397,7 @@
 # trans = “One who earns the king's trust (i.e. king's confidant) when he sails upstream.”
 # type = Noun phrase
 1-2	mḥ-i҆b	_	_	_	_	_	_	_	_
-1	mḥ	mḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+1	mḥ	mḥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -515,15 +515,15 @@
 # trans = “A calm one.”
 # type = Noun phrase
 1-2	nꜥꜥ-i҆b	_	_	_	_	_	_	_	_
-1	nꜥꜥ	nꜥi̯	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
-2	i҆b	i҆b	NOUN	Gen|MWE	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	_
+1	nꜥꜥ	nꜥi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+2	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	1	compound	_	_
 
 # sent_id = UDE-41
 # ref = Pyramid Texts § 397a W, Saqqara, 5th Dynasty, rel, OE
 # text = nhṭ m i҆b ⸗f
 # lit = “One who is grim/has wrath in his heart.”
 # trans = “A grim/furious one.”
-1	nhṭ	nhṭ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+1	nhṭ	nhṭ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	m	m	ADP	Cons.st	Case=Loc	3	case	_	_
 3	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	1	obl	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	_
@@ -546,7 +546,7 @@
 # trans = “O you who live on earth, who shall enter this tomb of the necropolis.”
 # type = Noun phrase
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
-2	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
+2	ꜥnḫ.w	ꜥnḫ	NOUN	_	Case=Voc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	vocative	_	_
 3	ṭp.(i҆)w	ṭp	ADJ	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	2	amod	_	_
 4	tꜣ	tꜣ	NOUN	MWE	Gender=Masc|Number=Sing	2	nmod	_	_
 5	ꜥḳ.t(i҆)	ꜥḳ	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
@@ -580,7 +580,7 @@
 # lit = “(My) beloved is this, with whom (I) am content.”
 # trans = “He is (my) beloved, with whom I am content.”
 # type = Nominal sentence (A pw)
-1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 4	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
@@ -611,7 +611,7 @@
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-5	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	1	appos	_	_
+5	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	_
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
 8	ḥr	ḥr	ADP	Cons.st	Case=Loc	9	case	_	_
@@ -715,7 +715,7 @@
 # lit = “(My) beloved is Teti, (my) son.”
 # trans = “Teti is (my) beloved, (my) son.”
 # type = Nominal sentence (A pw B)
-1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -768,7 +768,7 @@
 # lit = “(Your) beloved is Teti, among (your) children.”
 # trans = “Teti is (your) beloved among (your) children.”
 # type = Nominal sentence (A pw B)
-1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 2	(⸗č)	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -968,7 +968,7 @@
 1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	2	appos	_	_
+4	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	appos	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
 # sent_id = UDE-72
@@ -1169,7 +1169,7 @@
 # type = Verbal sentence
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	Wrr.t	wrr	PROPN	VerbForm=Part	Gender=Fem	1	obj	_	_
+3	Wrr.t	wrr	PROPN	_	Gender=Fem	1	obj	_	_
 4	ḫr	ḫr	ADP	Cons.st	Case=Loc	5	case	_	_
 5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
 6	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	_
@@ -1205,10 +1205,10 @@
 2	i҆č	i҆či̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
-5	mśč̣č̣.w	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
+5	mśč̣č̣.w	mśč̣i̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	obj	_	_
 6	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
-8	mṭw(.w)	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
+8	mṭw(.w)	mṭwi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	_
 9	m	m	ADP	Cons.st	Case=Ins	10	case	_	_
 10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
@@ -1234,7 +1234,7 @@
 # trans = “Bring him who speaks bad of Unis' name.”
 # type = Verbal sentence
 1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	mṭw	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
+2	mṭw	mṭwi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	_
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
 5	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
@@ -1286,7 +1286,7 @@
 # trans = “Someone and his ka have gone.”
 # type = Verbal sentence
 1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
-2	si҆	si҆	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	si҆	si҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
@@ -1801,7 +1801,7 @@
 15	rn	rn	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 16	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod	_	_
 17	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
-18	pr	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	15	nmod	_	_
+18	pr	pri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	15	nmod	_	_
 19	m	m	ADP	Cons.st	Case=Ela	20	case	_	_
 20	ḳbḥ(.w)	ḳbḥ	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
 
@@ -1931,7 +1931,7 @@
 # lit = "What Horus spits out is semin."
 # trans = "Semin is the spittle of Horus."
 # type = Nominal sentence (A = B)
-1	i҆šš.w	i҆šš	NOUN	VerbForm=Part|Tense=Pres|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
 3	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
@@ -1941,7 +1941,7 @@
 # lit = "What Seth spits out is semin."
 # trans = "Semin is the spittle of Seth."
 # type = Nominal sentence (A = B)
-1	i҆šš.w	i҆šš	NOUN	VerbForm=Part|Tense=Pres|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
+1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
 2	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
 3	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
@@ -2346,7 +2346,7 @@
 # trans = “Graciousness is what has been brought to you.”
 # type = Nominal sentence (A = B)
 1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	i҆n.(y)t	i҆ni̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	0	root	_	_
+2	i҆n.(y)t	i҆ni̯	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 3	n{t}	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
@@ -2499,7 +2499,7 @@
 4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
-7	mḥ.t	mḥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	3	obl	_	_
+7	mḥ.t	mḥ	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	obl	_	_
 8	i҆m	m	ADP	Pron.st	Case=Loc	9	case	_	_
 9	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
 
@@ -2959,7 +2959,7 @@
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
 7	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	ś:mꜣꜣ	mꜣꜣ	VERB	ADJ|Voice=Cau	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	amod	_	_
+8	ś:mꜣꜣ	mꜣꜣ	VERB	ADJ|Voice=Cau	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 9	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	8	obj	_	_
 10	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	9	nmod	_	_
 11	ḥč̣.t	ḥč̣	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
@@ -3067,7 +3067,7 @@
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	nḫꜣ.t	nḫꜣ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	6	amod	_	_
+8	nḫꜣ.t	nḫꜣ	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 9	m	m	ADP	Cons.st	Case=Abl	10	case	_	_
 10	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	obl	_	_
 11	mś.w	mś	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	10	nmod	_	_
@@ -3107,7 +3107,7 @@
 # trans = "Slay that rebel."
 # type = Verbal sentence
 1	npč̣	npč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	ꜥḥꜥ	ꜥḥꜥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	_
 3	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 
 # sent_id = UDE-214
@@ -3127,7 +3127,7 @@
 # trans = "It is Thoth who brought him."
 # type = Cleft sentence with nominal focus
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
-2	i҆n	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	i҆n	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
 # sent_id = UDE-215
@@ -3540,7 +3540,7 @@
 # type = Verbal sentence
 1	šsp.t	šsp	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	dislocated	_	_
 2	i҆r.wt	i҆ri̯	NOUN	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nmod	_	_
-3	ś:škr.t	škr	NOUN	Voice=Cau	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	1	conj	_	_
+3	ś:škr.t	škr	NOUN	Voice=Cau	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	conj	_	_
 4-5	Wr-ꜥ	_	_	_	_	_	_	_	_
 4	Wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 5	ꜥ	ꜥ	NOUN	MWE	Gender=Masc|Number=Sing	4	fixed	_	_
@@ -3931,7 +3931,7 @@
 8	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
 10	n	n	ADP	Cons.st	Case=Acc	11	case	_	_
-11	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	8	obj	_	_
+11	pr.t	pri̯	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	obj	_	_
 12	i҆m	m	ADP	Pron.st	Case=Ela	13	case	_	_
 13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	_
 
@@ -4232,7 +4232,7 @@
 4	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-7	nḥr(.w)	nḥr	NOUN	VerbForm=Part|Tense=Pres|Voice=Act	Gender=Masc|Number=Plur	3	obj	_	_
+7	nḥr(.w)	nḥr	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	obj	_	_
 8	ḥr	ḥr	NOUN	MWE	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 9	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
 
@@ -4443,7 +4443,7 @@
 3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	sb(i҆).w	sbi҆	NOUN	Tense=Past|VerbForm=Part	Gender=Masc|Number=Plur	3	obj	_	_
+6	sb(i҆).w	sbi҆	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	obj	_	_
 7	i҆r	r	ADP	Pron.st	_	8	case	_	_
 8	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
 
@@ -4586,7 +4586,7 @@
 3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	i҆w.w	i҆wi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	obj	_	_
+6	i҆w.w	i҆wi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	obj	_	_
 7	i҆śr	śr	VERB	SFC|Sub|Finalcl	Mood=Sub	6	advcl	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
@@ -5094,7 +5094,7 @@
 # type = Verbal sentence
 1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	_
-3	wr	wr	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	wr	wr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 5	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	appos	_	_
 6	Ppy	Ppy	PROPN	_	Gender=Masc	5	appos	_	_
@@ -5735,12 +5735,12 @@
 21	i҆n	i҆n	PART	_	PartType=Emp	22	nmod	_	_
 22	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
 23	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	_
-24	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	dislocated	_	_
+24	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	dislocated	_	_
 25	n	n	ADP	Pron.st	Case=Dat	26	case	_	_
 26	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	iobj	_	_
 27	i҆n	i҆n	PART	_	PartType=Emp	28	nmod	_	_
 28	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	29	nsubj	_	_
-29	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
+29	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9	advcl	_	_
 30	n	n	ADP	Pron.st	Case=Dat	31	case	_	_
 31	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	_
 32	i҆ti҆	i҆ti҆	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	_
@@ -5801,7 +5801,7 @@
 # type = Adjectival sentence of possession
 1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
 2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
-3	fḫḫ.i҆	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+3	fḫḫ.i҆	fḫḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-389
 # ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
@@ -5810,7 +5810,7 @@
 # trans = “It is he who looses.”
 # type = Nominal sentence (i҆nk)
 1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	fḫḫ(.i҆)	fḫḫ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	fḫḫ(.i҆)	fḫḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-390
 # ref = Pyramid Texts § 122a W, Saqqara, 5th Dynasty, rel, OE, cf. Allen 2017: 92.
@@ -5820,7 +5820,7 @@
 # type = Adjectival sentence of possession
 1	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
 2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
-3	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+3	mꜣꜣ.i҆	mꜣꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-391
 # ref = PT § 122a W, Saqqara, 5th Dynasty, rel, OE
@@ -5829,7 +5829,7 @@
 # trans = “It is he who sees.”
 # type = Nominal sentence (i҆nk)
 1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	mꜣꜣ.i҆	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	mꜣꜣ.i҆	mꜣꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-392
 # ref = Pyramid Texts § 122b W, Saqqara, 5th Dynasty, rel, OE
@@ -5891,7 +5891,7 @@
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	nk.n	nk	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
-4	nfr.t	nfr.t	NOUN	VerbForm=Part	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
+4	nfr.t	nfr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	obj	_	_
 5	nr(.w)	nr.w	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	šw	šwi̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	2	advcl	_	_
@@ -5906,7 +5906,7 @@
 # type = Cleft sentence with nominal focus + future
 1	i҆n	i҆n	PART	_	PartType=Emp	3	nmod	_	_
 2	ḥm	ḥm	PART	_	_	3	discourse	_	_
-3	nfr.t	nfr.t	NOUN	VerbForm=Part	Gender=Fem|Number=Sing	7	dislocated	_	_
+3	nfr.t	nfr.t	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	dislocated	_	_
 4	nr(.w)	nr.w	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
 5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nmod	_	_
@@ -5919,7 +5919,7 @@
 13	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	n	n	ADP	Pron.st	Case=Dat	15	case	_	_
 15	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
-16	nfr.t	nfr.t	NOUN	VerbForm=Part	Gender=Fem|Number=Sing	12	obj	_	_
+16	nfr.t	nfr.t	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	obj	_	_
 17	m	m	ADP	Cons.st	_	18	case	_	_
 18	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
 19	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
@@ -6089,7 +6089,7 @@
 # trans = “May the eastern porters repeat: 'It is your bread'.”
 # type = Verbal sentence
 1	wḥm	wḥm	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	i҆n(.w)	i҆n	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	1	nsubj	_	_
+2	i҆n(.w)	i҆n	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	_
 3	i҆ꜣb.t(i҆)w	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
 4	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
@@ -6120,7 +6120,7 @@
 # trans = “Awake, sleepers.”
 # type = Verbal sentence
 1	rś	rś	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	śč̣r.w	śč̣r	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	1	vocative	_	_
+2	śč̣r.w	śč̣r	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	_
 
 # sent_id = UDE-413
 # ref = PT § 126b-c W, Saqqara, 5th Dynasty, rel, OE
@@ -6136,11 +6136,11 @@
 5	ꜥ.w(i҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	fixed	_	_
 6	śṭꜣ	śṭꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 7	wr	wr	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
-8	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	_
+8	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
 9	m	m	ADP	Cons.st	Case=Ela	10	case	_	_
 10	ḥ(s)p	ḥ(s)p	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 11	Wp-wꜣ.(w)t	Wp-wꜣ.wt	PROPN	_	Gender=Masc	4	nmod	_	_
-12	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	amod	_	_
+12	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	amod	_	_
 13	m	m	ADP	Cons.st	Case=Ela	14	case	_	_
 14	i҆sr.t	i҆sr.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
 
@@ -6865,7 +6865,7 @@
 23	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	10	obj	_	_
 24	n	n	ADP	Cons.st	Case=Dat	25	case	_	_
 25-26	štꜣ.w-ś.(w)t	_	_	_	_	_	_	_	_
-25	štꜣ.w	štꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	21	iobj	_	_
+25	štꜣ.w	štꜣ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	21	iobj	_	_
 26	ś.(w)t	ś.t	NOUN	Gen|MWE	Case=Gen|Gender=Fem|Number=Plur	25	fixed	_	_
 
 # sent_id = UDE-463
@@ -7139,7 +7139,7 @@
 5	wčs.n	wčs	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 6	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obj	_	_
 7-8	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	5	nsubj	_	_
+7	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-482
@@ -7285,7 +7285,7 @@
 10	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
 11	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
 12-13	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-12	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	7	appos	_	_
+12	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	7	appos	_	_
 13	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	12	fixed	_	_
 
 # sent_id = UDE-491
@@ -7638,7 +7638,7 @@
 4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
 5	ṭwꜣ.t(i҆)	ṭwꜣ.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	flat	_	_
 6-7	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-6	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+6	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 7	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	6	fixed	_	_
 
 # sent_id = UDE-515
@@ -7652,7 +7652,7 @@
 3	<m>	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	(I҆)m(.i҆)-ḫnt-i҆r.t(i҆)	PROPN	_	Gender=Masc	0	root	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-516
@@ -7666,7 +7666,7 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-517
@@ -7680,7 +7680,7 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-518
@@ -7694,7 +7694,7 @@
 3	m	m	ADP	Pron.st	Case=Equ	4	case	_	_
 4	śꜣb	śꜣb	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-519
@@ -7707,7 +7707,7 @@
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	0	root	_	_
 4-5	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-4	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+4	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 5	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	4	fixed	_	_
 
 # sent_id = UDE-520
@@ -7773,7 +7773,7 @@
 3	sꜣ.t(i҆)	sꜣ	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	0	root	_	_
 4	(I҆)tm(.w)	I҆tm.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 5-6	i҆ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
-5	i҆ḫm(.w)	ḫm	NOUN	VerbForm=Part	Gender=Masc|Number=Plur|Polarity=Neg	2	vocative	_	_
+5	i҆ḫm(.w)	ḫm	NOUN	_	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	_
 6	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	5	fixed	_	_
 
 # sent_id = UDE-525
@@ -7864,7 +7864,7 @@
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
 4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
 5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
-6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
+6	ꜥnḫ(.w)	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	_
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 
@@ -7879,7 +7879,7 @@
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
 4	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
 5	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
-6	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	5	nsubj	_	_
+6	ꜥnḫ(.w)	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	_
 7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
 8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 
@@ -7895,7 +7895,7 @@
 4	i҆n	i҆n	ADP	Cons.st	_	5	case	_	_
 5	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	1	obl:agent	_	_
 6	wꜥb	wꜥb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
-7	ꜥnḫ(.w)	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	6	nsubj	_	_
+7	ꜥnḫ(.w)	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	nsubj	_	_
 8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
 9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 
@@ -7938,7 +7938,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+7	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 9	nb	nb	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
 10	ḫr.wt	ḫr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
@@ -8053,7 +8053,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+7	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-541
@@ -8112,9 +8112,9 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+7	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
-9	ṭwꜣ	ṭwꜣ	NOUN	Tense=Pres|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	1	obl	_	_
+9	ṭwꜣ	ṭwꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	obl	_	_
 10	i҆ś	i҆ś	ADP	_	Case=Equ	9	case	_	_
 11	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	9	amod	_	_
 12	Ḥ(ꜥ)p(i҆)	Ḥꜥpi҆	PROPN	_	Gender=Masc	9	nmod	_	_
@@ -8188,7 +8188,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+7	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 9	č̣bꜣ(.w)	č̣bꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	1	advcl	_	_
 10	m	m	ADP	Cons.st	Case=Ins	11	case	_	_
@@ -8242,7 +8242,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-7	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	6	amod	_	_
+7	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
 8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
 
 # sent_id = UDE-553
@@ -8308,7 +8308,7 @@
 8	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	nmod	_	_
 9	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
 10-11	i҆ḫm-śk(.w)	_	_	_	_	_	_	_	_
-10	i҆ḫm	ḫm	ADJ	VerbForm=Part	Gender=Masc|Number=Sing|Polarity=Neg	9	amod	_	_
+10	i҆ḫm	ḫm	ADJ	_	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	9	amod	_	_
 11	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	10	fixed	_	_
 
 # sent_id = UDE-556
@@ -8351,7 +8351,7 @@
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:outer	_	_
 5	n	n	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-7	śpr	śpr	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	conj	_	_
+7	śpr	śpr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
 8	n	n	ADP	Pron.st	_	9	case	_	_
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
 
@@ -8931,7 +8931,7 @@
 5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	appos	_	_
-8	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	7	appos	_	_
+8	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	appos	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 
 # sent_id = UDE-596
@@ -9936,7 +9936,7 @@
 3	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	1	nsubj	_	_
 4	šṭ.n	šṭi̯	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-6	ḫśf	ḫśf	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	4	obj	_	_
+6	ḫśf	ḫśf	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	obj	_	_
 
 # sent_id = UDE-657
 # ref = Pyramid Texts § 204a W, Saqqara, 5th Dynasty, rel, OE, UDE-662 below
@@ -10010,7 +10010,7 @@
 # trans = “After the pregnant one ejected, it is provided as Seth [who slide forth] whom Isis favoured that you illumined the night.”
 # type = Cleft sentence with adverbial focus after a verbal topic
 1	nšnš.n	nš	VERB	SFC|Past-2|Abstrel|VerbTop	Tense=Past|VerbForm=Fin|Voice=Act	3	dislocated	_	_
-2	i҆wr.t	i҆wr	NOUN	VerbForm=Part	Gender=Fem|Number=Sing	1	nsubj	_	_
+2	i҆wr.t	i҆wr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	nsubj	_	_
 3	i҆śpš.n	śpš	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 5	grḥ	grḥ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
@@ -10567,7 +10567,7 @@
 6	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	_
 7	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
 8	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
-9	śḫm	śḫm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	_
+9	śḫm	śḫm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	amod	_	_
 10	i҆m	m	ADP	Cons.st	Case=Loc	11	case	_	_
 11	ś.(w)t	ś.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
@@ -10966,7 +10966,7 @@
 1	nḥb.t	nḥb.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	ḫnt	ḫnt	ADP	Cons.st	_	4	case	_	_
-4	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Gender=Masc|Number=Plur	0	root	_	_
+4	ꜥnḫ.w	ꜥnḫ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-721
 # ref = Pyramid Texts § 220b-c W, Saqqara, 5th Dynasty, rel, OE
@@ -11267,7 +11267,7 @@
 2	i҆ꜥm	ꜥm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
-5	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	2	obj	_	_
+5	pr.t	pri̯	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	obj	_	_
 6	i҆m	m	ADP	Pron.st	Case=Ela	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl	_	_
 
@@ -11331,7 +11331,7 @@
 # trans = “O the one who repels the god (i.e. scorpion), it is against you that (I) say this.”
 # type = Cleft sentence with adverbial focus
 1-2	ḫśr-nčr	_	_	_	_	_	_	_	_
-1	ḫśr	ḫśr	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	7	vocative	_	_
+1	ḫśr	ḫśr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	vocative	_	_
 2	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	compound	_	_
 3	č̣ṭ	č̣ṭ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -11492,7 +11492,7 @@
 # trans = “It is by the serpent that he who was made weary was bitten.”
 # type = Cleft sentence with adverbial focus
 1	p{n}<s>ḥ(.w)	psḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
-2	ś:bꜣg	bꜣgi̯	NOUN	VerbForm=Part|Voice=Cau	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+2	ś:bꜣg	bꜣgi̯	NOUN	Voice=Cau	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	nsubj:pass	_	_
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
 4	nꜥw	nꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	_
 
@@ -11517,7 +11517,7 @@
 13	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	obl	_	_
 14	i҆t	i҆t	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
 15	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	_
-16	psḥ	psḥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing|Voice=Act	14	nmod	_	_
+16	psḥ	psḥ	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	nmod	_	_
 17	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 
 # sent_id = UDE-755
@@ -11550,7 +11550,7 @@
 # trans = “It was he who came against Unas.”
 # type = Nominal sentence (i҆nk)
 1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	i҆i҆	i҆wi̯	NOUN	Tense=Past|VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+2	i҆i҆	i҆wi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obl	_	_
 
@@ -11843,7 +11843,7 @@
 1	ḥm	ḥmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
-4	ḥkn.t	ḥkn	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	1	vocative	_	_
+4	ḥkn.t	ḥkn	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	_
 5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
 6	ḥr(.wi҆)	ḥr	NOUN	_	Gender=Masc|Number=Dual	4	obl	_	_
 7	śn.wi҆	śn.w	NUM	ADJ	Gender=Masc|Number=Dual	6	amod	_	_
@@ -12065,13 +12065,13 @@
 # lit = "The expectoration of a wall, the vomit of a brick, that which came from your mouth was turned back against you, your body."
 # trans = "O you expectoration of a wall, you vomit of a brick, that which came from your mouth was turned back against yourself."
 # type = Verbal sentence 
-1	i҆š.w	i҆šš	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	5	dislocated	_	_
+1	i҆š.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	dislocated	_	_
 2	i҆nb	i҆nb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
-3	ḳꜣꜥ.w	ḳꜣꜥ	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	5	dislocated	_	_
+3	ḳꜣꜥ.w	ḳꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	dislocated	_	_
 4	č̣b.t	č̣b.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 5	n(i҆).y	ni҆	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 6	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj:pass	_	_
-7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	_
+7	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	amod	_	_
 8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
 9	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
@@ -12436,7 +12436,7 @@
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
 4	ṭšr	ṭšr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	3	appos	_	_
 5	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod	_	_
-6	mr	mr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
+6	mr	mr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	_
 7	ꜣ.t	ꜣ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	nmod	_	_
 
 # sent_id = UDE-821
@@ -12461,7 +12461,7 @@
 1	ḥww	ḥww	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
-4	č̣śr	č̣śr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	1	iobj	_	_
+4	č̣śr	č̣śr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	iobj	_	_
 5	rmn	rmn	NOUN	MWE	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	i҆ꜣb.tt	i҆ꜣb.tt	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
@@ -12581,7 +12581,7 @@
 # trans = "It is behind you that someone stands."
 # type = Cleft sentence with adverbial focus
 1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ꜥḥꜥ	ꜥḥꜥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	_
 3	ḥꜣ	ḥꜣ	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 
@@ -12682,7 +12682,7 @@
 2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
-5	śꜣi҆	śꜣꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	4	vocative	_	_
+5	śꜣi҆	śꜣꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	vocative	_	_
 
 # sent_id = UDE-836
 # ref = PT § 258b W, Saqqara, 5th Dynasty, rel, OE
@@ -12803,7 +12803,7 @@
 1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-4	mśč̣č̣	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	vocative	_	_
+4	mśč̣č̣	mśč̣i̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	_
 5	ḳṭṭ	ḳṭṭ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 6	ś:bꜣg.y	bꜣgi̯	VERB	OSSC|Stat|VerbForm=Fin|Voice=Cau	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	4	advcl	_	_
 
@@ -12887,7 +12887,7 @@
 # type = Nominal sentence (A pw B)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
-3	ꜥꜣ	ꜥꜣ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	0	root	_	_
+3	ꜥꜣ	ꜥꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 
 # sent_id = UDE-852
 # ref = PT § 262a W, Saqqara, 5th Dynasty, rel, OE
@@ -12925,7 +12925,7 @@
 5	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 6	śpṭ	śpṭ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	5	appos	_	_
 7	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-8	ꜣw	ꜣwi̯	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	6	conj	_	_
+8	ꜣw	ꜣwi̯	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	conj	_	_
 9	šm.(w)t	šm.t	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
 10	i҆nn	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	amod	_	_
 11	ḫr.t	ḫr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Coll	10	obj	_	_
@@ -13002,7 +13002,7 @@
 1	šśp(.w)	šśp	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	i҆n	i҆n	ADP	Cons.st	_	4	case	_	_
-4	i҆r	i҆ri̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	1	obl:agent	_	_
+4	i҆r	i҆ri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	obl:agent	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
@@ -13119,7 +13119,7 @@
 2	p(i҆)	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
 4	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
-5	ṭmč̣	ṭmč̣	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	conj	_	_
+5	ṭmč̣	ṭmč̣	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
 6	i҆b(.w)	i҆b	NOUN	MWE	Gender=Masc|Number=Plur	5	obj	_	_
 7	n	n	ADP	Cons.st	Case=Ben	8	case	_	_
 8	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Gender=Masc|Number=Sing	5	obl	_	_
@@ -13224,7 +13224,7 @@
 14	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	13	fixed	_	_
 15	pẖr.t	pẖr.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
 16	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	15	amod	_	_
-17	ꜥḥꜣ.w	ꜥḥꜣ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	15	nmod	_	_
+17	ꜥḥꜣ.w	ꜥḥꜣ	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	nmod	_	_
 18	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 
 # sent_id = UDE-871
@@ -13365,7 +13365,7 @@
 16	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	15	nsubj	_	_
 17	mṭw	mṭw	NOUN	MWE	Gender=Masc|Number=Sing	15	obj	_	_
 18	n	n	ADP	Cons.st	Case=Dat	19	case	_	_
-19	ꜥnḫ.w	ꜥnḫ	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Plur	15	iobj	_	_
+19	ꜥnḫ.w	ꜥnḫ	NOUN	_	Case=Voc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	iobj	_	_
 20-21	m-ẖnw	_	_	_	_	_	_	_	_
 20	m	m	ADP	Cons.st	Case=Loc	22	case	_	_
 21	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	20	fixed	_	_
@@ -13769,11 +13769,11 @@
 1	ś:štꜣ(.w)	štꜣ	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	wꜣ.(w)t	wꜣ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj:pass	_	_
 3	r	r	ADP	Cons.st	_	4	case	_	_
-4	ś:wꜣ.w	wꜣi̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	1	obl	_	_
+4	ś:wꜣ.w	wꜣi̯	NOUN	Voice=Cau	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	obl	_	_
 5	ś:ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 6	rwṭ(.w)	rwṭ	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
 7	r	r	ADP	Cons.st	_	4	case	_	_
-8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
+8	prr.w	pri̯	NOUN	Voice=Cau	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	obl	_	_
 
 # sent_id = UDE-906
 # ref = PT § 279b-c T, Saqqara, 6th Dynasty, rel, OE
@@ -13784,11 +13784,11 @@
 1	ś:štꜣ(.w)	štꜣ	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	wꜣ.(w)t	wꜣ.t	NOUN	_	Gender=Fem|Number=Plur	1	nsubj:pass	_	_
 3	r	r	ADP	Cons.st	_	4	case	_	_
-4	ś:wꜣ.w	wꜣi̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	1	obl	_	_
+4	ś:wꜣ.w	wꜣi̯	NOUN	Voice=Cau	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	obl	_	_
 5	ś:ḥtm(.w)	ḥtm	VERB	SFC|PastPass|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 6	rwṭ.w	rwṭ	NOUN	_	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
 7	r	r	ADP	Cons.st	_	4	case	_	_
-8	prr.w	pri̯	NOUN	Tense=Pres|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	4	obl	_	_
+8	prr.w	pri̯	NOUN	Voice=Cau	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	obl	_	_
 
 # sent_id = UDE-907
 # ref = PT § 279d W, Saqqara, 5th Dynasty, rel, OE
@@ -14234,7 +14234,7 @@
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 10	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 11	n(.i҆)	n	ADJ	NisbaPrep	Gender=Masc|Number=Sing|Poss=Yes	8	amod	_	_
-12	č(ꜣ)s	čꜣs	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	8	nmod	_	_
+12	č(ꜣ)s	čꜣs	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	8	nmod	_	_
 13	ṭp	ṭp	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
 14	č(ꜣ)s	čꜣs	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	12	acl	_	_
 15	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
@@ -14282,7 +14282,7 @@
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
 5	i҆m	i҆m	ADV	_	AdvType=Loc	2	advmod	_	_
 6	i҆n	i҆n	ADP	Cons.st	_	7	case	_	_
-7	mꜣꜣ.w	mꜣꜣ	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obl	_	_
+7	mꜣꜣ.w	mꜣꜣ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	obl	_	_
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 
 # sent_id = UDE-937
@@ -14410,11 +14410,11 @@
 5-6	m-ꜥ	_	_	_	_	_	_	_	_
 5	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
 6	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
-7	i҆r.w	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	2	obl	_	_
+7	i҆r.w	i҆ri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	obl	_	_
 8	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	_
 9	i҆[r]	i҆r	ADP	Pron.st	_	10	case	_	_
 10	[⸗f]	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
-11	nḥm.w	nḥm	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	7	conj	_	_
+11	nḥm.w	nḥm	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	_
 12	šb(.w)	šb.w	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
 13	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
 14-15	m-ꜥ	_	_	_	_	_	_	_	_
@@ -14424,7 +14424,7 @@
 17	śk	śk	PART	_	_	19	mark	_	_
 18	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 19	wn(.w)	wnn	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
-20	nḥm.w	nḥm	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	7	conj	_	_
+20	nḥm.w	nḥm	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	_
 21	mś.wt	mś.wt	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
 22	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nmod	_	_
 23-24	m-ꜥ	_	_	_	_	_	_	_	_
@@ -14434,12 +14434,12 @@
 26	śk	śk	PART	_	_	28	mark	_	_
 27	ś(i҆)	śi҆	PRON	DepPron|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 28	wn.t(i҆)	wnn	VERB	OSSC|Stat	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	20	advcl	_	_
-29	nḥm(.w)	nḥm	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	7	conj	_	_
+29	nḥm(.w)	nḥm	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	_
 30	čꜣw	čꜣw	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	_
 31	m	m	ADP	Cons.st	_	32	case	_	_
 32	[fnč̣]	fnč̣	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	_
 33	[⸗f]	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	nmod	_	_
-34	ś:ꜥḥꜥ.w	ꜥḥꜥ	NOUN	Tense=Past|VerbForm=Part|Voice=Cau	Gender=Masc|Number=Plur	7	conj	_	_
+34	ś:ꜥḥꜥ.w	ꜥḥꜥ	NOUN	Voice=Cau	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	_
 35	hrw	hrw	NOUN	_	Gender=Masc|Number=Sing	34	obj	_	_
 36	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
 37	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	35	amod	_	_
@@ -14531,7 +14531,7 @@
 1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
 2	ṭr.n	ṭr	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	i҆r.w	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	2	obj	_	_
+4	i҆r.w	i҆ri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	obj	_	_
 5	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
 6	i҆r	i҆r	ADP	Pron.st	_	7	case	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
@@ -14703,11 +14703,11 @@
 # trans = "[O] [this] [hateful one], hateful of character and hateful of shape, remove yourself from your shape."
 # type = Verbal sentence
 1	[i҆]	i҆	INTJ	_	_	2	discourse	_	_
-2	[ḫbč̣]	ḫbč̣	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+2	[ḫbč̣]	ḫbč̣	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	vocative	_	_
 3	[pw]	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-4	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	2	appos	_	_
+4	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	appos	_	_
 5	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
+6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	_
 7	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 9	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
@@ -14722,11 +14722,11 @@
 # trans = "[O] [this] [hateful one], hateful of character and hateful of shape, remove yourself from your shape."
 # type = Verbal sentence
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
-2	ḫbč̣	ḫbč̣	NOUN	VerbForm=Part	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+2	ḫbč̣	ḫbč̣	NOUN	_	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	vocative	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-4	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	2	appos	_	_
+4	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	appos	_	_
 5	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
+6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	_
 7	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 9	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
@@ -14784,7 +14784,7 @@
 27	ꜣ.t	ꜣ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
 28	wśr	wśr	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	26	amod	_	_
 29	m	m	ADP	Cons.st	_	30	case	_	_
-30	nkn.t	nkn	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	28	obl	_	_
+30	nkn.t	nkn	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	obl	_	_
 31	i҆m	m	ADP	Pron.st	Case=Ins	32	case	_	_
 32	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	obl	_	_
 33	rč̣.kꜣ	rč̣i̯	VERB	SFC|Tense=ContFut	Tense=Fut|VerbForm=Fin|Voice=Act	18	conj	_	_
@@ -14932,7 +14932,7 @@
 2	mk(w).t	mkw.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
-5	i҆r.yt	i҆ri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Fem|Number=Sing	0	root	_	_
+5	i҆r.yt	i҆ri̯	NOUN	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	r	r	ADP	Pron.st	_	7	case	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
 
@@ -15136,7 +15136,7 @@
 6	i҆wt	i҆wt	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 7	n	n	ADP	Pron.st	_	8	case	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-9	wp	wpi̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	6	nsubj	_	_
+9	wp	wpi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	nsubj	_	_
 10	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 11	m	m	ADP	Cons.st	Case=Ess	12	case	_	_
 12	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
@@ -15156,7 +15156,7 @@
 7	i҆wt	i҆wt	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 8	n	n	ADP	Pron.st	_	9	case	_	_
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
-10	wp	wpi̯	NOUN	VerbForm=Part|Tense=Past|Voice=Act	Gender=Masc|Number=Sing	7	nsubj	_	_
+10	wp	wpi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	7	nsubj	_	_
 11	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 12	m	m	ADP	Cons.st	Case=Ess	13	case	_	_
 13	kś.w	kś.w	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
@@ -15183,7 +15183,7 @@
 # type = Adjectival sentence of possession
 1	n.i҆	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes	3	nsubj	_	_
 2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
-3	śḫm	śḫm	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	0	root	_	_
+3	śḫm	śḫm	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 4	m	m	ADP	Cons.st	_	5	case	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
@@ -15379,7 +15379,7 @@
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	nb.t	nb	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	appos	_	_
 5	P(i҆)	Pi҆	PROPN	_	Case=Gen	4	nmod	_	_
-6	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 7	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 
 # sent_id = UDE-996
@@ -15642,12 +15642,12 @@
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 5	nb.t	nb	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	appos	_	_
 6	P(i҆)	Pi҆	PROPN	_	Case=Gen	5	nmod	_	_
-7	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	rm.t	rmi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	ḳmꜣ.n	ḳmꜣ	VERB	SFC|Past-2|pred	Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 11	ḫnm.tt(i҆)	ḫnm.ti҆t	NOUN	Subj	Gender=Fem|Number=Dual	9	nsubj	_	_
-12	ḳmꜣ.ti҆	ḳmꜣ	VERB	ADJ	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	11	amod	_	_
+12	ḳmꜣ.ti҆	ḳmꜣ	VERB	ADJ	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part|Voice=Act	11	amod	_	_
 13	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	12	obj	_	_
 
 # sent_id = UDE-1015
@@ -15833,8 +15833,8 @@
 # type = Nominal sentence (A pw B)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
-3	s.y	si҆	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	0	root	_	_
-4	i҆i҆.y	i҆wi̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Masc|Number=Sing	3	conj	_	_
+3	s.y	si҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	i҆i҆.y	i҆wi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
 5	fṭ.nw	fṭ.nw	NUM	ADJ	Gender=Masc|Number=Sing	4	appos	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
 7	fṭ.w	i҆fṭ.w	NUM	NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
@@ -15997,7 +15997,7 @@
 1	rw	rwi̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	5	dislocated	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
-4	ṭnč̣.w	ṭnč̣	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	1	nsubj	_	_
+4	ṭnč̣.w	ṭnč̣	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	_
 5	pẖr	pẖr	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 6	n	n	ADP	Pron.st	_	7	case	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
