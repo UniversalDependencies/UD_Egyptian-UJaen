@@ -16245,10 +16245,10 @@
 18	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	14	obl	_	_
 
 # sent_id = UDE-1052
-# ref = Pyramid Texts § 325a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = šꜣś Wni҆ś Šw nmt ⸗f ꜣkr śn ⸗f n.t
-# lit = "Unas travels the air (Shu) (certainly) while he traverses the earth and he kisses the crown."
-# trans = "It is traversing the earth and kissing the crown that Unas travels the air (Shu)."
+# ref = Pyramid Texts § 325a-b W, Saqqara, 5th Dynasty, rel, OE, for ḳmꜣ.w see Edel 1955/1964: 315 (§ 639).
+# text = šꜣś Wni҆ś Šw nmt ⸗f ꜣkr śn ⸗f n.t ḳmꜣ.w nčr
+# lit = "Unas travels the air (Shu) (certainly) while he traverses the earth and he kisses the crown of the one who was cast by the god."
+# trans = "It is traversing the earth and kissing the crown of the one who was cast by the god that Unas travels the air (Shu)."
 # type = Cleft sentence with adverbial focus
 1	šꜣś	šꜣś	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -16258,5 +16258,6 @@
 6	ꜣkr	ꜣkr	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	śn	śn	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-9	n.t	n.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
-
+9	n.t	n.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obj	_	_
+10	ḳmꜣ.w	ḳmꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	nmod	_	_
+11	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
