@@ -15984,7 +15984,7 @@
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 7	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 8	i҆(w)	i҆w	PART	Particle	_	11	mark	_	_
-9	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+9	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 10	ḫr	ḫr	ADP	Pron.st	_	11	case	_	_
 11	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	advcl	_	_
 
@@ -16058,10 +16058,10 @@
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
 # sent_id = UDE-1041
-# ref = PT § 321a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆ nčr(.w) rś.(i҆)w mḥ.t(i҆)w i҆mn.t(i҆)w i҆ꜣb.t(i҆)w mk.y Wni҆ś śnč̣ n ⸗f
-# lit = “O (you) southern, northern, western and eastern gods, honour Unas (and) fear him.”
-# trans = “O you southern, northern, western and eastern gods, honour Unas and fear him.”
+# ref = PT § 321a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ nčr(.w) rś.(i҆)w mḥ.t(i҆)w i҆mn.t(i҆)w i҆ꜣb.t(i҆)w mk.y Wni҆ś śnč̣ n ⸗f ḥmś.n ⸗f m ḥtꜣ h.w(i҆)
+# lit = “O (you) southern, northern, western and eastern gods, honour Unas (and) fear him, after he sat in the awning (?) of the Two Courtyards.”
+# trans = “O you southern, northern, western and eastern gods, honour Unas and fear him, after he sat in the awning (?) of the Two Courtyards.”
 # type = Verbal sentence
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	nčr(.w)	nčr	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
@@ -16074,4 +16074,9 @@
 9	śnč̣	śnč̣	VERB	Imp	Mood=Imp|Number=Plur	7	conj	_	_
 10	n	n	ADP	Pron.st	Case=Acc	11	case	_	_
 11	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+12	ḥmś.n	ḥmśi̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	_
+13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+15	ḥtꜣ	ḥtꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	12	obl	_	_
+16	h.w(i҆)	hʾ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
 
