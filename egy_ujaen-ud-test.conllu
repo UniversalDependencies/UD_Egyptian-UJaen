@@ -11377,7 +11377,7 @@
 7	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 
 # sent_id = UDE-745
-# ref = Pyramid Texts § 228b W, Saqqara, 5th Dynasty, rel, OE, for pr.i҆(w) cf. Edel 1955/1964: 240 (§ 516) and Allen 1984: 196 (§ 310)
+# ref = Pyramid Texts § 228b W, Saqqara, 5th Dynasty, rel, OE, for pr.i҆(w) cf. Edel 1955/1964: 240 (§ 516) and Allen 1984: 196 (§ 310); cf. UDE-1035, below.
 # text = pr.i҆(w) nm km wꜣč̣ r ⸗ś ꜥm.n ⸗f n ⸗f i҆nśb.n ⸗f
 # lit = "The balck and green knife will go forth thereat (certainly) after it swallowed for itself the one whom it tasted."
 # trans = "It is after it swallowed for itself the one whom it tasted that the balck and green knife will go forth thereat."
@@ -15969,4 +15969,22 @@
 16	bḥn	bḥn	VERB	SFC|Sub|Finalcl	Mood=Sub	13	conj	_	_
 17	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
 18	ẖnn.w	ẖnn.w	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+
+# sent_id = UDE-1035
+# ref = Pyramid Texts § 319b W, Saqqara, 5th Dynasty, rel, OE, for pr.i҆(w) cf. Edel 1955/1964: 240 (§ 516) and Allen 1984: 196 (§ 310), cf. UDE-745, above.
+# text = pr.i҆ Wni҆ś i҆r Mꜣꜥ.t i҆nt ⸗f ś(i҆) i҆(w) ⸗ś ḫr ⸗f
+# lit = "Unas will emerge (certainly) for Maat, that he may bring her being she with him."
+# trans = "It is for Maat that Unas will emerge, that he may bring her being she with him."
+# type = Cleft sentence with adverbial focus
+1	pr.i҆	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	i҆r	r	ADP	Cons.st	_	4	case	_	_
+4	Mꜣꜥ.t	Mꜣꜥ.t	PROPN	_	Gender=Fem	1	obl	_	_
+5	i҆nt	i҆ni̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+8	i҆(w)	i҆w	PART	Particle	_	11	mark	_	_
+9	⸗ś	⸗ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	ḫr	ḫr	ADP	Pron.st	_	11	case	_	_
+11	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	advcl	_	_
 
