@@ -203,7 +203,7 @@
 # lit = “Lift up your heart to it.”
 # trans = “Rejoice at it.”
 # type = Verbal sentence
-1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
+1	wčs	wčs	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Obj|MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆r	i҆r	ADP	Pron.st	Case=Ill	5	case	_	_
@@ -230,7 +230,7 @@
 # lit = “Put to your heart this speech.”
 # trans = “Take this speech to heart.”
 # type = Verbal sentence
-1	(w)ṭi҆	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	(w)ṭi҆	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	r	r	ADP	Cons.st	Case=Ill	3	case	_	_
 3	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	1	obl	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
@@ -785,7 +785,7 @@
 # trans = “Watch over him eternally.”
 # type = Verbal sentence
 1-2	śtp-sꜣ	_	_	_	_	_	_	_	_
-1	śtp	śtp	VERB	Imp	Mood=Imp	0	root	_	_
+1	śtp	śtp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	sꜣ	sꜣ	NOUN	Obj	Gender=Masc|Number=Sing	1	compound	_	_
 3	ḥr	ḥr	ADP	Pron.st	Case=Loc	1	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
@@ -903,7 +903,7 @@
 # trans = “Thoth, put his head on him.”
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
 5	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
@@ -1059,7 +1059,7 @@
 # trans = “Horus, open the mouth of this Pepi.”
 # type = Verbal sentence
 1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆wn	wn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
 5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
@@ -1072,7 +1072,7 @@
 # trans = “[Horus, part the mouth of this Pepi.]”
 # type = Verbal sentence
 1	[Ḥr.w]	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	[wp]	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	[wp]	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
 4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
 5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
@@ -1202,7 +1202,7 @@
 # trans = “Osiris, seize all those who hate Unas and anyone who speaks bad of his name.”
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆č	i҆či̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆č	i҆či̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	mśč̣č̣.w	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Plur	2	obj	_	_
@@ -1221,8 +1221,8 @@
 # trans = “Thoth, go and seize him for Osiris.”
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆si҆	si҆	VERB	Imp	Mood=Imp	0	root	_	_
-3	i҆č	i҆či̯	VERB	Imp	Mood=Imp	2	conj	_	_
+2	i҆si҆	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+3	i҆č	i҆či̯	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 5	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
 6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	iobj	_	_
@@ -1233,7 +1233,7 @@
 # lit = “Bring him who speaks bad of Unis' name.”
 # trans = “Bring him who speaks bad of Unis' name.”
 # type = Verbal sentence
-1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mṭw	mṭwi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	obj	_	_
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
@@ -1246,7 +1246,7 @@
 # lit = “Put it for yourself in your hand.”
 # trans = “Catch him.”
 # type = Verbal sentence
-1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -1260,7 +1260,7 @@
 # lit = “Don't be that you will let loose of him.”
 # trans = “Don't let loose of him.”
 # type = Verbal sentence
-1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
+1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	_
 2	ś:fḫḫ.w	fḫḫ	VERB	SFC|Fut|Voice=Cau	Tense=Fut|VerbForm=Fin	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
@@ -1272,7 +1272,7 @@
 # lit = “Beware lest you let loose of him.”
 # trans = “Beware lest you let loose of him.”
 # type = Verbal sentence
-1	sꜣ(w)	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	sꜣ(w)	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	(i҆)m	i҆mi̯	VERB	SFC|Sub|Finalcl	Mood=Sub|Polarity=Neg|VerbForm=Fin	1	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	ś:fḫḫ.w	fḫḫ	VERB	NegCom|Voice=Cau	VerbForm=Inf	2	advcl	_	_
@@ -1469,7 +1469,7 @@
 2	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Equ|Gender=Masc|Number=Sing	1	amod	_	_
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nmod	_	_
 4	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	appos	_	_
-5	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+5	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 6	n	n	ADP	Pron.st	Case=Ben	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	5	obl	_	_
 8	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	5	obj	_	_
@@ -1493,7 +1493,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 
@@ -1503,7 +1503,7 @@
 # lit = "Provide yourself with its perfume."
 # trans = "Provide yourself with its perfume."
 # type = Verbal sentence
-1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4	śč	śč	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -1530,7 +1530,7 @@
 # lit = "Provide your face with it yourself."
 # trans = "Provide your face with it."
 # type = Verbal sentence
-1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -1663,7 +1663,7 @@
 # lit = "Take it for yourself."
 # trans = "Take it!."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -1756,7 +1756,7 @@
 # lit = "Take for yourself the efflux that came from you."
 # trans = "Take the efflux that came from you."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -1770,7 +1770,7 @@
 # lit = "Come in order that one, the voice, may go out for you."
 # trans = "Come so that the voice may go out for you / Come that an invocation offering may be made for you."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2-3	pr-ti҆	_	_	_	_	_	_	_	_
 2	pr	pri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -1786,7 +1786,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḳbḥ(.w)	ḳbḥ	NOUN	_	Gender=Masc	3	obj	_	_
@@ -1852,7 +1852,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	nčr(.i҆)	nčr.i҆	NOUN	_	Gender=Masc	3	obj	_	_
@@ -2176,7 +2176,7 @@
 # trans = "Unas, take the Eye of Horus for which he went."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2214,7 +2214,7 @@
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ši҆k	ši҆k	X	_	_	3	obj	_	_
@@ -2226,7 +2226,7 @@
 # lit = "Take the tip of the breast of Horus of his body."
 # trans = "Take the tip of the breast of Horus' body."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	mn{n}č̣	mnč̣	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
@@ -2242,7 +2242,7 @@
 # lit = "Take <it> for yourself to your mouth."
 # trans = "Take <it> to your mouth."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	<św>	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -2256,7 +2256,7 @@
 # lit = "Take the breast of your sister, Isis, the nursing one (?)."
 # trans = "Take the breast of your sister Isis, the nursing one (?)."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mnč̣	mnč̣	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
 3	śn.t	śn.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	nmod	_	_
@@ -2282,7 +2282,7 @@
 # lit = "Take the two Eyes of Horus, the black and the white."
 # trans = "Take the two Eyes of Horus, the black and the white."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t(i҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Fem	2	nmod	_	_
 4	km.t	km	NOUN	ADJ	Gender=Fem|Number=Sing	2	appos	_	_
@@ -2294,7 +2294,7 @@
 # lit = "Take them to your forehead in order that they may brighten your face."
 # trans = "Take them to your forehead that they may brighten your face."
 # type = Verbal sentence
-1	i҆č	i҆či̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆č	i҆či̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	śn(i҆)	śni҆	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	1	obj	_	_
@@ -2414,7 +2414,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆bḥ(.w)	i҆bḥ	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Plur	3	obj	_	_
@@ -2447,7 +2447,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -2465,7 +2465,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -2495,7 +2495,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	wp	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	wp	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
@@ -2511,7 +2511,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -2588,7 +2588,7 @@
 # trans = "Unas, take the Eye of Horus which you shall taste."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2603,7 +2603,7 @@
 # trans = "Unas, take the Eye of Horus which you shall embrace."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2618,7 +2618,7 @@
 # trans = "Unas, take the Eye of Horus, which was wrested from Seth and rescued for you."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2639,7 +2639,7 @@
 # trans = "Unas, take the ferment that came from Osiris."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
@@ -2654,7 +2654,7 @@
 # trans = "Unas, take the Eye of Horus, which was rescued for you."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2682,7 +2682,7 @@
 # trans = "Unas, take the Eye of Horus."
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+2	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	_
@@ -2694,7 +2694,7 @@
 # lit = "Provide yourself with it."
 # trans = "Provide yourself with it."
 # type = Verbal sentence
-1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obj	_	_
 3	i҆m	m	ADP	Pron.st	Case=Ins	4	case	_	_
 4	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
@@ -2707,7 +2707,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -2727,7 +2727,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḫpš	ḫpš	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -2744,7 +2744,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	3	obj	_	_
@@ -2758,7 +2758,7 @@
 # lit = “Don't be that you will let loose of her.”
 # trans = “Don't let loose of it.”
 # type = Verbal sentence
-1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	2	aux	_	_
+1	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	_
 2	ś:fḫḫ(.w)	fḫḫ	VERB	SFC|Fut|Voice=Cau	Tense=Fut|VerbForm=Fin	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
@@ -2772,7 +2772,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -2796,7 +2796,7 @@
 # lit = “Put it for yourself in your interior.”
 # trans = “Put it inside you.”
 # type = Verbal sentence
-1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -2853,7 +2853,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	4	aux	_	_
+3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	4	aux	_	_
 4	nẖrẖr.w	nẖrẖr	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin	0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 6	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	4	obj	_	_
@@ -2865,7 +2865,7 @@
 # lit = “Put it for yourself in your arm.”
 # trans = “Put it in your arm.”
 # type = Verbal sentence
-1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -2892,7 +2892,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	3	obj	_	_
@@ -2906,7 +2906,7 @@
 # lit = "Fill for yourself your hand with "she which belongs to Horus"."
 # trans = "Hold the Horus-staff."
 # type = Verbal sentence
-1	i҆mḥ	mḥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆mḥ	mḥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -2922,7 +2922,7 @@
 # lit = “Provide yourself with "she which belongs to Horus" in order that it may provide you as a god.”
 # trans = “Provide yourself with the the Horus-staff that it may provide you as a god”
 # type = Verbal sentence
-1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4-5	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
@@ -2954,7 +2954,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
@@ -2972,7 +2972,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -2990,7 +2990,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ꜥ	ꜥ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -3008,7 +3008,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Polarity=Neg|VerbType=Aux	4	aux	_	_
+3	(i҆)m	i҆mi̯	AUX	Imp	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	4	aux	_	_
 4	wꜣ	wꜣi̯	VERB	SFC|Sub|finalcl	Mood=Sub|VerbForm=Fin	0	root	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6-7	m-ꜥ	_	_	_	_	_	_	_	_
@@ -3062,7 +3062,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3081,7 +3081,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
@@ -3093,7 +3093,7 @@
 # lit = "Prevent that she (i.e. Nephthys) will give it (i.e. her hand) towards them."
 # trans = "Prevent her from greeting them (to give the arm = idiom)."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	rč̣	rč̣i̯	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -3106,7 +3106,7 @@
 # lit = "Slay that one who has stood up."
 # trans = "Slay that rebel."
 # type = Verbal sentence
-1	npč̣	npč̣	VERB	Imp	Mood=Imp	0	root	_	_
+1	npč̣	npč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ꜥḥꜥ	ꜥḥꜥ	NOUN	VerbForm=Part	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 
@@ -3117,7 +3117,7 @@
 # trans = "Thoth, bring him."
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
-2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 
 # sent_id = UDE-214a
@@ -3148,7 +3148,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
@@ -3159,7 +3159,7 @@
 # lit = “Go under Osiris Neith.”
 # trans = “Go under Osiris Neith.”
 # type = Verbal sentence
-1	i҆s(i҆)	si҆	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆s(i҆)	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ẖr	ẖr	ADP	Cons.st	Case=Sub	3	case	_	_
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	obl	_	_
 4	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	3	appos	_	_
@@ -3180,7 +3180,7 @@
 # trans = "Thoth, bring him, that one spread out."
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
-2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	pč̣	pč̣	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
 5	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
@@ -3210,7 +3210,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -3226,7 +3226,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3242,7 +3242,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3417,7 +3417,7 @@
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nmod	_	_
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-6	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+6	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 9	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	6	obj	_	_
@@ -3435,7 +3435,7 @@
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nmod	_	_
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-6	śṭm	śṭm	VERB	Imp	Mood=Imp	0	root	_	_
+6	śṭm	śṭm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	n	n	ADP	Pron.st	Case=Ben	8	case	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 9	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
@@ -3630,7 +3630,7 @@
 # trans = "Thoth, bring him who has it."
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
-2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	ẖr(.i҆)	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	3	appos	_	_
 5	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
@@ -3665,7 +3665,7 @@
 # lit = "Give him the Eye of Horus in order that he may be satisfied with it."
 # trans = "Give him the Eye of Horus that he may be satisfied with it."
 # type = Verbal sentence 
-1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
@@ -3682,7 +3682,7 @@
 # trans = "O come with the king's offering."
 # type = Verbal sentence 
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
-2	m(i҆)	mi҆	VERB	Imp	Mood=Imp	0	root	_	_
+2	m(i҆)	mi҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	ẖr	ẖr	ADP	Cons.st	Case=Ins	4	case	_	_
 4	ḥtp	ḥtp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
 5	nśw	nśw	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
@@ -3695,7 +3695,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3713,7 +3713,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3725,7 +3725,7 @@
 # lit = "Be satisfied with it."
 # trans = "Be satisfied with it."
 # type = Verbal sentence
-1	ḥtp	ḥtp	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtp	ḥtp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	ADP	Pron.st	Case=Ins	3	case	_	_
 3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
@@ -3735,7 +3735,7 @@
 # lit = "Make it to turn back with you."
 # trans = "Cause it to turn back to you."
 # type = Verbal sentence
-1	śḥm	ḥmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	śḥm	ḥmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -3748,8 +3748,8 @@
 # lit = "Sit down, be silent."
 # trans = "Sit down and be silent."
 # type = Verbal sentence
-1	ḥmś	ḥmśi̯	VERB	Imp	Mood=Imp	0	root	_	_
-2	i҆gr	gr	VERB	Imp	Mood=Imp	1	conj	_	_
+1	ḥmś	ḥmśi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	i҆gr	gr	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 
 # sent_id = UDE-256
 # ref = Pyramid Texts § 60a W, Saqqara, 5th Dynasty, rel, OE
@@ -3757,7 +3757,7 @@
 # lit = "Gather it to your mouth."
 # trans = "Gather it to your mouth."
 # type = Verbal sentence
-1	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -3771,7 +3771,7 @@
 # lit = "Prevent for yourself that he (i.e. Seth) will trample it."
 # trans = "Prevent him from trampling it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	t(i҆)	ti҆	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
@@ -3786,7 +3786,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3802,7 +3802,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3833,7 +3833,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -3849,7 +3849,7 @@
 # lit = "Lift it to your face for yourself."
 # trans = "Lift it to your face."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -3863,7 +3863,7 @@
 # lit = "I shall lift it to your face for you."
 # trans = "I shall lift it to your face for you."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	iobj	_	_
@@ -3878,7 +3878,7 @@
 # lit = "Lift your face, Osiris."
 # trans = "Stand up straight, Osiris."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	vocative	_	_
@@ -3889,7 +3889,7 @@
 # lit = "Lift your face, O this Unas, whose spirit went."
 # trans = "Stand up straight, O Unas, whose spirit has gone."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	hꜣ	hꜣ	INTJ	_	_	5	discourse	_	_
@@ -3905,7 +3905,7 @@
 # lit = "Lift your face, O this Unas, who went being a spirit."
 # trans = "Stand up straight, O Unas, who has gone being a spirit."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	hꜣ	hꜣ	INTJ	_	_	5	discourse	_	_
@@ -3921,7 +3921,7 @@
 # lit = "Lift your face, this Unas, who is strong and effective, in order that you may look at that which came from you."
 # trans = "Stand up straight, O strong and effective Unas, that you may look at that which has come from you."
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
@@ -3941,7 +3941,7 @@
 # lit = "Wash yourself, Unas."
 # trans = "Wash yourself, Unas."
 # type = Verbal sentence
-1	i҆ꜥ	i҆ꜥi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ꜥ	i҆ꜥi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
 
@@ -3975,7 +3975,7 @@
 # trans = “Unas, receive this bread of yours which is the Eye of Horus.”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	vocative	_	_
-2	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+2	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
@@ -3993,7 +3993,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4009,7 +4009,7 @@
 # lit = "Provide yourself with the ferment that came from you."
 # trans = "Provide yourself with the ferment that came from you."
 # type = Verbal sentence
-1	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4	ḥnḳ	ḥnḳ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -4025,7 +4025,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	św.t(i҆)t	św.ti҆t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4096,7 +4096,7 @@
 # lit = "Give (me) your arm that (I) may give it to you."
 # trans = "Give (me) your hand that (I) may give it to you."
 # type = Verbal sentence 
-1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
 4	ꜥ	ꜥ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
@@ -4144,7 +4144,7 @@
 # lit = "Seize them."
 # trans = "Seize them."
 # type = Verbal sentence
-1	nč̣r	nč̣r	VERB	Imp	Mood=Imp	0	root	_	_
+1	nč̣r	nč̣r	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-278
@@ -4153,7 +4153,7 @@
 # lit = "Join them for yourself."
 # trans = "Join them for yourself."
 # type = Verbal sentence
-1	i҆wn	i҆wn	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆wn	i҆wn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	1	obj	_	_
@@ -4166,7 +4166,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	3	obj	_	_
@@ -4181,7 +4181,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4196,7 +4196,7 @@
 # lit = "Gather it to your mouth for yourself."
 # trans = "Gather it to your mouth."
 # type = Verbal sentence
-1	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -4212,7 +4212,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4255,7 +4255,7 @@
 # lit = "Prevent that he will suffer because of it."
 # trans = "Prevent him from suffering because of it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	pꜣs	pꜣs	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ḥr	ḥr	ADP	Pron.st	Case=Cau	5	case	_	_
@@ -4269,7 +4269,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+3	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ṭpi҆	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -4283,7 +4283,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆č	i҆č	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆č	i҆č	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḥr	ḥr	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
@@ -4297,7 +4297,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 
@@ -4307,7 +4307,7 @@
 # lit = "Take it for yourself."
 # trans = "Take it!"
 # type = Verbal sentence
-1	i҆č	i҆č	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆č	i҆č	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -4320,7 +4320,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4347,7 +4347,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 6	(w)ṭ(y).t	wṭi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
@@ -4365,7 +4365,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4400,7 +4400,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆bꜣ	i҆bꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆bꜣ	i҆bꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
 # sent_id = UDE-296
 # ref = PT § 80a W, Saqqara, 5th Dynasty, rel, OE
@@ -4424,7 +4424,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4440,7 +4440,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	sb(i҆).w	sbi҆	NOUN	Tense=Past|VerbForm=Part	Gender=Masc|Number=Plur	3	obj	_	_
@@ -4455,7 +4455,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆śšꜣ.w	śẖꜣꜣ	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	3	ccomp	_	_
@@ -4480,7 +4480,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4498,7 +4498,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4516,7 +4516,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4534,7 +4534,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ṭp(.w)	ṭp	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Plur	3	obj	_	_
@@ -4552,7 +4552,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	č̣r	č̣r	NOUN	Obj	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
@@ -4567,7 +4567,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4583,7 +4583,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆w.w	i҆wi̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	3	obj	_	_
@@ -4597,7 +4597,7 @@
 # lit = "Prevent that he will suffer from it."
 # trans = "Prevent him from suffering from it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mn	mn	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -4622,7 +4622,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
 5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
 6	śswn.tn	śswn	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	4	acl	_	_
@@ -4651,7 +4651,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	ḥtm	ḥtm	VERB	Imp	Mood=Imp	0	root	_	_
+3	ḥtm	ḥtm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
 6	ḥnḳ	ḥnḳ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
@@ -4667,7 +4667,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	mnč̣	mnč̣	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
@@ -4698,7 +4698,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	dislocated	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	wp	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	wp	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	i҆m	m	ADP	Pron.st	Case=Ins	7	case	_	_
@@ -4712,7 +4712,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4726,7 +4726,7 @@
 # lit = "Prevent that he will swallow it."
 # trans = "Prevent him from swallowing it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ꜥm	ꜥm	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -4739,7 +4739,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	ḥwn.t	ḥwn.t	NOUN	Obj	Gender=Fem|Number=Sing	3	obj	_	_
@@ -4753,7 +4753,7 @@
 # lit = "Part your mouth with it."
 # trans = "Part your mouth with it."
 # type = Verbal sentence
-1	wp	wpi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	wp	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ins	5	case	_	_
@@ -4767,7 +4767,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4795,7 +4795,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4811,7 +4811,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4831,7 +4831,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4844,7 +4844,7 @@
 # lit = "Prevent that he will wear it."
 # trans = "Prevent him from wearing it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	śšṭ	śšṭ	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -4857,7 +4857,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4870,7 +4870,7 @@
 # lit = "Prevent that he will tear it out."
 # trans = "Prevent him from tearing it out."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	sḫs	sḫs	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -4894,7 +4894,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4910,7 +4910,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	i҆wn	wn	VERB	Imp	Mood=Imp	0	root	_	_
+3	i҆wn	wn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	i҆r.t(i҆)	i҆r.t	NOUN	_	Gender=Fem|Number=Dual	3	obj	_	_
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	mꜣ	mꜣꜣ	VERB	SFC|Fut|Pred|Finalcl	Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	_
@@ -4924,7 +4924,7 @@
 # lit = "Prevent that he will entrap it."
 # trans = "Prevent him from entrapping it."
 # type = Verbal sentence
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ꜥḥ	ꜥḥ	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
@@ -4937,7 +4937,7 @@
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
@@ -4950,7 +4950,7 @@
 # lit = "Make it come back for yourself."
 # trans = "Make it come back to you!."
 # type = Verbal sentence
-1	śḫt	śḫti̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	śḫt	śḫti̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -4961,7 +4961,7 @@
 # lit = "Allot it for yourself."
 # trans = "Allot it!."
 # type = Verbal sentence
-1	i҆p	i҆p	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆p	i҆p	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -5068,7 +5068,7 @@
 # lit = "Betake yourself to Geb."
 # trans = "Betake yourself to Geb."
 # type = Verbal sentence
-1	i҆ms	ms	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ms	ms	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	i҆r	r	ADP	Cons.st	Case=Lat	4	case	_	_
 4	Gb(b)	Gbb	NOUN	_	Gender=Masc	1	obl	_	_
@@ -5092,7 +5092,7 @@
 # lit = "Unas, take the two eyes of this great one, Osiris Pepi Neferkare."
 # trans = "Unas, take the eyes of this great one, Osiris Pepi Neferkare."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t(i҆)	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	_
 3	wr	wr	NOUN	VerbForm=Part	Case=Gen|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -5106,7 +5106,7 @@
 # lit = "Be satisfied with them."
 # trans = "Be satisfied with them."
 # type = Verbal sentence
-1	ḥtp	ḥtp	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥtp	ḥtp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	ADP	Pron.st	Case=Ins	3	case	_	_
 3	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
 
@@ -5128,7 +5128,7 @@
 # lit = "Take the bud (?) of the Eye of Horus while it slips."
 # trans = "Take the bud (?) of the Eye of Horus slipping."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	nḫb.t	nḫb.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
@@ -5152,7 +5152,7 @@
 # lit = "Take the bud (?) of the Eye of Horus which they licked."
 # trans = "Take the bud (?) of the Eye of Horus which they licked."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	nḫb.t	nḫb.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	i҆r.t	i҆r.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	3	nmod	_	_
@@ -5165,7 +5165,7 @@
 # lit = "Take the Eye of Horus which he entrapped."
 # trans = "Take the Eye of Horus which he entrapped hat."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	ꜥḥ.tn	ꜥḥ	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
@@ -5177,7 +5177,7 @@
 # lit = "Take for yourself the ferment that came from Osiris."
 # trans = "Take the ferment that came from Osiris."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
@@ -5194,7 +5194,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	i҆m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	i҆m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	4	obj	_	_
 6	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	5	amod	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
@@ -5208,7 +5208,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
 7	wč̣ꜣ.t	wč̣ꜣ	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
@@ -5221,7 +5221,7 @@
 # lit = "Take the Eye of Horus when it is deposited on the ground (?)."
 # trans = "Take the Eye of Horus deposited on the ground (?)."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	ḥbnbn	ḥbnbn	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
@@ -5233,7 +5233,7 @@
 # lit = "Take the white Eye of Horus which he has worn."
 # trans = "Take the white Eye of Horus which he has worn."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	ḥč̣.t	ḥč̣	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
@@ -5246,7 +5246,7 @@
 # lit = "Take the green Eye of Horus which he has worn."
 # trans = "Take the green Eye of Horus which he has worn."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	wꜣč̣.t	wꜣč̣.t	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
@@ -5259,7 +5259,7 @@
 # lit = "Take the Eye of Horus which he examined."
 # trans = "Take the green Eye of Horus which he examined."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	ś:i҆p.tn	i҆p	VERB	ADJ|VerbForm=RelForm|Past-2|Voice=Cau	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
@@ -5271,7 +5271,7 @@
 # lit = "Take the Eye of Horus which he has torn out."
 # trans = "Take the Eye of Horus which he has torn out."
 # type = Verbal sentence
-1	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
 3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	2	nmod	_	_
 4	sḫs.tn	sḫs	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	2	acl	_	_
@@ -5286,7 +5286,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	4	obl	_	_
 7	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
@@ -5298,7 +5298,7 @@
 # lit = "Make yourself an offering of (it)."
 # trans = "Make yourself an offering of (it)."
 # type = Verbal sentence
-1	ṭꜣp	ṭrp	VERB	Imp	Mood=Imp	0	root	_	_
+1	ṭꜣp	ṭrp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obj	_	_
 3	i҆m	m	ADP	Pron.st	_	4	case	_	_
 4	(⸗ś)	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
@@ -5405,7 +5405,7 @@
 3	Ppy	Ppy	PROPN	_	Gender=Masc	2	appos	_	_
 4	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	3	flat	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-6	wč̣b	wč̣b	VERB	Imp	Mood=Imp	0	root	_	_
+6	wč̣b	wč̣b	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	6	expl	_	_
 8	ḥr	ḥr	ADP	Cons.st	Case=Cau	9	case	_	_
 9	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
@@ -5418,7 +5418,7 @@
 # lit = "Accept it for yourself from me."
 # trans = "Accept it from me."
 # type = Verbal sentence
-1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+1	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -5475,7 +5475,7 @@
 # lit = "Extend yourself in your name of "pellet"."
 # trans = "Extend yourself in your name of "pellet"."
 # type = Verbal sentence
-1	pč̣	pč̣	VERB	Imp	Mood=Imp	0	root	_	_
+1	pč̣	pč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	m	m	ADP	Cons.st	_	4	case	_	_
 4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
@@ -5528,7 +5528,7 @@
 1	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	4	obl	_	_
 7	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	4	obj	_	_
@@ -5550,7 +5550,7 @@
 1	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	4	obl	_	_
 7	ḥnḳ	ḥnḳ	NOUN	Obj	Gender=Masc|Number=Sing	4	obj	_	_
@@ -5567,7 +5567,7 @@
 1	Wśr(.w)	Wśr.w	PROPN	_	Case=Voc|Gender=Masc	4	vocative	_	_
 2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
 3	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	2	flat	_	_
-4	m	m	VERB	Imp	Mood=Imp	0	root	_	_
+4	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	5	appos	_	_
 7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
@@ -5580,7 +5580,7 @@
 # lit = "Lift up the hearts of those who cleanse (?) the breast after they have swallowed the bright Eye of Horus which is in Heliopolis."
 # trans = "Gloat those who cleanse (?) the breast, for they have swallowed the bright Eye of Horus which is in Heliopolis."
 # type = Verbal sentence
-1	wčs	wčs	VERB	Imp	Mood=Imp	0	root	_	_
+1	wčs	wčs	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj|MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
 4	čśś.w	čśi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	nmod	_	_
@@ -5602,7 +5602,7 @@
 1	č̣bꜥ	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	vocative	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
 3	šrr.w	šrr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	amod	_	_
-4	šṭ	šṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+4	šṭ	šṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	obj	_	_
 6	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	amod	_	_
 7	špꜣ	špꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -5667,7 +5667,7 @@
 3	śt	śt	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆r.(i҆)w	r	NOUN	NisbaPrep	Gender=Masc|Number=Plur	2	conj	_	_
 5	ꜣgb	ꜣgb	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-6	wč̣	wč̣	VERB	Imp	Mood=Imp	0	root	_	_
+6	wč̣	wč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	obj	_	_
 8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
 9	Ftk-tʾ	Ftk-tʾ	PROPN	_	Gender=Masc	6	iobj	_	_
@@ -5935,7 +5935,7 @@
 3	śt	śt	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 4	i҆r.(i҆)w	r	NOUN	NisbaPrep	Gender=Masc|Number=Plur	2	conj	_	_
 5	ꜣgb	ꜣgb	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-6	wč̣	wč̣	VERB	Imp	Mood=Imp	0	root	_	_
+6	wč̣	wč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	obj	_	_
 8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
 9	Ftk-tʾ	Ftk-tʾ	PROPN	_	Gender=Masc	6	iobj	_	_
@@ -6012,9 +6012,9 @@
 # trans = "O butler, bring water and light the fire."
 # type = Verbal sentence 
 1	wṭp.w	wṭp.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	ꜥbꜣ	ꜥbꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+2	ꜥbꜣ	ꜥbꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	mw	mw	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
-4	rkḥ	rkḥ	VERB	Imp	Mood=Imp	2	conj	_	_
+4	rkḥ	rkḥ	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
 5	śč̣.t	śč̣.t	VERB	_	Gender=Fem|Number=Sing	4	obj	_	_
 
 # sent_id = UDE-404
@@ -6101,7 +6101,7 @@
 # lit = “Awake, O Wepu.”
 # trans = “Awake, O Wepu.”
 # type = Verbal sentence
-1	rś	rś	VERB	Imp	Mood=Imp	0	root	_	_
+1	rś	rś	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	Wp.w	Wp.w	PROPN	_	Case=Voc|Gender=Masc	1	vocative	_	_
 
 # sent_id = UDE-411
@@ -6110,7 +6110,7 @@
 # lit = “Be high, O Thoth.”
 # trans = “Be high, O Thoth.”
 # type = Verbal sentence
-1	i҆ḳꜣ	ḳꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ḳꜣ	ḳꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	1	vocative	_	_
 
 # sent_id = UDE-412
@@ -6119,7 +6119,7 @@
 # lit = “Awake, sleepers.”
 # trans = “Awake, sleepers.”
 # type = Verbal sentence
-1	rś	rś	VERB	Imp	Mood=Imp	0	root	_	_
+1	rś	rś	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	śč̣r.w	śč̣r	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Masc|Number=Plur	1	vocative	_	_
 
 # sent_id = UDE-413
@@ -6262,7 +6262,7 @@
 # lit = "Take for yourself Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in that in which you sail."
 # trans = "Take Unas with you, that he may eat of what you eat, that he may drink of what you drink, that he may live on what you live on, that he may sit on what you sit on, that he may be strong through that whereby you are strong, that he may sail in what you sail in."
 # type = Verbal sentence
-1	šṭ	šṭi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šṭ	šṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Emp	1	obl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
@@ -6840,7 +6840,7 @@
 # lit = “Sit on the throne of Osiris, your baton in your hand, that you may command a speech to the living, the mekes-sceptre and your lotus-bud sceptre in your arm, that <you> may command a speech to those of hidden places.”
 # trans = “Sit on Osiris's throne with your baton in your hand, that you may give orders to the living, with the mekes-sceptre and your lotus-bud sceptre in your arm, that <you> may give orders to the dead.”
 # type = Verbal sentence + Adverbial sentence + Final clause
-1	ḥms	ḥmsi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥms	ḥmsi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	ADP	Cons.st	Case=Loc	3	case	_	_
 3	ḫnṭ	ḫnṭ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 4	Wśr(.w)	Wśr.w	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
@@ -6970,7 +6970,7 @@
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+3	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	k(w)	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	ši҆	ši҆	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 
@@ -7011,7 +7011,7 @@
 # lit = “Go after your sun that you may cleanse yourself.”
 # trans = “Follow your sun that you may be free from yourself.”
 # type = Verbal sentence
-1	i҆si҆	si҆	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆si҆	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2-3	m-ḫt	_	_	_	_	_	_	_	_
 2	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
 3	ḫt	ḫt	NOUN	MWE	Gender=Masc|Number=Sing	2	fixed	_	_
@@ -7148,7 +7148,7 @@
 # lit = “Ascend yourself to the place which is under your father, to the place which is under Geb, that he may give you that which is on the brow of Horus”
 # trans = “Ascend to the place where your father is, to the place where Geb is, that he may give you what is on Horus's brow.”
 # type = Verbal sentence
-1	i҆ꜣḳ	i҆ꜣḳ	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆ꜣḳ	i҆ꜣḳ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆r	r	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	i҆r	r	ADP	Cons.st	Case=All	6	case	_	_
@@ -7234,7 +7234,7 @@
 # lit = “Enclose him within your (two) arms for yourself!”
 # trans = “Enclose him within your arms!”
 # type = Verbal sentence
-1	šn	šni̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šn	šni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -7273,7 +7273,7 @@
 # lit = “See me after you have seen the shapes of the children of their fathers who know their speech, "those-who-do-not-perish".”
 # trans = “See me after you have seen the forms of the children of their fathers who know their spells, the Imperishable Stars.”
 # type = Verbal sentence
-1	mꜣꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+1	mꜣꜣ	mꜣꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obj	_	_
 3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
 4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -8166,8 +8166,8 @@
 # trans = “O Thoth, go and proclaim to the western gods and their spirits: (...).”
 # type = Verbal sentence
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	ḥw	ḥww	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
+2	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing|Number=Sing	0	root	_	_
+3	ḥw	ḥww	VERB	Imp	Mood=Imp|Number=Sing|Number=Sing	2	conj	_	_
 4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
 5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	3	iobj	_	_
 6	i҆mn.t(i҆)w	i҆mn.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	5	amod	_	_
@@ -8220,8 +8220,8 @@
 # trans = “O Horus, go and proclaim to the eastern bas and their spirits: (...).”
 # type = Verbal sentence
 1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	ḥw	ḥww	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
+2	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing|Number=Sing	0	root	_	_
+3	ḥw	ḥww	VERB	Imp	Mood=Imp|Number=Sing|Number=Sing	2	conj	_	_
 4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
 5	bꜣ(.w)	bꜣ	NOUN	_	Gender=Masc|Number=Plur	3	iobj	_	_
 6	i҆ꜣb.t(i҆)w	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	5	amod	_	_
@@ -8274,7 +8274,7 @@
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-5	šn	šni̯	VERB	Imp	Mood=Imp	1	conj	_	_
+5	šn	šni̯	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 6	n	n	ADP	Pron.st	_	7	case	_	_
 7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	5	obl	_	_
 8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
@@ -8495,16 +8495,16 @@
 1	Ꜣś.t	Ꜣś.t	PROPN	_	Case=Voc|Gender=Masc	4	vocative	_	_
 2	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	3	case	_	_
 3	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Masc	1	obl	_	_
-4	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp	0	root	_	_
+4	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	i҆r	r	ADP	Pron.st	_	6	case	_	_
 6	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	4	obl	_	_
-7	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp	4	conj	_	_
+7	i҆nḳ	i҆nḳ	VERB	Imp	Mood=Imp|Number=Sing	4	conj	_	_
 8	i҆r	r	ADP	Pron.st	_	9	case	_	_
 9	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	7	obl	_	_
-10	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	4	conj	_	_
+10	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp|Number=Sing	4	conj	_	_
 11	i҆r	r	ADP	Pron.st	_	9	case	_	_
 12	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	10	obl	_	_
-13	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp	4	conj	_	_
+13	i҆ꜥb	i҆ꜥb	VERB	Imp	Mood=Imp|Number=Sing	4	conj	_	_
 14	i҆r	r	ADP	Pron.st	_	15	case	_	_
 15	⸗čn(i҆)	čni҆	PRON	SFP	Gender=Com|Number=Dual|Person=2|PronType=Prs	13	obl	_	_
 
@@ -9062,7 +9062,7 @@
 # trans = "O Osiris, turn your face that you may look at this Unas."
 # type = Verbal sentence
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	2	vocative	_	_
-2	pšr	pẖr	VERB	Imp	Mood=Imp	0	root	_	_
+2	pšr	pẖr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
@@ -10176,7 +10176,7 @@
 # lit = “Release yourself from the (judgement in the) maru (?).”
 # trans = “Release yourself from maru (?).”
 # type = Verbal sentence
-1	i҆fḫ	fḫ	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆fḫ	fḫ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
@@ -10470,7 +10470,7 @@
 # lit = “Enclose him in the interior of your arms, (for) your son of your body is this for ever.”
 # trans = “Enclose him within your embrace! (For) he is your bodily son for ever.”
 # type = Verbal sentence + nominal sentence (A pw)
-1	šn	šni̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šn	šni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
@@ -10494,9 +10494,9 @@
 # lit = “Rouse! Turn about! Rejoice!.”
 # trans = “Rouse! Turn about! And rejoice!.”
 # type = Verbal sentence
-1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
-2	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
-3	hi҆hi҆	hi҆hi҆	VERB	Imp	Mood=Imp	1	conj	_	_
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
+3	hi҆hi҆	hi҆hi҆	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 
 # sent_id = UDE-697
 # ref = PT § 214b-c W, Saqqara, 5th Dynasty, rel, OE
@@ -10506,8 +10506,8 @@
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
-4	ḥmś	ḥmś	VERB	Imp	Mood=Imp	3	conj	_	_
+3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+4	ḥmś	ḥmś	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 5	r	r	ADP	Cons.st	Case=All	6	case	_	_
 6	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 7	m	m	ADP	Cons.st	_	8	case	_	_
@@ -10590,7 +10590,7 @@
 4	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	n	n	ADP	Cons.st	Case=All	6	case	_	_
 6	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-7	i҆mś	mś	VERB	Imp	Mood=Imp	3	conj	_	_
+7	i҆mś	mś	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 8	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	7	expl	_	_
 9	r	r	ADP	Cons.st	Case=All	10	case	_	_
 10	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obl	_	_
@@ -10601,7 +10601,7 @@
 # lit = “Do not be far from the tomb in order that you may turn toward (me).”
 # trans = “Do not be far from the tomb that you may turn toward (me).”
 # type = Verbal sentence
-1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
 2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -10616,7 +10616,7 @@
 # lit = “Do not be far from the tomb; it is toward (me) that you turn.”
 # trans = “Do not be far from the tomb; it is to (me) that you must turn.”
 # type = Verbal sentence
-1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
 2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -10672,8 +10672,8 @@
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
-4	šsp	šsp	VERB	Imp	Mood=Imp	3	conj	_	_
+3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+4	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	4	obl	_	_
 7	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
@@ -10723,10 +10723,10 @@
 # lit = “Rouse yourself, Unas! Turn about yourself, Unas!”
 # trans = “Rouse yourself, Unas! Turn about yourself, Unas!”
 # type = Verbal sentence
-1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
-4	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
+4	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 5	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	vocative	_	_
 
@@ -10736,10 +10736,10 @@
 # lit = “Rouse yourself, Unas! Turn about yourself, Unas!”
 # trans = “Rouse yourself, Unas! Turn about yourself, Unas!”
 # type = Verbal sentence
-1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	vocative	_	_
-4	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
+4	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	vocative	_	_
 
@@ -10749,7 +10749,7 @@
 # lit = “Go yourself, that you may command the word to the Mounds of Horus.”
 # trans = “Go, that you may govern the Mounds of Horus.”
 # type = Verbal sentence
-1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šm	šmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -10780,7 +10780,7 @@
 # lit = “Go yourself, that you may command the word to the Mounds of Seth.”
 # trans = “Go, that you may govern the Mounds of Seth.”
 # type = Verbal sentence
-1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šm	šmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -10811,7 +10811,7 @@
 # lit = “Go yourself, that you may command the word to the Mounds of Osiris.”
 # trans = “Go, that you may govern the Mounds of Osiris.”
 # type = Verbal sentence
-1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šm	šmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -11035,7 +11035,7 @@
 # lit = “Protect <your> children.”
 # trans = “Protect <your> children.”
 # type = Verbal sentence
-1	i҆nč̣	nč̣	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆nč̣	nč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mś.w	mś	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 3	<⸗k>	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	{nb}	{nb}	X	_	Typo=Yes	3	dep	_	_
@@ -11046,7 +11046,7 @@
 # lit = “Beware yourself of this boundary of yours which is on earth.”
 # trans = “Beware of this your boundary on earh.”
 # type = Verbal sentence
-1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	č̣r	č̣r	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
@@ -11060,7 +11060,7 @@
 # lit = “Clothe your body in order that you may come to them.”
 # trans = “Clothe your body, that you may come to them.”
 # type = Verbal sentence
-1	wnḫ	wnḫ	VERB	Imp	Mood=Imp	0	root	_	_
+1	wnḫ	wnḫ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	i҆wt	i҆wi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -11093,12 +11093,12 @@
 # lit = “Rouse yourself, this Pepi Neferkare! Turn about yourself, Pepi Neferkare!”
 # trans = “Rouse yourself, this Pepi Neferkare! Turn about yourself, Pepi Neferkare!”
 # type = Verbal sentence
-1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	č(w)	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Ppy	Ppy	PROPN	_	Gender=Masc	1	vocative	_	_
 4	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	3	flat	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-6	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp	1	conj	_	_
+6	i҆nn	ni҆ni҆	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 7	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	6	expl	_	_
 8	Ppy	Ppy	PROPN	_	Gender=Masc	6	vocative	_	_
 9	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	8	flat	_	_
@@ -11109,7 +11109,7 @@
 # lit = “Go yourself, that you may command the word to the Mounds of Horus, that you may command the word to the Mounds of Seth and say the word to the Mound of Osiris.”
 # trans = “Go, that you may govern the Mounds of Horus, that you govern the Mounds of Seth and address the Mounds of Osiris.”
 # type = Verbal sentence
-1	šm	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šm	šmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -11137,7 +11137,7 @@
 # lit = “You have gone, that you may command the word to the Mounds of Horus, that you may command the word to the Mounds of Seth and say the word to the Mound of Osiris.”
 # trans = “You have gone, that you may govern the Mounds of Horus, that you govern the Mounds of Seth and address the Mounds of Osiris.”
 # type = Verbal sentence
-1	šm.n	šmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	šm.n	šmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 3	wč̣	wč̣	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
@@ -11264,7 +11264,7 @@
 # trans = “Osiris, seize all those who hate Unas and anyone who speaks bad of his name.”
 # type = Verbal sentence
 1	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	i҆ꜥm	ꜥm	VERB	Imp	Mood=Imp	0	root	_	_
+2	i҆ꜥm	ꜥm	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 5	pr.t	pri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	2	obj	_	_
@@ -11278,8 +11278,8 @@
 # trans = “Monster, lie down, crawl away, that the Sunlight's Servant (i.e. pelican) may fell into the water.”
 # type = Verbal sentence
 1	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	śč̣r	śč̣r	VERB	Imp	Mood=Imp	0	root	_	_
-3	sbn	sbn	VERB	Imp	Mood=Imp	2	conj	_	_
+2	śč̣r	śč̣r	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+3	sbn	sbn	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
 4	ḫr	ḫr	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 5-6	ḥm-pśč̣.t	_	_	_	_	_	_	_	_
 5	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -11294,7 +11294,7 @@
 # trans = “Snake, overturn, that Re may see you.”
 # type = Verbal sentence
 1	ḥfꜣ.w	ḥfꜣ.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+2	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 4	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
 5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	nsubj	_	_
@@ -11305,7 +11305,7 @@
 # lit = “Cut off the head of the great black bull.”
 # trans = “Cut off the head of the great black bull.”
 # type = Verbal sentence
-1	ḥśḳ{m}	ḥśḳ	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥśḳ{m}	ḥśḳ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ṭp	ṭp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obj	_	_
 3	kꜣ	kꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	km	km	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
@@ -11345,9 +11345,9 @@
 # lit = “Overturn yourself, slide into the earth.”
 # trans = “Overturn yourself and slide into the earth.”
 # type = Verbal sentence
-1	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	pnꜥ	pnꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
-3	ḫbḫ{n}	ḫbḫ	VERB	Imp	Mood=Imp	1	conj	_	_
+3	ḫbḫ{n}	ḫbḫ	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 
 # sent_id = UDE-743
@@ -11424,8 +11424,8 @@
 # lit = “Fall down, crawl away.”
 # trans = “Fall down and crawl away.”
 # type = Verbal sentence
-1	i҆ḫr	ḫr	VERB	Imp	Mood=Imp	0	root	_	_
-2	sbn	sbn	VERB	Imp	Mood=Imp	1	conj	_	_
+1	i҆ḫr	ḫr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	sbn	sbn	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 
 # sent_id = UDE-748
 # ref = Pyramid Texts § 230a W, Saqqara, 5th Dynasty, rel, OE
@@ -11455,7 +11455,7 @@
 # lit = “Pour out the waters, while the two kites stand up.”
 # trans = “Pour out the water, while the two kites stand up.”
 # type = Verbal sentence
-1	śt	śti̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	śt	śti̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mw	mw	NOUN	Obj	Gender=Masc|Number=Plur	1	obj	_	_
 3	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 4	č̣r.ti҆	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
@@ -11504,15 +11504,15 @@
 # type = Verbal sentence
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	vocative	_	_
-3	psḥ	psḥ	VERB	Imp	Mood=Imp	0	root	_	_
+3	psḥ	psḥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obl	_	_
 6	tꜣ	tꜣ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
-7	psḥ	psḥ	VERB	Imp	Mood=Imp	3	conj	_	_
+7	psḥ	psḥ	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 8	n	n	ADP	Cons.st	Case=Ben	9	case	_	_
 9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	obl	_	_
 10	Gb(b)	Gbb	PROPN	_	Gender=Masc	7	obj	_	_
-11	psḥ	psḥ	VERB	Imp	Mood=Imp	3	conj	_	_
+11	psḥ	psḥ	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 12	n	n	ADP	Cons.st	Case=Ben	13	case	_	_
 13	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	obl	_	_
 14	i҆t	i҆t	NOUN	Obj	Gender=Masc|Number=Sing	11	obj	_	_
@@ -11572,7 +11572,7 @@
 # lit = “Receive, twice, for he sees Unas.”
 # trans = “Wellcome, wellcome, for he sees Unas.”
 # type = Verbal sentence
-1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+1	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	<sp>	sp	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
 3	2	2	NUM	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
@@ -11586,7 +11586,7 @@
 # lit = “Receive, twice, for he looks at Unas.”
 # trans = “Wellcome, wellcome, for he looks at Unas.”
 # type = Verbal sentence
-1	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+1	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	<sp>	sp	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
 3	2	2	NUM	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	n	n	ADP	Cons.st	Case=Cau	5	case	_	_
@@ -11760,7 +11760,7 @@
 2	mti҆	mti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
 3	mtw.ti҆	mtw.ti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
 4	mtw.ti҆	mtw.ti҆	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
-5	ꜣw	ꜣw	VERB	Imp	Mood=Imp	0	root	_	_
+5	ꜣw	ꜣw	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 6	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 8	sp	sp	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
@@ -11785,7 +11785,7 @@
 # lit = “Don't ignore me.”
 # trans = “Don't ignore me.”
 # type = Verbal sentence
-1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Polarity=Neg	0	root	_	_
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
 2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
 3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 
@@ -11826,7 +11826,7 @@
 # lit = “Go down on your vertebra, the one who is in his bush.”
 # trans = “Go down on your vertebra, O you in his bush.”
 # type = Verbal sentence
-1	hꜣ	hꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+1	hꜣ	hꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	ADP	Pron.st	Case=Sup	3	case	_	_
 3	č(ꜣ)s	čꜣs	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
@@ -11840,7 +11840,7 @@
 # lit = “Turn back because of (me), the one who praises with two faces.”
 # trans = “Turn back because of (me), you the one who praises with two faces.”
 # type = Verbal sentence
-1	ḥm	ḥmi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	ḥm	ḥmi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	_	3	case	_	_
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
 4	ḥkn.t	ḥkn	NOUN	Tense=Pres|VerbForm=Part|Voice=Act	Gender=Fem|Number=Sing	1	vocative	_	_
@@ -11855,11 +11855,11 @@
 # trans = “You, announce (?)! Apparition (?), proclaim (?)! Apparition (?), proclaim (?)!”
 # type = Verbal sentence
 1	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	vocative	_	_
-2	ꜣw	ꜣw	VERB	Imp	Mood=Imp	0	root	_	_
+2	ꜣw	ꜣw	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	i҆m	i҆m	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	_
-4	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	2	conj	_	_
+4	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
 5	i҆m	i҆m	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	_
-6	ḥw(w)	ḥww	VERB	Imp	Mood=Imp	2	conj	_	_
+6	ḥw(w)	ḥww	VERB	Imp	Mood=Imp|Number=Sing	2	conj	_	_
 
 # sent_id = UDE-781
 # ref = PT § 239b W, Saqqara, 5th Dynasty, rel, OE
@@ -11909,7 +11909,7 @@
 # trans = “Monster, lie down.”
 # type = Verbal sentence
 1	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	śč̣r	śč̣r	VERB	Imp	Mood=Imp	0	root	_	_
+2	śč̣r	śč̣r	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
 # sent_id = UDE-785
 # ref = Pyramid Texts § 242a W, Saqqara, 5th Dynasty, rel, OE
@@ -12055,7 +12055,7 @@
 3	ḫt.t	ḫt	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	1	amod	_	_
 4	tꜣ	tꜣ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 5	i҆	i҆	INTJ	_	_	6	discourse	_	_
-6	i҆m	rč̣i̯	VERB	Imp	Mood=Imp	0	root	_	_
+6	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 7	hi҆.w	hi҆.w	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
 8	sbn(.w)	sbn	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	advcl	_	_
 
@@ -12136,7 +12136,7 @@
 # trans = “Lion, go away!”
 # type = Verbal sentence
 1	rw	rw	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
-2	rw	rwi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	rw	rwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	r	r	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	_
 
@@ -12172,7 +12172,7 @@
 # type = Verbal sentence 
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	ḥm	ḥm	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
-3	čf	čf	VERB	Imp	Mood=Imp	0	root	_	_
+3	čf	čf	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
 # sent_id = UDE-804
 # ref = Pyramid Texts § 249a W, Saqqara, 5th Dynasty, rel, OE
@@ -12380,7 +12380,7 @@
 # lit = "See being stand this Unas as a ram."
 # trans = "See standing this Unas as a ram."
 # type = Verbal sentence
-1	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+1	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ꜥḥꜥ.t(i҆)	ꜥḥꜥ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Com|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	obj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -12431,7 +12431,7 @@
 # lit = “Beware yourself of Horus, the one with red eyes, the one with violent power.”
 # trans = “Beware of red-eyed Horus, the one with violent power!”
 # type = Verbal sentence
-1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čn	čn	PRON	DepPron	Gender=Com|Number=Plur|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obj	_	_
 4	ṭšr	ṭšr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing	3	appos	_	_
@@ -12525,11 +12525,11 @@
 # lit = "Stand at the doors of the horizon, open the doors of the firmament, that you may stand at their fore like Geb who is at the fore of his Ennead."
 # trans = "Stand at the doors of the horizon, open the doors of the firmament, that you may stand at their fore like Geb who presides over his Ennead."
 # type = Verbal sentence
-1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	r	r	ADP	Cons.st	_	3	case	_	_
 3	ꜥꜣ(.wi҆)	ꜥꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	1	obl	_	_
 4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-5	i҆sn	sn	VERB	Imp	Mood=Imp	1	parataxis	_	_
+5	i҆sn	sn	VERB	Imp	Mood=Imp|Number=Sing	1	parataxis	_	_
 6	ꜥꜣ(.wi҆)	ꜥꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obj	_	_
 7	ḳbḥ(.w)	ḳbḥ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 8	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -12750,7 +12750,7 @@
 # trans = “Unas, see!”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+2	mꜣ	mꜣꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
 # sent_id = UDE-841
 # ref = PT § 259a W, Saqqara, 5th Dynasty, rel, OE
@@ -12759,7 +12759,7 @@
 # trans = “Unas, observe!”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	ptr	ptr	VERB	Imp	Mood=Imp	0	root	_	_
+2	ptr	ptr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
 # sent_id = UDE-842
 # ref = PT § 259b W, Saqqara, 5th Dynasty, rel, OE
@@ -12769,7 +12769,7 @@
 # type = Nominal sentence (A pw) + Imperative
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
-3	śč̣m	śč̣m	VERB	Imp	Mood=Imp	1	parataxis	_	_
+3	śč̣m	śč̣m	VERB	Imp	Mood=Imp|Number=Sing	1	parataxis	_	_
 
 # sent_id = UDE-843
 # ref = PT § 259b W, Saqqara, 5th Dynasty, rel, OE
@@ -12778,7 +12778,7 @@
 # trans = “Unas, be there!”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	wn	wnn	VERB	Imp	Mood=Imp	0	root	_	_
+2	wn	wnn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	i҆m	i҆m	ADV	_	AdvType=Loc	2	advmod	_	_
 
 # sent_id = UDE-844
@@ -12788,7 +12788,7 @@
 # trans = “Unas, raise yourself from your side!”
 # type = Verbal sentence
 1	Wni҆ś	Wni҆ś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	čsw	čsi̯	VERB	Imp	Mood=Imp	0	root	_	_
+2	čsw	čsi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
 4	ḥr	ḥr	ADP	Cons.st	_	5	case	_	_
 5	gś	gś	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -12800,7 +12800,7 @@
 # lit = “Do (my) command, the one who hates sleep when he is made limp!”
 # trans = “Do (my) command! O you who hate sleep when you are made limp!”
 # type = Verbal sentence
-1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 4	mśč̣č̣	mśč̣i̯	NOUN	Tense=Pres|VerbForm=Part	Gender=Masc|Number=Sing	1	vocative	_	_
@@ -12813,7 +12813,7 @@
 # lit = “Stand, the one who is in Nedit!”
 # trans = “Stand! O you in Nedit!”
 # type = Verbal sentence
-1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	1	vocative	_	_
 3	Nṭi҆.t	Nṭi҆.t	PROPN	_	Gender=Fem	2	nmod	_	_
 
@@ -12823,7 +12823,7 @@
 # lit = “Make your good bread in Pe!”
 # trans = “Make your good bread in Pe!”
 # type = Verbal sentence
-1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆r	i҆ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
@@ -12836,7 +12836,7 @@
 # lit = “Receive your power in Heliopolis!”
 # trans = “Receive your power in Heliopolis!”
 # type = Verbal sentence
-1	šśp	šśp	VERB	Imp	Mood=Imp	0	root	_	_
+1	šśp	šśp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	śḫm	śḫm	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
@@ -12968,7 +12968,7 @@
 # type = Verbal sentence
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	i҆ꜣꜣ.w(i҆)	i҆ꜣꜣ.w	NOUN	_	Gender=Masc|Number=Dual	3	vocative	_	_
-3	č̣ṭ	č̣ṭ	VERB	Imp	Mood=Imp	0	root	_	_
+3	č̣ṭ	č̣ṭ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	my	my	PART	Neg	PartType=Mod	3	advmod	_	_
 5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
 6	špś.i҆	špś.w	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
@@ -13213,7 +13213,7 @@
 4	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Gender=Masc|Number=Plur	2	conj	_	_
 5	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
 6	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	4	nmod	_	_
-7	i҆r.y	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+7	i҆r.y	i҆ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 8	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 9	n	n	ADP	Cons.st	Case=Ben	10	case	_	_
 10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	obl	_	_
@@ -13305,7 +13305,7 @@
 # lit = “Lift up your faces, you gods who are in the Duat.”
 # trans = “Lift up your faces, you gods in the Duat.”
 # type = Verbal sentence
-1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	fꜣ	fꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗čn	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	vocative	_	_
@@ -13335,7 +13335,7 @@
 # lit = “Induct Unas trembling.”
 # trans = “Induct Unas trembling.”
 # type = Verbal sentence
-1	i҆bs	bs	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆bs	bs	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
 4	śṭꜣ	śṭꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -13346,7 +13346,7 @@
 # lit = “Array Unas as lord of you all in order that Unas may command the word to the people and that Unas judge the word the living within the Sun's shore.”
 # trans = “Array Unas as lord of you all that Unas may govern the people and that Unas judge the living within the Sun's shore.”
 # type = Verbal sentence
-1	č̣bꜣ	č̣bꜣ	VERB	Imp	Mood=Imp	0	root	_	_
+1	č̣bꜣ	č̣bꜣ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 3	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
 4	{k}	{k}	X	_	Typo=Yes	5	dep	_	_
@@ -13506,7 +13506,7 @@
 # trans = “O Nut, take his hand!.”
 # type = Verbal sentence
 1	Nw.t	Nw.t	PROPN	_	Gender=Fem	2	vocative	_	_
-2	šsp	šsp	VERB	Imp	Mood=Imp	0	root	_	_
+2	šsp	šsp	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 
@@ -13600,7 +13600,7 @@
 1	i҆	i҆	INTJ	_	_	2	discourse	_	_
 2	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	vocative	_	_
 3	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
-4	i҆r	i҆ri̯	VERB	Imp	Mood=Imp	0	root	_	_
+4	i҆r	i҆ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	_
@@ -13796,7 +13796,7 @@
 # lit = “Guide the rope!”
 # trans = “Guide the rope!”
 # type = Verbal sentence
-1	mꜣꜥ	mꜣꜥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	mꜣꜥ	mꜣꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	nwḥ	nwḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 
 # sent_id = UDE-908
@@ -13805,7 +13805,7 @@
 # lit = “Cross the Mesqet!”
 # trans = “Cross the Mesqet!”
 # type = Verbal sentence
-1	č̣ꜣ	č̣ꜣi̯	VERB	Imp	Mood=Imp	0	root	_	_
+1	č̣ꜣ	č̣ꜣi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	mśḳ.t	mśḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 
 # sent_id = UDE-909
@@ -13814,7 +13814,7 @@
 # lit = “Smite the ball at the mouth of the canal of Hapi!”
 # trans = “Smite the ball at the mouth of the canal of Hapi!”
 # type = Verbal sentence
-1	śḳr	śḳr	VERB	Imp	Mood=Imp	0	root	_	_
+1	śḳr	śḳr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	bč̣	bč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
 4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -14059,7 +14059,7 @@
 # lit = “Go in order that you may row to the Field of Offerings and take the trip to him who is on his plant.”
 # trans = “Go, you should row to the Field of Offerings and travel to him who is on his plant.”
 # type = Verbal sentence
-1	i҆s(i҆)	si҆	VERB	Imp	Mood=Imp	0	root	_	_
+1	i҆s(i҆)	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	ẖn	ẖni̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 4	r	r	ADP	Cons.st	Case=All	5	case	_	_
@@ -14709,7 +14709,7 @@
 5	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
 7	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp	0	root	_	_
+8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 9	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 10	ḥr	ḥr	ADP	Cons.st	_	11	case	_	_
 11	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
@@ -14728,7 +14728,7 @@
 5	ḳṭ	ḳṭ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 6	ḫbč̣	ḫbč̣	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	_
 7	i҆r.w	i҆r.w	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp	0	root	_	_
+8	i҆ṭr	ṭr	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 9	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 10	ḥr	ḥr	ADP	Cons.st	_	11	case	_	_
 11	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
@@ -14741,7 +14741,7 @@
 # lit = "Lay your insignia on the ground for Unas."
 # trans = "Lay down your insignia for Unas."
 # type = Verbal sentence
-1	wꜣḥ	wꜣḥ	VERB	Imp	Mood=Imp	0	root	_	_
+1	wꜣḥ	wꜣḥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 4	r	r	ADP	Cons.st	_	5	case	_	_
@@ -16056,4 +16056,22 @@
 4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
 5	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1041
+# ref = PT § 321a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆ nčr(.w) rś.(i҆)w mḥ.t(i҆)w i҆mn.t(i҆)w i҆ꜣb.t(i҆)w mk.y Wni҆ś śnč̣ n ⸗f
+# lit = “O (you) southern, northern, western and eastern gods, honour Unas (and) fear him.”
+# trans = “O you southern, northern, western and eastern gods, honour Unas and fear him.”
+# type = Verbal sentence
+1	i҆	i҆	INTJ	_	_	2	discourse	_	_
+2	nčr(.w)	nčr	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	5	vocative	_	_
+3	rś.(i҆)w	rś.i҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+4	mḥ.t(i҆)w	mḥ.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+5	i҆mn.t(i҆)w	i҆mn.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+6	i҆ꜣb.t(i҆)w	i҆ꜣb.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+7	mk.y	mki̯	VERB	Imp	Mood=Imp|Number=Plur	0	root	_	_
+8	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	7	obj	_	_
+9	śnč̣	śnč̣	VERB	Imp	Mood=Imp|Number=Plur	7	conj	_	_
+10	n	n	ADP	Pron.st	Case=Acc	11	case	_	_
+11	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 
