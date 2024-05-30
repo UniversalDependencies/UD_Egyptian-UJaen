@@ -15932,3 +15932,16 @@
 8	i҆m.(i҆)w	m	NOUN	NisbaPrep	Gender=Masc|Number=Plur	6	obj	_	_
 9	Nw.w	Nw.w	PROPN	_	Gender=Masc	8	nmod	_	_
 
+# sent_id = UDE-1033
+# ref = Pyramid Texts § 318b W, Saqqara, 5th Dynasty, rel, OE
+# text = rč̣ ⸗f pḥ.w(i҆) mṭw(.w) m I҆wn.w
+# lit = "He will give an end of words (certainly) in Heliopolis."
+# trans = "It is in Heliopolis that he will put an end to words."
+# type = Cleft sentence with adverbial focus
+1	rč̣	rč̣i̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	pḥ.w(i҆)	pḥ.wi҆	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	obj	_	_
+4	mṭw(.w)	mṭw	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	I҆wn.w	I҆wn.w	PROPN	_	_	1	obl	_	_
+
