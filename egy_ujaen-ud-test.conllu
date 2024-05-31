@@ -16301,3 +16301,22 @@
 17	wp.t	wp.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	16	nmod	_	_
 18	nšn	nšn.i҆	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 
+# sent_id = UDE-1055
+# ref = PT § 327a W, Saqqara, 5th Dynasty, rel, OE
+# text = (i҆)m ḫm(.w) Wni҆ś nčr śč čw rḫ.t(i҆) św śč św rḫ(.w) čw
+# lit = “Don't ignore Unas, O god, while you know him, while he knows you.”
+# trans = “Don't ignore Unas, O god, because you know him and he knows you.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
+4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+5	śč	śč	PART	_	_	7	mark	_	_
+6	čw	čw	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+7	rḫ.t(i҆)	rḫ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3	1	advcl	_	_
+8	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+9	śč	śč	PART	_	_	11	mark	_	_
+10	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	_
+12	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+
