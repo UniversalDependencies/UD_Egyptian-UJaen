@@ -16543,3 +16543,16 @@
 4	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 
+# sent_id = UDE-1072
+# ref = Pyramid Texts § 333b W, Saqqara, 5th Dynasty, rel, OE, for the function of i҆ś see Borghouts 2010: 127
+# text = n i҆w.n i҆ś Wni҆ś č̣ś ⸗f
+# lit = “Indeed, Unas cannot come of his body.”
+# trans = “Indeed, Unas cannot come of himself.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	i҆w.n	i҆wi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆ś	i҆ś	PART	Emp	PartType=Emp	4	advmod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+5	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	4	appos	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
