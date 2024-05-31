@@ -16443,12 +16443,44 @@
 # sent_id = UDE-1063
 # ref = PT § 330c T, Saqqara, 6th Dynasty, rel, OE
 # text = i҆:č̣ṭ(.w) i҆r <⸗k> rś wč̣ꜣ.w
-# lit = “They say of you: the awake one being intact.”
-# trans = “They say of you: the awake one being intact.”
+# lit = “They say of you: one who wakes healthy.”
+# trans = “They say of you: one who wakes healthy.”
 # type = Verbal sentence
 1	i҆:č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	i҆r	r	ADP	Pron.st	_	3	case	_	_
 3	<⸗k>	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 4	rś	rś	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
 5	wč̣ꜣ.w	wč̣ꜣ	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
+
+# sent_id = UDE-1064
+# ref = PT § 331c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ(.w) i҆r ⸗k rś wč̣ꜣ(.w)
+# lit = “They say of you: one who wakes healthy.”
+# trans = “They say of you: one who wakes healthy.”
+# type = Verbal sentence
+1	č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	rś	rś	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
+5	wč̣ꜣ(.w)	wč̣ꜣ	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
+
+# sent_id = UDE-1065
+# ref = PT § 332a W, Saqqara, 5th Dynasty, rel, OE
+# text = (i҆)m ḫm(.w) Wni҆ś kꜣ p.t śč čw i҆:rḫ.t(i҆) św śč św rḫ(.w) čw
+# lit = “Don't ignore Unas, O bull of the sky, while you know him, while he knows you.”
+# trans = “Don't ignore Unas, O bull of the sky, because you know him, because he knows you.”
+# type = Verbal sentence
+1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
+5	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+6	śč	śč	PART	_	_	8	mark	_	_
+7	čw	čw	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+8	i҆:rḫ.t(i҆)	rḫ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3	1	advcl	_	_
+9	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+10	śč	śč	PART	_	_	12	mark	_	_
+11	św	św	PRON	DepPron|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	_
+13	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
 
