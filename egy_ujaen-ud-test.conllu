@@ -16727,3 +16727,53 @@
 12	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
 13	mśk.tt	mśḳ.ti҆t	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
 
+# sent_id = UDE-1084
+# ref = Pyramid Texts § 335b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n Wni҆ś ẖn i҆m ⸗ś
+# lit = “It was Unas who row on it.”
+# trans = “It was Unas who row on it.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	ẖn	ẖni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	i҆m	m	ADP	Pron.st	Case=Loc	5	case	_	_
+5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-1085
+# ref = Pyramid Texts § 335b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n Tti҆ ẖn i҆m ⸗ś ni҆ś św mꜥnč̣.t
+# lit = “It was Teti who row on it when the day-bark summoned him.”
+# trans = “It was Teti who row on it when the day-bark summoned him.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	ẖn	ẖni̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	i҆m	m	ADP	Pron.st	Case=Loc	5	case	_	_
+5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+6	ni҆ś	ni҆ś	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+7	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	mꜥnč̣.t	mꜥnč̣.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+
+# sent_id = UDE-1086
+# ref = Pyramid Texts § 335c W, Saqqara, 5th Dynasty, rel, OE
+# text = śi҆ꜣ.n ⸗f i҆ꜥr.t m mꜥnč̣.t
+# lit = “He has recognized the Uraeus (certainly) in the day-bark.”
+# trans = “It was in the day-bark that he has recognized the Uraeus.”
+# type = Cleft sentence with adverbial focus
+1	śi҆ꜣ.n	śi҆ꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆ꜥr.t	i҆ꜥr.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	mꜥnč̣.t	mꜥnč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+
+# sent_id = UDE-1087
+# ref = Pyramid Texts § 335c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n Wni҆ś pnḳ ś(i҆)
+# lit = “It was Unas who baled it out.”
+# trans = “It was Unas who baled it out.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	pnḳ	pnḳ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+
