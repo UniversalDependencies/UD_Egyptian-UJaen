@@ -16278,9 +16278,9 @@
 
 # sent_id = UDE-1054
 # ref = Pyramid Texts § 326b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥḥꜥ Wni҆ś ḥr gś i҆ꜣb.ti҆ n(.i҆) mnwḥw.t
-# lit = "Unas stands (certainly) on the eastern side of the celestial vault."
-# trans = "It is on the eastern side of the celestial vault that Unas stands."
+# text = ꜥḥꜥ Wni҆ś ḥr gś i҆ꜣb.ti҆ n(.i҆) mnwḥw.t i҆n(.w) n ⸗f i҆ꜥ.t n ḥr.t
+# lit = "Unas stands (certainly) on the eastern side of the celestial vault after a way of ascent to the sky was brought to him."
+# trans = "It is on the eastern side of the celestial vault that Unas stands after a way of ascent to the sky was brought to him."
 # type = Cleft sentence with adverbial focus
 1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -16289,4 +16289,10 @@
 5	i҆ꜣb.ti҆	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	amod	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 7	mnwḥw.t	mnwḥw.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+8	i҆n(.w)	i҆n	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+9	n	n	ADP	Pron.st	Case=Dat	10	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
+11	i҆ꜥ.t	i҆ꜥr	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	nsubj:pass	_	_
+12	n	n	ADP	Cons.st	_	13	case	_	_
+13	ḥr.t	ḥr.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
 
