@@ -16673,7 +16673,7 @@
 
 # sent_id = UDE-1081
 # ref = Pyramid Texts § 334c W, Saqqara, 5th Dynasty, rel, OE
-# text = n ḫśb.n św ḥč̣ wr.w i҆r mśḳ.t śḥṭ.w
+# text = n ḫśb.n św ḥč̣ wr.w i҆r mśḳ.t(t) śḥṭ.w
 # lit = "The white chapel of the great ones cannot oppose him to the Mesqet of Sehedu (i.e. the Milky Way)."
 # trans = "The white chapel of the great ones cannot oppose him to the Mesqet of Sehedu (i.e. the Milky Way)."
 # type = Verbal sentence
@@ -16683,6 +16683,27 @@
 4	ḥč̣	ḥč̣	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	wr.w	wr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
 6	i҆r	r	ADP	Cons.st	_	7	case	_	_
-7	mśḳ.t	mśḳ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+7	mśḳ.t(t)	mśḳ.ti҆t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
 8	śḥṭ.w	śḥṭ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+
+# sent_id = UDE-1082
+# ref = Pyramid Texts § 335a W, Saqqara, 5th Dynasty, rel, OE
+# text = m ⸗k i҆r ⸗k pḥ.n Wni҆ś ḳꜣw.w p.t mꜣ.n ⸗f č̣.t ⸗f m mśk.t(t)
+# lit = "Look really, Unas has reached the height of heaven and has seen the cobra in the night-bark."
+# trans = "Look, Unas has really reached the height of heaven and has seen the cobra in the night-bark."
+# type = Verbal sentence
+1	m	m	PART	_	_	5	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	i҆r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	pḥ.n	pḥ	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	0	root	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
+7	ḳꜣw.w	ḳꜣw.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	obj	_	_
+8	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	č̣.t	č̣.t	NOUN	Obj	Gender=Fem|Number=Sing	9	obj	_	_
+12	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
+13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
+14	mśk.t(t)	mśk.ti҆t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
