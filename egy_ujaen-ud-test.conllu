@@ -16262,3 +16262,17 @@
 10	ḳmꜣ.w	ḳmꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	nmod	_	_
 11	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 
+# sent_id = UDE-1053
+# ref = Pyramid Texts § 326a W, Saqqara, 5th Dynasty, rel, OE, for ḳmꜣ.w see Edel 1955/1964: 315 (§ 639).
+# text = wn n ⸗f i҆m.(i҆)w Wnwn.t rmn(.w) ⸗śn
+# lit = "Those who are in Wewent open their arms (certainly) to him."
+# trans = "It is to him that those who are in Wewent open their arms."
+# type = Cleft sentence with adverbial focus
+1	wn	wn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+4	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	1	nsubj	_	_
+5	Wnwn.t	Wnwn.t	PROPN	_	Gender=Fem	4	nmod	_	_
+6	rmn(.w)	rmn	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
+7	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
+
