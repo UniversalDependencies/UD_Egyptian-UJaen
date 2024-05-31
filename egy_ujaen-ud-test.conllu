@@ -16616,3 +16616,42 @@
 10	š	š	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
 11	wr	wr	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	_
 
+# sent_id = UDE-1077
+# ref = PT § 334b W, Saqqara, 5th Dynasty, rel, OE
+# text = n šsp(.w) hm.t ⸗f ḥr mẖn.t wr.t
+# lit = “His fare for the great ferry-boat was not taken.”
+# trans = “His fare for the great ferry-boat was not taken.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	šsp(.w)	šsp	VERB	SFC|PastPass	Tense=Pass|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	hm.t	hm.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	ḥr	ḥr	ADP	Cons.st	_	6	case	_	_
+6	mẖn.t	mẖn.t	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+7	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+
+# sent_id = UDE-1078
+# ref = Pyramid Texts § 334b T, Saqqara, 6th Dynasty, rel, OE
+# text = č̣ꜣ.n Tti҆ <m> mẖn.t wr.t
+# lit = “Teti crossed (certainly) in the great ferry-boat.”
+# trans = “It was in the great ferry-boat that Teti crossed.”
+# type = Cleft sentence with adverbial focus
+1	č̣ꜣ.n	č̣ꜣi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	<m>	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	mẖn.t	mẖn.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+
+# sent_id = UDE-1079
+# ref = PT § 334b T, Saqqara, 6th Dynasty, rel, OE
+# text = n šsp(.w) hm.t i҆m ⸗ś
+# lit = “His fare was not taken in it.”
+# trans = “His fare was not taken in it.”
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	šsp(.w)	šsp	VERB	SFC|PastPass	Tense=Pass|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	hm.t	hm.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+4	i҆m	m	ADP	Pron.st	_	5	case	_	_
+5	mẖn.t	mẖn.t	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+6	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+
