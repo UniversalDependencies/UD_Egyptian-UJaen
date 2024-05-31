@@ -16370,3 +16370,17 @@
 11	i҆:rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	_
 12	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
 
+# sent_id = UDE-1059
+# ref = PT § 328c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:č̣ṭ(.w) i҆r ⸗k ꜥꜣ ḥtm(.w) nb(.w) tm(.w)
+# lit = “They say of you: one who is great of all who have been completely destroyed.”
+# trans = “They say of you: one who is great of all who have been completely destroyed.”
+# type = Verbal sentence
+1	i҆:č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	ꜥꜣ	ꜥꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
+5	ḥtm(.w)	ḥtm	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	nmod	_	_
+6	nb(.w)	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+7	tm(.w)	tm	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	5	advcl	_	_
+
