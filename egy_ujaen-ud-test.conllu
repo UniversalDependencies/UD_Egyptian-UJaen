@@ -16654,3 +16654,20 @@
 4	i҆m	m	ADP	Pron.st	_	5	case	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
 
+# sent_id = UDE-1080
+# ref = Pyramid Texts § 334c W, Saqqara, 5th Dynasty, rel, OE
+# text = n ḫśf.n ⸗f św m ḥč̣ wr.w ḥr mśḳ.t śḥṭ
+# lit = "He (a god) cannot oppose him on white chapel of the great ones on the Mesqet of Sehedu."
+# trans = "He (a god) cannot oppose him on white chapel of the great ones on the Mesqet of Sehedu."
+# type = Verbal sentence
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	ḫśf.n	ḫśf	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	ḥč̣	ḥč̣	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
+7	wr.w	wr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+8	ḥr	ḥr	ADP	Cons.st	_	9	case	_	_
+9	mśḳ.t	mśḳ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obl	_	_
+10	śḥṭ	śḥṭ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+
