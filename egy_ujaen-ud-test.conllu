@@ -16510,3 +16510,36 @@
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Plur	4	amod	_	_
 7	Nn.t	Nn.t	PROPN	_	Gender=Fem	4	nmod	_	_
 
+# sent_id = UDE-1069
+# ref = Pyramid Texts § 45a Nt, Saqqara, 6th Dynasty, rel, OE
+# text = m Wni҆ś i҆i҆.i҆
+# lit = "Look, Unas has come."
+# trans = "Look, Unas has come."
+# type = Verbal sentence
+1	m	m	PART	_	_	3	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	i҆i҆.i҆	i҆wi̯	VERB	OSSC	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = UDE-1070
+# ref = Pyramid Texts § 333a W, Saqqara, 5th Dynasty, rel, OE
+# text = m ⸗k Wni҆ś pr(.w)
+# lit = "Look, Unas gone up."
+# trans = "Look, Unas gone up."
+# type = Verbal sentence
+1	m	m	PART	_	_	4	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+4	pr(.w)	pri̯	VERB	OSSC	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+
+# sent_id = UDE-1071
+# ref = Pyramid Texts § 333a T, Saqqara, 6th Dynasty, rel, OE
+# text = m ⸗k Tti҆ i҆w ⸗f
+# lit = "Look, Teti comes."
+# trans = "Look, Teti comes."
+# type = Verbal sentence
+1	m	m	PART	_	_	4	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	dislocated	_	_
+4	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
