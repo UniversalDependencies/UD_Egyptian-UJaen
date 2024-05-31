@@ -16417,3 +16417,15 @@
 11	i҆:rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	_
 12	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
 
+# sent_id = UDE-1062
+# ref = PT § 329c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ(.w) i҆r ⸗k ḥtp wꜥ(.w)
+# lit = “They say of you: one who rests alone.”
+# trans = “They say of you: one who rests alone.”
+# type = Verbal sentence
+1	č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
+5	wꜥ(.w)	wꜥi҆	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
+
