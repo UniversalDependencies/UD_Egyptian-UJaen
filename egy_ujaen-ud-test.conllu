@@ -10586,7 +10586,7 @@
 # type = Verbal sentence
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	ś:i҆ꜥ	i҆ꜥ	VERB	Imp|Voice=Cau	Mood=Imp	0	root	_	_
+3	ś:i҆ꜥ	i҆ꜥr	VERB	Imp|Voice=Cau	Mood=Imp	0	root	_	_
 4	kw	kw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	3	expl	_	_
 5	n	n	ADP	Cons.st	Case=All	6	case	_	_
 6	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
@@ -16568,4 +16568,33 @@
 4	i҆ś	i҆ś	PART	Emp	PartType=Emp	5	advmod	_	_
 5	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	2	dislocated	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1074
+# ref = Pyramid Texts § 333c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n wp.t i҆i҆.t r ⸗f
+# lit = “It was a message which came for him.”
+# trans = “It was a message which came for him.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	i҆i҆.t	i҆wi̯	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	r	r	ADP	Pron.st	_	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+
+# sent_id = UDE-1075
+# ref = Pyramid Texts § 333c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n wp.(w)t ⸗čn i҆n.t św mṭw-nčr ś:i҆ꜥ św
+# lit = “It was your messages which fetched him and the god's word which reaised him up.”
+# trans = “It was your messages which fetched him and the god's word which reaised him up.”
+# type = Cleft sentence with nominal focus
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	wp.(w)t	wp.t	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+3	⸗čn	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆n.t	i҆ni̯	VERB	ADJ	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6-7	mṭw-nčr	_	_	_	_	_	_	_	_
+6	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
+7	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	compound	_	_
+8	ś:i҆ꜥ	i҆ꜥr	VERB	ADJ|Aug	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	orphan	_	_
+9	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 
