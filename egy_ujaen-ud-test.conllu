@@ -16429,3 +16429,26 @@
 4	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
 5	wꜥ(.w)	wꜥi҆	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
 
+# sent_id = UDE-1063
+# ref = PT § 330c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ(.w) i҆r ⸗k ḳśn
+# lit = “They say of you: the difficult one.”
+# trans = “They say of you: the difficult one.”
+# type = Verbal sentence
+1	č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆r	r	ADP	Pron.st	_	3	case	_	_
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	ḳśn	ḳśn	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
+
+# sent_id = UDE-1063
+# ref = PT § 330c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆:č̣ṭ(.w) i҆r <⸗k> rś wč̣ꜣ.w
+# lit = “They say of you: the awake one being intact.”
+# trans = “They say of you: the awake one being intact.”
+# type = Verbal sentence
+1	i҆:č̣ṭ(.w)	č̣ṭ	VERB	OSSC|Initial|Third-Imp	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	i҆r	r	ADP	Pron.st	_	3	case	_	_
+3	<⸗k>	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+4	rś	rś	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	parataxis	_	_
+5	wč̣ꜣ.w	wč̣ꜣ	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
+
