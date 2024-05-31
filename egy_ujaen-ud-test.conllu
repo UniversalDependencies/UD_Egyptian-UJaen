@@ -16263,7 +16263,7 @@
 11	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 
 # sent_id = UDE-1053
-# ref = Pyramid Texts § 326a W, Saqqara, 5th Dynasty, rel, OE, for ḳmꜣ.w see Edel 1955/1964: 315 (§ 639).
+# ref = Pyramid Texts § 326a W, Saqqara, 5th Dynasty, rel, OE
 # text = wn n ⸗f i҆m.(i҆)w Wnwn.t rmn(.w) ⸗śn
 # lit = "Those who are in Wewent open their arms (certainly) to him."
 # trans = "It is to him that those who are in Wewent open their arms."
@@ -16275,4 +16275,18 @@
 5	Wnwn.t	Wnwn.t	PROPN	_	Gender=Fem	4	nmod	_	_
 6	rmn(.w)	rmn	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 7	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-1054
+# ref = Pyramid Texts § 326b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ Wni҆ś ḥr gś i҆ꜣb.ti҆ n(.i҆) mnwḥw.t
+# lit = "Unas stands (certainly) on the eastern side of the celestial vault."
+# trans = "It is on the eastern side of the celestial vault that Unas stands."
+# type = Cleft sentence with adverbial focus
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	_	4	case	_	_
+4	gś	gś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	i҆ꜣb.ti҆	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	4	amod	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+7	mnwḥw.t	mnwḥw.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 
