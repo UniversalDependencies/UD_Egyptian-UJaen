@@ -17020,7 +17020,7 @@
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	i҆r	r	ADP	Cons.st	_	7	case	_	_
 7	gś	gś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-8	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	7	amod	_	_
+8	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	7	amod	_	_
 9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
 10	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 11-12	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
@@ -17145,4 +17145,38 @@
 3	i҆ꜣr,w	i҆ꜣr,w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 5	mw	mw	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+
+# sent_id = UDE-1108
+# ref = Pyramid Texts § 344a-b T, Saqqara, 6th Dynasty, rel, OE
+# text = č̣ꜣ-t(i҆) č̣ꜣu̯.t Tti҆ i҆m i҆r gś pf i҆ꜣb.t(i҆) n(.i҆) pt i҆r bw mś.i҆ św nčr(.w) i҆m (⸗f) mś-t(i҆) ⸗f mśw.t i҆m (⸗f) rnp.w
+# lit = “One will Teti transport in a transport over thereon to the eastern side of the sky, to the place where the gods gave birth to him, where someone gave birth to him young.”
+# trans = “One will Teti transport in a transport over thereon to the eastern side of the sky, to the place where the gods gave birth to him, where someone gave birth to him young.”
+# type = Cleft sentence with adverbial focus
+1-2	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
+1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obj	_	_
+5	i҆m	i҆m	ADV	_	AdvType=Loc	1	advmod	_	_
+6	i҆r	r	ADP	Cons.st	_	7	case	_	_
+7	gś	gś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	7	amod	_	_
+10	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+11	pt	pt	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+12	i҆r	r	ADP	Cons.st	Case=All	13	case	_	_
+13	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+14	mś.i҆	mśi̯	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	13	acl	_	_
+15	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	_
+17	i҆m	m	ADP	Pron.st	Case=Loc	18	case	_	_
+18	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
+19-20	mś-t(i҆)	_	_	_	_	_	_	_	_
+19	mś	mś	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	13	acl	_	_
+20	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	19	nsubj	_	_
+21	⸗f	⸗f	PRON	SFP|Obj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+22	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	19	advmod	_	_
+23	i҆m	m	ADP	Pron.st	Case=Loc	24	case	_	_
+24	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+25	rnp.w	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	21	advcl	_	_
 
