@@ -16875,7 +16875,7 @@
 13	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	obl	_	_
 
 # sent_id = UDE-1093
-# ref = Pyramid Texts § 388a W, Saqqara, 5h Dynasty, rel, OE
+# ref = Pyramid Texts § 338a W, Saqqara, 5h Dynasty, rel, OE
 # text = nfr(.w) {n} n Wni҆ś ḥnꜥ kꜣ ⸗f
 # lit = “It is well with Unas and his ka.”
 # trans = “It is well with Unas and his ka.”
@@ -16887,4 +16887,36 @@
 5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
 6	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-1094
+# ref = Pyramid Texts § 338a-339a W, Saqqara, 5h Dynasty, rel, OE, the meaning of nhn is unclear, see Wb. II 286.
+# text = ꜥnḫ Wni҆ś ḥnꜥ kꜣ ⸗f bꜣ ⸗f ḥr ⸗f ꜣmś ⸗f m ꜥ⸗f ꜥbꜣ ⸗f m č̣r.t ⸗f nhni̯ ⸗f n ⸗f sb(.w) r ⸗ś(n)
+# lit = “Unas lives (certainly) with his ka, his panther-skin on him, his sceptre in his arm, his baton in his hand, while he (?) for himself those who have gone to them.”
+# trans = “Unas lives (certainly) with his ka, his panther-skin on him, his sceptre in his arm, his baton in his hand, resting on (?) those who have gone to them.”
+# type = Verbal sentence + Adverbial sentence + Final clause
+1	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	ḥr	ḥr	ADP	Pron.st	Case=Sup	9	case	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	advcl	_	_
+10	ꜣmś	ꜣmś	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+12	m	m	ADP	Cons.st	_	13	case	_	_
+13	ꜥ⸗f	ꜥf	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	advcl	_	_
+14	ꜥbꜣ	ꜥbꜣ	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
+15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
+16	m	m	ADP	Cons.st	Case=Loc	17	case	_	_
+17	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	1	advcl	_	_
+18	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nmod	_	_
+19	nhni̯	nhni̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+20	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+21	n	n	ADP	Pron.st	_	19	case	_	_
+22	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+23	sb(.w)	sb	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	obj	_	_
+24	r	r	ADP	Cons.st	_	25	case	_	_
+25	⸗ś(n)	śn	PRON	SFP	Gender=Com|Number=Sing|Person=3|PronType=Prs	23	advcl	_	_
 
