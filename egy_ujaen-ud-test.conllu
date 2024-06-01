@@ -16796,3 +16796,20 @@
 11	n	n	ADP	Cons.st	Case=Dat	12	case	_	_
 12	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	8	iobj	_	_
 
+# sent_id = UDE-1089
+# ref = Pyramid Texts § 337a W, Saqqara, 65h Dynasty, rel, OE
+# text = (w)ṭ(.w) sḫn.w(i҆) p.t n Rꜥw č̣ꜣ ⸗f i҆m i҆r ꜣḫ.t
+# lit = “Thee reed-floats of the sky were set (certainly) for Re, that he may cross there to the horizon.”
+# trans = “Thee reed-floats of the sky were set (certainly) for Re, that he may cross on them to the horizon.”
+# type = Cleft sentence with adverbial focus
+1	(w)ṭ(.w)	wṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	sḫn.w(i҆)	sḫn	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	1	nsubj:pass	_	_
+3	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	iobj	_	_
+6	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	i҆m	i҆m	ADV	_	AdvType=Loc	6	advmod	_	_
+9	i҆r	r	ADP	Cons.st	_	10	case	_	_
+10	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+
