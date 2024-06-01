@@ -16925,7 +16925,7 @@
 # text = i҆n ⸗śn n ⸗f fṭ i҆pw ꜣḫ(.w) śmś.w(w) ḫnt.(i҆)w ḥnk.t(i҆)w ꜥḥꜥ.w m gś i҆ꜣb.t(i҆) n(.i҆) p.t č̣śr.w ḥr č̣ꜣm(.w) ⸗śn
 # lit = “They will bring (certainly) to him these four spirits, the elders who are at the head of the wearers of the side-lock, who stand in the eastern side and who lean on their staffs.”
 # trans = “It is to him that they will bring these four spirits, the elders who are at the head of the wearers of the side-lock, who stand in the eastern side and who lean on their staffs.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	i҆n	i҆ni̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
@@ -16952,7 +16952,7 @@
 # text = č̣ṭ ⸗śn rn nfr n(.i҆) Wni҆ś pn n Rꜥw
 # lit = “They will tell the good name of this Unas (certainly) to Re.”
 # trans = “It is to Re that they will tell the good name of this Unas.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	č̣ṭ	č̣ṭ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
@@ -16968,8 +16968,8 @@
 # text = ś:i҆w ⸗śn Wni҆ś pn n Nḥb(.w)-kꜣ(.w)
 # lit = “They will announce this Unas to Nehebu-kau.”
 # trans = “It is to Nehebu-kau that they will announce this Unas.”
-# type = Verbal sentence
-1	ś:i҆w	i҆wi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+# type = Cleft sentence with adverbial focus
+1	ś:i҆w	i҆wi̯	VERB	SFC|Fut|Abstrel|Voice=Cau	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
@@ -16983,7 +16983,7 @@
 # text = nč̣ ꜥḳ Wni҆ś pn m mḥ.t(i҆) śḫ.(w)t i҆ꜣr.w
 # lit = “The entry of this Unas will be greeted in the north of the fields of rushes.”
 # trans = “It is in the north of the fields of rushes that the entry of this Unas will be greeted.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	nč̣	nč̣	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	ꜥḳ	ꜥḳ	NOUN	Inf	Definite=Cons|Gender=Masc|VerbForm=Inf	1	nsubj:pass	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
@@ -16998,11 +16998,40 @@
 # text = č̣ꜣ Wni҆ś m mr n(.i҆) ḫꜣ
 # lit = “Unas will ferry across (certainly) on the Winding Canal.”
 # trans = “It is on the Winding Canal that Unas will ferry across.”
-# type = Verbal sentence
+# type = Cleft sentence with adverbial focus
 1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
 3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
 4	mr	mr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 6	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+
+# sent_id = UDE-1099
+# ref = PT § 341a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ꜣ-t(i҆) č̣ꜣ.t Wni҆ś pn i҆r gś i҆ꜣb.t(i҆) n(.i҆) ꜣḫ.t č̣ꜣ-t(i҆) č̣ꜣ.t Wni҆ś pn i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t
+# lit = “Someone will transport this Unas in a transport over the eastern side of the Akhet - Someone will transport this Unas in a transport over the eastern side of the sky.”
+# trans = “(Both of them:) Someone will fully transport this Unas over the eastern side of the Akhet - Someone will fully transport this Unas over the eastern side of the sky.”
+# type = Balanced sentence
+1-2	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
+1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	č̣ꜣ.t	č̣ꜣ.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆r	r	ADP	Cons.st	_	7	case	_	_
+7	gś	gś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+8	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	7	amod	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+10	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+1-2	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
+11	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+12	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	11	nsubj	_	_
+13	č̣ꜣ.t	č̣ꜣ.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	11	advmod	_	_
+14	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	obj	_	_
+15	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+16	i҆r	r	ADP	Cons.st	_	17	case	_	_
+17	gś	gś	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+18	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	17	amod	_	_
+19	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
+20	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
 
