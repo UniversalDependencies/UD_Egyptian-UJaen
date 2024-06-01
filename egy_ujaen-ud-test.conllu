@@ -4637,7 +4637,7 @@
 # lit = "They come (certainly) being rounded from it."
 # trans = "It is with rounded shape that they come from it."
 # type = Cleft sentence with adverbial focus
-1	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆:śšn.w	śšn	VERB	OSSC|Stat|Aug|VerbForm=Fin	Gender=Com|Number=Plur|Person=3|VerbForm=Conv	1	advcl	_	_
 4	i҆m	m	ADP	Pron.st	Case=Ela	5	case	_	_
@@ -17054,4 +17054,25 @@
 1	mśčw.t	mśčw.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
 2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	0	root	_	_
+
+# sent_id = UDE-1103
+# ref = Pyramid Texts § 342a W, Saqqara, 5h Dynasty, rel, OE
+# text = wꜣḥ(.w) sḫn.w(i҆) p.t n Ḥr.w č̣ꜣ ⸗f i҆m i҆r ꜣḫ.t ḫr Ḥr.w-ꜣḫ.ti҆
+# lit = “The reed-floats of the sky were set down (certainly) for Horus, that he may cross there with Harakhti.”
+# trans = “The reed-floats of the sky were set down (certainly) for Horus, that he may cross on them with Harakhti.”
+# type = Cleft sentence with adverbial focus
+1	wꜣḥ(.w)	wꜣḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	sḫn.w(i҆)	sḫn	NOUN	_	Gender=Masc|Number=Dual	1	nsubj:pass	_	_
+3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Ben	5	case	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
+6	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	i҆m	i҆m	ADV	_	_	6	advmod	_	_
+9	i҆r	r	ADP	Cons.st	_	10	case	_	_
+10	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	ḫr	ḫr	ADP	Cons.st	Case=Com	12	case	_	_
+12-13	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
+12	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	6	obl	_	_
+13	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	12	flat	_	_
 
