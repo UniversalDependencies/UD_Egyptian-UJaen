@@ -16963,3 +16963,18 @@
 8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
 9	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	iobj	_	_
 
+# sent_id = UDE-1097
+# ref = PT § 340a W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:i҆w ⸗śn Wni҆ś pn n Nḥb(.w)-kꜣ(.w)
+# lit = “They will announce this Unas to Neheb-kau.”
+# trans = “It is to Neheb-kau that they will announce this Unas.”
+# type = Verbal sentence
+1	ś:i҆w	i҆wi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6-7	Nḥb(.w)-kꜣ(.w)	_	_	_	_	_	_	_	_
+6	Nḥb(.w)	Nḥb(.w)	PROPN	_	Gender=Masc	1	iobj	_	_
+7	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	6	flat	_	_
+
