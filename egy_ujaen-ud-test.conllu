@@ -16893,7 +16893,7 @@
 # text = ꜥnḫ Wni҆ś ḥnꜥ kꜣ ⸗f bꜣ ⸗f ḥr ⸗f ꜣmś ⸗f m ꜥ⸗f ꜥbꜣ ⸗f m č̣r.t ⸗f nhni̯ ⸗f n ⸗f sb(.w) r ⸗ś(n)
 # lit = “Unas lives (certainly) with his ka, his panther-skin on him, his sceptre in his arm, his baton in his hand, while he (?) for himself those who have gone to them.”
 # trans = “Unas lives (certainly) with his ka, his panther-skin on him, his sceptre in his arm, his baton in his hand, resting on (?) those who have gone to them.”
-# type = Verbal sentence + Adverbial sentence + Final clause
+# type = Cleft sentence with adverbial focus + Adverbial sentence + Circumstantial clause
 1	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
@@ -16919,4 +16919,31 @@
 23	sb(.w)	sb	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	19	obj	_	_
 24	r	r	ADP	Cons.st	_	25	case	_	_
 25	⸗ś(n)	śn	PRON	SFP	Gender=Com|Number=Sing|Person=3|PronType=Prs	23	advcl	_	_
+
+# sent_id = UDE-1095
+# ref = PT § 339b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n ⸗śn n ⸗f fṭ i҆pw ꜣḫ(.w) śmś.w(w) ḫnt.(i҆)w ḥnk.t(i҆)w ꜥḥꜥ.w m gś i҆ꜣb.t(i҆) n(.i҆) p.t č̣śr.w ḥr č̣ꜣm(.w) ⸗śn
+# lit = “They will bring (certainly) to him these four spirits, the elders who are at the head of the wearers of the side-lock, who stand in the eastern side and who lean on their staffs.”
+# trans = “It is to him that they will bring these four spirits, the elders who are at the head of the wearers of the side-lock, who stand in the eastern side and who lean on their staffs.”
+# type = Verbal sentence
+1	i҆n	i҆ni̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+5	fṭ	i҆fṭ.w	NUM	NOUN	Gender=Masc	1	obj	_	_
+6	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
+8	śmś.w(w)	śmś.w	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
+9	ḫnt.(i҆)w	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	8	amod	_	_
+10	ḥnk.t(i҆)w	ḥnk.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Plur	8	nmod	_	_
+11	ꜥḥꜥ.w	ꜥḥꜥ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	8	amod	_	_
+12	m	m	ADP	Cons.st	_	13	case	_	_
+13	gś	gś	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	13	amod	_	_
+15	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	_
+16	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
+17	č̣śr.w	č̣śr	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	8	amod	_	_
+18	ḥr	ḥr	ADP	Cons.st	_	19	case	_	_
+19	č̣ꜣm(.w)	č̣ꜣm	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
+20	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	nmod	_	_
 
