@@ -17006,7 +17006,7 @@
 5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 6	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 
-# sent_id = UDE-1099
+# sent_id = UDE-1100
 # ref = PT § 341a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣ꜣ-t(i҆) č̣ꜣ.t Wni҆ś pn i҆r gś i҆ꜣb.t(i҆) n(.i҆) ꜣḫ.t č̣ꜣ-t(i҆) č̣ꜣ.t Wni҆ś pn i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t
 # lit = “Someone will transport this Unas in a transport over the eastern side of the Akhet - Someone will transport this Unas in a transport over the eastern side of the sky.”
@@ -17034,4 +17034,24 @@
 18	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Plur	17	amod	_	_
 19	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	_
 20	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+
+# sent_id = UDE-1101
+# ref = Pyramid Texts § 341c W, Saqqara, 5th Dynasty, rel, OE
+# text = śn.t ⸗f Śpṭ.t
+# lit = "His sister is Sothis."
+# trans = "His sister is Sothis."
+# type = Nominal sentence (A = B)
+1	śn.t	śn.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	Śpṭ.t	Śpṭ.t	PROPN	_	Gender=Fem	0	root	_	_
+
+# sent_id = UDE-1102
+# ref = Pyramid Texts § 341c W, Saqqara, 5th Dynasty, rel, OE
+# text = mśčw.t ⸗f Ṭwꜣ.t
+# lit = "His offspring is the dawn-light."
+# trans = "His offspring is the dawn-light."
+# type = Nominal sentence (A = B)
+1	mśčw.t	mśčw.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	Ṭwꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	0	root	_	_
 
