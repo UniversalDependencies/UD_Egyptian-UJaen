@@ -16777,3 +16777,22 @@
 3	pnḳ	pnḳ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 
+# sent_id = UDE-1088
+# ref = PT § 336a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = mtr.n św ḥnmm.t šṭ.n św šni҆.(w)t p.t ś:i҆ꜥ ⸗śn Wni҆ś n Rꜥw
+# lit = “After the sun-folk testified him and the hailstorms of the sky took him, they will raise Unas to Re.”
+# trans = “After the sun-folk testified him and the hailstorms of the sky took him, they will raise Unas to Re.”
+# type = Verbal sentence with a verbal topic
+1	mtr.n	mtr	VERB	SFC|Past-2|Abstrel|VerbTop	Tense=Past|VerbForm=Fin|Voice=Act	8	dislocated	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	ḥnmm.t	ḥnmm.t	NOUN	_	Gender=Fem|Number=Coll	1	nsubj	_	_
+4	šṭ.n	šṭi̯	VERB	SFC|Past-2|Abstrel|VerbTop	Tense=Past|VerbForm=Fin|Voice=Act	8	dislocated	_	_
+5	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+6	šni҆.(w)t	šni҆.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	4	nsubj	_	_
+7	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+8	ś:i҆ꜥ	i҆ꜥ	VERB	SFC|Sub|Voice=Cau	Mood=Sub	0	root	_	_
+9	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	obj	_	_
+11	n	n	ADP	Cons.st	Case=Dat	12	case	_	_
+12	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	8	iobj	_	_
+
