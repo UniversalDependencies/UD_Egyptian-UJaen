@@ -16966,8 +16966,8 @@
 # sent_id = UDE-1097
 # ref = PT § 340a W, Saqqara, 5th Dynasty, rel, OE
 # text = ś:i҆w ⸗śn Wni҆ś pn n Nḥb(.w)-kꜣ(.w)
-# lit = “They will announce this Unas to Neheb-kau.”
-# trans = “It is to Neheb-kau that they will announce this Unas.”
+# lit = “They will announce this Unas to Nehebu-kau.”
+# trans = “It is to Nehebu-kau that they will announce this Unas.”
 # type = Verbal sentence
 1	ś:i҆w	i҆wi̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
@@ -16977,4 +16977,19 @@
 6-7	Nḥb(.w)-kꜣ(.w)	_	_	_	_	_	_	_	_
 6	Nḥb(.w)	Nḥb(.w)	PROPN	_	Gender=Masc	1	iobj	_	_
 7	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	6	flat	_	_
+
+# sent_id = UDE-1098
+# ref = PT § 340c W, Saqqara, 5th Dynasty, rel, OE
+# text = nč̣ ꜥḳ Wni҆ś pn m mḥ.t(i҆) śḫ.(w)t i҆ꜣr.w
+# lit = “The entry of this Unas will be greeted in the north of the fields of rushes.”
+# trans = “It is in the north of the fields of rushes that the entry of this Unas will be greeted.”
+# type = Verbal sentence
+1	nč̣	nč̣	VERB	SFC|FutPass|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	ꜥḳ	ꜥḳ	NOUN	Inf	Definite=Cons|Gender=Masc|VerbForm=Inf	1	nsubj:pass	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
+6	mḥ.t(i҆)	mḥ.ti҆	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+7	śḫ.(w)t	śḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
+8	i҆ꜣr.w	i҆ꜣr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 
