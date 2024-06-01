@@ -16947,3 +16947,19 @@
 19	č̣ꜣm(.w)	č̣ꜣm	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
 20	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	nmod	_	_
 
+# sent_id = UDE-1096
+# ref = PT § 340a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ṭ ⸗śn rn nfr n(.i҆) Wni҆ś pn n Rꜥw
+# lit = “They will tell the good name of this Unas (certainly) to Re.”
+# trans = “It is to Re that they will tell the good name of this Unas.”
+# type = Verbal sentence
+1	č̣ṭ	č̣ṭ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+4	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
+9	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	iobj	_	_
+
