@@ -16993,3 +16993,16 @@
 7	śḫ.(w)t	śḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	nmod	_	_
 8	i҆ꜣr.w	i҆ꜣr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 
+# sent_id = UDE-1099
+# ref = PT § 341a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ꜣ Wni҆ś m mr n(.i҆) ḫꜣ
+# lit = “Unas will ferry across (certainly) on the Winding Canal.”
+# trans = “It is on the Winding Canal that Unas will ferry across.”
+# type = Verbal sentence
+1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj:pass	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	mr	mr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+6	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+
