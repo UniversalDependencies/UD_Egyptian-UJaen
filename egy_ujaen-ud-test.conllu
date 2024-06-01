@@ -17080,7 +17080,7 @@
 # ref = Pyramid Texts § 342b T, Saqqara, 6th Dynasty, rel, OE
 # text = wꜣḥ(.w) sḫn.w(i҆) p.t n Tti҆ č̣ꜣ ⸗f i҆m i҆r ꜣḫ.t ḫr Ḥr.w-ꜣḫ.ti҆
 # lit = “The reed-floats of the sky were set down (certainly) for Teti, that he may cross there with Harakhti.”
-# trans = “The reed-floats of the sky were set down (certainly) for Horus, that he may cross on them with Harakhti.”
+# trans = “The reed-floats of the sky were set down (certainly) for Teti, that he may cross on them with Harakhti.”
 # type = Cleft sentence with adverbial focus
 1	wꜣḥ(.w)	wꜣḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	sḫn.w(i҆)	sḫn	NOUN	_	Gender=Masc|Number=Dual	1	nsubj:pass	_	_
@@ -17096,4 +17096,27 @@
 12-13	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
 12	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	6	obl	_	_
 13	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	12	flat	_	_
+
+# sent_id = UDE-1105
+# ref = Pyramid Texts § 342c T, Saqqara, 6th Dynasty, rel, OE
+# text = wꜣḥ(.w) sḫn.w(i҆) p.t n Šs-ḫnti҆ č̣ꜣ ⸗f i҆m i҆r ꜣḫ.t ḫr Ḥr.w-ꜣḫ.ti҆
+# lit = “The reed-floats of the sky were set down (certainly) for Sheskhenti, that he may cross there with Harakhti.”
+# trans = “The reed-floats of the sky were set down (certainly) for Sheskhenti, that he may cross on them with Harakhti.”
+# type = Cleft sentence with adverbial focus
+1	wꜣḥ(.w)	wꜣḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	sḫn.w(i҆)	sḫn	NOUN	_	Gender=Masc|Number=Dual	1	nsubj:pass	_	_
+3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5-6	Šs-ḫnti҆	_	_	_	_	_	_	_	_
+5	Šs	Šs	PROPN	_	Gender=Masc	1	obl	_	_
+6	ḫnti҆	ḫnti҆	_	_	_	5	flat	_	_
+7	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+9	i҆m	i҆m	ADV	_	_	7	advmod	_	_
+10	i҆r	r	ADP	Cons.st	_	11	case	_	_
+11	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+12	ḫr	ḫr	ADP	Cons.st	Case=Com	13	case	_	_
+13-14	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
+13	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	7	obl	_	_
+14	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	13	flat	_	_
 
