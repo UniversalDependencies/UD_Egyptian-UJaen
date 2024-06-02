@@ -13872,3 +13872,36 @@
 32	śr	śr	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	_
 33	i҆ś	i҆ś	ADP	_	Case=Equ	32	case	_	_
 
+# sent_id = UDE-1111
+# ref = Pyramid Texts § 348a T, Saqqara, 6th Dynasty, rel, OE
+# text = ni҆ś n ⸗śn Tti҆ i҆n n ⸗f śn fṭ.w i҆pw nčr(.w) ꜥḥꜥ.w ḥr č̣ꜥm.w p.t i҆:č̣ṭ ⸗śn rn n(.i҆) Tti҆ n Rꜥw wčs ⸗śn rn ⸗f n Ḥr.w-ꜣḫ.ti҆
+1	ni҆ś	ni҆ś	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
+3	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+5	i҆n	i҆ni̯	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	_
+6	n	n	ADP	Pron.st	Case=Dat	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
+8	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	5	obj	_	_
+9	fṭ.w	i҆fṭ.w	NUM	CARD|NOUN	Gender=Masc	5	nsubj	_	_
+10	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	9	det	_	_
+11	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	_
+12	ꜥḥꜥ.w	ꜥḥꜥ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	amod	_	_
+13	ḥr	ḥr	ADP	Cons.st	_	14	case	_	_
+14	č̣ꜥm.w	č̣ꜥm	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	12	obl	_	_
+15	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	i҆:č̣ṭ	i҆:č̣ṭ	VERB	SFC|Sub|Aug|Finalcl	Mood=Sub	5	advcl	_	_
+17	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+18	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	16	obj	_	_
+19	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	18	amod	_	_
+20	Tti҆	Tti҆	PROPN	_	Gender=Masc	18	nmod	_	_
+21	n	n	ADP	Cons.st	Case=Dat	22	case	_	_
+22	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	16	iobj	_	_
+23	wčs	wčs	VERB	SFC|Sub|Finalcl	Mood=Sub	16	conj	_	_
+24	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+25	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	16	obj	_	_
+26	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nmod	_	_
+27	n	n	ADP	Cons.st	Case=Dat	28	case	_	_
+28-29	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
+30	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	23	obl	_	_
+31	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	6	flat	_	_
