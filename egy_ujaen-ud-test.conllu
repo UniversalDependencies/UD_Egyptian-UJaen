@@ -17182,9 +17182,9 @@
 
 # sent_id = UDE-1109
 # ref = Pyramid Texts § 345a-346b T, Saqqara, 6th Dynasty, rel, OE
-# text = i҆w nw pn bkꜣ nw n(.i҆) ṭni҆.nw nw n(.i҆) 6.nw nw n(.i҆) 7.nw nw n(.i҆) 8.nw ni҆ś-t(i҆) i҆r Tti҆ i҆n Rꜥw
-# lit = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, one whill speak to Teti, (namely) Re.”
-# trans = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, it is to Teti to whom one, namely Re, will speak.”
+# text = i҆w nw pn bkꜣ nw n(.i҆) ṭni҆.nw nw n(.i҆) 6.nw nw n(.i҆) 7.nw nw n(.i҆) 8.nw ni҆ś-t(i҆) i҆r Tti҆ i҆n Rꜥw č̣-t(i҆) n ⸗f i҆ḫ.t i҆n Nḥb(.w)-kꜣ(.w) Ḥr.w i҆ś ꜣḫ.ti҆ i҆ś
+# lit = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, one whill speak to Teti, namely Re, in order that one will give to him a meal, namely Nehebu-kau, as Horus, as the horizon-dweller.”
+# trans = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, it is to Teti to whom one, namely Re, will speak in order that one will give to him a meal, namely Nehebu-kau, as Horus, as the horizon-dweller.”
 # type = Cleft sentence with adverbial focus and verbal topic
 1	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	17	dislocated	_	_
 2	nw	nw	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
@@ -17209,4 +17209,18 @@
 20	Tti҆	tti҆	PROPN	_	Gender=Masc	17	obl	_	_
 21	i҆n	i҆n	ADP	Cons.st	_	22	case	_	_
 22	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	17	obl:agent	_	Man-Imp
+23-24	č̣-t(i҆)	_	_	_	_	_	_	_	_
+23	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	17	root	_	_
+24	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	23	nsubj	_	_
+25	n	n	ADP	Pron.st	Case=Dat	26	case	_	_
+26	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	iobj	_	_
+27	i҆ḫ.t	i҆ḫ.t	NOUN	Obj	Gender=Fem|Number=Sing	23	obj	_	_
+28	i҆n	i҆n	ADP	Cons.st	_	29	case	_	_
+29-30	Nḥb(.w)-kꜣ(.w)	_	_	_	_	_	_	_	_
+29	Nḥb(.w)	Nḥb(.w)	PROPN	_	Gender=Masc	23	obl:agent	_	Man-Imp
+30	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	29	flat	_	_
+31	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	23	obl	_	_
+32	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	31	case	_	_
+33	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	23	obl	_	_
+34	i҆ś	i҆ś	ADP	_	Case=Equ	33	case	_	_
 
