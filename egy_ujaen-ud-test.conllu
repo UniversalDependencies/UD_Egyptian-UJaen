@@ -13906,3 +13906,21 @@
 28	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	23	obl	_	_
 29	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	28	flat	_	_
 
+# sent_id = UDE-1112
+# ref = Pyramid Texts § 349a-b T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆i҆.n ⸗f n ⸗k i҆w.n ⸗f n ⸗k wḥꜥ ⸗f ḳꜣś.w śfḫḫ ⸗f nčč.w
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Lat	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	n	n	ADP	Pron.st	Case=Lat	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+9	wḥꜥ	wḥꜥ	VERB	SFC|Sub|Finalcl	Mood=Sub	5	advcl	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	ḳꜣś.w	ḳꜣś	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
+12	ś:fḫḫ	ś:fḫḫ	VERB	SFC|Sub|Aug|Finalcl	Mood=Sub	9	advcl	_	_
+13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	nčč.w	nčč	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
+
