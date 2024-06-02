@@ -5762,8 +5762,8 @@
 46	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	48	nsubj	_	_
 47	i҆ś	i҆ś	PART	_	_	48	discourse	_	_
 48	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	9	advcl	_	_
-49	ṭi҆.t	ṭi҆	NUM	NOUN	Gender=Fem	48	nmod	_	_
-50	i҆š.tt	i҆š.tt	NOUN	_	Gender=Fem|Number=Plur	49	appos	_	_
+49	ṭi҆.t	ṭi҆	NUM	Card|NOUN	Gender=Fem	48	nmod	_	_
+50	i҆š.tt	i҆š.tt	NOUN	_	Gender=Fem|Number=Plur	50	appos	_	_
 51	m	m	ADP	Cons.st	Case=Loc	52	case	_	_
 52	ḥw.t	ḥw.t	NOUN	NisbaPrep	Gender=Fem|Number=Sing	50	obl	_	_
 
@@ -5774,7 +5774,7 @@
 # trans = "Three are in the sky with Re."
 # type = i҆w + adverbial sentence 
 1	i҆w	i҆w	PART	_	_	4	discourse	_	_
-2	ḫmt.t	ḫmt	NUM	NOUN	Gender=Fem	4	nsubj	_	_
+2	ḫmt.t	ḫmt	NUM	Card|NOUN	Gender=Fem	4	nsubj	_	_
 3	r	r	ADP	Cons.st	_	4	case	_	_
 4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 5	ḫr	ḫr	ADP	Cons.st	_	6	case	_	_
@@ -5787,7 +5787,7 @@
 # trans = "Two (meals) (are) on earth with the Two Enneads."
 # type = i҆w + adverbial sentence 
 1	i҆w	i҆w	PART	_	_	4	discourse	_	_
-2	śn.t	śn.w	NUM	NOUN	Gender=Fem	4	nsubj	_	_
+2	śn.t	śn.w	NUM	Card|NOUN	Gender=Fem	4	nsubj	_	_
 3	r	r	ADP	Cons.st	_	4	case	_	_
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	ḫr	ḫr	ADP	Cons.st	Case=Com	6	case	_	_
@@ -7944,7 +7944,7 @@
 10	ḫr.wt	ḫr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 11	ś.t	ś.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
 12	wꜣč̣	wꜣč̣	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
-13	fṭ.w	fṭ.w	NUM	NOUN	Gender=Masc	12	nmod	_	_
+13	fṭ.w	fṭ.w	NUM	Card|NOUN	Gender=Masc	12	nmod	_	_
 
 # sent_id = UDE-536
 # ref = PT § 152b/154b/156b/158b W, Saqqara, 5th Dynasty, rel, OE
@@ -9881,7 +9881,7 @@
 3	i҆ꜣḳ	i҆ꜣḳ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	3	nsubj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-6	pśč̣.t	pśč̣.t	NUM	NOUN	Gender=Fem	3	obj	_	_
+6	pśč̣.t	pśč̣.t	NUM	Card|NOUN	Gender=Fem	3	obj	_	_
 7	ḥtm	ḥtm	VERB	SFC|Sub|Finalcl	Mood=Sub	3	conj	_	_
 8	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	7	obj	_	_
@@ -10509,10 +10509,10 @@
 3	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	ḥmś	ḥmś	VERB	Imp	Mood=Imp|Number=Sing	3	conj	_	_
 5	r	r	ADP	Cons.st	Case=All	6	case	_	_
-6	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
+6	ḫꜣ	ḫꜣ	NUM	Card|NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 7	m	m	ADP	Cons.st	_	8	case	_	_
 8	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
-9	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	6	conj	_	_
+9	ḫꜣ	ḫꜣ	NUM	Card|NOUN	Gender=Masc|Number=Sing	6	conj	_	_
 10	m	m	ADP	Cons.st	_	11	case	_	_
 11	ḥ(n)ḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
@@ -12409,7 +12409,7 @@
 14	si҆.t	sr.t	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
 15	bꜣḳ.t	bꜣḳ	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
 16	śnḳ.w	śnḳ	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	8	acl	_	_
-17	fṭ.t	i҆fṭ.w	NUM	NOUN	Gender=Fem	16	nsubj	_	_
+17	fṭ.t	i҆fṭ.w	NUM	Card|NOUN	Gender=Fem	16	nsubj	_	_
 18	wꜣp.t	wꜣp.t	NOUN	_	Gender=Fem|Number=Sing	17	appos	_	_
 
 # sent_id = UDE-819
@@ -15835,9 +15835,9 @@
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	s.y	si҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 4	i҆i҆.y	i҆wi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
-5	fṭ.nw	fṭ.nw	NUM	ADJ	Gender=Masc|Number=Sing	4	appos	_	_
+5	fṭ.nw	fṭ.nw	NUM	Ord	Gender=Masc|Number=Sing	4	appos	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-7	fṭ.w	i҆fṭ.w	NUM	NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
+7	fṭ.w	i҆fṭ.w	NUM	Card|NOUN	Gender=Masc|Number=Plur	5	nmod	_	_
 8	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	_
 9	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	8	appos	_	_
 10	i҆n.w	i҆ni̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	9	amod	_	_
@@ -16930,7 +16930,7 @@
 2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-5	fṭ	i҆fṭ.w	NUM	NOUN	Gender=Masc	1	obj	_	_
+5	fṭ	i҆fṭ.w	NUM	Card|NOUN	Gender=Masc	1	obj	_	_
 6	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
 7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	5	appos	_	_
 8	śmś.w(w)	śmś.w	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
@@ -17132,7 +17132,7 @@
 4	i҆ꜣḫ.i҆	wꜣḫ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 5	mr	mr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-7	ḫꜣ	ḫꜣ	NUM	NOUN	Gender=Masc|Number=Sing	5	nmod	_	_
+7	ḫꜣ	ḫꜣ	NUM	Card|NOUN	Gender=Masc|Number=Sing	5	nmod	_	_
 
 # sent_id = UDE-1107
 # ref = Pyramid Texts § 343b T, Saqqara, 6th Dynasty, rel, OE
@@ -17179,4 +17179,34 @@
 23	i҆m	m	ADP	Pron.st	Case=Loc	24	case	_	_
 24	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
 25	rnp.w	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	21	advcl	_	_
+
+# sent_id = UDE-1109
+# ref = Pyramid Texts § 345a-346b T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w nw pn bkꜣ nw n(.i҆) ṭni҆.nw nw n(.i҆) 6.nw nw n(.i҆) 7.nw nw n(.i҆) 8.nw ni҆ś-t(i҆) i҆r Tti҆ i҆n Rꜥw
+# lit = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, one whill speak to Teti, (namely) Re.”
+# trans = “When this time of the morrow comes, the time of the fifth day, the time of the sixth day, the time of the seventh day, the time of the eighth day, it is to Teti to whom one, namely Re, will speak.”
+# type = Cleft sentence with adverbial focus and verbal topic
+1	i҆w	i҆wi̯	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	17	dislocated	_	_
+2	nw	nw	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	bkꜣ	bkꜣ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	nw	nw	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	ṭni҆.nw	5.nw	NUM	ORD	Gender=Masc	5	nmod	_	_
+8	nw	nw	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	8	amod	_	_
+10	6.nw	6.nw	NUM	ORD	Gender=Masc|Number=Sing	8	nmod	_	_
+11	nw	nw	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+12	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	_
+13	7.nw	7.nw	NUM	ORD	Gender=Masc|Number=Sing	11	nmod	_	_
+14	nw	nw	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+15	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	_
+16	8.nw	8.nw	NUM	ORD	Gender=Masc|Number=Sing	14	nmod	_	_
+17-18	ni҆ś-t(i҆)	_	_	_	_	_	_	_	_
+17	ni҆ś	ni҆ś	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+18	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	17	nsubj	_	_
+19	i҆r	r	ADP	Pron.st	_	20	case	_	_
+20	Tti҆	tti҆	PROPN	_	Gender=Masc	17	obl	_	_
+21	i҆n	i҆n	ADP	Cons.st	_	22	case	_	_
+22	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	17	obl:agent	_	Man-Imp
 
