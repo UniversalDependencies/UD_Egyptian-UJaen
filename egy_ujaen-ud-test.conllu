@@ -14153,3 +14153,15 @@
 43	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	42	nmod	_	_
 44	Ppy	Ppy	NOUN	_	Gender=Masc	42	nsubj	_	_
 45	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	44	det	_	_
+
+# sent_id = UDE-1125a
+# ref = Pyramid Texts § 356c P, Saqqara, 6th Dynasty, rel, OE
+# text = mꜣꜥ ḫrw Ppy pn
+# lit = "A right one of voice is this Pepi."
+# trans = "This Pepi is justified."
+# type = Nominal sentence (A = B)
+1	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+2	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	Ppy	Ppy	NOUN	_	Gender=Masc	1	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
