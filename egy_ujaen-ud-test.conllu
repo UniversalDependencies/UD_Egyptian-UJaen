@@ -14077,3 +14077,14 @@
 32	ꜣḫ.t(i҆)	ꜣḫ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	21	obl	_	_
 33	i҆ś	i҆ś	ADP	_	Case=Equ	32	case	_	_
 
+# sent_id = UDE-1122
+# ref = Pyramid Texts § 354a P, Saqqara, 6th Dynasty, rel, OE
+# text = mꜣ[ꜥ] [ḫ]r[w] Ppy pn
+# lit = "A right one of voice is this Pepi."
+# trans = "This Pepi is justified."
+# type = Nominal sentence (A = B)
+1	mꜣ[ꜥ]	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+2	[ḫ]r[w]	[ḫ]r[w]	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	Ppy	Ppy	NOUN	_	Gender=Masc	1	nsubj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
