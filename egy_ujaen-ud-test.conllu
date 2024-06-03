@@ -14036,3 +14036,41 @@
 5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 6	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	4	nmod	_	_
 
+# sent_id = UDE-1121
+# ref = Pyramid Texts § 352b-353  P, Saqqara, 6th Dynasty, rel, OE
+# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f)  mś-[t]i҆ Ppy i҆m mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś
+1	mḥ.y	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
+3	{č̣}	{č̣}	X	_	Typo=Yes	4	dep	_	_
+4	<i҆>ꜣr,w	i҆ꜣr,w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	č̣ꜣ	č̣ꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
+6	Ppy	Ppy	PROPN	_	Gender=Masc	5	nsubj	_	_
+7	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	5	advmod	_	_
+8	i҆r	r	ADP	Cons.st	_	9	case	_	_
+9	gś	gś	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	9	amod	_	_
+11	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	_
+12	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
+13	i҆r	r	ADP	Cons.st	Case=Lat	14	case	_	_
+14	bw	bw	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+15	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
+16	mś	mśi̯	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	14	acl	_	_
+15	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+16	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	_
+17	i҆m	m	ADP	Pron.st	Case=Loc	18	case	_	_
+18	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19-20	mś-[t](i҆)	_	_	_	_	_	_	_	_
+19	mś	mś	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	14	acl	_	_
+20	[t](i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	19	nsubj	_	_
+21	Ppy	Ppy	PROPN	_	Gender=Masc	19	obj	_	_
+22	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	19	advmod	_	_
+23	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	_
+24	i҆m	m	ADP	Pron.st	Case=Loc	24	case	_	_
+25	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
+26	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	27	case	_	_
+27	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	obl	_	_
+28	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	19	obl	_	_
+29	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	28	case	_	_
+30	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	19	obl	_	_
+31	i҆ś	i҆ś	ADP	_	Case=Equ	28	case	_	_
+
