@@ -14037,11 +14037,8 @@
 6	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	4	nmod	_	_
 
 # sent_id = UDE-1121
-# ref = Pyramid Texts § 352b-353  P, Saqqara, 6th Dynasty, rel, OE
-# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f) mś-[t]i҆ Ppy i҆m (⸗f) mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś
-# lit = “The fields of rushes were filled (certainly) in order that Pepy may cross crossing to the eastern side of the sky, to this place where the gods gave birth to him, where someone gave birth to Pepi in his birth together with them as Horus and as the horizon-dweller.”
-# trans = “The fields of rushes were filled (certainly) in order that Pepy may cross crossing to the eastern side of the sky, to this place where the gods gave birth to him, where someone gave birth to Pepi in his birth together with them as Horus and as the horizon-dweller.”
-# type = Cleft sentence with adverbial focus
+# ref = Pyramid Texts § 352b-354a  P, Saqqara, 6th Dynasty, rel, OE
+# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f) mś-[t]i҆ Ppy i҆m (⸗f) mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś mꜣ[ꜥ] [ḫ]r[w] Ppy pn
 1	mḥ.y	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
 3	{č̣}	{č̣}	X	_	Typo=Yes	4	dep	_	_
@@ -14076,13 +14073,14 @@
 31	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	30	case	_	_
 32	ꜣḫ.t(i҆)	ꜣḫ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	21	obl	_	_
 33	i҆ś	i҆ś	ADP	_	Case=Equ	32	case	_	_
+34	mꜣ[ꜥ]	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	parataxis	_	_
+35	[ḫ]r[w]	[ḫ]r[w]	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
+36	Ppy	Ppy	NOUN	_	Gender=Masc	34	nsubj	_	_
+37	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	37	det	_	_
 
-# sent_id = UDE-1122
+# sent_id = UDE-1122a
 # ref = Pyramid Texts § 354a P, Saqqara, 6th Dynasty, rel, OE
 # text = mꜣ[ꜥ] [ḫ]r[w] Ppy pn
-# lit = "A right one of voice is this Pepi."
-# trans = "This Pepi is justified."
-# type = Nominal sentence (A = B)
 1	mꜣ[ꜥ]	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 2	[ḫ]r[w]	[ḫ]r[w]	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 3	Ppy	Ppy	NOUN	_	Gender=Masc	1	nsubj	_	_
@@ -14091,9 +14089,6 @@
 # sent_id = UDE-1123
 # ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
 # text = hn n Ppy pn
-# lit = "Ululate is for this Pepi."
-# trans = "Ululate belongs to this Pepi."
-# type = Adverbial sentence
 1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
 3	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
@@ -14102,9 +14097,6 @@
 # sent_id = UDE-1124
 # ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
 # text = hn n kꜣ n(.i҆) Ppy pn
-# lit = "Ululate is for the ka of this Pepi."
-# trans = "Ululate is for the ka of this Pepi."
-# type = Adverbial sentence
 1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
 3	kꜣ	kꜣ	NOUN	Subj	Gender=Masc|Number=Sing	0	root	_	_
