@@ -13924,3 +13924,46 @@
 13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 14	nčč.w	nčč	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
 
+# sent_id = UDE-1113
+# ref = Pyramid Texts § 350a T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆w nḥm.n ⸗f Tti҆ m-ꜥ ẖr.t
+1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
+2	nḥm.n	nḥm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	obj	_	_
+5-6	m-ꜥ	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
+6	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Fem|Number=Sing	2	obl	_	_
+
+# sent_id = UDE-1114
+# ref = PT § 350a T, Saqqara, 6th Dynasty, rel, OE
+# text = n rč̣.n ⸗f św n Wśr.w
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	rč̣.n	rč̣i̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6	Wśr.w	wśr.w	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	_
+
+# sent_id = UDE-1115
+# ref = PT § 350b T, Saqqara, 6th Dynasty, rel, OE
+# text = n mwt.n i҆ś Tti҆ mwt.t
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	mwt.n	mwt	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	i҆ś	i҆ś	PART	Emp	PartType=Emp	4	advmod	_	_
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
+5	mwt.t	mwt.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+
+# sent_id = UDE-1116
+# ref = PT § 350c T, Saqqara, 6th Dynasty, rel, OE
+# text = ꜣḫ.n ⸗f m ꜣḫ.t č̣ṭ.n ⸗f m Č̣ṭ.wt
+1	ꜣḫ.n	ꜣḫ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	č̣ṭ.n	č̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+7	m	m	ADP	Cons.st	Case=Loc	8	case	_	_
+8	Č̣ṭ.wt	Č̣ṭ.wt	PROPN	_	Gender=Fem	1	obl	_	_
+
