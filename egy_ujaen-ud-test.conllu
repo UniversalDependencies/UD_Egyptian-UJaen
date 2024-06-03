@@ -14073,7 +14073,7 @@
 31	i҆ś	i҆ś	ADP	Cons.st	Case=Equ	30	case	_	_
 32	ꜣḫ.t(i҆)	ꜣḫ.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Sing	21	obl	_	_
 33	i҆ś	i҆ś	ADP	_	Case=Equ	32	case	_	_
-34	mꜣ[ꜥ]	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	parataxis	_	_
+34	mꜣ[ꜥ]	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	parataxis	_	_
 35	[ḫ]r[w]	[ḫ]r[w]	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
 36	Ppy	Ppy	NOUN	_	Gender=Masc	34	nsubj	_	_
 37	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	36	det	_	_
@@ -14104,3 +14104,52 @@
 5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
+# sent_id = UDE-1125
+# ref = Pyramid Texts § 355a-356b P, Saqqara, 6th Dynasty, rel, OE
+# text = ni҆ś ⸗śn n Ppy pn i҆n ⸗śn n Ppy pn fṭ.w i҆pw ś:wꜣ.t(i҆)w ḥnk.t(i҆w) ꜥḥꜥ.i҆w ḥr č̣ꜥm(.w) ⸗śn m gś i҆ꜣb(.i҆) n(.i҆) p.t i҆:č̣ṭ ⸗śn rn n(.i҆) Ppy n(.i҆) nfr n Rꜥw wčs ⸗śn rn ⸗f n(.i҆) nfr n Nḥb(.w)-kꜣ(.w) mꜣꜥ ḫrw Ppy pn
+1	ni҆ś	ni҆ś	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
+4	Ppy	Ppy	PROPN	_	Gender=Masc	1	iobj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆n	i҆ni̯	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	_
+7	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
+9	Ppy	Ppy	PROPN	_	Gender=Masc	6	iobj	_	_
+10	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
+11	fṭ.w	i҆fṭ.w	NUM	CARD|NOUN	Gender=Masc	6	obj	_	_
+12	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+13	ś:wꜣ.t(i҆)w	ś:wꜣ.ti҆	NOUN	Voice=Cau	Gender=Masc|Number=Plur	11	appos	_	_
+14	ḥnk.t(i҆w)	ḥnk.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Plur	13	appos	_	_
+15	ꜥḥꜥ.i҆w	ꜥḥꜥ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	amod	_	_
+16	ḥr	ḥr	ADP	Cons.st	_	17	case	_	_
+17	č̣ꜥm(.w)	č̣ꜥm	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	obl	_	_
+18	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nmod	_	_
+19	m	m	ADP	Cons.st	Case=Loc	20	case	_	_
+20	gś	gś	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+21	i҆ꜣb(.i҆)	i҆ꜣb.i҆	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_
+22	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	20	amod	_	_
+23	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
+24	i҆:č̣ṭ	č̣ṭ	VERB	SFC|Sub|Aug|Finalcl	Mood=Sub	6	advcl	_	_
+25	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
+26	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	24	obj	_	_
+27	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	26	amod	_	_
+28	Ppy	Ppy	PROPN	_	Gender=Masc	26	nmod	_	_
+29	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	26	amod	_	_
+30	nfr	nfr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	26	nmod	_	_
+31	n	n	ADP	Cons.st	Case=Dat	32	case	_	_
+32	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	24	iobj	_	_
+33	wčs	wčs	VERB	SFC|Sub|Finalcl	Mood=Sub	24	conj	_	_
+34	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	33	nsubj	_	_
+35	rn	rn	NOUN	Obj	Gender=Masc|Number=Sing	33	obj	_	_
+36	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	35	nmod	_	_
+37	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	35	amod	_	_
+38	nfr	nfr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	35	nmod	_	_
+39	n	n	ADP	Cons.st	Case=Dat	40	case	_	_
+40-41	Nḥb(.w)-kꜣ(.w)	_	_	_	_	_	_	_	_
+40	Nḥb(.w)	Nḥb(.w)	PROPN	_	Gender=Masc	33	iobj	_	_
+41	kꜣ(.w)	kꜣ	NOUN	_	Gender=Masc|Number=Plur	40	flat	_	_
+42	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	parataxis	_	_
+43	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	42	nmod	_	_
+44	Ppy	Ppy	NOUN	_	Gender=Masc	42	nsubj	_	_
+45	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	44	det	_	_
