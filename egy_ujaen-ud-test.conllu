@@ -14087,7 +14087,7 @@
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 
 # sent_id = UDE-1123
-# ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 354b|356d P, Saqqara, 6th Dynasty, rel, OE
 # text = hn n Ppy pn
 1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
@@ -14095,7 +14095,7 @@
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 
 # sent_id = UDE-1124
-# ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
+# ref = Pyramid Texts § 354b|356d P, Saqqara, 6th Dynasty, rel, OE
 # text = hn n kꜣ n(.i҆) Ppy pn
 1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
@@ -14157,11 +14157,38 @@
 # sent_id = UDE-1125a
 # ref = Pyramid Texts § 356c P, Saqqara, 6th Dynasty, rel, OE
 # text = mꜣꜥ ḫrw Ppy pn
-# lit = "A right one of voice is this Pepi."
-# trans = "This Pepi is justified."
-# type = Nominal sentence (A = B)
 1	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 2	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 3	Ppy	Ppy	NOUN	_	Gender=Masc	1	nsubj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
+# sent_id = UDE-1126
+# ref = Pyramid Texts § 357a P, Saqqara, 6th Dynasty, rel, OE
+# text = śn.t Ppy pw Śpṭ.t
+1	śn.t	śn.t	NOUN	_	Definite=Conss|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Ppy	Ppy	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	Śpṭ.t	Śpṭ.t	PROPN	_	Gender=Fem	0	root	_	_
+
+# sent_id = UDE-1127
+# ref = Pyramid Texts § 357a P, Saqqara, 5th Dynasty, rel, OE
+# text = mśčw.t Ppy pn nčr-ṭwꜣ.w
+1	mśčw.t	mśčw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	Ppy	Ppy	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4-5	nčr-ṭwꜣ.w	_	_	_	_	_	_	_	_
+4	nčr	nčr	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	0	root	_	_
+5	ṭwꜣ.w	ṭwꜣ.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	compound	_	_
+
+# sent_id = UDE-1128
+# ref = Pyramid Texts § 357b P, Saqqara, 6th Dynasty, rel, OE
+# text = Ppy pw i҆r(.i҆) ẖr ẖ.t p.t ḫr Rꜥw
+1	Ppy	Ppy	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
+4	ẖr	ẖr	ADP	Cons.st	Case=Sub	5	case	_	_
+5	ẖ.t	ẖ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obl	_	_
+6	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	ḫr	ḫr	ADP	Cons.st	Case=Com	8	case	_	_
+8	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	obl	_	_
 
