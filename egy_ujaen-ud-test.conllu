@@ -14038,7 +14038,10 @@
 
 # sent_id = UDE-1121
 # ref = Pyramid Texts § 352b-353  P, Saqqara, 6th Dynasty, rel, OE
-# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f)  mś-[t]i҆ Ppy i҆m mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś
+# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f)  mś-[t]i҆ Ppy i҆m (⸗f) mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś
+# lit = “The fields of rushes were filled (certainly) in order that Pepy may cross crossing to the eastern side of the sky, to this place where the gods gave birth to him, where someone gave birth to Pepi in his birth together with them as Horus and as the horizon-dweller.”
+# trans = “The fields of rushes were filled (certainly) in order that Pepy may cross crossing to the eastern side of the sky, to this place where the gods gave birth to him, where someone gave birth to Pepi in his birth together with them as Horus and as the horizon-dweller.”
+# type = Cleft sentence with adverbial focus
 1	mḥ.y	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
 3	{č̣}	{č̣}	X	_	Typo=Yes	4	dep	_	_
@@ -14063,10 +14066,10 @@
 21	mś	mś	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	14	acl	_	_
 22	[t]i҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	21	nsubj	_	_
 23	Ppy	Ppy	PROPN	_	Gender=Masc	21	obj	_	_
-24	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	21	advmod	_	_
-25	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	_
-26	i҆m	m	ADP	Pron.st	Case=Loc	27	case	_	_
-27	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
+24	i҆m	m	ADP	Pron.st	Case=Loc	25	case	_	_
+25	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
+26	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	21	advmod	_	_
+27	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nmod	_	_
 28	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	29	case	_	_
 29	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
 30	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	21	obl	_	_
