@@ -14088,3 +14088,27 @@
 3	Ppy	Ppy	NOUN	_	Gender=Masc	1	nsubj	_	_
 4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 
+# sent_id = UDE-1123
+# ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
+# text = hn n Ppy pn
+# lit = "Ululate is for this Pepi."
+# trans = "Ululate belongs to this Pepi."
+# type = Adverbial sentence
+1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
+3	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
+# sent_id = UDE-1124
+# ref = Pyramid Texts § 354b P, Saqqara, 6th Dynasty, rel, OE
+# text = hn n kꜣ n(.i҆) Ppy pn
+# lit = "Ululate is for the ka of this Pepi."
+# trans = "Ululate is for the ka of this Pepi."
+# type = Adverbial sentence
+1	hn	hn.w	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
+3	kꜣ	kꜣ	NOUN	Subj	Gender=Masc|Number=Sing	0	root	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+
