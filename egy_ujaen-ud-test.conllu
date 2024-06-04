@@ -14192,3 +14192,22 @@
 7	ḫr	ḫr	ADP	Cons.st	Case=Com	8	case	_	_
 8	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	3	obl	_	_
 
+# sent_id = UDE-1129
+# ref = Pyramid Texts § 358b P, Saqqara, 6th Dynasty, rel, OE
+# text = (w)ṭ(.w) sḫn.w(i҆) p.t n Rꜥw č̣ꜣ.i҆ Rꜥw [i҆]m ⸗śn i҆r ꜣḫ.t ḫr Ḥr.w-ꜣḫ.ti҆
+1	(w)ṭ(.w)	wṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	sḫn.w(i҆)	sḫn	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	1	nsubj:pass	_	_
+3	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	iobj	_	_
+6	č̣ꜣ.i҆	č̣ꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	[i҆]m	m	ADP	Pron.st	Case=Loc	9	case	_	_
+9	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	obl	_	_
+10	i҆r	r	ADP	Cons.st	_	11	case	_	_
+11	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+12	ḫr	ḫr	ADP	Cons.st	Case=Com	13	case	_	_
+13-14	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
+13	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	6	obl	_	_
+14	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	13	flat	_	_
+
