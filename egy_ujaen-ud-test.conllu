@@ -14308,3 +14308,26 @@
 14	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	obl	_	_
 15	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	14	flat	_	_
 
+# sent_id = UDE-1135
+# ref = PT § 360b-d P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n m n Ppy pn fṭ.w i҆pw śnśn.w ś:wꜣ.t(i҆)w ḥnk.t(i҆w) ḥmś.w ḥr č̣ꜥm(.w) ⸗śn m gś i҆ꜣb.ti҆ n(.i҆) p.t 
+1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	m	mi҆	PART	_	PartType=Emp	1	advmod	_	_
+3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
+4	Ppy	Ppy	PROPN	_	Gender=Masc	1	iobj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	fṭ.w	i҆fṭ.w	NUM	CARD|NOUN	Gender=Masc	1	obj	_	_
+7	i҆pw	pw	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
+8	śnśn.w	śnśn	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	6	appos
+9	ś:wꜣ.t(i҆)w	ś:wꜣ.ti҆	NOUN	Voice=Cau	Gender=Masc|Number=Plur	8	appos	_	_
+10	ḥnk.t(i҆w)	ḥnk.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=Plur	9	appos	_	_
+11	ḥmś.w	ḥmśi̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	amod	_	_
+12	ḥr	ḥr	ADP	Cons.st	_	13	case	_	_
+13	č̣ꜥm(.w)	č̣ꜥm	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	11	obl	_	_
+14	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+15	m	m	ADP	Cons.st	Case=Loc	20	case	_	_
+16	gś	gś	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+17	i҆ꜣb.ti҆	i҆ꜣb.t	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+18	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
+19	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+
