@@ -13756,10 +13756,10 @@
 
 # sent_id = UDE-1107
 # ref = Pyramid Texts § 343b T, Saqqara, 6th Dynasty, rel, OE
-# text = mḥ.i҆ śḫ.(w)t i҆ꜣr,w m mw
+# text = mḥ.i҆ śḫ.(w)t i҆ꜣr.w m mw
 1	mḥ.i҆	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
-3	i҆ꜣr,w	i҆ꜣr,w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+3	i҆ꜣr.w	i҆ꜣr.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 5	mw	mw	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
 
@@ -14038,11 +14038,11 @@
 
 # sent_id = UDE-1121
 # ref = Pyramid Texts § 352b-354a  P, Saqqara, 6th Dynasty, rel, OE
-# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr,w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f) mś-[t]i҆ Ppy i҆m (⸗f) mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś mꜣ[ꜥ] [ḫ]r[w] Ppy pn
+# text = mḥ.y śḫ.(w)t {č̣} <i҆>ꜣr.w č̣ꜣ Ppy č̣ꜣu̯.t i҆r gś i҆ꜣb.t(i҆) n(.i҆) p.t i҆r bw pw mś św nčr(.w) i҆m (⸗f) mś-[t]i҆ Ppy i҆m (⸗f) mśw.t ⸗f ḥnꜥ ⸗śn Ḥr.w i҆ś ꜣḫ.t(i҆) i҆ś mꜣ[ꜥ] [ḫ]r[w] Ppy pn
 1	mḥ.y	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nsubj:pass	_	_
 3	{č̣}	{č̣}	X	_	Typo=Yes	4	dep	_	_
-4	<i҆>ꜣr,w	i҆ꜣr,w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	<i҆>ꜣr.w	i҆ꜣr.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	č̣ꜣ	č̣ꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 6	Ppy	Ppy	PROPN	_	Gender=Masc	5	nsubj	_	_
 7	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	5	advmod	_	_
