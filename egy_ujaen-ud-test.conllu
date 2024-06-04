@@ -14460,3 +14460,22 @@
 5	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	4	appos	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-1149
+# ref = Pyramid Texts § 365a P, Saqqara, 6th Dynasty, rel, OE
+# text = śḳr-t(i҆) n ⸗f tꜣ-rṭ(.w) r p.t pr ⸗f i҆m r p.t
+1-2	śḳr-t(i҆)	_	_	_	_	_	_	_	_
+1	śḳr	śḳr	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+5-6	tꜣ-rṭ(.w)	_	_	_	_	_	_	_	_
+5	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+6	rṭ(.w)	rṭ	NOUN	_	Gender=Masc|Number=Sing	5	compound	_	_
+7	r	r	ADP	Cons.st	_	7	case	_	_
+8	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+9	pr	pri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+10	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	i҆m	i҆m	ADV	_	AdvType=Loc	9	advmod	_	_
+12	r	r	ADP	Cons.st	_	13	case	_	_
+13	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+
