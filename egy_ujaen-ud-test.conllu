@@ -14364,9 +14364,6 @@
 # sent_id = UDE-1139
 # ref = Pyramid Texts § 363c P, Saqqara, 6th Dynasty, rel, OE
 # text = n šw.n p.t m Ppy č̣.t
-# lit = "The sky will not lack of Pepi eternally."
-# trans = "Never will the sky be void of Pepi."
-# type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	šw.n	šwi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
@@ -14377,9 +14374,6 @@
 # sent_id = UDE-1140
 # ref = Pyramid Texts § 363c P, Saqqara, 6th Dynasty, rel, OE
 # text = n šw.n tꜣ m Ppy pn č̣.t
-# lit = "The earth will not lack of Pepi eternally."
-# trans = "Never will the earth be void of this Pepi."
-# type = Verbal sentence
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
 2	šw.n	šwi̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -14387,4 +14381,24 @@
 5	Ppy	ppy	PROPN	_	Gender=Masc	2	obl	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 7	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	2	advmod	_	_
+
+# sent_id = UDE-1141
+# ref = Pyramid Texts § 363e P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n nw n Ppy pn
+1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	obj	_	_
+3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
+4	Ppy	Ppy	PROPN	_	Gender=Masc	1	iobj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+
+# sent_id = UDE-1142
+# ref = Pyramid Texts § 363f P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆(w) ⸗f r ḫtm.nw ⸗čn m I҆wn.w
+1	i҆(w)	i҆w	PART	_	_	4	discourse	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	ḫtm.nw	ḫtm.nw	NUM	ORD|NOUN	Gender=Masc	0	root	_	_
+5	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	4	nmod	_	_
+6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+7	I҆wn.w	I҆wn.w	PROPN	_	_	4	obl	_	_
 
