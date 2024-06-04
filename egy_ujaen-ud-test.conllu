@@ -14533,3 +14533,27 @@
 10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
 11	Rꜥ	Rꜥ	PROPN	_	Gender=Masc	9	nmod	_	_
 
+# sent_id = UDE-1155
+# ref = PT § 367a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ i҆:ṭr čw i҆:ḫm(.w)-i҆w.t ḥmś Wni҆ś pn m ś.t ⸗k ẖn.y ⸗f m p.t m wi҆ꜣ ⸗k Rꜥw
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	i҆:ṭr	ṭr	VERB	Imp|Aug	Mood=Imp|Number=Sing	1	conj	_	_
+3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+4-5	i҆:ḫm(.w)-i҆w.t	_	_	_	_	_	_	_	_
+4	i҆:ḫm(.w)	ḫm	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	_
+5	śk(.w)	i҆w.t	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	_
+6	ḥmś	ḥmśi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
+10	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+12	ẖn.y	ẖni҆	VERB	SFC|Sub|Finalcl	Mood=Sub	6	conj	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	m	m	ADP	Cons.st	_	15	case	_	_
+15	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+16	m	m	ADP	Cons.st	Case=Loc	17	case	_	_
+17	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
+18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
+19	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	17	nmod	_	_
+
