@@ -13752,7 +13752,7 @@
 4	i҆ꜣḫ.i҆	wꜣḫ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 5	mr	mr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
-7	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	5	nmod	_	_
+7	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 
 # sent_id = UDE-1107
 # ref = Pyramid Texts § 343b T, Saqqara, 6th Dynasty, rel, OE
@@ -14034,7 +14034,7 @@
 3	i҆ꜣḫ(.i҆)	wꜣḫ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 4	mr	mr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	_	_
 5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
-6	ḫꜣ	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Sing	4	nmod	_	_
+6	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 
 # sent_id = UDE-1121
 # ref = Pyramid Texts § 352b-354a  P, Saqqara, 6th Dynasty, rel, OE
@@ -14283,4 +14283,28 @@
 4	i҆:mḥ.i҆	mḥ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	_
 5	śḫ.t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 6	i҆ꜣr.w	i҆ꜣr.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+
+# sent_id = UDE-1134
+# ref = Pyramid Texts § 359b-361a  P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆ꜣḫ mr n(.i҆) ḫꜣ č̣ꜣ-t(i҆) Ppy pn i҆m č̣ꜣu̯.t i҆r ꜣḫ.t ḫr Ḥr.w-ꜣḫ.ti҆
+# lit = “The Winding Canal was flooded (certainly) in order that one transport this Pepy thereon in a transport to the horizon with Harakhti.”
+# trans = “The Winding Canal was flooded (certainly) in order that one transport this Pepy thereon in a transport to the horizon with Harakhti.”
+# type = Cleft sentence with adverbial focus
+1	i҆ꜣḫ	wꜣḫ	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	mr	mr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
+5-6	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
+5	č̣ꜣ	č̣ꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+6	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	Ppy	Ppy	PROPN	_	Gender=Masc	1	obj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	i҆m	i҆m	ADV	_	AdvType=Loc	5	advmod	_	_
+10	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	5	advmod	_	_
+11	i҆r	r	ADP	Cons.st	_	12	case	_	_
+12	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+13	ḫr	ḫr	ADP	Cons.st	Case=Com	14	case	_	_
+14-15	Ḥr.w-ꜣḫ.ti҆	_	_	_	_	_	_	_	_
+14	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	obl	_	_
+15	ꜣḫ.ti҆	ꜣḫ.ti҆	NOUN	_	Gender=Fem|Number=Dual	14	flat	_	_
 
