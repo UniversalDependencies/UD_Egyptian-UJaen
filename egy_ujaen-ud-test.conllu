@@ -14402,3 +14402,29 @@
 6	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
 7	I҆wn.w	I҆wn.w	PROPN	_	_	4	obl	_	_
 
+# sent_id = UDE-1143
+# ref = Pyramid Texts § 364a P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆b ⸗k n ⸗k Wśr.w
+1	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
+
+# sent_id = UDE-1144
+# ref = Pyramid Texts § 364a P, Saqqara, 6th Dynasty, rel, OE
+# text = rṭ(.wi҆) ⸗k n ⸗k Wśr.w
+1	rṭ(.wi҆)	rṭ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
+
+# sent_id = UDE-1145
+# ref = Pyramid Texts § 364a P, Saqqara, 6th Dynasty, rel, OE
+# text = ꜥ(.wi҆) ⸗k n ⸗k Wśr.w
+1	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
