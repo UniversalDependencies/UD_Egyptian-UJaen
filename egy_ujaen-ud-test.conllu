@@ -14429,3 +14429,34 @@
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 5	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	4	dislocated	_	_
 
+# sent_id = UDE-1146
+# ref = Pyramid Texts § 364b P, Saqqara, 6th Dynasty, rel, OE
+# text = i҆b n(.i҆) Wni҆ś n ⸗f č̣ś ⸗f
+1	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nmod	_	_
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+6	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	5	appos	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
+# sent_id = UDE-1147
+# ref = Pyramid Texts § 364b P, Saqqara, 6th Dynasty, rel, OE
+# text = rṭ(.wi҆) ⸗f n ⸗f č̣ś ⸗f
+1	rṭ(.wi҆)	rṭ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	4	appos	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1148
+# ref = Pyramid Texts § 364b P, Saqqara, 6th Dynasty, rel, OE
+# text = ꜥ(.wi҆) ⸗f n ⸗f č̣ś ⸗f
+1	ꜥ(.wi҆)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	4	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+5	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	4	appos	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
