@@ -14355,3 +14355,18 @@
 5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 
+# sent_id = UDE-1138
+# ref = Pyramid Texts § 361c P, Saqqara, 6th Dynasty, rel, OE
+# text = mꜣꜥ ḫrw kꜣ n(.i҆) Ppy pn ḫr nčr
+# lit = "A right one of voice is this Pepi before god."
+# trans = "This Pepi is justified before god."
+# type = Nominal sentence (A = B)
+1	mꜣꜥ	mꜣꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+2	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Ppy	Ppy	NOUN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	ḫr	ḫr	ADP	Cons.st	_	8	case	_	_
+8	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
