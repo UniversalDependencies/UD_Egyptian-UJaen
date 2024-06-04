@@ -14310,7 +14310,7 @@
 
 # sent_id = UDE-1135
 # ref = PT § 360b-d P, Saqqara, 6th Dynasty, rel, OE
-# text = i҆n m n Ppy pn fṭ.w i҆pw śnśn.w ś:wꜣ.t(i҆)w ḥnk.t(i҆w) ḥmś.w ḥr č̣ꜥm(.w) ⸗śn m gś i҆ꜣb.ti҆ n(.i҆) p.t 
+# text = i҆n m n Ppy pn fṭ.w i҆pw śnśn.w ś:wꜣ.t(i҆)w ḥnk.t(i҆w) ḥmś.w ḥr č̣ꜥm(.w) ⸗śn m gś i҆ꜣb.ti҆ n(.i҆) p.t
 1	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	m	mi҆	PART	_	PartType=Emp	1	advmod	_	_
 3	n	n	ADP	Cons.st	Case=Dat	4	case	_	_
@@ -14325,8 +14325,8 @@
 12	ḥr	ḥr	ADP	Cons.st	_	13	case	_	_
 13	č̣ꜥm(.w)	č̣ꜥm	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	11	obl	_	_
 14	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
-15	m	m	ADP	Cons.st	Case=Loc	20	case	_	_
-16	gś	gś	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+15	m	m	ADP	Cons.st	Case=Loc	16	case	_	_
+16	gś	gś	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 17	i҆ꜣb.ti҆	i҆ꜣb.t	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
 18	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	_
 19	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
