@@ -14479,3 +14479,17 @@
 12	r	r	ADP	Cons.st	_	13	case	_	_
 13	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 
+# sent_id = UDE-1150
+# ref = Pyramid Texts § 365b P, Saqqara, 6th Dynasty, rel, OE
+# text = prr ⸗f ḥr ḥti҆ n(.i҆) i҆ṭ.t wr.t
+# lit = "He ascends (certainly) on the smoke of the great censing."
+# trans = "It is on the smoke of the great censing that he ascends."
+# type = Verbal sentence
+1	prr	pri̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	_	4	case	_	_
+4	ḥti҆	ḥti҆	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+6	i҆ṭ.t	i҆ṭ.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
+7	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+
