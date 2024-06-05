@@ -14814,3 +14814,37 @@
 4	r	r	ADP	Pron.st	Case=All	5	case	_	_
 5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-1175
+# ref = PT § 376a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = (w)ṭ(.w) śč̣.t wbn śč̣.t
+1	(w)ṭ(.w)	wṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj:pass	_	MWE
+3	wbn	wbn	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+
+# sent_id = UDE-1176
+# ref = PT § 376b W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-385
+# text = (w)ṭ(.w) śnčr ḥr śč̣.t wbn śnčr
+1	(w)ṭ(.w)	wṭi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	_
+3	ḥr	ḥr	ADP	Cons.st	_	4	case	_	_
+4	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	wbn	wbn	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+6	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+
+# sent_id = UDE-1177
+# ref = PT § 376c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆ śč(i҆) ⸗k i҆r Wni҆ś śnčr i҆i҆ śč(i҆) Wni҆ś i҆r ⸗k śnčr
+1	i҆i҆	i҆i҆	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	śč(i҆)	śči҆	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	i҆r	i҆r	ADP	Cons.st	Case=All	5	case	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obl	_	_
+6	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
+7	i҆i҆	i҆wi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+8	śč(i҆)	śči҆	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+10	i҆r	r	ADP	Pron.st	Case=All	11	case	_	_
+11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	_
+12	śnčr	śnčr	NOUN	_	Gender=Masc|Number=Sing	7	dislocated	_	_
+
