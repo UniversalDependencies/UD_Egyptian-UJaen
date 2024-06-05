@@ -14699,9 +14699,6 @@
 # sent_id = UDE-1166
 # ref = Pyramid Texts § 372d-373a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆:śk ⸗f i҆(w)f n kꜣ n(.i҆) Wni҆ś pn n(.i҆) č̣.t{n} ⸗f m nw ḥr(.i҆) rmn(.wi҆) Rꜥw m ꜣḫ.t šsp.w ⸗f pśč̣ tꜣ(.wi҆) i҆:wn ⸗f ḥr nčr(.w)
-# lit = “He shall purge the flesh of the ka of this Unas and of his body with that which is on the Sun's shoulders in the Akhet, which he receives when the Two Lands shine in order to open the face of the gods.”
-# trans = “He shall purge the flesh of the ka of this Unas and of his body with that which is on the Sun's shoulders in the Akhet, which he receives when the Two Lands shine in order to clear the vision of the gods.”
-# type = Cleft sentence with adverbial focus
 1	i҆:śk	i҆:śki̯	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	i҆(w)f	i҆(w)f	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -14728,4 +14725,20 @@
 24	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 25	ḥr	ḥr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	23	obj	_	MWE
 26	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+
+# sent_id = UDE-1167
+# ref = Pyramid Texts § 273b W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:ḫp ⸗f kꜣ n(.i҆) Wni҆ś pn n(.i҆) č̣.t ⸗f r ḥw.t ꜥꜢ.t
+1	ś:ḫp	ḫpi̯	VERB	SFC|Fut|Abstrel|Voice=Cau	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	n(.i҆)	n	NOUN	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+8	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	r	r	ADP	Cons.st	Case=Lat	11	case	_	_
+11	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+12	ꜥꜢ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 
