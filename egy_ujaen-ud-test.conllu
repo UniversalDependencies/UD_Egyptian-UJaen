@@ -14757,9 +14757,6 @@
 # sent_id = UDE-1169
 # ref = PT § 374a W, Saqqara, 5th Dynasty, rel, OE
 # text = śšm Wni҆ś pn i҆:ḫm(.w)-śk(.w)
-# lit = “This Unas shall guide the Imperishable Stars.”
-# trans = “This Unas shall guide the Imperishable Stars.”
-# type = Verbal sentence
 1	śšm	śšmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
@@ -14770,9 +14767,6 @@
 # sent_id = UDE-1170
 # ref = PT § 374b-c W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣ꜣ ⸗f r śḫ.(w)t i҆ꜣr.w ẖn św i҆m.(i҆)w ꜣḫ.t ś:ḳṭ św i҆m.(i҆)w ḳbḥ.w
-# lit = “He shall cross to the Fields of Rushes while those who are in the horizon row him, while those who are in the firmament sail him.”
-# trans = “He shall cross to the Fields of Rushes with those who in the horizon rowing him and those who in the firmament sailing him.”
-# type = Verbal sentence
 1	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
@@ -14786,4 +14780,37 @@
 11	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 12	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	10	nsubj	_	_
 13	ḳbḥ.w	ḳbḥ.w	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+
+# sent_id = UDE-1171
+# ref = PT § 375a W, Saqqara, 5th Dynasty, rel, OE
+# text = mnḫ Wni҆ś pn mnḫ.t
+1	mnḫ	mnḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+4	mnḫ.t	mnḫ	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+
+# sent_id = UDE-1172
+# ref = PT § 375a W, Saqqara, 5th Dynasty, rel, OE
+# text = n sꜣ ꜥ(.wi҆) ⸗f
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	sꜣ	sꜣi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	ꜥ(.wi҆)	ꜥ	NOUN	Subj	Gender=Masc|Number=Dual	2	nsubj	_	MWE
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+
+# sent_id = UDE-1173
+# ref = PT § 375b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫnt Wni҆ś pn ḫnt.t
+1	ḫnt	ḫnti̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+4	ḫnt.t	ḫnt.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+
+# sent_id = UDE-1173
+# ref = PT § 375b W, Saqqara, 5th Dynasty, rel, OE
+# text = śpr kꜣ ⸗f r ⸗f
+1	śpr	śpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	n	n	ADP	Pron.st	Case=All	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 
