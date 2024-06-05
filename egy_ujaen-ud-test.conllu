@@ -14917,3 +14917,18 @@
 9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	dislocated	_	_
 
+# sent_id = UDE-1183
+# ref = PT § 378b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆(.w) pꜣḳ
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	pꜣḳ	pꜣḳ	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
+
+# sent_id = UDE-1184
+# ref = PT § 378b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆(.w) pꜣč̣ pr m mꜣś.t Ḥr.w
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+2	pꜣč̣	pꜣč̣	NOUN	_	Gender=Masc|Number=Sing	1	dislocated	_	_
+3	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	amod	_	_
+4	m	m	ADP	Cons.st	Case=Abl	5	case	_	_
+5	mꜣś.t	mꜣś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obl	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
