@@ -14932,3 +14932,12 @@
 4	m	m	ADP	Cons.st	Case=Abl	5	case	_	_
 5	mꜣś.t	mꜣś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	obl	_	_
 6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
+
+# sent_id = UDE-1185
+# ref = PT § 379a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆(.w) pr.i҆w i҆i҆(.w) pr.i҆w
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+2	pr.i҆w	pri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	1	dislocated	_	_
+3	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
+4	pr.i҆w	pri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	dislocated	_	_
+
