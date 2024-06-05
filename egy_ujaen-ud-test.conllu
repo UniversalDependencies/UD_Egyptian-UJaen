@@ -14767,3 +14767,23 @@
 4	i҆:ḫm(.w)	ḫm	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	_
 5	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	4	fixed	_	_
 
+# sent_id = UDE-1170
+# ref = PT § 374b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣ꜣ ⸗f r śḫ.(w)t i҆ꜣr.w ẖn św i҆m.(i҆)w ꜣḫ.t ś:ḳṭ św i҆m.(i҆)w ḳbḥ.w
+# lit = “He shall cross to the Fields of Rushes while those who are in the horizon row him, while those who are in the firmament sail him.”
+# trans = “He shall cross to the Fields of Rushes with those who in the horizon rowing him and those who in the firmament sailing him.”
+# type = Verbal sentence
+1	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	r	r	ADP	Cons.st	Case=All	4	case	_	_
+4	śḫ.(w)t	śḫ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	obl	_	_
+5	i҆ꜣr.w	i҆ꜣr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+6	ẖn	ẖni̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+7	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+8	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	nsubj	_	_
+9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+10	ś:ḳṭ	ḳṭi̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+11	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	10	nsubj	_	_
+13	ḳbḥ.w	ḳbḥ.w	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
+
