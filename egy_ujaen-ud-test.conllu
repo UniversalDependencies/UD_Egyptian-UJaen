@@ -14653,9 +14653,6 @@
 # sent_id = UDE-1162
 # ref = PT § 371c W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜣč św Ꜣś.t śnḳ św Nb.t-ḥw.t
-# lit = “Isis will nurse him - Nephthys will suckle him.”
-# trans = “(Both of them:) Isis will nurse him, and Nephthys will suckle him.”
-# type = Balanced sentence
 1	ꜣč	ꜣč	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 3	Ꜣś.t	Ꜣś.t	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -14664,4 +14661,38 @@
 6-7	Nb.t-ḥw.t	_	_	_	_	_	_	_	_
 6	Nb.t	Nb.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	6	flat	_	_
+
+# sent_id = UDE-1163
+# ref = Pyramid Texts § 272a W, Saqqara, 5th Dynasty, rel, OE
+# text = šsp św Ḥr.w r č̣bꜥ(.wi҆) ⸗f ś:ꜥb ⸗f Wni҆ś pn m š sꜣb
+1	šsp	šsp	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+3	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+4	r	r	ADP	Cons.st	_	5	case	_	_
+5	č̣bꜥ(.wi҆)	č̣bꜥ	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1164
+# ref = Pyramid Texts § 272b W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:ꜥb ⸗f Wni҆ś pn m š sꜣb
+1	ś:ꜥb	wꜥb	VERB	SFC|Fut|Abstrel|Voice=Cau	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	obj	_	_
+4	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	š	š	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+7	sꜣb	sꜣb	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+
+# sent_id = UDE-1165
+# ref = Pyramid Texts § 272c W, Saqqara, 5th Dynasty, rel, OE
+# text = ś:fḫ.w ⸗f kꜣ n(.i҆) Wni҆ś pn m š ṭwꜣ.ti҆
+1	ś:fḫ.w	fḫ	VERB	SFC|Fut|Abstrel|Voice=Cau	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nmod	_	_
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+7	m	m	ADP	Cons.st	_	8	case	_	_
+8	š	š	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+9	ṭwꜣ.ti҆	ṭwꜣ.ti҆	NOUN	_	Case=Gen|Gender=Fem|Number=Dual	8	nmod	_	_
 
