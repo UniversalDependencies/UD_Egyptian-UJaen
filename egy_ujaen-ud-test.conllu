@@ -14535,7 +14535,7 @@
 
 # sent_id = UDE-1155
 # ref = PT § 367a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥḥꜥ i҆:ṭr čw i҆:ḫm(.w)-i҆w.t ḥmś Wni҆ś pn m ś.t ⸗k ẖn.y ⸗f m p.t m wi҆ꜣ ⸗k Rꜥw
+# text = ꜥḥꜥ i҆:ṭr čw i҆:ḫm(.w)-i҆w.t ḥmś Wni҆ś pn m ś.t ⸗k
 1	ꜥḥꜥ	ꜥḥꜥ	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	i҆:ṭr	ṭr	VERB	Imp|Aug	Mood=Imp|Number=Sing	1	conj	_	_
 3	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
@@ -14548,12 +14548,46 @@
 9	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
 10	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 11	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
-12	ẖn.y	ẖni҆	VERB	SFC|Sub|Finalcl	Mood=Sub	6	conj	_	_
-13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-14	m	m	ADP	Cons.st	_	15	case	_	_
-15	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
-16	m	m	ADP	Cons.st	Case=Loc	17	case	_	_
-17	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
-18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
-19	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	17	nmod	_	_
+
+# sent_id = UDE-1156
+# ref = PT § 367b W, Saqqara, 5th Dynasty, rel, OE
+# text = ẖn.y ⸗f m p.t m wi҆ꜣ ⸗k Rꜥw
+1	ẖn.y	ẖni҆	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	_	4	case	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	appos	_	_
+
+# sent_id = UDE-1157
+# ref = PT § 368a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆wṭ Wni҆ś pn tꜣ m wi҆ꜣ ⸗k Rꜥw śč čw pr ⸗k m ꜣḫ.t śč św ꜥbꜣ ⸗f m ꜥ ⸗f m ś:ḳṭ wi҆ꜣ ⸗k Rꜥw
+1	i҆wṭ	i҆wṭ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	1	obj	_	_
+5	m	m	ADP	Cons.st	_	6	case	_	_
+6	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+8	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	appos	_	_
+9	śč	i҆śč	PART	_	_	11	mark	_	_
+10	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	dislocated	_	_
+11	pr	pri̯	VERB	SFC|Pres	Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
+12	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+13	m	m	ADP	Cons.st	_	14	case	_	_
+14	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	śč	i҆śč	PART	_	_	17	mark	_	_
+16	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	dislocated	_	_
+17	ꜥbꜣ	ꜥbꜣ	VERB	SFC|Pres	Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	_
+18	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+19	m	m	ADP	Cons.st	Case=Ins	20	case	_	_
+20	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+21	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	_
+22	m	m	ADP	Cons.st	Case=Equ	23	case	_	_
+23	ś:ḳṭ	ḳṭi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	obl	_	_
+24	wi҆ꜣ	wi҆ꜣ	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+25	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	nmod	_	_
+26	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	24	appos	_	_
 
