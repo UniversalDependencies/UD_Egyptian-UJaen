@@ -14626,14 +14626,27 @@
 
 # sent_id = UDE-1161
 # ref = Pyramid Texts § 370b W, Saqqara, 5th Dynasty, rel, OE
-# text = ḳꜣ nbw.t(i҆) m-ḫnt i҆tr.t
-# lit = "He of Ombos is high at the head of the Conclave."
-# trans = "He of Ombos is high at the head of the Conclave."
-# type = Adjectival sentence
-1	ḳꜣ	ḳꜣi̯	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+# text = ḳꜣ nbw.t(i҆) m-ḫnt i҆tr.t nḥm Wni҆ś pn pꜥ.t m ꜥ.t i҆m ⸗f
+1	ḳꜣ	ḳꜣi̯	VERB	SFC|Fut|Abstrel|VerbTop	Tense=Fut|VerbForm=Fin|Voice=Act	6	dislocated	_	_
 2	nbw.t(i҆)	Nbw.t	NOUN	NisbaNoun	Gender=Masc|Number=Sing	1	nsubj	_	_
 3-4	m-ḫnt	_	_	_	_	_	_	_	_
 3	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
 4	ḫnt	ḫnt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	i҆tr.t	i҆tr.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	nḥm	nḥm	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	pꜥ.t	pꜥ.t	NOUN	_	Gender=Fem|Number=Coll	6	obj	_	_
+10	m	m	ADP	Cons.st	Case=Loc	11	case	_	_
+11	ꜥ.t	ꜥ.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+12	i҆m	m	ADP	Pron.st	Case=Abl	13	case	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+14	ḫfꜥ	ḫfꜥ	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	14	nsubj	_	_
+16	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+17	wrr.t	wrr.t	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
+18-19	m-ꜥ	_	_	_	_	_	_	_	_
+18	m	m	ADP	Cons.st	Case=Abl	20	case	_	_
+19	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	18	fixed	_	_
+20	pśč̣.ti҆	pśč̣.ti҆	NOUN	_	Gender=Fem|Number=Dual	14	obl	_	_
 
