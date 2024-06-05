@@ -14696,3 +14696,36 @@
 8	š	š	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
 9	ṭwꜣ.ti҆	ṭwꜣ.ti҆	NOUN	_	Case=Gen|Gender=Fem|Number=Dual	8	nmod	_	_
 
+# sent_id = UDE-1166
+# ref = Pyramid Texts § 372d-373a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:śk ⸗f i҆(w)f n kꜣ n(.i҆) Wni҆ś pn n(.i҆) č̣.t{n} ⸗f m nw ḥr(.i҆) rmn(.wi҆) Rꜥw m ꜣḫ.t šsp.w ⸗f pśč̣ tꜣ(.wi҆) i҆:wn ⸗f ḥr nčr(.w)
+# lit = “He shall purge the flesh of the ka of this Unas and of his body with that which is on the Sun's shoulders in the Akhet, which he receives when the Two Lands shine in order to open the face of the gods.”
+# trans = “He shall purge the flesh of the ka of this Unas and of his body with that which is on the Sun's shoulders in the Akhet, which he receives when the Two Lands shine in order to clear the vision of the gods.”
+# type = Cleft sentence with adverbial focus
+1	i҆:śk	i҆:śki̯	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆(w)f	i҆(w)f	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nmod	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+10	č̣.t{n}	č̣.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_
+12	m	m	ADP	Cons.st	Case=Ins	13	case	_	_
+13	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	obl	_	_
+14	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	13	amod	_	_
+15	rmn(.wi҆)	rmn	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	13	nmod	_	_
+16	Rꜥw	Rꜥw	PROPN	_	Case=Ge|Gender=Masc	15	nmod	_	_
+17	m	m	ADP	Cons.st	Case=Loc	18	case	_	_
+18	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
+19	šsp.w	šsp	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	13	acl	_	_
+20	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+21	pśč̣	pśč̣	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	19	advcl	_	_
+22	tꜣ(.wi҆)	tꜣ	NOUN	_	Gender=Masc|Number=Dual	21	nsubj	_	_
+23	i҆:wn	wn	VERB	SFC|Sub|Aug|Finalcl	Mood=Sub	19	advcl	_	_
+24	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+25	ḥr	ḥr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	23	obj	_	MWE
+26	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	_
+
