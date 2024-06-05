@@ -14878,3 +14878,17 @@
 9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	obl	_	_
 10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	dislocated	_	_
 
+# sent_id = UDE-1180
+# ref = PT § 377c W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥnḫ Wni҆ś ḥnꜥ ⸗čn nčr(.w) ꜥnḫ ⸗čn ḥnꜥ Wni҆ś nčr(.w)
+1	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	dislocated	_	_
+6	ꜥnḫ	ꜥnḫ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
+8	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	9	case	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	obl	_	_
+10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	dislocated	_	_
+
