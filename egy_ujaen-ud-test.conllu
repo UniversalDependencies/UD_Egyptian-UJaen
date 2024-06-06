@@ -15477,12 +15477,23 @@
 # sent_id = UDE-1221
 # ref = Pyramid Texts § 391c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆:wn ḥr nčr n Wni҆ś
-# lit = "The face of the god shall open to Unas."
-# trans = "The face of the god shall open to Unas."
-# type = Verbal sentence
 1	i҆:wn	wn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	ḥr	ḥr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	MWE
 3	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	iobj	_	_
+
+# sent_id = UDE-1222
+# ref = Pyramid Texts § 391c W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥmś Wni҆ś pn ḥr ś.t wr.t i҆r-gś nčr
+1	ḥmś	ḥmś	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	ḥr	ḥr	ADP	Cons.st	Case=Sup	5	case	_	_
+5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+7-8	r-gś	_	_	_	_	_	_	_	_
+7	i҆r	r	ADP	Cons.st	_	9	case	_	_
+8	gś	gś	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
+9	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
