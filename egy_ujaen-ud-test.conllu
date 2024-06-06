@@ -15463,7 +15463,7 @@
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
 
 # sent_id = UDE-1220
-# ref = PT § 392b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 391b W, Saqqara, 5th Dynasty, rel, OE
 # text = wč̣ n ⸗f sꜣ čw i҆i҆ n ⸗f
 1	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	vocative	_	_
 2	n	n	ADP	Cons.st	Case=Dat	3	case	_	_
@@ -15473,4 +15473,16 @@
 6	i҆i҆	i҆i҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	obj	_	_
 7	n	n	ADP	Pron.st	Case=Dat	8	case	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+
+# sent_id = UDE-1221
+# ref = Pyramid Texts § 391c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:wn ḥr nčr n Wni҆ś
+# lit = "The face of the god shall open to Unas."
+# trans = "The face of the god shall open to Unas."
+# type = Verbal sentence
+1	i҆:wn	wn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	ḥr	ḥr	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	MWE
+3	nčr	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+4	n	n	ADP	Cons.st	Case=Dat	5	case	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	iobj	_	_
 
