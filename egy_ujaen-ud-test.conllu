@@ -15369,3 +15369,14 @@
 3	smꜣ.y	smꜣ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 4	tꜣ(.wi҆)	tꜣ	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 
+# sent_id = UDE-1214
+# ref = Pyramid Texts § 388c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ ṭmč̣.y mw.t ⸗f śmꜣ.t wr.t
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ṭmč̣.y	ṭmč̣	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+4	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	śmꜣ.t	śmꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+7	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+
