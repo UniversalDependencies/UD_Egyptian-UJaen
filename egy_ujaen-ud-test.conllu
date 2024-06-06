@@ -14941,3 +14941,60 @@
 3	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 4	pr.i҆w	pri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	dislocated	_	_
 
+# sent_id = UDE-1186
+# ref = PT § 379a W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-918
+# text = i҆i҆(.w) ḥfṭ.w i҆i҆(.w) ḥfṭ.w
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+2	ḥfṭ.w	ḥfṭi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	dislocated	_	_
+3	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
+4	ḥfṭ.w	ḥfṭi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	dislocated	_	_
+
+# sent_id = UDE-1187
+# ref = PT § 379b W, Saqqara, 5th Dynasty, rel, OE, cf. UDE-918, see Edel 1955/1964: 304 (§ 628)
+# text = i҆i҆(.w) šw.i҆w i҆i҆(.w) šw.i҆w
+1	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+2	šw.i҆w	šwi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	1	dislocated	_	_
+3	i҆i҆(.w)	i҆wi̯	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
+4	šw.i҆w	šwi̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	dislocated	_	_
+
+# sent_id = UDE-1188
+# ref = PT § 379c W, Saqqara, 6th Dynasty, rel, OE
+# text = pr Wni҆ś ḥr mn.t(i҆) Ꜣś.t ḥfṭ Wni҆ś pn ḥr mn.t(i҆) Nb.t-ḥw.t
+1	pr	pr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	Case=Sup	4	case	_	_
+4	mn.t(i҆)	mn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
+5	Ꜣś.t	Ꜣś.t	PROPN	_	Case=Gen|Gender=Fem	4	nmod	_	_
+6	ḥfṭ	ḥfṭ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	nsubj	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	ḥr	ḥr	ADP	Cons.st	Case=Sup	10	case	_	_
+10	mn.t(i҆)	mn.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	6	obl	_	_
+11-12	Nb.t-ḥw.t	_	_	_	_	_	_	_	_
+11	Nb.t	Nb.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+12	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	11	flat	_	_
+
+# sent_id = UDE-1189
+# ref = PT § 380a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = nč̣r.w n ⸗f i҆t Wni҆ś (I҆)tm(.w) ꜥ n(.i҆) Wni҆ś ś:i҆p ⸗f Wni҆ś n nčr(.w) i҆pf śbḳ.i҆w śꜣꜣ.i҆w i҆:ḫm.w-śk(.w)
+1	nč̣r.w	nč̣ri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	n	n	ADP	Pron.st	_	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+4	i҆t	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	_
+5	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	_
+6	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	4	appos	_	_
+7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nmod	_	_
+10	ś:i҆p	i҆p	VERB	SFC|Fut|Pred|Voice=Cau|Conscl	Tense=Fut|VerbForm=Fin	1	advcl	_	_
+11	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+12	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	10	obj	_	_
+13	n	n	ADP	Cons.st	Case=Dat	14	case	_	_
+14	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	10	iobj	_	_
+15	i҆pf	i҆pf	DET	Dem	Gender=Masc|Number=Plur|PronType=Dem	14	det	_	_
+16	śbḳ.i҆w	śbḳ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	amod	_	_
+17	śꜣꜣ.i҆w	śꜣꜣ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	amod	_	_
+18-19	i҆:ḫm.w-śk(.w)	_	_	_	_	_	_	_	_
+20	i҆:ḫm.w	ḫm	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	14	appos	_	_
+21	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	20	fixed	_	_
+
