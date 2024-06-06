@@ -15310,3 +15310,27 @@
 14	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
 15	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	13	nmod	_	_
 
+# sent_id = UDE-1208
+# ref = Pyramid Texts § 387c W, Saqqara, 5th Dynasty, rel, OE
+# text = śwt č̣ꜣ ⸗f Wni҆ś i҆r gś pf
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	_
+2	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
+5	i҆r	r	ADP	Cons.st	Case=All	6	case	_	_
+6	gś	gś	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det		_	_
+
+# sent_id = UDE-1209
+# ref = Pyramid Texts § 387c P, Saqqara, 6th Dynasty, rel, OE
+# text = śwt ś:č̣ꜣ.w ⸗f Ppy pn i҆r gś pf ꜣḫ.t
+1	śwt	śwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	_
+2	ś:č̣ꜣ.w	č̣ꜣi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	Ppy	Ppy	PROPN	_	Gender=Masc	2	obj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆r	r	ADP	Cons.st	Case=All	7	case	_	_
+7	gś	gś	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
+8	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
+9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+
