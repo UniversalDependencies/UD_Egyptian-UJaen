@@ -15024,3 +15024,34 @@
 20	i҆:ḫm.w	ḫm	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	16	appos	_	_
 21	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	20	fixed	_	_
 
+# sent_id = UDE-1191
+# ref = PT § 381a-d W, Saqqara, 5th Dynasty, rel, OE
+# text = mw.t Wni҆ś I҆py i҆m n Wni҆ś pn mnč̣ ⸗č pw č̣ꜣ n ⸗f św Wni҆ś pn ṭp rʾ ⸗f śnḳ Wni҆ś i҆rč.t ⸗č i҆ptw ḥč̣.i҆t śšp.t bni҆.t
+1	mw.t	mw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+3	I҆py	I҆py	PROPN	_	Gender=Fem	1	appos	_	_
+4	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+5	n	n	ADP	Cons.st	Case=Dat	6	case	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	mnč̣	mnč̣	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
+9	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
+10	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+11	č̣ꜣ	č̣ꜣi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	4	advcl	_	_
+12	n	n	ADP	Pron.st	Case=Ben	13	case	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+14	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	nsubj	_	_
+16	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
+17	ṭp	ṭp	ADP	Cons.st	_	18	case	_	_
+18	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+19	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
+20	śnḳ	śnḳ	VERB	SFC|Sub|Finalcl	Mood=Sub	11	conj	_	_
+21	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	20	nsubj	_	_
+22	i҆rč.t	i҆rč.t	NOUN	_	Gender=Fem|Number=Coll	20	obj	_	_
+23	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	22	nmod	_	_
+24	i҆ptw	i҆ptw	DET	Dem	Gender=Fem|Number=Plur|PronType=Dem	22	det	_	_
+25	ḥč̣.i҆t	ḥč̣.i҆t	VERB	ADJ	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+26	śšp.t	śšp	VERB	ADJ	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+27	bni҆.t	bnr	VERB	ADJ	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	amod	_	_
+
