@@ -15238,7 +15238,7 @@
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
 
 # sent_id = UDE-1202
-# ref = PT § 386a N, Saqqara, 6th Dynasty, rel, OE, spelling of i҆ry for the preposition r.
+# ref = PT § 386a N, Saqqara, 6th Dynasty, rel, OE
 # text = n śrḫ.w mwt i҆ry Ppy Nfr-kꜣ-rꜥ
 1	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
 2	śrḫ.w	śrḫ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
@@ -15259,8 +15259,22 @@
 # sent_id = UDE-1204
 # ref = PT § 386b W, Saqqara, 5th Dynasty, rel, OE
 # text = n śrḫ.w ng(ꜣ) i҆r Wni҆ś
+# lit = “There is no accusation of a steer against Unas.”
+# trans = “There is no accusation of a steer against Unas.”
+# type = Negative adverbial sentence
 1	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
 2	śrḫ.w	śrḫ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
 3	ng(ꜣ)	ngꜣ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	i҆r	r	ADP	Cons.st	_	5	case	_	_
 5	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	0	root	_	_
+
+# sent_id = UDE-1205
+# ref = PT § 386b N, Saqqara, 6th Dynasty, rel, OE
+# text = n śrḫ.w s.t i҆ry Ppy Nfr-kꜣ-rꜥ
+1	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
+2	śrḫ.w	śrḫ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	s.t	s.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	i҆ry	r	ADP	Cons.st	_	5	case	_	_
+5	Ppy	Ppy	PROPN	_	Gender=Masc	0	root	_	_
+6	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	5	flat	_	_
+
