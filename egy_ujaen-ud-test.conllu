@@ -15414,3 +15414,26 @@
 14	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	_
 15	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	13	appos	_	_
 
+# sent_id = UDE-1217
+# ref = Pyramid Texts § 389b-390a N, Saqqara, 6th Dynasty, rel, OE
+# text = ꜥḥꜥ č̣č̣.w(i҆) hꜣ ḥč̣.(w)t pr.y Ppy Nfr-kꜣ-rꜥ ḥr mꜣḳ.t tn i҆r.tn n ⸗f i҆t ⸗f Rꜥw
+# lit = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
+# trans = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	č̣č̣.w(i҆)	č̣č̣	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
+3	hꜣ	hꜣi҆	VERB	SFC|Sub	Mood=Sub	1	conj	_	_
+4	ḥč̣.(w)t	ḥč̣.t	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
+5	pr.y	pri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
+6	Ppy	Ppy	PROPN	_	Gender=Masc	5	nsubj	_	_
+7	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	6	flat	_	_
+8	ḥr	ḥr	ADP	Cons.st	Case=Sup	9	case	_	_
+9	mꜣḳ.t	mꜣḳ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+10	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+11	i҆r.tn	i҆ri̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
+12	n	n	ADP	Pron.st	Case=Dat	13	case	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
+14	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
+16	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	14	appos	_	_
+
