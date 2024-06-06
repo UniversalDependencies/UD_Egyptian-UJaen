@@ -15380,3 +15380,18 @@
 6	śmꜣ.t	śmꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
 7	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 
+# sent_id = UDE-1215
+# ref = Pyramid Texts § 389a W, Saqqara, 5th Dynasty, rel, OE
+# text = mw.t n.t Wni҆ś śmꜣ.t i҆ṭ.t ṭp.t č̣w śm ṭp.t č̣w sḥsḥ
+1	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	n.t	n	ADJ	NisbaPrep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nmod	_	_
+4	śmꜣ.t	śmꜣ	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	i҆ṭ.t	i҆ṭ.t	NOUN	_	Gender=Fem|Number=Sing	4	appos	_	_
+6	ṭp.t	ṭp	ADJ	NisbaPrep	Gender=Fem|Number=Sing	5	amod	_	_
+7	č̣w	č̣w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nmod	_	_
+8	śm	śm	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+9	ṭp.t	ṭp	ADJ	NisbaPrep	Gender=Fem|Number=Sing	5	amod	_	_
+10	č̣w	č̣w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nmod	_	_
+11	sḥsḥ	sḥsḥ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+
