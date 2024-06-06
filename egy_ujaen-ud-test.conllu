@@ -15437,3 +15437,22 @@
 15	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 16	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	14	appos	_	_
 
+# sent_id = UDE-1218
+# ref = Pyramid Texts § 390b W, Saqqara, 5th Dynasty, rel, OE
+# text = nč̣r Ḥr.w Śtẖ m ꜥ n(.i҆) Wni҆ś šṭ ⸗śn św r Ṭ(w)ꜣ.t
+# lit = "Horus and Seth shall take hold of the hand of Unas that they may take him to the Duat."
+# trans = "Horus and Seth shall take hold of the hand of Unas that they may take him to the Duat."
+# type = Verbal sentence
+1	nč̣r	nč̣ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	Śtẖ	śtẖ	PROPN	_	Gender=Masc	2	conj	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nmod	_	_
+8	šṭ	šṭi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
+11	r	r	ADP	Cons.st	Case=All	12	case	_	_
+12	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	8	obl	_	_
+
