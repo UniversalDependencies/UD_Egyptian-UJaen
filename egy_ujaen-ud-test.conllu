@@ -15105,3 +15105,27 @@
 15	i҆m	m	ADP	Pron.st	Case=Loc	16	case	_	_
 16	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
 17	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	13	advmod	_	_
+
+# sent_id = UDE-1194
+# ref = PT § 382a-b P, Saqqara, 6th Dynasty, rel, OE
+# text = tꜣ pf i҆:šm.w Ppy pn i҆m ⸗f n i҆b Ppy pn i҆m ⸗f n ḥḳr Ppy i҆m ⸗f č̣.t
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	9	root	_	_
+2	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	_
+3	i҆:šm.w	šm	VERB	ADJ|Aug	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	acl	_	_
+4	Ppy	Ppy	PROPN	_	Gender=Masc	3	nsubj	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+6	i҆m	m	ADP	Pron.st	Case=Loc	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+8	n	n	PART	Neg	PartType=Neg	9	advmod	_	_
+9	i҆b	i҆bi̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+10	Ppy	Ppy	PROPN	_	Gender=Masc	9	nsubj	_	_
+11	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
+12	i҆m	m	ADP	Pron.st	Case=Loc	13	case	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
+14	n	n	PART	Neg	PartType=Neg	15	advmod	_	_
+15	ḥḳr	ḥḳr	VERB	SFC|Fut	Tense=Fut	9	conj	_	_
+16	Ppy	Ppy	PROPN	_	Gender=Masc	15	nsubj	_	_
+17	i҆m	m	ADP	Pron.st	Case=Loc	18	case	_	_
+18	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	_
+19	č̣.t	č̣.t	ADV	NOUN	AdvType=Tim	15	advmod	_	_
+
