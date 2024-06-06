@@ -15417,9 +15417,6 @@
 # sent_id = UDE-1217
 # ref = Pyramid Texts § 389b-390a N, Saqqara, 6th Dynasty, rel, OE
 # text = ꜥḥꜥ č̣č̣.w(i҆) hꜣ ḥč̣.(w)t pr.y Ppy Nfr-kꜣ-rꜥ ḥr mꜣḳ.t tn i҆r.tn n ⸗f i҆t ⸗f Rꜥw
-# lit = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
-# trans = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
-# type = Verbal sentence
 1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	č̣č̣.w(i҆)	č̣č̣	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
 3	hꜣ	hꜣi҆	VERB	SFC|Sub	Mood=Sub	1	conj	_	_
@@ -15440,9 +15437,6 @@
 # sent_id = UDE-1218
 # ref = Pyramid Texts § 390b W, Saqqara, 5th Dynasty, rel, OE
 # text = nč̣r Ḥr.w Śtẖ m ꜥ n(.i҆) Wni҆ś šṭ ⸗śn św r Ṭ(w)ꜣ.t
-# lit = "Horus and Seth shall take hold of the hand of Unas that they may take him to the Duat."
-# trans = "Horus and Seth shall take hold of the hand of Unas that they may take him to the Duat."
-# type = Verbal sentence
 1	nč̣r	nč̣ri̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	Śtẖ	śtẖ	PROPN	_	Gender=Masc	2	conj	_	_
@@ -15455,4 +15449,28 @@
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 11	r	r	ADP	Cons.st	Case=All	12	case	_	_
 12	Ṭ(w)ꜣ.t	Ṭwꜣ.t	PROPN	_	Gender=Fem	8	obl	_	_
+
+# sent_id = UDE-1219
+# ref = PT § 391a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆ n ⸗f sꜣ čw wč̣ n ⸗f
+1	i҆i҆	i҆i҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	vocative	_	_
+2	n	n	ADP	Cons.st	Case=Dat	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+4	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	_
+6	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	obj	_	_
+7	n	n	ADP	Pron.st	Case=Dat	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+
+# sent_id = UDE-1220
+# ref = PT § 392b W, Saqqara, 5th Dynasty, rel, OE
+# text = wč̣ n ⸗f sꜣ čw i҆i҆ n ⸗f
+1	wč̣	wč̣	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	vocative	_	_
+2	n	n	ADP	Cons.st	Case=Dat	3	case	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+4	sꜣ	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	_
+6	i҆i҆	i҆i҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	obj	_	_
+7	n	n	ADP	Pron.st	Case=Dat	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
 
