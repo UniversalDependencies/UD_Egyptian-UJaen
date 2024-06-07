@@ -15711,3 +15711,15 @@
 5	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 
+# sent_id = UDE-1243
+# ref = Pyramid Texts § 396c W, Saqqara, 5th Dynasty, rel, OE
+# text = ptr.t bꜣ ꜣḫ.t(i҆) nčb ⸗ś
+# lit = "The one who sees the soul is efficient when she parches."
+# trans = "The one who sees the soul is efficient when she parches."
+# type = Verbal sentence
+1	ptr.t	ptr.t	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	nsubj	_	_
+2	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
+3	ꜣḫ.t(i҆)	ꜣḫ.t	VERB	OSSC|Stat	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	nčb	nčb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+5	⸗ś	ś	PRON	SFP|Subj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+
