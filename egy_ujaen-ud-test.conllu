@@ -15863,7 +15863,7 @@
 2	i҆:ḫmꜥ	ḫmꜥ	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	nsubj	_	_
 3	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 4	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	amod	_	_
-5	Kḥꜣ.w	Kḥꜣ.w	PROPN	_	Gender=Masc	2	nmod	_	_
+5	Kḥꜣ.w	Kḥꜣ.w	PROPN	_	_	2	nmod	_	_
 6	śpḥ	śpḥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
 7	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	6	obj	_	_
 8	n	n	ADP	Cons.st	Case=Dat	9	case	_	_
@@ -15899,7 +15899,7 @@
 # ref = Pyramid Texts § 402a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆n Ḫns.w mṭś nb.w č̣ꜣṭ ⸗f śn n Wni҆ś šṭ ⸗f n ⸗f i҆m.(i҆)t ẖ.t ⸗śn
 1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
-2	Ḫns.w	Ḫns.w	PROPN	_	Gender=Masc	5	nsubj	_	_
+2	Ḫns.w	Ḫns.w	PROPN	_	Gender=Masc	5	dislocated	_	_
 3	mṭś	mṭś	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	appos	_	_
 4	nb.w	nb	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
 5	č̣ꜣṭ	č̣ꜣṭ	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
