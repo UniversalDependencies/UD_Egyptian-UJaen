@@ -15516,3 +15516,42 @@
 6	ḫr	ḫr	ADP	Cons.st	_	4	case	_	_
 7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
 
+# sent_id = UDE-1225
+# ref = Pyramid Texts § 392b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆m i҆:wn-ti҆ n ⸗f nw
+1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2-3	i҆:wn-ti҆	_	_	_	_	_	_	_	_
+2	i҆:wn	wn	VERB	SFC|Sub|Aug	Mood=Sub	1	advcl	_	_
+3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+6	nw	nw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	obj	_	_
+
+# sent_id = UDE-1226
+# ref = Pyramid Texts § 392c W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ šrr i҆m
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	šrr	šrr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+4	i҆m	i҆m	ADV	_	AdvType=Loc	3	advmod	_	_
+
+# sent_id = UDE-1227
+# ref = Pyramid Texts § 392d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Wni҆ś pn ṭp šmś.w Rꜥw
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	ṭp	ṭp	ADP	Cons.st	_	5	case	_	_
+5	šmś.w	šmś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	0	root	_	_
+6	Rꜥw	Rꜥw	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	_
+
+# sent_id = UDE-1228
+# ref = Pyramid Texts § 392d W, Saqqara, 5th Dynasty, rel, OE
+# text = n Wni҆ś pn ṭp nčr(.w) tḫtḫ
+1	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nsubj	_	_
+3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+4	ṭp	ṭp	ADP	Cons.st	_	5	case	_	_
+5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+6	tḫtḫ	tḫtḫ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin	5	acl	_	_
+
