@@ -15760,3 +15760,13 @@
 26	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
 27	śi҆śi҆	śi҆śi҆	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
 
+# sent_id = UDE-1246
+# ref = Pyramid Texts § 398a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ ꜥpr i҆ꜥb ꜣḫ(.w) ⸗f
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ꜥpr	ꜥpr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root
+4	i҆ꜥb	i҆ꜥb	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj
+5	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
