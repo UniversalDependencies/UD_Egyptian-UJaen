@@ -15641,3 +15641,63 @@
 10	mś	mśi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	amod	_	_
 11	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 
+# sent_id = UDE-1236
+# ref = Pyramid Texts § 395b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w mś.n ⸗f św
+# lit = "He has birthed him."
+# trans = "He has birthed him."
+# type = i҆w + Verbal sentence
+1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
+2	mś.n	mś	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+
+# sent_id = UDE-1237
+# ref = Pyramid Texts § 395b W, Saqqara, 5th Dynasty, rel, OE
+# text = wśr św r ⸗f
+# lit = "He is more powerful than him."
+# trans = "He is more powerful than him."
+# type = Adjectival sentence
+1	wśr	wśr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	r	r	ADP	Pron.st	Case=Cmp	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+
+# sent_id = UDE-1238
+# ref = Pyramid Texts § 396a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w kꜣ(.w) Wni҆ś ḥꜣ ⸗f
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	kꜣ(.w)	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	ḥꜣ	ḥꜣ	ADP	Pron.st	_	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-1239
+# ref = Pyramid Texts § 396a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ḥmś.wt ⸗f ẖr rṭ(.wi҆) ⸗f
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	ḥmś.wt	ḥmś.t	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	ẖr	ẖr	ADP	Cons.st	_	5	case	_	_
+5	rṭ(.wi҆)	rṭ	NOUN	_	Gender=Masc|Number=Dual	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1240
+# ref = Pyramid Texts § 396b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w nčr(.w) ⸗f ṭp ⸗f
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	nčr(.w)	nčr	NOUN	Subj	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	ṭp	ṭp	ADP	Pron.st	Case=Sup	5	case	_	_
+5	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+
+# sent_id = UDE-1241
+# ref = Pyramid Texts § 396b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w i҆ꜥr.(w)t ⸗f m wp.t ⸗f
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	i҆ꜥr.(w)t	i҆ꜥr.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+5	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+
