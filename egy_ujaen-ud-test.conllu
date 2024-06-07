@@ -15884,3 +15884,14 @@
 10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
 11	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	8	obj	_	_
 
+# sent_id = UDE-1254
+# ref = Pyramid Texts § 401c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n ḥr(.i҆) čr.wt ḳꜣś n ⸗f śn
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	ḥr(.i҆)	ḥr	NOUN	NisbaPrep	Case=Sup|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	čr.wt	čr.wt	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	ḳꜣś	ḳꜣś	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	iobj	_	_
+7	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	4	obj	_	_
+
