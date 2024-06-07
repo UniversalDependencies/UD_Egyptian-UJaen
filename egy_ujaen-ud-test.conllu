@@ -15826,3 +15826,21 @@
 13	rḫś	rḫś	NOUN	Inf	Gender=Masc|VerbForm=Inf	10	nmod	_	_
 14	śmś.w	śmś.w	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
 
+# sent_id = UDE-1250
+# ref = Pyramid Texts § 399c-d W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś p(i҆) nb ḥtp.t čꜣs ꜥḳꜣ i҆r ꜣw.t ⸗f č̣ś ⸗f
+# lit = "Unas is the lord of offerings who knots the cord who himself prepared his meal."
+# trans = "Unas is the lord of offerings who knots the cord who himself prepared his meal."
+# type = Nominal sentence (A pw B)
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	p(i҆)	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	nb	nb	ADJ	_	Definite=Cons|Gender=Masc|Number=Sing	0	root	_	_
+4	ḥtp.t	ḥtp.t	NOUN	_	Case=Gen|Gender=Fem|Number=Coll	3	nmod	_	_
+5	čꜣs	čꜣs	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	amod	_	_
+6	ꜥḳꜣ	ꜥḳꜣ	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	i҆r	i҆ri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	_
+8	ꜣw.t	ꜣw.t	NOUN	_	Gender=Masc|Number=Coll	7	obj	_	_
+9	⸗f	⸗f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
+10	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	8	appos	_	_
+11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
+
