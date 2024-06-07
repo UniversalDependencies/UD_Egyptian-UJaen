@@ -15915,3 +15915,13 @@
 15	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
 16	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	15	nmod	_	_
 
+# sent_id = UDE-1256
+# ref = Pyramid Texts § 402c W, Saqqara, 5th Dynasty, rel, OE
+# text = wp(w).t(i҆) pw hꜣb.w ⸗f r ḫśf
+1	wp(w).t(i҆)	wpw.ti҆	NOUN	NisbaNoun	Gender=Masc|Number=sing	0	root	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	hꜣb.w	hꜣb	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	r	r	ADP	Cons.st	Case=All	6	case	_	_
+6	ḫśf	ḫśf	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	obl	_	_
+
