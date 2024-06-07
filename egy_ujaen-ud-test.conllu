@@ -15553,7 +15553,7 @@
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 4	ṭp	ṭp	ADP	Cons.st	_	5	case	_	_
 5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-6	tḫtḫ	tḫtḫ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin	5	acl	_	_
+6	tḫtḫ	tḫtḫ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	5	amod	_	_
 
 # sent_id = UDE-1229
 # ref = Pyramid Texts § 392d T, Saqqara, 5th Dynasty, rel, OE
@@ -15562,7 +15562,7 @@
 2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 3	ṭp	ṭp	ADP	Cons.st	_	4	case	_	_
 4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-5	tḫtḫ	tḫtḫ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin	4	acl	_	_
+5	tḫtḫ	tḫtḫ	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	4	amod	_	_
 
 # sent_id = UDE-1230
 # ref = Pyramid Texts § 393a W, Saqqara, 5th Dynasty, rel, OE
@@ -15579,4 +15579,28 @@
 2	pč̣.(w)t	pč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	śṭꜣ	śṭꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 4	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+
+# sent_id = UDE-1232
+# ref = Pyramid Texts § 393b-394b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜣkr.w gr r ⸗śn gnm.w mꜣ.n ⸗śn Wni҆ś ḫꜥ(.w) bꜣ(.w) m nčr ꜥnḫ m i҆t(.w) ⸗f wšb m mw.(w)t ⸗f
+1	ꜣkr.w	ꜣkr	NOUN	_	Gender=Masc|Number=Plur	2	dislocated	_	_	_
+2	gr	gr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	m	m	ADP	Pron.st	_	4	case	_	_
+4	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+5	gnm.w	gnm	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
+6	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	_
+7	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
+8	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	obj	_	_
+9	ḫꜥ(.w)	ḫꜥ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	8	advcl	_	_
+10	bꜣ(.w)	bꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	9	conj	_	_
+11	m	m	ADP	Cons.st	Case=Equ	12	case	_	_
+12	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
+13	ꜥnḫ	ꜥnḫ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	12	amod	_	_
+14	m	m	ADP	Cons.st	_	15	case	_	_
+15	i҆t(.w)	i҆t	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	_
+16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+17	wšb	wšb	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	12	amod	_	_
+18	m	m	ADP	Cons.st	_	19	case	_	_
+19	mw.(w)t	mw.t	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	_
+20	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
 
