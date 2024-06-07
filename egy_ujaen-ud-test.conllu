@@ -15555,3 +15555,28 @@
 5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 6	tḫtḫ	tḫtḫ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin	5	acl	_	_
 
+# sent_id = UDE-1229
+# ref = Pyramid Texts § 392d T, Saqqara, 5th Dynasty, rel, OE
+# text = n św ṭp nčr(.w) tḫtḫ
+1	n	n	PART	Neg	PartType=Neg	4	advmod	_	_
+2	św	św	PRON	DepPron	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	ṭp	ṭp	ADP	Cons.st	_	4	case	_	_
+4	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+5	tḫtḫ	tḫtḫ	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Fin	4	acl	_	_
+
+# sent_id = UDE-1230
+# ref = Pyramid Texts § 393a W, Saqqara, 5th Dynasty, rel, OE
+# text = gp p.t i҆ḥy śbꜣ(.w)
+1	gp	gp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	i҆ḥy	i҆ḥy	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	śbꜣ(.w)	śbꜣ	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+
+# sent_id = UDE-1231
+# ref = Pyramid Texts § 393b W, Saqqara, 5th Dynasty, rel, OE
+# text = nmnm pč̣.(w)t śṭꜣ ḳś(.w)
+1	nmnm	nmnm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	pč̣.(w)t	pč̣.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	śṭꜣ	śṭꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+4	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+
