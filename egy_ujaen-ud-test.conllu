@@ -15856,3 +15856,16 @@
 10	ḫꜣꜥ	ḫꜣꜥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	8	amod	_	_
 11	wp(w).t	wpw.t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 
+# sent_id = UDE-1252
+# ref = Pyramid Texts § 401a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n i҆:ḫmꜥ wp.t i҆m(.i҆) Kḥꜣ.w śpḥ śn n Wni҆ś
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	i҆:ḫmꜥḫmꜥ	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	_
+3	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	2	amod	_	_
+5	Kḥꜣ.w	Kḥꜣ.w	PROPN	_	Gender=Masc	2	nmod	_	_
+6	śpḥ	śpḥ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+7	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Dual|Person=3|PronType=Prs	6	obj	_	_
+8	n	n	ADP	Cons.st	Case=Dat	8	case	_	_
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	6	iobj	_	_
+
