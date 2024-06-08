@@ -16103,3 +16103,21 @@
 5	ꜥšm.w	ꜥẖm	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
 6	wr	wr	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 
+# sent_id = UDE-1271
+# ref = Pyramid Texts § 407c T, Saqqara, 6th Dynasty, rel, OE
+# text = gm.y ⸗f m wꜣ.t ⸗f wnm ⸗f n ⸗f św mwmw
+# lit = "Whoever he will find in his way, he will eat him for himself piecemeal (?)."
+# trans = "Whoever he will find in his way, he will devour him piecemeal (?)."
+# type = Verbal sentence
+1	gm.y	gmi̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Fin	6	dislocated	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	wnm	wnm	VERB	SFC|Fut	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	n	n	ADP	Pron.st	Case=Ben	9	case	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
+10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+11	mwmw	mwmw	ADV	NOUN	AdvType=Man	6	advmod	_	_
+
