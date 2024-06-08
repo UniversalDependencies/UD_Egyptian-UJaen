@@ -15775,7 +15775,7 @@
 # text = i҆w Wni҆ś ḫꜥ(.w) m wr pw nb i҆m(.i҆)w ś.t ꜥ ḥmś ⸗f sꜣ ⸗f i҆r Gb(b)
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	3	aux	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
-3	ḫꜥ(.w)	ḫꜥi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3	0	root	_	_
+3	ḫꜥ(.w)	ḫꜥi̯	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
 5	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -16187,4 +16187,14 @@
 4	ḫꜥ.w	ḫꜥi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	2	obj	_	_
 5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
 6	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+
+# sent_id = UDE-1278
+# ref = Pyramid Texts § 409a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆(w) ⸗f śbn(.w) m nb ꜣḫ.t
+1	i҆(w)	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	śbn(.w)	śbn	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	m	m	ADP	Cons.st	Case=Equ	5	case	_	_
+5	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+6	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 
