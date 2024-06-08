@@ -16084,9 +16084,10 @@
 
 # sent_id = UDE-1269
 # ref = Pyramid Texts § 407a W, Saqqara, 5th Dynasty, rel, OE
-# text = Wni҆ś pi҆ śḫm wr śḫm m śḫm(.w)
+# text = Wni҆ś pi҆ śḫm-wr śḫm m śḫm(.w)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+2-3	śḫm-wr	_	_	_	_	_	_	_	_
 3	śḫm	śḫm	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	wr	wr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 5	śḫm	śḫm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
@@ -16159,4 +16160,21 @@
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
 5	šn.(w)t	šn.t	NUM	CARD|NOUN	Gender=Fem|Number=Plur	2	nsubj	_	_
+
+# sent_id = UDE-1276
+# ref = Pyramid Texts § 408c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w rč̣(.w) n ⸗f ꜥ m śḫm-wr i҆n Śꜣḥ i҆t nčr(.w)
+1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	rč̣(.w)	rč̣i̯	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+6	m	m	ADP	Cons.st	Case=Equ	7	case	_	_
+7-8	śḫm-wr	_	_	_	_	_	_	_	_
+7	śḫm	śḫm	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+8	wr	wr	ADJ	_	Gender=Masc|Number=Sing	7	compound	_	_
+9	i҆n	i҆n	ADP	Cons.st	_	10	case	_	_
+10	Śꜣḥ	Śꜣḥ	PROPN	_	Gender=Masc	2	obl:agent	_	_
+11	i҆t	i҆t	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	appos	_	_
+12	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	_
 
