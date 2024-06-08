@@ -16217,3 +16217,11 @@
 4	ḥꜣ.ti҆(.w)	ḥꜣ.ti҆	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	2	obj	_	_
 5	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
 
+# sent_id = UDE-1281
+# ref = Pyramid Texts § 410a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w wnm.n ⸗f ṭšr.t
+1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
+2	wnm.n	wnm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ṭšr.t	ṭšr.t	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
+
