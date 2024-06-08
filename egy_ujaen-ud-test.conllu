@@ -16065,3 +16065,15 @@
 16	ḥm.(w)t	ḥm.t	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
 17	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	16	nmod	_	_
 
+# sent_id = UDE-1267
+# ref = Pyramid Texts § 406c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ṭbn.n ⸗f p.t(i҆) tm.ti҆
+# lit = "He has travelled around the whole of the two skies."
+# trans = "He has travelled around the whole of the two skies."
+# type = i҆w + Verbal sentence
+1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	ṭbn.n	ṭbn	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	p.t(i҆)	p.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	2	obj	_	_
+5	tm.ti	tm.ti	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	4	advcl	_	_
+
