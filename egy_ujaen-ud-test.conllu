@@ -15925,3 +15925,24 @@
 5	r	r	ADP	Cons.st	Case=All	6	case	_	_
 6	ḫśf	ḫśf	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	obl	_	_
 
+# sent_id = UDE-1257
+# ref = Pyramid Texts § 403a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆n Šsm.w rḫś ⸗f śn n Wni҆ś fśś n ⸗f i҆ḫ.t i҆m ⸗śn m kti҆.(w)t ⸗f mšr.wt
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Šsm.w	Šsm.w	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	rḫś	rḫś	VERB	SFC|Fut|Pred	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	śn	śn	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	obj	_	_
+6	n	n	ADP	Cons.st	Case=Ben	7	case	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	obl	_	_
+8	fśś	fśi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	conj	_	_
+9	n	n	ADP	Pron.st	Case=Ben	10	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+11	i҆ḫ.t	i҆ḫ.t	NOUN	Obj	Gender=Fem|Number=Sing	8	obj	_	_
+12	i҆m	m	ADP	Pron.st	_	13	case	_	_
+13	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	obl	_	_
+14	m	m	ADP	Cons.st	_	15	case	_	_
+15	kti҆.(w)t	kti҆.t	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
+16	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
+17	mšr.wt	mšr.wt	NOUN	_	Gender=Fem|Number=Sing	15	compound	_	_
+
