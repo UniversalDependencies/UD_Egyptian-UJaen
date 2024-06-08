@@ -16022,3 +16022,24 @@
 7	kꜣp.(w)t	kꜣp.t	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 
+# sent_id = UDE-1265
+# ref = Pyramid Texts § 405a W, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n ꜥꜣ(.w) mḥ.t(i҆)w p.t wṭ.w n ⸗f śč̣.t r wḥꜣ.wt ẖr.t ⸗śn m ḫpš(.w) n.(i҆)w śmś(.w) ⸗śn
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	ꜥꜣ(.w)	ꜥꜣ	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
+3	mḥ.t(i҆)w	mḥ.ti҆	ADJ	NisbaNoun	Gender=Masc|Number=Plur	2	amod	_	_
+4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	wṭ.w	wṭi̯	VERB	ADJ	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	n	n	ADP	Pron.st	Case=Ben	7	case	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
+8	śč̣.t	śč̣.t	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	MWE
+9	r	r	ADP	Cons.st	_	10	case	_	_
+10	wḥꜣ.wt	wḥꜣ.t	PROPN	_	Gender=Fem|Number=Sing	5	obl	_	_
+11	ẖr.t	ẖr	NOUN	NisbaPrep	Case=Sub|Gender=Fem|Number=Sing	10	appos	_	_
+12	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
+13	m	m	ADP	Cons.st	Case=Loc	14	case	_	_
+14	ḫpš(.w)	ḫpš	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+15	n.(i҆)w	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Plur	14	amod	_	_
+16	śmś(.w)	śmś.w	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
+17	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	16	nmod	_	_
+
