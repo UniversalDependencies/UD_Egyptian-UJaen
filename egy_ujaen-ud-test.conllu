@@ -16254,3 +16254,14 @@
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
 9	i҆śč	i҆śč	CCONJ	_	_	7	cc	_	_
 
+# sent_id = UDE-1285
+# ref = Pyramid Texts § 411c W, Saqqara, 5th Dynasty, rel, OE
+# text = fi҆w Wni҆ś nśb ⸗f śbš.w i҆m.(i҆)w ṭšr.t
+1	fi҆w	fi҆w	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	nśb	nśb	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	śbš.w	śbš	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+6	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	5	amod	_	_
+7	ṭšr.t	ṭšr.t	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+
