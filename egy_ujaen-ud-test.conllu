@@ -16046,7 +16046,7 @@
 # sent_id = UDE-1266
 # ref = Pyramid Texts § 406a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w pẖr i҆m.(i҆)w p.t n Wni҆ś šśr-t(i҆) {t} n ⸗f kti҆.(w)t m rṭ(.w) n.(i҆)w ḥm.(w)t ⸗śn
-1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+1	i҆w	i҆w	AUX	Particle	Aspect=Hab	2	aux	_	_
 2	pẖr	pẖr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	i҆m.(i҆)w	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	2	nsubj	_	_
 4	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
@@ -16141,4 +16141,13 @@
 4	śmś	śmś	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	amod	_	_
 5	r	r	ADP	Cons.st	Case=Cmp	6	case	_	_
 6	śmś.w(w)	śmś.w	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
+
+# sent_id = UDE-1274
+# ref = Pyramid Texts § 408b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w pẖr n ⸗f ḫꜣ(.w)
+1	i҆w	i҆w	AUX	Particle	Aspect=Hab	2	aux	_	_
+2	pẖr	pẖr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	0	root	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	ḫꜣ(.w)	ḫꜣ	NUM	CARD|NOUN	Gender=Masc|Number=Plur	2	nsubj	_	_
 
