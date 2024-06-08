@@ -16106,9 +16106,6 @@
 # sent_id = UDE-1271
 # ref = Pyramid Texts § 407c T, Saqqara, 6th Dynasty, rel, OE
 # text = gm.y ⸗f m wꜣ.t ⸗f wnm ⸗f n ⸗f św mwmw
-# lit = "Whoever he will find in his way, he will eat him for himself piecemeal (?)."
-# trans = "Whoever he will find in his way, he will devour him piecemeal (?)."
-# type = Verbal sentence
 1	gm.y	gmi̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Fin	6	dislocated	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
@@ -16120,4 +16117,18 @@
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 11	mwmw	mwmw	ADV	NOUN	AdvType=Man	6	advmod	_	_
+
+# sent_id = UDE-1272
+# ref = Pyramid Texts § 407d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w mk.t Wni҆ś m-ḥꜣ.t śꜥḥ.w nb.w i҆m.(i҆)w ꜣḫ.t
+1	i҆w	i҆w	PART	_	_	6	discourse	_	_
+2	mk.t	mk.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4-5	m-ḥꜣ.t	_	_	_	_	_	_	_	_
+4	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+5	ḥꜣ.t	ḥꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	fixed	_	_
+6	śꜥḥ.w	śꜥḥ	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+7	nb.w	nb	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	_
+8	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	6	amod	_	_
+9	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 
