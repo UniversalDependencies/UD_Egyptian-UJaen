@@ -16068,12 +16068,17 @@
 # sent_id = UDE-1267
 # ref = Pyramid Texts § 406c W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w ṭbn.n ⸗f p.t(i҆) tm.ti҆
-# lit = "He has travelled around the whole of the two skies."
-# trans = "He has travelled around the whole of the two skies."
-# type = i҆w + Verbal sentence
 1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
 2	ṭbn.n	ṭbn	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 4	p.t(i҆)	p.t	NOUN	_	Gender=Fem|Number=Dual	2	obj	_	_
 5	tm.ti҆	tm	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	4	advcl	_	_
+
+# sent_id = UDE-1268
+# ref = Pyramid Texts § 406c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w pẖr.n ⸗f i҆ṭb.w(i҆)
+1	i҆w	i҆w	AUX	Particle	_	2	aux	_	_
+2	pẖr.n	pẖr	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+3	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	i҆ṭb.w(i҆)	i҆ṭb.wi҆	NOUN	_	Gender=Masc|Number=Dual	2	obj	_	_
 
