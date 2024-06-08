@@ -16093,3 +16093,13 @@
 6	m	m	ADP	Cons.st	_	7	case	_	_
 7	śḫm(.w)	śḫm	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	_
 
+# sent_id = UDE-1270
+# ref = Pyramid Texts § 407b W, Saqqara, 5th Dynasty, rel, OE
+# text = Wni҆ś pi҆ ꜥšm ꜥšm ꜥšm.w wr
+1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
+3	ꜥšm	ꜥẖm	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	ꜥšm	ꜥẖm	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	appos	_	_
+5	ꜥšm.w	ꜥẖm	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
+6	wr	wr	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
+
