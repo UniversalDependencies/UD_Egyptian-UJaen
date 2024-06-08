@@ -15949,9 +15949,6 @@
 # sent_id = UDE-1258
 # ref = Pyramid Texts § 403c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wni҆ś pi҆ wnm ḥkꜣ(.w) ⸗śn i҆:ꜥm ꜣḫ(.w) ⸗śn
-# lit = "Unas is the one who eats their Magic, who gulps down their spirits."
-# trans = "Unas is the one who eats their Magic, who gulps down their spirits."
-# type = Nominal sentence (A pw B)
 1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	wnm	wnm	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
@@ -15960,4 +15957,22 @@
 6	i҆:ꜥm	ꜥm	NOUN	Aug	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
 7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
 8	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+
+# sent_id = UDE-1259
+# ref = Pyramid Texts § 403c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n Tti҆ wnm ḥkꜣ(.w) ⸗śn
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	wnm	wnm	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+4	ḥkꜣ(.w)	ḥkꜣ	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
+
+# sent_id = UDE-1260
+# ref = Pyramid Texts § 403c T, Saqqara, 6th Dynasty, rel, OE
+# text = i҆n Tti҆ i҆:ꜥm ꜣḫ(.w) ⸗śn
+1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	_
+2	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	i҆:ꜥm	ꜥm	VERB	ADJ|Aug	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
+4	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
+5	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	4	nmod	_	_
 
