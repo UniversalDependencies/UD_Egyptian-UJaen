@@ -16465,3 +16465,16 @@
 6	r	r	ADP	Cons.st	_	7	case	_	_
 7	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	MWE
 
+# sent_id = UDE-1298
+# ref = Pyramid Texts § 416c W, Saqqara, 5th Dynasty, rel, OE 
+# text = ḫpr Wni҆ś m wr i҆m(.i҆) Šṭ.t
+# lit = "Unas transforms (certainly) into the Great One, who is in Shedet."
+# trans = "It is into the Great One, who is in Shedet, that Unas transforms."
+# type = Verbal sentence
+1	ḫpr	ḫpr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	wr	wr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
+6	Šṭ.t	Šṭ.t	PROPN	_	Gender=Fem	4	nmod	_	_
+
