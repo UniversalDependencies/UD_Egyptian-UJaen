@@ -16306,3 +16306,34 @@
 6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 7	nb	nb	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
 
+# sent_id = UDE-1290
+# ref = Pyramid Texts § 412a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ.w pi҆ n(.i҆) Wni҆ś nḥḥ
+1	ꜥḥꜥ.w	ꜥḥꜥ.w	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	pi҆	pi҆	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	_
+3	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nmod	_	_
+5	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
+# sent_id = UDE-1291
+# ref = Pyramid Texts § 412a-413c W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣r(.w) ⸗f pi҆ č̣.t m śꜥḥ ⸗f pn n(.i҆) mrr ⸗f i҆rr ⸗f mśč̣č̣ ⸗f n i҆r.n ⸗f i҆m(.i҆) č̣r.w ꜣḫ.t č̣.t r nḥḥ śk bꜣ ⸗śn m ẖ.t Wni҆ś ꜣḫ(.w) ⸗śn ḫr Wni҆ś m ḥꜣ(.w) (i҆)ḫ.t ⸗f r nčr(.w) ḳrr.t(i҆) n Wni҆ś m ḳś(.w) ⸗śn śk bꜣ ⸗śn ḫr Wni҆ś šw.wt ⸗śn m-ꜥ i҆r.(i҆)w ⸗śn
+1	č̣r(.w)	č̣r	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
+3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
+4	č̣.t	č̣.t	NOUN	ADV	AdvType=Tim	0	root	_	_
+5	m	m	ADP	Cons.st	_	6	case	_	_
+6	śꜥḥ	śꜥḥ	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+10	mrr	mri̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+11	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+12	i҆rr	i҆ri̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	_
+13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	mśč̣č̣	mśč̣i̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
+15	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+16	n	n	PART	Neg	PartType=Neg	17	advmod	_	_
+17	i҆r.n	i҆ri̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
+18	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+
