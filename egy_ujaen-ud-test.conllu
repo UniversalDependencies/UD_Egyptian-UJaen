@@ -961,7 +961,7 @@
 9	m	m	ADP	Cons.st	Case=Ins	10	case	_	_
 10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	_
-12	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	8	advmod	_	_
+12	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	8	obl	_	_
 
 # sent_id = UDE-85
 # ref = PT § 16b W, Saqqara, 5th Dynasty, rel, OE
@@ -981,7 +981,7 @@
 3	m	m	ADP	Cons.st	Case=Ins	4	case	_	_
 4	rn	rn	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
 5	Wni҆ś	Wni҆ś	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
-6	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	2	advmod	_	_
+6	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	2	obl	_	_
 
 # sent_id = UDE-87
 # ref = PT § 16c W, Saqqara, 5th Dynasty, rel, OE
@@ -5624,7 +5624,7 @@
 5	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nmod	_	_
-8	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	1	advmod	_	_
+8	č̣w	č̣w	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	1	obl	_	_
 9	pr	pri̯	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
 10	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	fixed	_	_
 11	wč̣.n	wč̣	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
@@ -10933,7 +10933,7 @@
 8	n	n	ADP	Pron.st	Case=Ben	9	case	_	_
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-11	mwmw	mwmw	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	6	advmod	_	_
+11	mwmw	mwmw	NOUN	_	AdvType=Man|Gender=Masc|Number=Sing	6	obl	_	_
 
 # sent_id = UDE-900
 # ref = Pyramid Texts § 278b W, Saqqara, 5th Dynasty, rel, OE
@@ -16117,7 +16117,7 @@
 8	n	n	ADP	Pron.st	Case=Ben	9	case	_	_
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	6	obl	_	_
 10	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
-11	mwmw	mwmw	NOUN	_	AdvType=Man	6	advmod	_	_
+11	mwmw	mwmw	NOUN	_	AdvType=Man	6	obl	_	_
 
 # sent_id = UDE-1272
 # ref = Pyramid Texts § 407d W, Saqqara, 5th Dynasty, rel, OE
