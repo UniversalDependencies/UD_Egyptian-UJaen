@@ -16538,3 +16538,15 @@
 3	fḫ.ti҆	fḫ.ti҆	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 4	wfi҆	wfi҆	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
 
+# sent_id = UDE-1306
+# ref = PT § 419c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆m mk-ti҆ Wni҆ś
+# lit = “Cause that one (i.e. the snake) may protect Unas.”
+# trans = “Cause Unas to be protected.”
+# type = Verbal sentence
+1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2-3	mk-ti҆	_	_	_	_	_	_	_	_
+2	mk	mki̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+3	ti҆	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
+
