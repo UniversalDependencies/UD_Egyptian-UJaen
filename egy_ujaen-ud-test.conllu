@@ -16318,8 +16318,8 @@
 # sent_id = UDE-1291
 # ref = Pyramid Texts § 412a-413c W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣r(.w) ⸗f pi҆ č̣.t m śꜥḥ ⸗f pn n(.i҆) mrr ⸗f i҆rr ⸗f mśč̣č̣ ⸗f n i҆r.n ⸗f i҆m(.i҆) č̣r.w ꜣḫ.t č̣.t r nḥḥ śk bꜣ ⸗śn m ẖ.t Wni҆ś ꜣḫ(.w) ⸗śn ḫr Wni҆ś m ḥꜣ(.w) (i҆)ḫ.t ⸗f r nčr(.w) ḳrr.t(i҆) n Wni҆ś m ḳś(.w) ⸗śn śk bꜣ ⸗śn ḫr Wni҆ś šw.wt ⸗śn m-ꜥ i҆r.(i҆)w ⸗śn
-# lit = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever."
-# trans = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever,."
+# lit = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever, while their souls are in the belly of Unas and their spirits are with Unas as the excess of his meal with respect to the gods, being boiled for Unas with their bones, "
+# trans = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever; for their souls are in the belly of Unas and their spirits are with Unas as the excess of his meal with respect to the gods, while it is boiled for Unas with their bones, "
 # type = Nominal sentence (A pw B) + Balanced sentence + 
 1	č̣r(.w)	č̣r	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
@@ -16345,4 +16345,26 @@
 22	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	19	advmod	_	_
 23	r	r	ADP	Cons.st	_	24	case	_	_
 24	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+25	śk	i҆śk	PART	_	_	29	mark	_	_
+26	bꜣ	bꜣ	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	_
+27	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	26	nmod	_	_
+28	m	m	ADP	Cons.st	Case=Loc	29	case	_	_
+29	ẖ.t	ẖ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	4	advcl	_	_
+30	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	29	nmod	_	_
+31	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	34	nsubj	_	_
+32	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	31	nmod	_	_
+33	ḫr	ḫr	ADP	Cons.st	_	34	case	_	_
+34	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	29	conj	_	_
+35	m	m	ADP	Cons.st	_	36	case	_	_
+36	ḥꜣ(.w)	ḥꜣ.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Coll	34	obl	_	_
+37	(i҆)ḫ.t	i҆ḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	_
+38	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	nmod	_	_
+39	r	r	ADP	Cons.st	_	40	case	_	_
+40	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	36	obl	_	_
+41	ḳrr.t(i҆)	ḳrr	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3|VerbForm=Conv	37	advcl	_	_
+42	n	n	ADP	Cons.st	Case=Ben	43	case	_	_
+43	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	41	obl	_	_
+44	m	m	ADP	Cons.st	Case=Ins	45	case	_	_
+45	ḳś(.w)	ḳś	NOUN	_	Gender=Masc|Number=Plur	41	obl	_	_
+46	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	21	nmod	_	_
 
