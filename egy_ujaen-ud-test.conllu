@@ -16522,3 +16522,11 @@
 6	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
 7	Ḫm	Ḫm	PROPN	_	Gender=Masc	6	compound	_	Title
 
+# sent_id = UDE-1304
+# ref = PT § 419b W, Saqqara, 5th Dynasty, rel, OE
+# text = hn(w) tf hn(w) tn
+1	hn(w)	hnw	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	tf	tf	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+3	hn(w)	hnw	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+4	tn	tn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+
