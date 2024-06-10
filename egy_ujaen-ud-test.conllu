@@ -16471,3 +16471,19 @@
 3	i҆r	r	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
+# sent_id = UDE-1301
+# ref = Pyramid Texts § 417a W, Saqqara, 5th Dynasty, rel, OE 
+# text = i҆r.(y)t ⸗k i҆r ⸗k sksk i҆m(.i҆) ḳrḳ.t ⸗f i҆m(.i҆)-rṭ ⸗f
+1	i҆r.(y)t	i҆ri̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Fin	4	csubj	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	sksk	sksk	NOUN	_	Gender=Masc|Number=Sing	4	dislocated	_	_
+6	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	5	appos	_	_
+7	ḳrḳ.t	ḳrḳ.t	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9-10	i҆m(.i҆)-rṭ	_	_	_	_	_	_	_	_
+9	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	6	conj	_	_
+10	rṭ	rṭ	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	MWE
+11	⸗k	k	PRON	SFP|Poss=Yexs	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
+
