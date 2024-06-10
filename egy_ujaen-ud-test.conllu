@@ -16530,3 +16530,11 @@
 3	hn(w)	hnw	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	tn	tn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 
+# sent_id = UDE-1305
+# ref = PT § 419b W, Saqqara, 5th Dynasty, rel, OE, for the function of the OSSC see Allen 2017: 139 (§ 17.2)
+# text = mrw.ti҆ mrw.ti҆ fḫ.ti҆ wfi҆
+1	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	vocative	_
+2	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	conj	_
+3	fḫ.ti҆	fḫ.ti҆	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	wfi҆	wfi҆	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+
