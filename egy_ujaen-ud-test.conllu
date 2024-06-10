@@ -16380,3 +16380,18 @@
 56	i҆r.(i҆)w	r	NOUN	NisbaPrep	Gender=Masc|Number=Plur	51	conj	_	_
 57	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	56	nmod	_	_
 
+# sent_id = UDE-1292
+# ref = Pyramid Texts § 414a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Wni҆ś m nn ḫꜥ(.w) ḫꜥ(.w) i҆:mn(.w) i҆:mn(.w)
+# lit = "Unas is (now like) this being apparent, apparent and set, set."
+# trans = "Unas is (now like) this being really apparent and really set."
+# type = i҆w + Adverbial sentence
+1	i҆w	i҆w	PART	_	_	4	discourse	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
+4	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+5	ḫꜥ(.w)	ḫꜥi̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	4	advcl	_	_
+6	ḫꜥ(.w)	ḫꜥi̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	5	conj	_	_
+7	i҆:mn(.w)	mn	VERB	OSSC|Stat|Aug	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
+8	i҆:mn(.w)	mn	VERB	OSSC|Stat|Aug	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	conj	_	_
+
