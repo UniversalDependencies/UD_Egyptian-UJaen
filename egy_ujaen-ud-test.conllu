@@ -16420,9 +16420,6 @@
 # sent_id = UDE-1294
 # ref = Pyramid Texts § 415a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆i҆.n Wni҆ś ḫr ⸗čn bi҆k(.w)
-# lit = "Unas has come (certainly) to you, falcons."
-# trans = "It is to you that Unas has come, falcons."
-# type = Verbal sentence
 1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḫr	ḫr	ADP	Pron.st	_	4	case	_	_
@@ -16432,9 +16429,6 @@
 # sent_id = UDE-1295
 # ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE
 # text = wn Wni҆ś ḫnś
-# lit = "Unas shall open the double doors."
-# trans = "Unas shall open the double doors."
-# type = Verbal sentence
 1	wn	wn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	ḫnś	ḫnś	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -16442,9 +16436,6 @@
 # sent_id = UDE-1296
 # ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE. Emendation i҆n<.n>, cf. Hayes, Mastaba of Senwosret, pl. IX Unas came to the limit of the horizon. 
 # text = i҆n<.n> Wni҆ś r č̣r.w ꜣḫ.t
-# lit = "Unas got (certainly) to the limit of the horizon."
-# trans = "It is to the limit of the horizon that Unas got."
-# type = Verbal sentence
 1	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	r	r	ADP	Pron.st	Case=All	4	case	_	_
@@ -16454,9 +16445,6 @@
 # sent_id = UDE-1297
 # ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE 
 # text = wꜣḥ.n Wni҆ś mśṭ.t ⸗f i҆m r tꜣ
-# lit = "Unas has set his tailed kilt there on the ground."
-# trans = "It is there on the ground that Unas has set his tailed kilt."
-# type = Verbal sentence
 1	wꜣḥ.n	wꜣḥ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	mśṭ.t	mśṭ.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
@@ -16468,13 +16456,18 @@
 # sent_id = UDE-1298
 # ref = Pyramid Texts § 416c W, Saqqara, 5th Dynasty, rel, OE 
 # text = ḫpr Wni҆ś m wr i҆m(.i҆) Šṭ.t
-# lit = "Unas transforms (certainly) into the Great One, who is in Shedet."
-# trans = "It is into the Great One, who is in Shedet, that Unas transforms."
-# type = Verbal sentence
 1	ḫpr	ḫpr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	m	m	ADP	Cons.st	Case=Equ	4	case	_	_
 4	wr	wr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	i҆m(.i҆)	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	4	amod	_	_
 6	Šṭ.t	Šṭ.t	PROPN	_	Gender=Fem	4	nmod	_	_
+
+# sent_id = UDE-1300
+# ref = Pyramid Texts § 417a W, Saqqara, 5th Dynasty, rel, OE 
+# text = i҆r.(y)t ⸗k i҆r ⸗k
+1	i҆r.(y)t	i҆ri̯	VERB	NOUN|VerbForm=RelForm|Fut	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Fin	4	csubj	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	i҆r	r	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
