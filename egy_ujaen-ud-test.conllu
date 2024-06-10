@@ -16487,3 +16487,17 @@
 10	rṭ	rṭ	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	MWE
 11	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
 
+# sent_id = UDE-1302
+# ref = PT § 418a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫr Ḥr.w n i҆r.t ⸗f sbn kꜣ n ẖr.w(i҆) ⸗f
+1	ḥtp	ḥtp	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	n	n	ADP	Cons.st	Case=Cau	3	case	_	_
+4	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	sbn	sbn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+8	n	n	ADP	Cons.st	Case=Cau	9	case	_	_
+9	ẖr.w(i҆)	ẖr.w	NOUN	_	Gender=Masc|Number=Dual	6	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
