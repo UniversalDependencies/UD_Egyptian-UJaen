@@ -16566,3 +16566,14 @@
 8	ḥꜣ.i҆	ḥꜣ	ADJ	NisbaPrep	Gender=Masc|Number=Sing	7	amod	_	_
 9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nmod	_	_
 
+# sent_id = UDE-1308
+# ref = PT § 420b W, Saqqara, 5th Dynasty, rel, OE
+# text = ti҆ kk.i҆ ti҆ kk.i҆
+# lit = “The body (i.e. Unas) is dark, the body (i.e. Unas) is dark.”
+# trans = “The body (i.e. Unas) is dark, the body (i.e. Unas) is dark.”
+# type = Verbal sentence
+1	ti҆	ti҆	NOUN	Man-Imp	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kk.i҆	kk	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+3	ti҆	ti҆	NOUN	Man-Imp	Gender=Masc|Number=Sing	4	nsubj	_	_
+4	kk.i҆	kk	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
+
