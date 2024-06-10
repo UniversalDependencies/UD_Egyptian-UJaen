@@ -16318,6 +16318,9 @@
 # sent_id = UDE-1291
 # ref = Pyramid Texts § 412a-413c W, Saqqara, 5th Dynasty, rel, OE
 # text = č̣r(.w) ⸗f pi҆ č̣.t m śꜥḥ ⸗f pn n(.i҆) mrr ⸗f i҆rr ⸗f mśč̣č̣ ⸗f n i҆r.n ⸗f i҆m(.i҆) č̣r.w ꜣḫ.t č̣.t r nḥḥ śk bꜣ ⸗śn m ẖ.t Wni҆ś ꜣḫ(.w) ⸗śn ḫr Wni҆ś m ḥꜣ(.w) (i҆)ḫ.t ⸗f r nčr(.w) ḳrr.t(i҆) n Wni҆ś m ḳś(.w) ⸗śn śk bꜣ ⸗śn ḫr Wni҆ś šw.wt ⸗śn m-ꜥ i҆r.(i҆)w ⸗śn
+# lit = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever."
+# trans = "His limit is everlastingness in this his dignity of "if he wishes, he does" and "if he dislikes, he does not", he who is at the limits of the horizon ever and ever,."
+# type = Nominal sentence (A pw B) + Balanced sentence + 
 1	č̣r(.w)	č̣r	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	_
 3	pi҆	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	_
@@ -16336,4 +16339,10 @@
 16	n	n	PART	Neg	PartType=Neg	17	advmod	_	_
 17	i҆r.n	i҆ri̯	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	14	parataxis	_	_
 18	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+19	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	17	appos	_	_
+20	č̣r.w	č̣r.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	19	nmod	_	_
+21	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+22	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	19	advmod	_	_
+23	r	r	ADP	Cons.st	_	24	case	_	_
+24	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
 
