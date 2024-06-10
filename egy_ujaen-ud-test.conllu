@@ -16507,3 +16507,18 @@
 1	i҆:ḫr	ḫr	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	_
 2	sbn	sbn	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
 
+# sent_id = UDE-1304
+# ref = PT § 418b W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜥ Bꜣb(ꜣ).(w)i҆ ḫśf ⸗f m ḫnt(.i҆)-Ḫm
+# lit = “Bebon shall stand up in order that he may meet the Foremost of Letopolis.”
+# trans = “Bebon shall stand up in order that he may meet the Foremost of Letopolis.”
+# type = Verbal sentence
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Bꜣb(ꜣ).(w)i҆	Bꜣbꜣ.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫśf	ḫśf	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	m	m	ADP	Cons.st	_	6	case	_	_
+6-7	ḫnt(.i҆)-Ḫm	_	_	_	_	_	_	_	_
+6	ḫnt(.i҆)	ḫnt	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	Ḫm	Ḫm	PROPN	_	Gender=Masc	6	compound	_	Title
+
