@@ -16395,3 +16395,25 @@
 7	i҆:mn(.w)	mn	VERB	OSSC|Stat|Aug	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	3	advcl	_	_
 8	i҆:mn(.w)	mn	VERB	OSSC|Stat|Aug	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	7	conj	_	_
 
+# sent_id = UDE-1293
+# ref = Pyramid Texts § 414b-c W, Saqqara, 5th Dynasty, rel, OE
+# text = n śḫm i҆r.w i҆r.wt m ḫbś ś.t-i҆b Wni҆ś m ꜥnḫ.w m tꜣ pn č̣.t r nḥḥ
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
+2	śḫm	śḫm	VERB	SFC|Fut	Tense=Fut	0	root	_	_
+3	i҆r.w	i҆ri̯	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	nsubj	_	_
+4	i҆r.wt	i҆ri̯	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+5	m	m	ADP	Cons.st	_	6	case	_	_
+6	ḫbś	ḫbś	NOUN	Inf	Gender=Masc|VerbForm=Inf	2	obl	_	_
+7-8	ś.t-i҆b	_	_	_	_	_	_	_	_
+7	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+8	i҆b	i҆b	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	MWE
+9	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
+10	m	m	ADP	Cons.st	_	11	case	_	_
+11	ꜥnḫ.w	ꜥnḫ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	obl	_	_
+12	m	m	ADP	Cons.st	_	13	case	_	_
+13	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+15	č̣.t	č̣.t	NOUN	_	AdvType=Tim	11	obl	_	_
+16	r	r	ADP	Cons.st	_	17	case	_	_
+17	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+
