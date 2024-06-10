@@ -16406,7 +16406,7 @@
 6	ḫbś	ḫbś	NOUN	Inf	Gender=Masc|VerbForm=Inf	2	obl	_	_
 7-8	ś.t-i҆b	_	_	_	_	_	_	_	_
 7	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
-8	i҆b	i҆b	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	MWE
+8	i҆b	i҆b	NOUN	_	Gender=Fem|Number=Sing	7	compound	_	MWE
 9	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
 10	m	m	ADP	Cons.st	_	11	case	_	_
 11	ꜥnḫ.w	ꜥnḫ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	obl	_	_
@@ -16416,4 +16416,52 @@
 15	č̣.t	č̣.t	NOUN	_	AdvType=Tim	11	obl	_	_
 16	r	r	ADP	Cons.st	_	17	case	_	_
 17	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+
+# sent_id = UDE-1294
+# ref = Pyramid Texts § 415a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś ḫr ⸗čn bi҆k(.w)
+# lit = "Unas has come (certainly) to you, falcons."
+# trans = "It is to you that Unas has come, falcons."
+# type = Verbal sentence
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Pron.st	_	4	case	_	_
+4	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	obl	_	_
+5	bi҆k(.w)	bi҆k	NOUN	_	Gender=Masc|Number=Plur	4	appos	_	_
+
+# sent_id = UDE-1295
+# ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE
+# text = wn Wni҆ś ḫnś
+# lit = "Unas shall open the double doors."
+# trans = "Unas shall open the double doors."
+# type = Verbal sentence
+1	wn	wn	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫnś	ḫnś	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+
+# sent_id = UDE-1296
+# ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE. Emendation i҆n<.n>, cf. Hayes, Mastaba of Senwosret, pl. IX Unas came to the limit of the horizon. 
+# text = i҆n<.n> Wni҆ś r č̣r.w ꜣḫ.t
+# lit = "Unas got (certainly) to the limit of the horizon."
+# trans = "It is to the limit of the horizon that Unas got."
+# type = Verbal sentence
+1	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	r	r	ADP	Pron.st	Case=All	4	case	_	_
+4	č̣r.w	č̣r.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	obl	_	_
+5	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+
+# sent_id = UDE-1297
+# ref = Pyramid Texts § 416a W, Saqqara, 5th Dynasty, rel, OE 
+# text = wꜣḥ.n Wni҆ś mśṭ.t ⸗f i҆m r tꜣ
+# lit = "Unas has set his tailed kilt there on the ground."
+# trans = "It is there on the ground that Unas has set his tailed kilt."
+# type = Verbal sentence
+1	wꜣḥ.n	wꜣḥ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	mśṭ.t	mśṭ.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	i҆m	i҆m	ADV	_	AdvType=Loc	1	advmod	_	_
+6	r	r	ADP	Cons.st	_	7	case	_	_
+7	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	MWE
 
