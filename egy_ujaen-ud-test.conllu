@@ -35,7 +35,7 @@
 1	ꜣw	ꜣwi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	i҆b	i҆b	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	MWE
 3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	1	advmod	_	_
+4	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	1	obl	_	_
 
 # sent_id = UDE-5
 # ref = Letters to the Dead pl. II, 10, Qaw el-Kabir, 6th Dynasty, rel, OE
@@ -115,7 +115,7 @@
 1-2	wꜣ-i҆b	_	_	_	_	_	_	_	_
 1	wꜣ	wꜣi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 2	i҆b	i҆b	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	1	compound	_	MWE
-3	ꜣ.t	ꜣ.t	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	_
+3	ꜣ.t	ꜣ.t	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
 4	sḫ.t	sḫ	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 
 # sent_id = UDE-14
@@ -616,7 +616,7 @@
 2	sꜣ	sꜣ	NOUN	Obj	Gender=Masc|Number=Sing	1	compound	_	MWE
 3	ḥr	ḥr	ADP	Pron.st	Case=Loc	1	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-5	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	1	advmod	_	_
+5	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	1	obl	_	_
 
 # sent_id = UDE-59
 # ref = Pyramid Texts § 5a T, Saqqara, 6th Dynasty, rel, OE
@@ -1619,7 +1619,7 @@
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
 5	bḥs	bḥs	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nmod	_	_
 6	i҆r(č).t	i҆rč.t	NOUN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
-7	hrw	hrw	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Masc|Number=Sing	3	advmod	_	_
+7	hrw	hrw	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
 8	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	7	nmod	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
 10	i҆m	m	ADP	Pron.st	Case=Tem	11	case	_	_
@@ -4008,7 +4008,7 @@
 15	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
 16	n	n	ADP	Cons.st	_	17	case	_	_
 17	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
-18	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	10	advmod	_	_
+18	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	10	obl	_	_
 
 # sent_id = UDE-338
 # ref = Pyramid Texts § 101e T, Saqqara, 6th Dynasty, rel, OE
@@ -4771,7 +4771,7 @@
 1	śč̣r	śč̣r	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	wč̣ꜣ(.w)	wč̣ꜣ	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	2	advcl	_	_
-4	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	advmod	_	_
+4	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	obl	_	_
 5	nb	nb	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
 
 # sent_id = UDE-402
@@ -10314,7 +10314,7 @@
 12	ḥr.t	ḥr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Coll	11	nmod	_	_
 13	n	n	ADP	Cons.st	Case=Dat	14	case	_	_
 14	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	10	iobj	_	_
-15	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	10	advmod	_	_
+15	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	10	obl	_	_
 16	nb	nb	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
 
 # sent_id = UDE-855
@@ -10421,7 +10421,7 @@
 4	śšr.w	śšr.w	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 5	sꜣꜣ	sꜣu̯	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	_	_
 6	i҆ꜣr.(w)t	i҆ꜣr.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
-7	grḥ	grḥ	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	5	advmod	_	_
+7	grḥ	grḥ	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	5	obl	_	_
 8	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
 10	ꜣgb.i҆	ꜣgb.w	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
@@ -10450,7 +10450,7 @@
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
 4	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-5	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	1	advmod	_	_
+5	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	1	obl	_	_
 6	nb	nb	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 7	wꜥb.w	wꜥb	VERB	SFC|FutPass|Finalcl	Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	_
 8	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	7	nsubj:pass	_	_
@@ -11105,7 +11105,7 @@
 4	m	m	ADP	Cons.st	Case=Ins	5	case	_	_
 5	rḫ.tn	rḫ	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	1	advcl	_	_
 6	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-7	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	5	advmod	_	_
+7	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	5	obl	_	_
 8	mr.n	mri̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl	_	_
 9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 10	i҆w(i̯).t	i҆wi̯	NOUN	Inf	Gender=Masc|VerbForm=Inf	8	xcomp	_	_
@@ -11379,7 +11379,7 @@
 18	Ḥp	Ḥp	PROPN	_	Gender=Masc	16	nmod	_	_
 19	i҆m	m	ADP	Pron.st	_	20	case	_	_
 20	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obl	_	_
-21	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	14	advmod	_	_
+21	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	14	obl	_	_
 22	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
 23	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	21	amod	_	_
 24	śpḥ	śpḥ	NOUN	Inf	Gender=Masc|VerbForm=Inf	21	nmod	_	_
@@ -14369,7 +14369,7 @@
 3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
 4	m	m	ADP	Cons.st	_	5	case	_	_
 5	Ppy	ppy	PROPN	_	Gender=Masc	2	obl	_	_
-6	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	2	advmod	_	_
+6	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	2	obl	_	_
 
 # sent_id = UDE-1140
 # ref = Pyramid Texts § 363c P, Saqqara, 6th Dynasty, rel, OE
@@ -14380,7 +14380,7 @@
 4	m	m	ADP	Cons.st	_	5	case	_	_
 5	Ppy	ppy	PROPN	_	Gender=Masc	2	obl	_	_
 6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-7	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	2	advmod	_	_
+7	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	2	obl	_	_
 
 # sent_id = UDE-1141
 # ref = Pyramid Texts § 363e P, Saqqara, 6th Dynasty, rel, OE
@@ -15104,7 +15104,7 @@
 14	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	13	nsubj	_	_
 15	i҆m	m	ADP	Pron.st	Case=Loc	16	case	_	_
 16	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
-17	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	13	advmod	_	_
+17	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	13	obl	_	_
 
 # sent_id = UDE-1194
 # ref = PT § 382a-b P, Saqqara, 6th Dynasty, rel, OE
@@ -15127,7 +15127,7 @@
 16	Ppy	Ppy	PROPN	_	Gender=Masc	15	nsubj	_	_
 17	i҆m	m	ADP	Pron.st	Case=Loc	18	case	_	_
 18	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	_
-19	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	15	advmod	_	_
+19	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	15	obl	_	_
 
 # sent_id = UDE-1195
 # ref = PT § 383a W, Saqqara, 5th Dynasty, rel, OE
@@ -15802,7 +15802,7 @@
 7	i҆mn	i҆mn	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	obl	_	_
 8	rn	rn	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
-10	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	advmod	_	_
+10	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	obl	_	_
 11	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 12	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
 13	rḫś	rḫś	NOUN	Inf	Gender=Masc|VerbForm=Inf	10	nmod	_	_
@@ -15820,7 +15820,7 @@
 7	i҆mn	i҆mn	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	obl	_	_
 8	rn	rn	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
-10	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	advmod	_	_
+10	hrw	hrw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	3	obl	_	_
 11	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	_
 12	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	10	amod	_	_
 13	rḫś	rḫś	NOUN	Inf	Gender=Masc|VerbForm=Inf	10	nmod	_	_
@@ -16342,7 +16342,7 @@
 19	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	17	appos	_	_
 20	č̣r.w	č̣r.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	19	nmod	_	_
 21	ꜣḫ.t	ꜣḫ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
-22	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	19	advmod	_	_
+22	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	19	obl	_	_
 23	r	r	ADP	Cons.st	_	24	case	_	_
 24	nḥḥ	nḥḥ	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
 25	śk	i҆śk	PART	_	_	29	mark	_	_
