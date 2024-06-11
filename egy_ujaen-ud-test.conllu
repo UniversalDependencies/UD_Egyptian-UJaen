@@ -6317,7 +6317,7 @@
 6	ꜣḫ	ꜣḫ	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	_
 7-8	i҆:ḫm-śk(.w)	_	_	_	_	_	_	_	_
 7	i҆:ḫm	ḫm	ADJ	Aug	Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	6	amod	_	_
-8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	fixed	_	_
+8	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	7	compound	_	_
 9	nb	nb	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
 10	ḫr.wt	ḫr.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 11	ś.t	ś.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	_
@@ -6765,7 +6765,7 @@
 7	śn(.wi҆)	śn	NOUN	_	Gender=Masc|Number=Dual	9	nsubj	_	_
 8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
 9	i҆:ḫm.w(i҆)	ḫm	VERB	OSSC|Aug	Gender=Masc|Number=Dual|Person=3|Polarity=Neg|VerbForm=Fin	0	root	_	_
-10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	advcl	_	_
+10	rm(.w)	rmi̯	VERB	NegCom	VerbForm=Inf	9	obl	_	_
 11	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
 
 # sent_id = UDE-566
@@ -8458,7 +8458,7 @@
 # ref = PT § 216b W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḥr(.w) r i҆s i҆:mč̣r ⸗k i҆r (⸗i҆)
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	obl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆:mč̣r	imč̣r	VERB	SFC|Sub|Aug|Finalcl	Mood=Sub	1	advcl	_	_
@@ -8470,7 +8470,7 @@
 # ref = PT § 216b W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḥr(.w) r i҆s i҆:mč̣r ⸗k i҆r (⸗i҆)
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
+2	ḥr(.w)	ḥri̯	VERB	NegCom	VerbForm=Inf	1	obl	_	_
 3	r	r	ADP	Cons.st	Case=All	4	case	_	_
 4	i҆s	i҆s	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 5	i҆:mč̣r	mč̣r	VERB	SFC|Pres|Abstrel|Aug	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
@@ -9405,7 +9405,7 @@
 # ref = PT § 236c W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) w(i҆)
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	w(i҆)	wi҆	PRON	DepPron|Obj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	obj	_	_
 
 # sent_id = UDE-776
@@ -10873,7 +10873,7 @@
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	8	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
+4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	obl	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
 7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	4	iobj	_	_
@@ -10891,7 +10891,7 @@
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	9	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
+4	i҆r(.w)	i҆ri̯	VERB	NegCom	VerbForm=Inf	2	obl	_	_
 5	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 6	n	n	ADP	Cons.st	Case=Dat	7	case	_	_
 7	Tti҆	Tti҆	PROPN	_	Gender=Masc	4	iobj	_	_
@@ -11816,7 +11816,7 @@
 1	i҆r	i҆r	PART	Top=Yes	_	2	mark	_	_
 2	tm	tm	VERB	SFC|Sub	Mood=Sub|Polarity=Neg|VerbForm=Fin	18	advcl	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	ṭr	ṭr	VERB	NegCom	VerbForm=Inf	2	advcl	_	_
+4	ṭr	ṭr	VERB	NegCom	VerbForm=Inf	2	obl	_	_
 5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	ḥr	ḥr	ADP	Cons.st	_	7	case	_	_
 7	ś.t	ś.t	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
@@ -13081,7 +13081,7 @@
 # ref = PT § 327a W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) Wni҆ś nčr śč čw rḫ.t(i҆) św śč św rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
 4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
 5	śč	i҆śč	PART	_	_	7	mark	_	_
@@ -13097,7 +13097,7 @@
 # ref = PT § 327a T, Saqqara, 6th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) Tti҆ nčr śk św i҆:rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	obj	_	_
 4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
 5	śk	i҆śk	PART	_	_	7	mark	_	_
@@ -13109,7 +13109,7 @@
 # ref = PT § 327b T, Saqqara, 6th Dynasty, rel, OE
 # text = (i҆)m rč̣ i҆:ḫm čw Tti҆ śk św i҆:rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	rč̣	rč̣i̯	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	rč̣	rč̣i̯	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	i҆:ḫm	ḫm	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 4	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obj	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	3	nsubj	_	_
@@ -13122,7 +13122,7 @@
 # ref = PT § 328a W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) Wni҆ś Rꜥw śč čw i҆:rḫ.t(i҆) św śč św i҆:rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
 4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	2	vocative	_	_
 5	śč	i҆śč	PART	_	_	7	mark	_	_
@@ -13160,7 +13160,7 @@
 # ref = PT § 329a W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) Wni҆ś Č̣ḥw.ti҆ śč čw i҆:rḫ.t(i҆) św śč św i҆:rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
 4	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
 5	śč	i҆śč	PART	_	_	7	mark	_	_
@@ -13211,7 +13211,7 @@
 # ref = PT § 332a W, Saqqara, 5th Dynasty, rel, OE
 # text = (i҆)m ḫm(.w) Wni҆ś kꜣ p.t śč čw i҆:rḫ.t(i҆) św śč św rḫ(.w) čw
 1	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
-2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	advcl	_	_
+2	ḫm(.w)	ḫm	VERB	NegCom	Polarity=Neg|VerbForm=Inf	1	obl	_	_
 3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	obj	_	_
 4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	_
 5	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -14762,7 +14762,7 @@
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 4-5	i҆:ḫm(.w)-śk(.w)	_	_	_	_	_	_	_	_
 4	i҆:ḫm(.w)	ḫm	NOUN	Aug	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	1	obj	_	_
-5	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	4	fixed	_	_
+5	śk(.w)	śki̯	VERB	NegCom	VerbForm=Inf	4	compound	_	_
 
 # sent_id = UDE-1170
 # ref = PT § 374b-c W, Saqqara, 5th Dynasty, rel, OE
@@ -15298,7 +15298,7 @@
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
 3	i҆r	r	ADP	Pron.st	_	4	case	_	_
 4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	č̣ꜣ(.w)	č̣ꜣi̯	VERB	NegCom	VerbForm=Inf	1	advcl	_	_
+5	č̣ꜣ(.w)	č̣ꜣi̯	VERB	NegCom	VerbForm=Inf	1	obl	_	_
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	obj	_	_
 7	śčp	śčp	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
