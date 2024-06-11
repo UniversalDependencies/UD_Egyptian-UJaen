@@ -16589,11 +16589,23 @@
 7	ḥꜣ	ḥꜣ	ADP	Pron.st	_	8	case	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
-# sent_id = UDE-1311
+# sent_id = UDE-1310
 # ref = PT § 421b W, Saqqara, 5th Dynasty, rel, OE
 # text = sꜣw čw rʾ.y wr
 1	sꜣw	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
 3	rʾ.y	rʾ	NOUN	_	Gender=Masc|Number=Dual	1	obj	_	_
 4	wr	wr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+
+# sent_id = UDE-1311
+# ref = Pyramid Texts § 423c W, Saqqara, 5th Dynasty, rel, OE
+# text = kꜣ ⸗k nn wꜣš i҆rr.w nn r ⸗f 
+1	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+4	wꜣš	wꜣš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+5	i҆rr.w	i҆ri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	_
+6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
+7	r	r	ADP	Pron.st	_	8	case	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
 
