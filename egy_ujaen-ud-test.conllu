@@ -16668,3 +16668,24 @@
 7	i҆n	i҆n	ADP	Cons.st	_	8	case	_	_
 8	spꜣ	spꜣ	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	_
 
+# sent_id = UDE-1317
+# ref = Pyramid Texts § 425d W, Saqqara, 5th Dynasty, rel, OE
+# text = pf rw m-ẖnw pn rw
+1	pf	pf	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	rw	rw	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3-4	m-ẖnw	_	_	_	_	_	_	_	_
+3	m	m	ADP	Cons.st	Case=Loc	5	case	_	_
+4	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
+5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+6	rw	rw	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	_
+
+# sent_id = UDE-1318
+# ref = Pyramid Texts § 425e W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥḥꜣ kꜣ(.wi҆) m-ẖnw tḫn
+1	ꜥḥꜣ	ꜥḥꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kꜣ(.wi҆)	kꜣ	NOUN	_	Gender=Masc|Number=Dual	1	nsubj	_	_
+3-4	m-ẖnw	_	_	_	_	_	_	_	_
+5	m	m	ADP	Cons.st	Case=Loc	7	case	_	_
+6	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
+7	tḫn	tḫn	PROPN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
