@@ -16707,3 +16707,18 @@
 3	ꜣw(.w)	ꜣw	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 4	ši҆.w	ši҆	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
 
+# sent_id = UDE-1321
+# ref = Pyramid Texts § 428a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = nni҆ mw.t ⸗f nni҆ mw.t ⸗f i҆(w) ⸗k rr m nn
+1	nni҆	ni҆ni҆	NOUN	Tense=Past-1|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	11	dislocated	_	_
+2	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+4	nni҆	ni҆ni҆	NOUN	Tense=Past-1|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	1	conj	_	_
+5	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+7	i҆(w)	i҆w	PART	_	_	11	discourse	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
+9	rr	rri҆	PART	_	_	11	discourse	_	_
+10	m	m	ADP	Cons.st	Case=Equ	11	case	_	_
+11	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
+
