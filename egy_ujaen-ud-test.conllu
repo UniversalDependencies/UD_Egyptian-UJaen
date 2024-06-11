@@ -16784,3 +16784,29 @@
 7	n	n	ADP	Cons.st	_	8	case	_	_
 8	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 
+# sent_id = UDE-1329
+# ref = PT § 431a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫr ḥr ḥr ḥr
+1	ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	ḥr	ḥr	ADP	Cons.st	Case=Cau	4	case	_	_
+4	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+
+# sent_id = UDE-1330
+# ref = PT § 431a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = pr.i҆ nm śꜣb km r ⸗ś ꜥm.n ⸗f n ⸗f i҆č.n ⸗f n ⸗f
+1	pr.i҆	pri̯	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nm	nm	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	śꜣb	śꜣb	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+4	km	km	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+5	r	r	ADP	Pron.st	_	5	case	_	_
+6	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
+7	ꜥm.n	ꜥm	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
+8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+9	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+10	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+11	i҆č.n	i҆či̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+13	n	n	ADP	Pron.st	Case=Ben	14	case	_	_
+14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+
