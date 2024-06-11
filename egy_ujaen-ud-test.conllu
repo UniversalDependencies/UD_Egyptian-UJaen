@@ -10980,7 +10980,7 @@
 # text = tꜣ ṭni̯(.w) ṭni̯.t ṭmč̣(.w) čn(.wi҆) smꜣ(.w) i҆ḫm.t(i҆)
 1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	_
 2	ṭni̯(.w)	ṭni̯	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-3	ṭni̯.t	ṭni̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+3	ṭni̯.t	ṭni̯	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	2	obl	_	_
 4	ṭmč̣(.w)	ṭmč̣	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	2	advcl	_	_
 5	čn(.wi҆)	čn.w	NOUN	_	Gender=Masc|Number=Dual	4	nsubj:pass	_	_
 6	smꜣ(.w)	smꜣ	VERB	SFC|PastPass|Pred	Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	_
@@ -13002,7 +13002,7 @@
 6	i҆b	i҆b	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	MWE
 7	Šw	Šw	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	_
 8	ꜣw.y	ꜣwi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	6	advcl	_	_
-9	ꜣw.t	ꜣw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	8	advmod	_	_
+9	ꜣw.t	ꜣw.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	8	obl	_	_
 10	ꜣsb	ꜣsb	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	_
 11	i҆ꜣḫ.w	i҆ꜣḫ.w	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 
@@ -13653,7 +13653,7 @@
 1-2	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
 1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	č̣ꜣ.t	č̣ꜣ.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+3	č̣ꜣ.t	č̣ꜣ.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	1	obl	_	_
 4	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	obj	_	_
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 6	i҆r	r	ADP	Cons.st	_	7	case	_	_
@@ -13664,7 +13664,7 @@
 11-12	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
 11	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 12	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	11	nsubj	_	_
-13	č̣ꜣ.t	č̣ꜣ.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	11	advmod	_	_
+13	č̣ꜣ.t	č̣ꜣ.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	11	obl	_	_
 14	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	11	obj	_	_
 15	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	14	det	_	_
 16	i҆r	r	ADP	Cons.st	_	17	case	_	_
@@ -13769,7 +13769,7 @@
 1-2	č̣ꜣ-t(i҆)	_	_	_	_	_	_	_	_
 1	č̣ꜣ	č̣ꜣ	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+3	č̣ꜣu̯.t	č̣ꜣi̯	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	2	obl	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obj	_	_
 5	i҆m	i҆m	ADV	_	AdvType=Loc	1	advmod	_	_
 6	i҆r	r	ADP	Cons.st	_	7	case	_	_
@@ -13789,7 +13789,7 @@
 19	mś	mś	VERB	ADJ|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	13	acl	_	_
 20	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	19	nsubj	_	_
 21	⸗f	⸗f	PRON	SFP|Obj	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
-22	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	19	advmod	_	_
+22	mśw.t	mśw.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	19	obl	_	_
 23	i҆m	m	ADP	Pron.st	Case=Loc	24	case	_	_
 24	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	_
 25	rnp.w	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=3|VerbForm=Conv	21	advcl	_	_
@@ -13953,7 +13953,7 @@
 2	mwt.n	mwt	VERB	SFC|Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	i҆ś	i҆ś	PART	Emp	PartType=Emp	4	advmod	_	_
 4	Tti҆	Tti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
-5	mwt.t	mwt.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	2	advmod	_	_
+5	mwt.t	mwt.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	2	obl	_	_
 
 # sent_id = UDE-1116
 # ref = PT § 350c T, Saqqara, 6th Dynasty, rel, OE
@@ -14045,7 +14045,7 @@
 4	<i҆>ꜣr.w	i҆ꜣr.w	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 5	č̣ꜣ	č̣ꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
 6	Ppy	Ppy	PROPN	_	Gender=Masc	5	nsubj	_	_
-7	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	5	advmod	_	_
+7	č̣ꜣu̯.t	č̣ꜣi̯	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	5	obl	_	_
 8	i҆r	r	ADP	Cons.st	_	9	case	_	_
 9	gś	gś	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 10	i҆ꜣb.t(i҆)	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	9	amod	_	_
@@ -14065,7 +14065,7 @@
 23	Ppy	Ppy	PROPN	_	Gender=Masc	21	obj	_	_
 24	i҆m	m	ADP	Pron.st	Case=Loc	25	case	_	_
 25	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
-26	mśw.t	mśw.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	21	advmod	_	_
+26	mśw.t	mśw.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	21	obl	_	_
 27	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	nmod	_	_
 28	ḥnꜥ	ḥnꜥ	ADP	Pron.st	Case=Com	29	case	_	_
 29	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	21	obl	_	_
@@ -14300,7 +14300,7 @@
 7	Ppy	Ppy	PROPN	_	Gender=Masc	1	obj	_	_
 8	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 9	i҆m	i҆m	ADV	_	AdvType=Loc	5	advmod	_	_
-10	č̣ꜣu̯.t	č̣ꜣi̯	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	5	advmod	_	_
+10	č̣ꜣu̯.t	č̣ꜣi̯	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	5	obl	_	_
 11	i҆r	r	ADP	Cons.st	_	12	case	_	_
 12	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 13	ḫr	ḫr	ADP	Cons.st	Case=Com	14	case	_	_
@@ -14787,7 +14787,7 @@
 1	mnḫ	mnḫ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-4	mnḫ.t	mnḫ	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+4	mnḫ.t	mnḫ	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	1	obl	_	_
 
 # sent_id = UDE-1172
 # ref = PT § 375a W, Saqqara, 5th Dynasty, rel, OE
@@ -14803,7 +14803,7 @@
 1	ḫnt	ḫnti̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-4	ḫnt.t	ḫnt.t	ADV	NOUN|ComplInf	Gender=Masc|VerbForm=Inf	1	advmod	_	_
+4	ḫnt.t	ḫnt.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	1	obl	_	_
 
 # sent_id = UDE-1174
 # ref = PT § 375b W, Saqqara, 5th Dynasty, rel, OE
@@ -16644,4 +16644,21 @@
 2	i҆čč	i҆či̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	vocative	_	_
 3	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
 4	i҆č(.w)	i҆či̯	VERB	NegCom	VerbForm=Inf	3	obl	_	_
+
+# sent_id = UDE-1315
+# ref = Pyramid Texts § 425a W, Saqqara, 5th Dynasty, rel, OE
+# text = psḥ.n (I҆)tm(.w) mḥ.n ⸗f rʾ n(.i҆) Wni҆ś ꜥnn ⸗f ꜥnn.t
+# lit = “He whom Atum has bitten has filled the mouth of Unas coiling all up.”
+# trans = “He whom Atum has bitten has filled the mouth of Unas coiling all up.”
+# type = Verbal sentence
+1	psḥ.n	psḥ	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	3	dislocated	_	_
+2	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	mḥ.n	mḥ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+6	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	5	nmod	_	_
+8	ꜥnn	ꜥnn	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	ꜥnn.t	ꜥnn.t	NOUN	ComplInf	Gender=Masc|VerbForm=Inf	8	obl	_	_
 
