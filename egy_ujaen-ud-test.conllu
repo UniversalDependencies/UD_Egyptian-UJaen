@@ -16689,3 +16689,21 @@
 4	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	_
 5	tḫn	tḫn	PROPN	_	Gender=Masc|Number=Sing	1	obl	_	_
 
+# sent_id = UDE-1319
+# ref = Pyramid Texts § 426a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w nšs(.wi҆) ⸗k r šs(.wi҆) ⸗k
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	nšs(.wi҆)	nšs	NOUN	_	Gender=Masc|Number=Dual	5	nsubj	_	_
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+4	r	r	ADP	Cons.st	_	5	case	_	_
+5	šs(.wi҆)	šs	NOUN	_	Gender=Masc|Number=Dual	0	root	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+
+# sent_id = UDE-1320
+# ref = Pyramid Texts § 427a W, Saqqara, 5th Dynasty, rel, OE
+# text = ꜥbš.w m ꜣw(.w) ši҆.w
+1	ꜥbš.w	ꜥbš	NOUN	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nsubj	_	_
+2	m	m	ADP	Cons.st	Case=Equ	3	case	_	_
+3	ꜣw(.w)	ꜣw	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
+4	ši҆.w	ši҆	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+
