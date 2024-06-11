@@ -16533,8 +16533,8 @@
 # sent_id = UDE-1305
 # ref = PT § 419b W, Saqqara, 5th Dynasty, rel, OE, for the function of the OSSC see Allen 2017: 139 (§ 17.2)
 # text = mrw.ti҆ mrw.ti҆ fḫ.ti҆ wfi҆
-1	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	vocative	_	_
-2	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	conj	_	_
+1	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	3	vocative	_	_
+2	mrw.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	1	conj	_	_
 3	fḫ.ti҆	fḫ.ti҆	VERB	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 4	wfi҆	wfi҆	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
 
@@ -16576,4 +16576,16 @@
 2	kk.i҆	kk	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	ti҆	ti҆	NOUN	Man-Imp	Gender=Masc|Number=Sing	4	nsubj	_	_
 4	kk.i҆	kk	VERB	OSSC|Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
+
+# sent_id = UDE-1309
+# ref = PT § 421a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r.ti҆ i҆r.ti҆ ś:(w)ꜣ.ti҆ ś:(w)ꜣ.ti҆ ḥr ⸗k ḥꜣ ⸗k
+1	i҆r.ti҆	i҆ri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	8	dislocated	_	_
+2	i҆r.ti҆	i҆ri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	1	conj	_	_
+3	ś:(w)ꜣ.ti҆	wꜣi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	1	conj	_	_
+4	ś:(w)ꜣ.ti҆	wꜣi̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	1	conj	_	_
+5	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+7	ḥꜣ	ḥꜣ	ADP	Pron.st	_	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
