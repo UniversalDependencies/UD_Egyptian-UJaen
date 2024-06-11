@@ -16609,3 +16609,19 @@
 7	r	r	ADP	Pron.st	_	8	case	_	_
 8	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	_
 
+# sent_id = UDE-1312
+# ref = Pyramid Texts § 424a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆k rr Wni҆ś ꜥn.t ⸗f tn i҆r ⸗k i҆ꜣb.t
+# lit = “Unas shall indeed this left thumb-nail against you.”
+# trans = “Unas shall indeed this left thumb-nail against you.”
+# type = Verbal sentence
+1	i҆k	i҆k	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	rr	rri҆	PART	_	_	1	discourse	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	2	nsubj	_	_
+4	ꜥn.t	ꜥn.t	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+7	i҆r	r	ADP	Pron.st	_	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+9	i҆ꜣb.t	i҆ꜣb.t	NOUN	_	Gender=Fem|Number=Sing	4	amod	_	_
+
