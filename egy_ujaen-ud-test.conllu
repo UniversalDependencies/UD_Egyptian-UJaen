@@ -16737,3 +16737,20 @@
 4	r	r	ADP	Pron.st	_	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
 
+# sent_id = UDE-1324
+# ref = PT § 429b W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥr ḥr wꜣ.t
+1	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	ḥr	ḥr	ADP	Cons.st	_	3	case	_	_
+3	wꜣ.t	wꜣ.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	
+
+# sent_id = UDE-1325
+# ref = PT § 429b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆r.t Wni҆ś (i҆)m ṭgi̯.w n ⸗f
+1	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	vocative	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	(i҆)m	i҆mi̯	VERB	Imp	Mood=Imp|Number=Sing|Polarity=Neg	0	root	_	_
+4	ṭgi̯.w	ṭgi̯	VERB	NegCom	VerbForm=Inf	3	obl	_	_
+5	n	n	ADP	Pron.st	Case=Acc	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+
