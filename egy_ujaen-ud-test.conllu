@@ -16589,3 +16589,11 @@
 7	ḥꜣ	ḥꜣ	ADP	Pron.st	_	8	case	_	_
 8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
 
+# sent_id = UDE-1311
+# ref = PT § 421b W, Saqqara, 5th Dynasty, rel, OE
+# text = sꜣw čw rʾ.y wr
+1	sꜣw	sꜣu̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+3	rʾ.y	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+4	wr	wr	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+
