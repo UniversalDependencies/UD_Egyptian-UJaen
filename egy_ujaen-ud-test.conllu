@@ -16722,3 +16722,18 @@
 10	m	m	ADP	Cons.st	Case=Equ	11	case	_	_
 11	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
 
+# sent_id = UDE-1322
+# ref = PT § 428b W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣ či҆f
+1	mꜣ	mꜣi҆	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
+2	či҆f	či҆f	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+
+# sent_id = UDE-1323
+# ref = PT § 429a W, Saqqara, 5th Dynasty, rel, OE
+# text = hki҆ hkr.t i҆s r ⸗k
+1	hki҆	hki҆	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	_
+2	hkr.t	hkr.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
+3	i҆s	si҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+4	r	r	ADP	Pron.st	_	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
+
