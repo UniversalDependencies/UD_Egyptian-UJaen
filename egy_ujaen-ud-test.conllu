@@ -17006,16 +17006,16 @@
 # sent_id = UDE-1346
 # ref = PT § 438c W, Saqqara, 5th Dynasty, rel, OE
 # text = sy sp.t(i҆) ⸗f(i҆)
-1	sy	sy	PRON	_	PronType=Int	2	nsubj	_	_
-2	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	0	root	_	_
+1	sy	sy	PRON	_	PronType=Int	0	root	_	_
+2	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	1	nsubj	_	_
 3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:outer	_	_
 
 # sent_id = UDE-1347
 # ref = PT § 438c T, Saqqara, 6th Dynasty, rel, OE
 # text = sy pw sp.t(i҆) ⸗f(i҆)
-1	sy	sy	PRON	_	PronType=Int	3	nsubj	_	_
-2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
-3	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	0	root	_	_
+1	sy	sy	PRON	_	PronType=Int	0	root	_	_
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
+3	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	1	nsubj	_	_
 4	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:outer	_	_
 
 # sent_id = UDE-1348
@@ -17028,8 +17028,14 @@
 # sent_id = UDE-1349
 # ref = PT § 438c W, Saqqara, wth Dynasty, rel, OE
 # text = Tti҆ pw sp.t(i҆) ⸗f(i҆)
-1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+1	Tti҆	Tti҆PROPN	_	Gender=Masc	3	nsubj	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	_
 3	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	0	root	_	_
 4	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:outer	_	_
+
+# sent_id = UDE-1350
+# ref = PT § 439a W, Saqqara, wth Dynasty, rel, OE
+# text = ččw čn
+1	ččw	ččw	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	čn	čni҆	ADV	_	PronType=Int	0	root	_	_
 
