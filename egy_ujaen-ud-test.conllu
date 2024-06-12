@@ -16909,3 +16909,24 @@
 11	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	appos	_	_
 12	Nm(i҆).t	Nmi҆.t	PROPN	_	Gender=Fem	11	nmod	_	_
 
+# sent_id = UDE-1339
+# ref = PT § 435a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫr ḥm pśč̣.t m Ḥp(.y)
+# lit = “The Servant of the Light falls (certainly) in the Nile.”
+# trans = “It is into the Nile that the Servant of the Light falls.”
+# type = Verbal sentence
+1	ḫr	ḫr	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ḥm	ḥm	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	pśč̣.t	pśč̣.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	m	m	ADP	Pron.st	_	5	case	_	_
+5	Ḥp(.y)	Ḥp(.y)	PROPN	_	Gender=Masc	1	obl	_	_
+
+# sent_id = UDE-1340
+# ref = PT § 435a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆fn i҆fn
+# lit = “Run away, run away.”
+# trans = “Run away, run away.”
+# type = Verbal sentence
+1	i҆fn	i҆fn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+2	i҆fn	i҆fn	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
+
