@@ -16893,3 +16893,19 @@
 8	i҆m	m	ADP	Pron.st	Case=Loc	9	case	_	_
 9	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	acl:relcl	_	_
 
+# sent_id = UDE-1338
+# ref = PT § 434e W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆m ⸗f č̣ṭ rn ⸗k pw r ⸗k n.i҆ Nm(.i҆) sꜣ Nm(i҆).t
+1	i҆m	i҆m	VERB	SFC|Sub|Finalcl	Mood=Sub|Polarity=Neg|VerbForm=Fin	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	č̣ṭ	č̣ṭ	VERB	NegCom	VerbForm=Inf	1	obl	_	_
+4	rn	rn	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+7	r	r	ADP	Pron.st	_	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+9	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
+10	Nm(.i҆)	Nm.i҆	PROPN	_	Gender=Masc	4	nmod	_	_
+11	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	appos	_	_
+12	Nm(i҆).t	Nmi҆.t	PROPN	_	Gender=Fem	11	nmod	_	_
+
