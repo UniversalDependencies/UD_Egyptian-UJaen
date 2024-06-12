@@ -16851,3 +16851,14 @@
 10	m	m	ADP	Cons.st	Case=Equ	11	case	_	_
 11	fnč	fnč	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 
+# sent_id = UDE-1333
+# ref = Pyramid Texts § 433a W, Saqqara, 5th Dynasty, rel, OE, for ntktk as an infinitive, see Allen 2017: 109.
+# text = ntktk ⸗k n tk.i҆ I҆kn-hi҆
+1	ntktk	ntktk	NOUN	Inf	Gender=Masc|VerbForm=Inf	3	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Cons.st	Case=Ben	3	case	_	_
+4	tk.i҆	tk	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_
+5-6	I҆kn-hi҆	_	_	_	_	_	_	_	_
+5	I҆kn	I҆kn	PROPN	_	Gender=Masc	4	vocative	_	_
+6	hi҆	hi҆	NOUN	_	Gender=Masc|Number=Sing	5	flat	_	_
+
