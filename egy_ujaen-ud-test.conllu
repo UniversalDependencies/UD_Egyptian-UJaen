@@ -16956,3 +16956,17 @@
 21	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	20	expl	_	_
 22	rw	rw	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 
+# sent_id = UDE-1342
+# ref = PT § 437a W, Saqqara, 5th Dynasty, rel, OE
+# text = pr.n Wni҆ś m č̣ni҆.t ⸗f śč̣r.n ⸗f m č̣ni҆.t ⸗f
+1	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Ela	4	case	_	_
+4	č̣ni҆.t	č̣ni҆.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	śč̣r.n	śč̣r	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+8	m	m	ADP	Cons.st	Case=Ela	9	case	_	_
+9	č̣ni҆.t	č̣ni҆.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
