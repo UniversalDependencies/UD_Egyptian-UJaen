@@ -17066,3 +17066,15 @@
 1	Gb(b)	Gbb	PROPN	_	Gender=Masc	0	root	_	_
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 
+# sent_id = UDE-1355
+# ref = PT § 439b W, Saqqara, 5th Dynasty, rel, OE
+# text = hmč śn n.i҆ hmč.t mwt i҆t ⸗k Č̣ꜥꜥm.i҆w
+1	hmč	hmč	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	_
+2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3	n.i҆	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	_
+4	hmč.t	hmč.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+5	mwt	mwt	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+6	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	_
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+8	Č̣ꜥꜥm.i҆w	Č̣ꜥꜥm.i҆w	PROPN	_	Gender=Masc	6	appos	_	_
+
