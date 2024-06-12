@@ -16710,10 +16710,10 @@
 # sent_id = UDE-1321
 # ref = Pyramid Texts § 428a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = nni҆ mw.t ⸗f nni҆ mw.t ⸗f i҆(w) ⸗k rr m nn
-1	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin		11	dislocated	_	_
+1	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	11	dislocated	_	_
 2	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
-4	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin		1	conj	_	_
+4	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	conj	_	_
 5	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	i҆(w)	i҆w	PART	_	_	11	discourse	_	_
@@ -16855,7 +16855,7 @@
 1	tkn.t	tkn	NOUN	Inf	Gender=Masc|VerbForm=Inf	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
-4	tkn	tkn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin		0	root	_	_
+4	tkn	tkn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:outer	_	_
 6-7	I҆kn-hi҆	_	_	_	_	_	_	_	_
 6	I҆kn	I҆kn	PROPN	_	Gender=Masc	4	vocative	_	_
