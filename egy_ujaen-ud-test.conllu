@@ -6650,7 +6650,7 @@
 1-2	šn-t(i҆)	_	_	_	_	_	_	_	_
 1	šn	šni̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	t(i҆)	ti҆	NOUN	Subj|Man-Imp	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	rmn	rmni̯	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	1	obj	_	_
+3	rmn	rmni̯	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	1	obj	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:outer	_	_
 5	n	n	ADP	Pron.st	_	6	case	_	_
 6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
@@ -6758,7 +6758,7 @@
 1-2	m⸗k	_	_	_	_	_	_	_	_
 1	m	m	PART	_	_	3	discourse	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
-3	i҆r.tn	i҆ri̯	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	9	dislocated	_	_
+3	i҆r.tn	i҆ri̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	dislocated	_	_
 4	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	3	nsubj	_	_
 5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
 6	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	4	obl	_	_
@@ -7309,7 +7309,7 @@
 # sent_id = UDE-612
 # ref = Pyramid Texts § 192b W, Saqqara, 5th Dynasty, rel, OE
 # text = wnm.tn ⸗k i҆r.t
-1	wnm.tn	wnm	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
+1	wnm.tn	wnm	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj:outer	_	_
 3	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 
@@ -11179,7 +11179,7 @@
 3	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	r	r	ADP	Cons.st	_	5	case	_	_
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	obl	_	_
-6	wbn	wbn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	appos	_	_
+6	wbn	wbn	VERB	ADJ|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	5	acl	_	_
 7	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 8	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 9	i҆wn	i҆wn	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
@@ -16645,7 +16645,7 @@
 # sent_id = UDE-1315
 # ref = Pyramid Texts § 425a W, Saqqara, 5th Dynasty, rel, OE
 # text = psḥ.n (I҆)tm(.w) mḥ.n ⸗f rʾ n(.i҆) Wni҆ś ꜥnn ⸗f ꜥnn.t
-1	psḥ.n	psḥ	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	3	dislocated	_	_
+1	psḥ.n	psḥ	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	3	dislocated	_	_
 2	(I҆)tm(.w)	I҆tm.w	PROPN	_	Gender=Masc	1	nsubj	_	_
 3	mḥ.n	mḥ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
@@ -16710,10 +16710,10 @@
 # sent_id = UDE-1321
 # ref = Pyramid Texts § 428a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = nni҆ mw.t ⸗f nni҆ mw.t ⸗f i҆(w) ⸗k rr m nn
-1	nni҆	ni҆ni҆	NOUN	Tense=Past-1|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	11	dislocated	_	_
+1	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin		11	dislocated	_	_
 2	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
-4	nni҆	ni҆ni҆	NOUN	Tense=Past-1|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	1	conj	_	_
+4	nni҆	ni҆ni҆	VERB	NOUN|VerbForm=RelForm|Past-1	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin		1	conj	_	_
 5	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
 7	i҆(w)	i҆w	PART	_	_	11	discourse	_	_
@@ -16855,7 +16855,7 @@
 1	tkn.t	tkn	NOUN	Inf	Gender=Masc|VerbForm=Inf	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	n	n	ADP	Cons.st	Case=Ben	4	case	_	_
-4	tkn	tkn	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	0	root	_	_
+4	tkn	tkn	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin		0	root	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:outer	_	_
 6-7	I҆kn-hi҆	_	_	_	_	_	_	_	_
 6	I҆kn	I҆kn	PROPN	_	Gender=Masc	4	vocative	_	_
