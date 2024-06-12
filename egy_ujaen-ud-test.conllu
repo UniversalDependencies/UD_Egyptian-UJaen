@@ -16957,7 +16957,7 @@
 22	rw	rw	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 
 # sent_id = UDE-1342
-# ref = PT § 437a W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 437a|437c W, Saqqara, 5th Dynasty, rel, OE
 # text = pr.n Wni҆ś m č̣ni҆.t ⸗f śč̣r.n ⸗f m č̣ni҆.t ⸗f
 1	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
@@ -16969,4 +16969,13 @@
 8	m	m	ADP	Cons.st	Case=Ela	9	case	_	_
 9	č̣ni҆.t	č̣ni҆.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 10	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+
+# sent_id = UDE-1343
+# ref = PT § 437b|437d W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w ḫꜥ.w Wni҆ś m nhp.w
+1	i҆w	i҆w	PART	_	_	5	discourse	_	_
+2	ḫꜥ.w	ḫꜥ.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	m	m	ADP	Cons.st	_	5	case	_	_
+5	nhp.w	nhp.w	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
