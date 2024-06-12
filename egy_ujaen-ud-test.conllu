@@ -2663,11 +2663,11 @@
 6	i҆r(.ti҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obl	_	_
 7	ꜣḫ(.w)	ꜣḫ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
 8	nb(.w)	nb	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
-9	mꜣꜣ.ti҆	mꜣꜣ	VERB	_	Tense=Fut|VerbForm=Part	7	acl	_	_
-10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	fixed	_	_
+9	mꜣꜣ.ti҆	mꜣꜣ	VERB	_	Tense=Fut|VerbForm=Part	7	amod	_	_
+10	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
 11	n	n	ADP	Pron.st	Case=Acc	12	case	_	_
 12	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
-13	śč̣m.t(i҆)	śč̣m	NOUN	_	Case=Gen|Tense=Fut|VerbForm=Part	6	conj	_	_
+13	śč̣m.t(i҆)	śč̣m	VERB	_	Tense=Fut|VerbForm=Part	6	conj	_	_
 14	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	fixed	_	_
 15	nb	nb	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
 16	rn	rn	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
@@ -17007,6 +17007,6 @@
 # ref = PT § 438c W, Saqqara, 5th Dynasty, rel, OE
 # text = sy sp.t(i҆) ⸗f(i҆)
 1	sy	sy	PRON	_	PronType=Int	2	nsubj	_	_
-2	sp.t(i҆)	sp	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
+2	sp.t(i҆)	sp	NOUN	_	Tense=Fut|VerbForm=Part	0	root	_	_
 3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:outer	_	_
 
