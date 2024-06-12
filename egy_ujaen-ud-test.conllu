@@ -16990,3 +16990,16 @@
 6	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	5	advcl	_	_
 7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 
+# sent_id = UDE-1345
+# ref = PT § 438b W, Saqqara, 5th Dynasty, rel, OE
+# text = wḥm ⸗ś i҆r nḥb.t č̣śr ṭp
+# lit = “She does it again at the neck of the one with upraised head.”
+# trans = “She does it again at the neck of the one with upraised head.”
+# type = Cleft sentence with adverbial focus
+1	wḥm	wḥm	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	i҆r	r	ADP	Cons.st	_	4	case	_	_
+4	nḥb.t	nḥb	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+5	č̣śr	č̣śr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	nmod	_	_
+6	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
+
