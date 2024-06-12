@@ -16861,3 +16861,12 @@
 6	I҆kn	I҆kn	PROPN	_	Gender=Masc	4	vocative	_	_
 7	hi҆	hi҆	NOUN	_	Gender=Masc|Number=Sing	6	flat	_	_
 
+# sent_id = UDE-1335
+# ref = Pyramid Texts § 434a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḥꜣ ⸗k i҆mn i҆mn čw
+1	ḥꜣ	ḥꜣ	ADP	Pron.st	_	2	case	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
+3	i҆mn	i҆mn	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	vocative	_	_
+4	i҆mn	i҆mn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+5	čw	čw	PRON	DepPron	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	1	expl	_	_
+
