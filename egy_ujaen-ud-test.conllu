@@ -17003,3 +17003,10 @@
 5	č̣śr	č̣śr	NOUN	ADJ|Lim	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	nmod	_	_
 6	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 
+# sent_id = UDE-1346
+# ref = PT § 438c W, Saqqara, 5th Dynasty, rel, OE
+# text = sy sp.t(i҆) ⸗f(i҆)
+1	sy	sy	PRON	_	PronType=Int	2	nsubj	_	_
+2	sp.t(i҆)	sp	VERB	_	Tense=Fut|VerbForm=Part	0	root	_	_
+3	⸗f(i҆)	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:outer	_	_
+
