@@ -1872,14 +1872,14 @@
 # ref = PT § 34c W, Saqqara, 5th Dynasty, rel, OE
 # text = ḥtp.t mꜣꜣ.t ⸗k
 1	ḥtp.t	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	mꜣꜣ.t	mꜣꜣ	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
+2	mꜣꜣ.t	mꜣꜣ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj:outer	_	_
 
 # sent_id = UDE-163
 # ref = PT § 34c W, Saqqara, 5th Dynasty, rel, OE
 # text = ḥtp[.t] śč̣m.t ⸗k
 1	ḥtp[.t]	ḥtp.t	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
-2	śč̣m.t	śč̣m.t	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
+2	śč̣m.t	śč̣m.t	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj:outer	_	_
 
 # sent_id = UDE-164
@@ -2212,7 +2212,7 @@
 # sent_id = UDE-191
 # ref = Pyramid Texts § 43b Nt, Saqqara, 6th Dynasty, rel, OE
 # text = mꜣ.tn Č̣ḥw.ti҆ mw i҆m.(i҆)w ⸗ś
-1	mꜣ.tn	mꜣꜣ	NOUN	Tense=Past|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	0	root	_	_
+1	mꜣ.tn	mꜣꜣ	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
 2	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	1	nsubj:outer	_	_
 3	mw	mw	NOUN	Subj	Gender=Masc|Number=Plur	1	nsubj	_	_
 4	i҆m.(i҆)w	m	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Plur	3	amod	_	_
@@ -3035,7 +3035,7 @@
 # ref = Pyramid Texts § 61a|88c W, Saqqara, 5th Dynasty, rel, OE
 # text = nč̣ś wnm.tn Śtẖ i҆m ⸗ś
 1	nč̣ś	nč̣ś	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-2	wnm.tn	wnm	NOUN	Tense=Past-2|VerbForm=RelForm|Voice=Act	Gender=Fem|Number=Sing	1	nsubj	_	_
+2	wnm.tn	wnm	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	1	csubj	_	_
 3	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	2	nsubj:outer	_	_
 4	i҆m	m	ADP	Pron.st	_	5	case	_	_
 5	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
@@ -5314,7 +5314,7 @@
 6	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 7	tʾ	tʾ	NOUN	Obj	Gender=Masc|Number=Sing	3	obj	_	_
 8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
-9	gm.wn	gmi̯	NOUN	VERB|VerbForm=RelForm|Past-2	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Fin	7	nmod	_	_
+9	gm.wn	gmi̯	VERB	NOUN|VerbForm=RelForm|Past-2	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Fin	7	ccomp	_	_
 10	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 11	i҆m	i҆m	ADV	_	AdvType=Loc	9	advmod	_	_
 
@@ -5863,11 +5863,11 @@
 4	m	m	ADP	Cons.st	Case=Ins	5	case	_	_
 5	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7	nwr.w	nwr	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	5	appos	_	_
+7	nwr.w	nwr	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	5	appos	_	_
 8	n	n	ADP	Pron.st	Case=Dat	9	case	_	_
 9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
 10	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-11	śṭꜣ.w	śṭꜣ	NOUN	Tense=Pres|VerbForm=RelForm|Voice=Act	Gender=Masc|Number=Sing	5	flat	_	_
+11	śṭꜣ.w	śṭꜣ	VERB	NOUN|VerbForm=RelForm|Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
 12	n	n	ADP	Pron.st	Case=Dat	13	case	_	_
 13	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	_
 14	p.t	p.t	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
