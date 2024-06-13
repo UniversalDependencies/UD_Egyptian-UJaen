@@ -17133,3 +17133,19 @@
 9	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
 
+# sent_id = UDE-1360
+# ref = PT § 441b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:ḫr śč̣r sbn
+1	i҆:ḫr	ḫr	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	_
+2	śč̣r	śč̣r	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
+3	sbn	sbn	VERB	Imp	Mood=Imp|Number=Sing	1	conj	_	_
+
+# sent_id = UDE-1361
+# ref = PT § 441b W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜣ čw mw.t ⸗k Nw.t
+1	mꜣ	mꜣꜣ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
+3	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	Nw.t	Nw.t	PROPN	_	Gender=Fem	3	appos	_	_
+
