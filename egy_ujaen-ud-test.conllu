@@ -17394,3 +17394,25 @@
 9	ś:mn.t(i҆)	mn	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	4	amod	_	_
 10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
 
+# sent_id = UDE-1380
+# ref = PT § 448a-b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:č̣ṭ ⸗čn n i҆t ⸗čn wn.t rč̣.n n ⸗čn Wni҆ś pꜣw.(w)t ⸗čn ś:ḥtp.n čn Wni҆ś m č.wt ⸗čn
+1	i҆:č̣ṭ	č̣ṭ	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	_
+2	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
+4	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗čn	čn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	4	nmod	_	_
+6	wn.t	wn.t	SCONJ	_	_	7	mark	_	_
+7	rč̣.n	rč̣i̯	VERB	SFC|Past-2	Tense=Past|VerbForm=Fin	1	ccomp	_	_
+8	n	n	ADP	Pron.st	Case=Dat	9	case	_	_
+9	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	7	obl	_	_
+10	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nsubj	_	_
+11	pꜣw.(w)t	pꜣw.t	NOUN	_	Gender=Fem|Number=Plur	7	obj	_	_
+12	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	11	nmod	_	_
+13	ś:ḥtp.n	ḥtp	VERB	SFC|Past-2|Abstrel|Voice=Cau	Tense=Past|VerbForm=Fin	7	conj	_	_
+14	čn	čn	PRON	DepPron|Obj	Gender=Com|Number=Plur|Person=2|PronType=Prs	13	obj	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	13	nsubj	_	_
+16	m	m	ADP	Cons.st	Case=Ins	17	case	_	_
+17	č.wt	č.t	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	_
+18	⸗čn	čn	PRON	SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	17	nmod	_	_
+
