@@ -17212,3 +17212,18 @@
 1	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	_
 2	sbn	sbn	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 
+# sent_id = UDE-1366
+# ref = PT § 444a W, Saqqara, 5th Dynasty, rel, OE
+# text = č̣.t r p.t
+1	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+2	r	r	ADP	Cons.st	_	3	case	_	_
+3	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+
+# sent_id = UDE-1366
+# ref = PT § 444a W, Saqqara, 5th Dynasty, rel, OE
+# text = spꜣ Ḥr.w r tꜣ
+1	spꜣ	spꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	r	r	ADP	Cons.st	_	4	case	_	_
+4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+
