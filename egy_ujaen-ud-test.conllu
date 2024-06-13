@@ -17247,3 +17247,11 @@
 3	šnč	šnč	VERB	SFC|FutPass	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	⸗i҆	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
 
+# sent_id = UDE-1370
+# ref = PT § 444d W, Saqqara, 5th Dynasty, rel, OE
+# text = nh.t Wni҆ś nh.t ⸗f
+1	nh.t	nh.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
+3	nh.t	nh.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+
