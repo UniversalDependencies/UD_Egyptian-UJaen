@@ -17228,7 +17228,7 @@
 4	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 
 # sent_id = UDE-1368
-# ref = PT § 44b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 444b W, Saqqara, 5th Dynasty, rel, OE
 # text = čb(w).t Ḥr.w šꜣś ⸗f nb ḥw.t kꜣ čpḥ.t
 1	čb(w).t	čbw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	3	dislocated	_	_
 2	Ḥr.w	ḥr.w	PROPN	_	Case=Gen|Gender=Masc	1	nmod	_	_
@@ -17238,4 +17238,12 @@
 6	ḥw.t	ḥw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 7	kꜣ	kꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	_
 8	čpḥ.t	čpḥ.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+
+# sent_id = UDE-1369
+# ref = PT § 444c W, Saqqara, 5th Dynasty, rel, OE
+# text = šnč n šnč ⸗i҆
+1	šnč	šnč	NOUN	_	Gender=Masc|Number=Sing	3	dislocated	_	_
+2	n	n	PART	Neg	PartType=Neg	3	advmod	_	_
+3	šnč	šnč	VERB	SFC|FutPass	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	⸗i҆	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
 
