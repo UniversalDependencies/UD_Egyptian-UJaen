@@ -17360,7 +17360,7 @@
 14	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
 
 # sent_id = UDE-1378
-# ref = PT § 447a-b W, Saqqara, 5th Dynasty, rel, OE
+# ref = PT § 447a W, Saqqara, 5th Dynasty, rel, OE
 # text = pꜣ.t ⸗k n ⸗k (I҆)tm(.w) ḥnꜥ Rw.ti҆ i҆r.w nčr(.wi҆) ⸗śn č̣.t ⸗śn č̣ś ⸗śn
 1	pꜣ.t	pꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
@@ -17376,4 +17376,21 @@
 12	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	11	nmod	_	_
 13	č̣ś	č̣ś	NOUN	Emp	Gender=Masc|Number=Sing	11	appos	_	_
 14	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+
+# sent_id = UDE-1379
+# ref = PT § 447b W, Saqqara, 5th Dynasty, rel, OE
+# text = Šw p(i҆) ḥnꜥ Tfnw.t i҆r.ti҆ nčr(.w) wtč.ti҆ nčr(.w) ś:mn.t(i҆) nčr(.w)
+# lit = “This is Shu with Tefnut, those who made the gods, who begot the gods, who established the gods.”
+# trans = “This is Shu with Tefnut, those who made the gods, who begot the gods, who established the gods.”
+# type = Nominal sentence (A pw)
+1	Šw	Šw	PROPN	_	Gender=Masc	0	root	_	_
+2	p(i҆)	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
+4	Tfnw.t	tfnw.t	PROPN	_	Gender=Fem	1	obl	_	_
+5	i҆r.ti҆	i҆ri̯	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	4	amod	_	_
+6	nčr(.w)	nčr(.w)	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	wtč.ti҆	wtč	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	4	amod	_	_
+8	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+9	ś:mn.t(i҆)	mn	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Past|VerbForm=Part	4	amod	_	_
+10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
 
