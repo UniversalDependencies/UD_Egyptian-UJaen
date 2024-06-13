@@ -17149,3 +17149,22 @@
 4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 5	Nw.t	Nw.t	PROPN	_	Gender=Fem	3	appos	_	_
 
+# sent_id = UDE-1362
+# ref = PT § 442a W, Saqqara, 5th Dynasty, rel, OE
+# text = ḫꜥ Rꜥw ꜣḫ.t ⸗f ṭp ⸗f i҆r ḥfꜣ pn pr m tꜣ ẖr(.i҆) č̣bꜥ(.w) Wni҆ś
+1	ḫꜥ	ḫꜥi̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+5	ṭp	ṭp	ADP	Pron.st	Case=Sup	6	case	_	_
+6	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	advcl	_	_
+7	i҆r	r	ADP	Cons.st	_	8	case	_	_
+8	ḥfꜣ	ḥfꜣ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+9	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+10	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	amod	_	_
+11	m	m	ADP	Cons.st	Case=Ela	12	case	_	_
+12	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+13	ẖr(.i҆)	ẖr	ADJ	NisbaPrep	Case=Sub|Gender=Masc|Number=Sing	8	amod	_	_
+14	č̣bꜥ(.w)	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	8	nmod	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	14	nmod	_	_
+
