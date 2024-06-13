@@ -17323,3 +17323,21 @@
 10	n.(i҆)w	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Plur	8	amod	_	_
 11	s(my).t	s(my).t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 
+# sent_id = UDE-1376
+# ref = PT § 446a W, Saqqara, 5th Dynasty, rel, OE
+# text = pꜣ.t ⸗k n ⸗k Ni҆.w hnꜥ Nn.t mẖnm.ti҆ [nčr(.w)] šnm.ti҆ nčr(.w) m šw ⸗śn
+1	pꜣ.t	pꜣ.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	_
+5	Ni҆.w	Nw.w	PROPN	_	Gender=Masc	4	vocative	_	_
+6	hnꜥ	hnꜥ	ADP	Cons.st	Case=Com	7	case	_	_
+7	Nn.t	Nn.t	PROPN	_	Gender=Fem	5	obl	_	_
+8	mẖnm.ti҆	mẖnm.ti҆	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Pres|VerbForm=Part	7	amod	_	_
+9	[nčr(.w)]	nčr	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
+10	šnm.ti҆	ẖnm	ADJ	VERB	Gender=Fem|Number=Dual|Tense=Pres|VerbForm=Part	7	amod	_	_
+11	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+12	m	m	ADP	Cons.st	Case=Loc	13	case	_	_
+13	šw	šw	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+14	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	13	nmod	_	_
+
