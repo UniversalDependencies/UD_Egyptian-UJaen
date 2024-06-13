@@ -17119,3 +17119,17 @@
 11	i҆r.t(i҆)	i҆r.t(i҆)	NOUN	_	Gender=Fem|Number=Dual	7	obl	_	_
 12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
 
+# sent_id = UDE-1359
+# ref = PT § 441a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:ḫr ⸗k m ḥś ⸗k sbn ⸗k m wsš.t ⸗k
+1	i҆:ḫr	ḫr	VERB	SFC|Pres|Abstrel|Aug	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	m	m	ADP	Cons.st	Case=Loc	4	case	_	_
+4	ḥś	ḥś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+6	sbn	sbn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+8	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
+9	wsš.t	wsš.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	_
+
