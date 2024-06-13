@@ -17168,3 +17168,24 @@
 14	č̣bꜥ(.w)	č̣bꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	8	nmod	_	_
 15	Wni҆ś	Wni҆ś	PROPN	_	Case=Gen|Gender=Masc	14	nmod	_	_
 
+# sent_id = UDE-1363
+# ref = PT § 442c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆:šꜥ ⸗f ṭp ⸗k m ṭś pn i҆m(.i҆) č̣r.t Mꜣfṭ.t {ḥr} śčꜣ ⸗f ṭp.(i҆)w-rʾ ⸗k
+1	i҆:šꜥ	šꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ṭp	ṭp	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
+4	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
+6	ṭś	ṭś	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
+7	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+8	i҆m(.i҆)	m	NOUN	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	6	amod	_	_
+9	č̣r.t	č̣r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	6	nmod	_	_
+10	Mꜣfṭ.t	Mꜣfṭ.t	PROPN	_	Case=Gen|Gender=Fem	9	nmod	_	_
+11	{ḥr}	{ḥr}	X	_	Typo=Yes	10	dep	_	_
+12	śčꜣ	śčꜣ	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	1	advcl	_	_
+13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14-15	ṭp.(i҆)w-rʾ	_	_	_	_	_	_	_	_
+14	ṭp.(i҆)w	ṭp	NOUN	NisbaPrep	Case=Sup|Gender=Masc|Number=Plur	12	obj	_	_
+15	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	14	compound	_	_
+16	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod	_	_
+
