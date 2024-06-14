@@ -17485,3 +17485,14 @@
 16	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	13	obl	_	_
 17	nb	nb	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
 
+# sent_id = UDE-1386
+# ref = PT § 450b W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś ḫr ⸗k Ḥr.w-šꜣ.t(i҆)
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5-6	Ḥr.w-šꜣ.t(i҆)	_	_	_	_	_	_	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	_
+6	šꜣ.t(i҆)	H̠ꜣ.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	5	amod	_	_
+
