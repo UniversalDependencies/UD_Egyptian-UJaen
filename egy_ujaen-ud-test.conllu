@@ -17464,3 +17464,24 @@
 4	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
+# sent_id = UDE-1385
+# ref = PT § 449b-450a W, Saqqara, 5th Dynasty, rel, OE
+# text = mꜥḥꜣ Ḥr.w ḥr(.i҆) śḥṭ.w p.t ś:ꜥnḫ Rꜥw rꜥw nb i҆:ḳṭ ⸗f Wni҆ś ś:ꜥnḫ ⸗f Wni҆ś rꜥw nb
+1	mꜥḥꜣ	mꜥḥꜣ	NOUN	_	Gender=Masc|Number=Sing	10	dislocated	_	_
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	appos	_	_
+3	ḥr(.i҆)	ḥr	ADJ	NisbaPrep	Gender=Masc|Number=Sing	2	amod	_	_
+4	śḥṭ.w	śḥṭ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	2	nmod	_	_
+5	p.t	p.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+6	ś:ꜥnḫ	ꜥnḫ	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	amod	_	_
+7	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	6	obj	_	_
+8	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	6	obl	_	_
+9	nb	nb	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+10	i҆:ḳṭ	ḳṭ	VERB	SFC|Sub	Mood=Sub	0	root	_	_
+11	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+12	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	10	obj	_	_
+13	ś:ꜥnḫ	wꜥnḫ	VERB	SFC|Sub	Mood=Sub	10	conj	_	_
+14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	13	obj	_	_
+16	rꜥw	rꜥw	NOUN	_	AdvType=Tim|Gender=Masc|Number=Sing	13	obl	_	_
+17	nb	nb	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
+
