@@ -17441,3 +17441,10 @@
 6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
+# sent_id = UDE-1383
+# ref = PT § 449b W, Saqqara, 5th Dynasty, rel, OE
+# text = Nḥ rn ⸗f
+1	Nḥ	Nḥ	PROPN	_	Gender=Masc	0	root	_	_
+2	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+
