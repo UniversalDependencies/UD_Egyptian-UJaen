@@ -17507,3 +17507,29 @@
 5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	_
 6	šsm.t(i҆)	Šsm.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	5	amod	_	_
 
+# sent_id = UDE-1388
+# ref = PT § 450c W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆i҆.n Wni҆ś ḫr ⸗k Ḥr.w-i҆ꜣb.ti҆
+1	i҆i҆.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	ḫr	ḫr	ADP	Pron.st	_	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+5-6	Ḥr.w-šsm.t(i҆)	_	_	_	_	_	_	_	_
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	_
+6	i҆ꜣb.ti҆	i҆ꜣb.t	ADJ	NisbaNoun	Gender=Masc|Number=Sing	5	amod	_	_
+
+# sent_id = UDE-1389
+# ref = PT § 451a W, Saqqara, 5th Dynasty, rel, OE
+# text = m ⸗k i҆n<.n> n ⸗k Wni҆ś i҆r.t ⸗k wr.t i҆ꜣb.t m rwḫt.t
+1	m	m	PART	_	_	3	discourse	_	_
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	_
+3	i҆n<.n>	i҆ni̯	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin	0	root	_	_
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+7	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+9	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+10	i҆ꜣb.t	i҆ꜣb.t	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+11	m	m	ADP	Cons.st	Case=Ess	12	case	_	_
+12	rwḫt.t	rwḫt.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
