@@ -17444,7 +17444,23 @@
 # sent_id = UDE-1383
 # ref = PT § 449b W, Saqqara, 5th Dynasty, rel, OE
 # text = Nḥ rn ⸗f
+# lit = “Eternal is his name.”
+# trans = “Eternal is his name.”
+# type = Nominal sentence (A = B)
 1	Nḥ	Nḥ	PROPN	_	Gender=Masc	0	root	_	_
-2	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
+2	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+
+# sent_id = UDE-1384
+# ref = PT § 449b W, Saqqara, 5th Dynasty, rel, OE
+# text = Nḥ-nb-rnp.t rn ⸗f
+# lit = “Eternal, Lorf the Year is his name.”
+# trans = “Eternal, Lorf the Year is his name.”
+# type = Nominal sentence (A = B)
+1-3	Nḥ-nb-rnp.t	_	_	_	_	_	_	_	_
+1	Nḥ	Nḥ	PROPN	_	Gender=Masc	0	root	_	_
+2	nb	nb	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
+3	rnp.t	rnp	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
+4	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
 
