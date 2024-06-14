@@ -17430,3 +17430,14 @@
 9	i҆r	r	ADP	Cons.st	_	10	case	_	_
 10	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 
+# sent_id = UDE-1382
+# ref = PT § 449a W, Saqqara, 5th Dynasty, rel, OE
+# text = i҆w Wni҆ś rḫ(.w) św rḫ(.w) rn ⸗f
+1	i҆w	i҆w	AUX	Particle	Aspect=Perf	2	aux	_	_
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	nsubj	_	_
+3	rḫ(.w)	rḫ	VERB	OSSC	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+5	rḫ(.w)	rḫ	VERB	OSSC	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	3	conj	_	_
+6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+
