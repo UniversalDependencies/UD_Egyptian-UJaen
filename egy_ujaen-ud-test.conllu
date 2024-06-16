@@ -999,14 +999,15 @@
 
 # sent_id = UDE-87
 # ref = PT § 16c W, Saqqara, 5th Dynasty, rel, OE
-# text = (w)ṭ n ⸗k św m č̣r.t ⸗k
+# text = (w)ṭ n ⸗k św m č̣r.t(D47) ⸗k
 1	(w)ṭ	wṭi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
 4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 5	m	m	ADP	Cons.st	Case=Loc	6	case	_	_
-6	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
+6	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	(D47)	(D47)	SYM	_	Animacy=Hum	6	clf	_	_
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
 
 # sent_id = UDE-88
 # ref = PT § 16c N, Saqqara, 6th Dynasty, rel, OE
@@ -1083,12 +1084,15 @@
 
 # sent_id = UDE-96
 # ref = PT § 17c W, Saqqara, 5th Dynasty, rel, OE
-# text = si҆ Ḫnt(.i҆)-i҆r.ti҆ ḥnꜥ kꜣ ⸗f
+# text = si҆ Ḫnt(.i҆)-i҆r.ti҆(G11) ḥnꜥ kꜣ ⸗f
 1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
-2	Ḫnt(.i҆)-i҆r.ti҆	Ḫnt(.i҆)-i҆r.ti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
-4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+2-3	Ḫnt(.i҆)-i҆r.ti҆	_	_	_	_	_	_	_	SpaceAfter=No
+2	Ḫnt(.i҆)	Ḫnt.i҆	PROPN	_	Gender=Masc	1	nsubj	_	_
+3	i҆r.ti҆	i҆r.ti҆	NOUN	_	Gender=Fem|Number=Dual	2	flat	_	_
+4	(G11)	(G11)	SYM	_	Animacy=Anim	2	clf	_	_
+5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
+6	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
 
 # sent_id = UDE-97
 # ref = PT § 17c W, Saqqara, 5th Dynasty, rel, OE
