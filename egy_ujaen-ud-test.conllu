@@ -1564,17 +1564,19 @@
 
 # sent_id = UDE-131
 # ref = Pyramid Texts § 26c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆šš.w Ḥr.w smi҆n
-1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
-2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
-3	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
+# text = i҆šš.w(D154) Ḥr.w smi҆n
+1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+2	(D154)	(D154)	SYM	_	Animacy=Hum	1	clf	_	_
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+4	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
 # sent_id = UDE-132
 # ref = Pyramid Texts § 26d W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆šš.w Śtẖ smi҆n
-1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	_
-2	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
-3	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
+# text = i҆šš.w(D154) Śtẖ smi҆n
+1	i҆šš.w	i҆šš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
+2	(D154)	(D154)	SYM	_	Animacy=Hum	1	clf	_	_
+3	Śtẖ	Śtẖ	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
+4	smi҆n	smi҆n	NOUN	_	_	1	nsubj	_	_
 
 # sent_id = UDE-133
 # ref = Pyramid Texts § 26e W, Saqqara, 5th Dynasty, rel, OE
@@ -1638,18 +1640,24 @@
 
 # sent_id = UDE-140
 # ref = Pyramid Texts § 27d W, Saqqara, 5th Dynasty, rel, OE
-# text = rʾ ⸗k rʾ n(.i҆) bḥs i҆r(č).t hrw mś(.w) ⸗f i҆m (⸗f)
+# text = rʾ ⸗k rʾ n(.i҆) bḥs(F18)(E8) i҆r(č).t(W20) hrw mś(.w) ⸗f i҆m (⸗f)
+# lit = "Your mouth is the mouth of a milk-calf (on) the day of: he was born on (it)."
+# trans = "Your is the mouth of a milk-calf on the day it was born."
+# type = Adverbial sentence
 1	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	_
 3	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
-5	bḥs	bḥs	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nmod	_	_
-6	i҆r(č).t	i҆rč.t	NOUN	Gen	Case=Gen|Gender=Masc	5	nmod	_	_
-7	hrw	hrw	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
-8	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	7	nmod	_	_
-9	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	_
-10	i҆m	m	ADP	Pron.st	Case=Tem	11	case	_	_
-11	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
+5	bḥs	bḥs	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	(F18)	(F18)	SYM	_	Animacy=Anim	5	clf	_	SpaceAfter=No
+7	(E8)	(E8)	SYM	_	Animacy=Anim	5	clf	_	_
+8	i҆r(č).t	i҆rč.t	NOUN	Gen	Case=Gen|Gender=Masc	5	nmod	_	SpaceAfter=No
+9	(W20)	(W20)	SYM	_	Animacy=Inan	8	clf	_	_
+10	hrw	hrw	NOUN	_	AdvType=Tim|Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+11	mś(.w)	mśi̯	VERB	SFC|PastPass|Abstrel	Tense=Past|VerbForm=Fin|Voice=Pass	10	nmod	_	_
+12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:pass	_	_
+13	i҆m	m	ADP	Pron.st	Case=Tem	14	case	_	_
+14	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
 
 # sent_id = UDE-141
 # ref = Pyramid Texts § 28b W, Saqqara, 5th Dynasty, rel, OE
