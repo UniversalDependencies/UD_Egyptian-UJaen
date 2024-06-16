@@ -1734,16 +1734,18 @@
 
 # sent_id = UDE-148
 # ref = Pyramid Texts § 30a W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wni҆ś i҆:ś:mn (⸗i҆) n ⸗k ꜥr.t(i҆) ⸗k pśš.t(i҆)
+# text = hꜣ Wni҆ś i҆:ś:mn (⸗i҆) n ⸗k ꜥr.t(i҆)(F19)(F19) ⸗k pśš.t(i҆)
 1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
 3	i҆:ś:mn	mn	VERB	SFC|Sub|Aug|Voice=Cau	Mood=Sub	0	root	_	_
 4	(⸗i҆)	⸗i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 5	n	n	ADP	Pron.st	Case=Dat	6	case	_	_
 6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-7	ꜥr.t(i҆)	ꜥr.t	NOUN	Obj	Gender=Fem|Number=Dual	3	obj	_	_
-8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
-9	pśš.t(i҆)	pśš	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	7	advcl	_	_
+7	ꜥr.t(i҆)	ꜥr.t	NOUN	Obj	Gender=Fem|Number=Dual	3	obj	_	SpaceAfter=No
+8	(F19)	(F19)	SYM	_	Animacy=Anim	7	clf	_	SpaceAfter=No
+9	(F19)	(F19)	SYM	_	Animacy=Anim	7	clf	_	_
+10	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+11	pśš.t(i҆)	pśš	VERB	OSSC|Stat|VerbForm=Fin	Gender=Fem|Number=Dual|Person=3|VerbForm=Conv	7	advcl	_	_
 
 # sent_id = UDE-149
 # ref = Pyramid Texts § 30b W, Saqqara, 5th Dynasty, rel, OE
