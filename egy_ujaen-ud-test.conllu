@@ -913,7 +913,7 @@
 
 # sent_id = UDE-81
 # ref = PT § 14b-c N, Saqqara, 6th Dynasty, rel, OE
-# text = [šm] [⸗f] [mṭw] [⸗f] [č̣.t] [⸗f] [ḫr] [pśč̣.t-ꜥꜣ.t] [m] [Ḥw.t-śr] [i҆m.(i҆)t] I҆wn.w
+# text = [šm] [⸗f] [mṭw] [⸗f] [č̣.t] [⸗f] [ḫr] [pśč̣.t-ꜥꜣ.t] [m] [Ḥw.t-śr] [i҆m.(i҆)t] I҆wn.w(O49)
 1	[šm]	šmi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	[⸗f]	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	[mṭw]	mṭwi̯	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
@@ -929,7 +929,8 @@
 11	[Ḥw.t]	Ḥw.t	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	_
 12	[śr]	śr	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	11	compound	_	_
 13	[i҆m.(i҆)t]	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	11	amod	_	_
-14	I҆wn.w	I҆wn.w	PROPN	_	_	11	nmod	_	_
+14	I҆wn.w	I҆wn.w	PROPN	_	_	11	nmod	_	SpaceAfter=No
+15	(O49)	(O49)	SYM	_	Animacy=Inan	14	clf	_	_
 
 # sent_id = UDE-82
 # ref = PT § 14d N, Saqqara, 6th Dynasty, rel, OE
