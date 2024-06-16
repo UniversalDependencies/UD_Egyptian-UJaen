@@ -485,19 +485,20 @@
 
 # sent_id = UDE-48
 # ref = Pyramid Texts § 2c T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣.n ⸗f n ⸗f (i҆)wꜥ.t ⸗f m-bꜣḥ pśč̣.t-ꜥꜣ.t
+# text = č̣.n ⸗f n ⸗f (i҆)wꜥ.t(F44) ⸗f m-bꜣḥ pśč̣.t-ꜥꜣ.t
 1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	_
-6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7-8	m-bꜣḥ	_	_	_	_	_	_	_	_
-7	m	m	ADP	Cons.st	Case=Loc	9	case	_	_
-8	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	_
-9-10	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
-9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	_
-10	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	9	compound	_	_
+5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+6	(W11)	(W11)	SYM	_	Animacy=Inan	5	clf	_	_
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
+8-9	m-bꜣḥ	_	_	_	_	_	_	_	_
+8	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
+9	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	_
+10-11	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
+10	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	_
+11	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	10	compound	_	_
 
 # sent_id = UDE-49
 # ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
