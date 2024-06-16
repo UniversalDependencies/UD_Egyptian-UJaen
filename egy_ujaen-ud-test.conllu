@@ -1341,11 +1341,12 @@
 
 # sent_id = UDE-115
 # ref = Pyramid Texts § 21b N, Saqqara, 6th Dynasty, rel, OE
-# text = m n ⸗k ś(i҆)
-1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
-3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
-4	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+# text = m(D54) n ⸗k ś(i҆)
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	SpaceAfter=No
+2	(D54)	(D54)	SYM	_	Animacy=Hum	1	clf	_	_
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
+5	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
 
 # sent_id = UDE-116
 # ref = Pyramid Texts § 21c N, Saqqara, 6th Dynasty, rel, OE
@@ -1416,14 +1417,15 @@
 
 # sent_id = UDE-121
 # ref = Pyramid Texts § 23a W/24b N, Saqqara, 5th Dynasty, rel, OE
-# text = m n ⸗k rč̣.w pr.i҆ i҆m ⸗k
+# text = m n ⸗k rč̣.w(D54) pr.i҆ i҆m ⸗k
 1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
-4	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
-5	pr.i҆	pri̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
-6	i҆m	m	ADP	Pron.st	Case=Ela	7	case	_	_
-7	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	_
+4	rč̣.w	rč̣.w	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+5	(D54)	(D54)	SYM	_	Animacy=Hum	4	clf	_	_
+6	pr.i҆	pri̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	amod	_	_
+7	i҆m	m	ADP	Pron.st	Case=Ela	8	case	_	_
+8	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
 
 # sent_id = UDE-122
 # ref = Pyramid Texts § 23b W, Saqqara, 5th Dynasty, rel, OE
