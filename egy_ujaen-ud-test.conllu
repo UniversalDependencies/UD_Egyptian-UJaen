@@ -466,7 +466,7 @@
 
 # sent_id = UDE-47
 # ref = Pyramid Texts § 2a-b T, Saqqara, 6th Dynasty, rel, OE
-# text = sꜣ (⸗i҆) pw Tti҆ mr.y (⸗i҆) wtw.ti҆ ḥr nś.t Gb(b) ḥtp.n ⸗f ḥr ⸗f
+# text = sꜣ (⸗i҆) pw Tti҆ mr.y (⸗i҆) wtw.ti҆ ḥr nś.t(W11) Gb(b) ḥtp.n ⸗f ḥr ⸗f
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
@@ -476,11 +476,12 @@
 7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
 8	ḥr	ḥr	ADP	Cons.st	Case=Loc	9	case	_	_
 9	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	_
-10	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	_
-11	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
-12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-13	ḥr	ḥr	ADP	Pron.st	Case=Cau	14	case	_	_
-14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	_
+10	(W11)	(W11)	SYM	_	Animacy=Inan	9	clf	_	_
+11	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	_
+12	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
+13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+14	ḥr	ḥr	ADP	Pron.st	Case=Cau	15	case	_	_
+15	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
 
 # sent_id = UDE-48
 # ref = Pyramid Texts § 2c T, Saqqara, 6th Dynasty, rel, OE
