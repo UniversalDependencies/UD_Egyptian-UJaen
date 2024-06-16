@@ -934,14 +934,15 @@
 
 # sent_id = UDE-82
 # ref = PT § 14d N, Saqqara, 6th Dynasty, rel, OE
-# text = i҆č ⸗f Wrr.t ḫr Ḥr.w nb pꜥ.t
+# text = i҆č ⸗f Wrr.t(S2) ḫr Ḥr.w nb pꜥ.t
 1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
 2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	Wrr.t	wrr	PROPN	_	Gender=Fem	1	obj	_	_
-4	ḫr	ḫr	ADP	Cons.st	Case=Loc	5	case	_	_
-5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
-6	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	_
-7	pꜥ.t	pꜥ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+3	Wrr.t	wrr	PROPN	_	Gender=Fem	1	obj	_	SpaceAfter=No
+4	(S2)	(S2)	SYM	_	Animacy=Inan	3	clf	_	_
+5	ḫr	ḫr	ADP	Cons.st	Case=Loc	6	case	_	_
+6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
+7	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	6	appos	_	_
+8	pꜥ.t	pꜥ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
 
 # sent_id = UDE-83
 # ref = Pyramid Texts § 15 N, Saqqara, 6th Dynasty, rel, OE
