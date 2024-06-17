@@ -2971,12 +2971,13 @@
 
 # sent_id = UDE-248
 # ref = Pyramid Texts § 58b W, Saqqara, 5th Dynasty, rel, OE
-# text = pr.n ⸗f ẖr i҆r.t Ḥr.w
+# text = pr.n ⸗f ẖr i҆r.t(Z1) Ḥr.w
 1	pr.n	pri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	ẖr	ẖr	ADP	Cons.st	Case=Sub	4	case	_	_
 4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obl	_	_
-5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+5	(Z1)	(Z1)	SYM	_	Animacy=Inan	4	clf	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
 
 # sent_id = UDE-249
 # ref = Pyramid Texts § 58c W, Saqqara, 5th Dynasty, rel, OE
