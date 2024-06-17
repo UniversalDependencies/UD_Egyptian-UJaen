@@ -2981,25 +2981,28 @@
 
 # sent_id = UDE-249
 # ref = Pyramid Texts § 58c W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆m n ⸗f i҆r.t Ḥr.w ḥtp ⸗f ḥr ⸗ś
+# text = i҆m n ⸗f i҆r.t(Z1) Ḥr.w(G5) ḥtp ⸗f ḥr ⸗ś
 1	i҆m	rč̣i̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Dat	3	case	_	_
 3	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	_
-5	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
-6	ḥtp	ḥtp	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
-7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-8	ḥr	ḥr	ADP	Pron.st	Case=Ins	9	case	_	_
-9	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+4	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+5	(Z1)	(Z1)	SYM	_	Animacy=Inan	4	clf	_	_
+6	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	4	nmod	_	_
+7	(G5)	(G5)	SYM	_	Animacy=Anim	6	clf	_	_
+8	ḥtp	ḥtp	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
+9	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	ḥr	ḥr	ADP	Pron.st	Case=Ins	11	case	_	_
+11	⸗ś	ś	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obl	_	_
 
 # sent_id = UDE-250
 # ref = Pyramid Texts § 58c N, Saqqara, 6th Dynasty, rel, OE
-# text = i҆ m(i҆) ẖr ḥtp nśw
-1	i҆	i҆	INTJ	_	_	2	discourse	_	_
-2	m(i҆)	mi҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	ẖr	ẖr	ADP	Cons.st	Case=Ins	4	case	_	_
-4	ḥtp	ḥtp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
-5	nśw	nśw	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+# text = i҆(&) m(i҆) ẖr ḥtp nśw
+1	i҆	i҆	INTJ	_	_	3	discourse	_	_
+2	(&)	(&)	SYM	_	Animacy=Hum	1	clf	_	_
+3	m(i҆)	mi҆	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
+4	ẖr	ẖr	ADP	Cons.st	Case=Ins	5	case	_	_
+5	ḥtp	ḥtp	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obl	_	_
+6	nśw	nśw	NOUN	Gen	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 
 # sent_id = UDE-251
 # ref = Pyramid Texts § 59-a W, Saqqara, 5th Dynasty, rel, OE
