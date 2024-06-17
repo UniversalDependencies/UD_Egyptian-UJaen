@@ -2638,12 +2638,14 @@
 
 # sent_id = UDE-224
 # ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE
-# text = mrḥ.t mrḥ.t čni҆ wn ⸗č
-1	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	_
-2	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
-3	čni҆	čni҆	ADV	_	PronType=Int	4	advmod	_	_
-4	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+# text = mrḥ.t(N33A) mrḥ.t(N33A) čni҆ wn ⸗č
+1	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	SpaceAfter=No
+2	(N33A)	(N33A)	SYM	_	Animacy=Inan	1	clf	_	_
+3	mrḥ.t	mrḥ.t	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	Spaceafter=No
+4	(N33A)	(N33A)	SYM	_	Animacy=Inan	3	clf	_	_
+5	čni҆	čni҆	ADV	_	PronType=Int	6	advmod	_	_
+6	wn	wnn	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 
 # sent_id = UDE-225
 # ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE
