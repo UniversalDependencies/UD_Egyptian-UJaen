@@ -2497,14 +2497,15 @@
 
 # sent_id = UDE-211
 # ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) N(i҆).t m n ⸗k ꜥ {ḫ}<Nb.t>-ḥw.t
+# text = Wśr(.w) N(i҆).t m n ⸗k ꜥ(Z1) {ḫ}<Nb.t>-ḥw.t
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
 2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
 3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
 5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	_
-7	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	Gen	Case=Gen|Gender=Fem	6	nmod	_	_
+6	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+7	(Z1)	(Z1)	SYM	_	Animacy=Inan	6	clf	_	_
+8	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	Gen	Case=Gen|Gender=Fem	6	nmod	_	_
 
 # sent_id = UDE-212
 # ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
@@ -2518,10 +2519,11 @@
 
 # sent_id = UDE-213
 # ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = npč̣ ꜥḥꜥ pf
+# text = npč̣(T9) ꜥḥꜥ pf
 1	npč̣	npč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	_
-3	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	(T9)	(T9)	SYM	_	Animacy=Inan	1	clf	_	_
+3	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	_
+4	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 
 # sent_id = UDE-214
 # ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
@@ -2570,12 +2572,13 @@
 
 # sent_id = UDE-219
 # ref = Pyramid Texts § 49+8b Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Č̣ḥw.ti҆ i҆n św pč̣ pf
+# text = Č̣ḥw.ti҆ i҆n św pč̣(T9) pf
 1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
 2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
 3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
 4	pč̣	pč̣	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
-5	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+5	(T9)	(T9)	SYM	_	Animacy=Inan	4	clf	_	_
+6	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 
 # sent_id = UDE-220
 # ref = Pyramid Texts § 50b W, Saqqara, 5th Dynasty, rel, OE
