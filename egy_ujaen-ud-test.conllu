@@ -2354,7 +2354,7 @@
 
 # sent_id = UDE-200
 # ref = Pyramid Texts § 47b Nt, Saqqara, 6th Dynasty, rel, OE
-# text = i҆:mḥ n ⸗k ꜥ ⸗k m Ḥr.w-ś(i҆)
+# text = i҆:mḥ n ⸗k ꜥ ⸗k m Ḥr.w-ś(i҆)(&)
 1	i҆:mḥ	mḥ	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	_
 2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
 3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	_
@@ -2362,8 +2362,9 @@
 5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 6	m	m	ADP	Cons.st	Case=Ins	7	case	_	_
 7-8	Ḥr.w-ś(i҆)	_	_	_	_	_	_	_	_
-7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
+7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	SpaceAfter=No
 8	ś(i҆)	śi҆	PRON	DepPron|Obj	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	flat	_	_
+9	(&)	(&)	SYM	_	Animacy=Inan	8	clf	_	_
 
 # sent_id = UDE-201
 # ref = PT § 47b-c Nt, Saqqara, 6th Dynasty, rel, OE
