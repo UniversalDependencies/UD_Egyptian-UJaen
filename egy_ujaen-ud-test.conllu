@@ -434,13 +434,13 @@
 # sent_id = UDE-44
 # ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
 # text = sꜣ (⸗i҆) pw śmś.w Tti҆ wp ẖ.t (⸗i҆)
-1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
-4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
-5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-6	wp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
-7	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	MWE
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
+4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	𓋴𓄟𓅱
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏𓏏𓇋𓊇
+6	wp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	𓄋𓊪
+7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	𓄡𓏏𓏤
 8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-45
