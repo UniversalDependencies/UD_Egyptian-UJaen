@@ -435,24 +435,24 @@
 # ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
 # text = sꜣ (⸗i҆) pw śmś.w Tti҆ wp ẖ.t (⸗i҆)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
-2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	𓋴𓄟𓅱
 5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏𓏏𓇋𓊇
 6	wp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	𓄋𓊪
 7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	𓄡𓏏𓏤
-8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
+8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	Hiero=No
 
 # sent_id = UDE-45
 # ref = Pyramid Texts § 1b T, Saqqara, 6th Dynasty, rel, OE
 # text = mr.y (⸗i҆) pw ḥtp.n (⸗i҆) ḥr ⸗f
-1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
-4	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
-5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-6	ḥr	ḥr	ADP	Pron.st	Case=Cau	7	case	_	_
-7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
+1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	𓌸𓇋𓇋
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	𓊪𓅱
+4	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	𓊵𓏏𓊪𓈖
+5	(⸗i҆)	i҆	PRON	SFP|Subj	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Hiero=No
+6	ḥr	ḥr	ADP	Pron.st	Case=Cau	7	case	_	𓁷𓂋
+7	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	𓆑
 
 # sent_id = UDE-46
 # ref = Pyramid Texts § 1c T, Saqqara, 6th Dynasty, rel, OE
