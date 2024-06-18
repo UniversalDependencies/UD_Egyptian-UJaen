@@ -457,48 +457,46 @@
 # sent_id = UDE-46
 # ref = Pyramid Texts § 1c T, Saqqara, 6th Dynasty, rel, OE
 # text = sꜣ pw Tti҆ n(.i҆) ẖ.t (⸗i҆)
-1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
-3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
-5	ẖ.t	ẖ.t	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	MWE
-6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏𓏏𓇋𓊇
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	𓈖
+5	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	1	nmod	_	𓄡𓏏𓏤
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
 
 # sent_id = UDE-47
 # ref = Pyramid Texts § 2a-b T, Saqqara, 6th Dynasty, rel, OE
-# text = sꜣ (⸗i҆) pw Tti҆ mr.y (⸗i҆) wtw.ti҆ ḥr nś.t(W11) Gb(b) ḥtp.n ⸗f ḥr ⸗f
-1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
-4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-5	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	_
-6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
-7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
-8	ḥr	ḥr	ADP	Cons.st	Case=Loc	9	case	_	_
-9	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-10	(W11)	(W11)	SYM	_	Animacy=Inan	9	clf	_	_
-11	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	_
-12	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	_
-13	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-14	ḥr	ḥr	ADP	Pron.st	Case=Cau	15	case	_	_
-15	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	_
+# text = sꜣ (⸗i҆) pw Tti҆ mr.y (⸗i҆) wtw.ti҆ ḥr nś.t Gb(b) ḥtp.n ⸗f ḥr ⸗f
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏𓏏𓇋𓊇
+5	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	𓌸𓇋𓇋
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
+7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	𓅱𓏏𓇋𓍘𓅱
+8	ḥr	ḥr	ADP	Cons.st	Case=Loc	9	case	_	𓁷𓂋
+9	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	𓈖𓄓𓏏𓎼
+10	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	𓅭𓃀
+11	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	𓊵𓏏𓊪𓈖
+12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	𓆑
+13	ḥr	ḥr	ADP	Pron.st	Case=Cau	14	case	_	𓁷𓂋
+14	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	𓆑
 
 # sent_id = UDE-48
 # ref = Pyramid Texts § 2c T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣.n ⸗f n ⸗f (i҆)wꜥ.t(F44) ⸗f m-bꜣḥ pśč̣.t-ꜥꜣ.t
-1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	n	n	ADP	Pron.st	Case=Dat	4	case	_	_
-4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
-5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-6	(F44)	(F44)	SYM	_	Animacy=Inan	5	clf	_	_
-7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-8-9	m-bꜣḥ	_	_	_	_	_	_	_	_
-8	m	m	ADP	Cons.st	Case=Loc	10	case	_	_
-9	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	_
-10-11	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	_
-10	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	_
-11	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	10	compound	_	_
+# text = č̣.n ⸗f n ⸗f (i҆)wꜥ.t ⸗f m-bꜣḥ pśč̣.t-ꜥꜣ.t
+1	č̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓏙𓈖
+2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	𓆑
+3	n	n	ADP	Pron.st	Case=Dat	4	case	_	𓈖
+4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	𓆑
+5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	𓅱𓂝𓄯𓏏
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	𓆑
+7-8	m-bꜣḥ	_	_	_	_	_	_	_	𓅓𓂸
+7	m	m	ADP	Cons.st	Case=Loc	9	case	_	𓅓
+8	bꜣḥ	bꜣḥ	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	𓂸
+9-10	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓉻𓏏
+9	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	1	obl	_	𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
+10	ꜥꜣ.t	ꜥꜣ.t	ADJ	_	Gender=Fem|Number=Sing	9	fixed	_	𓉻𓏏
 
 # sent_id = UDE-49
 # ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
