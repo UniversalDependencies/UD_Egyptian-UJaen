@@ -563,23 +563,18 @@
 # sent_id = UDE-44
 # ref = Pyramid Texts § 1a T, Saqqara, 6th Dynasty, rel, OE
 # text = sꜣ (⸗i҆) pw śmś.w Tti҆ wp ẖ.t (⸗i҆)
-# lit = “Teti is (my) eldest son who parted (my) belly.”
-# trans = “Teti is (my) eldest son who came from (my) womb.”
-# type = Nominal sentence (A pw B)
-1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
-4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
-5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-6	wp	wpi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
-7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	_
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
+4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	𓋴𓄟𓅱
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏𓏏𓇋𓊇
+6	wp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	𓄋𓊪
+7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	𓄡𓏏𓏤
 8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	_
 
 # sent_id = UDE-45
 # ref = Pyramid Texts § 1b T, Saqqara, 6th Dynasty, rel, OE
 # text = mr.y (⸗i҆) pw ḥtp.n (⸗i҆) ḥr ⸗f
-# lit = “(My) beloved is this, with whom (I) am content.”
-# trans = “He is (my) beloved, with whom I am content.”
 # type = Nominal sentence (A pw)
 1	mr.y	mri̯	NOUN	Tense=Past|VerbForm=Part|Voice=Pass	Gender=Masc|Number=Sing	0	root	_	_
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
