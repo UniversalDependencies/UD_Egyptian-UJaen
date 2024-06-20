@@ -829,22 +829,22 @@
 # sent_id = UDEJ-77
 # ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
 # text = Ḥr.w i҆:wn rʾ n(.i҆) Ppy pn
-1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	i҆:wn	wn	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	_
-3	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
-4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
-5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
-6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+1	Ḥr.w	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	𓅃
+2	i҆:wn	wn	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	(𓇋*𓇬:)𓈖
+3	rʾ	rʾ	NOUN	Hierocl=Yes Gender=Masc|Number=Sing	2	obj	_	𓂋:𓏤
+4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	𓈖
+5	Ppy	Ppy	PROPN	_	Gender=Masc	3	nmod	_	𓊆(𓊪:𓊪)𓇋𓇋𓊇
+6	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	𓊪:𓈖
 
 # sent_id = UDEJ-78
 # ref = PT § 13d N, Saqqara, 6th Dynasty, rel, OE
 # text = [Ḥr.w] [wp] [rʾ] [n(.i҆)] [Ppy] [pn]
-1	[Ḥr.w]	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	_
-2	[wp]	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	2	obj	_	_
-4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	_
-5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	_
-6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
+1	[Ḥr.w]	Ḥr.w	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	[𓅃]
+2	[wp]	wpi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	[𓄋]
+3	[rʾ]	rʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	2	obj	_	[𓂋:𓏤]
+4	[n(.i҆)]	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	[𓈖]
+5	[Ppy]	Ppy	PROPN	_	Gender=Masc	3	nmod	_	[𓊆(𓊪:𓊪)𓇋𓇋𓊇]
+6	[pn]	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	[𓊪:𓈖]
 
 # sent_id = UDEJ-79
 # ref = PT § 13e-14a N, Saqqara, 6th Dynasty, rel, OE
