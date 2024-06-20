@@ -475,7 +475,7 @@
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
 7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	𓅱(+𓏏:𓇋*𓍘)+𓅱
 8	ḥr	ḥr	ADP	Cons.st	Case=Loc	9	case	_	𓁷:𓂋
-9	nś.t	nś.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	𓈖(:𓄓(:𓏏*𓎼))
+9	nś.t	nś.t	NOUN	Hierocl=Yes	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	𓈖(:𓄓(:𓏏*𓎼))
 10	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	𓅭𓃀
 11	ḥtp.n	ḥtp	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	acl	_	𓊵(:𓏏*𓊪)+𓈖
 12	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	𓆑
@@ -489,7 +489,7 @@
 2	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	𓆑
 3	n	n	ADP	Pron.st	Case=Dat	4	case	_	𓈖
 4	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	𓆑
-5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	1	obj	_	𓅱(𓂝:𓄯)+𓏏
+5	(i҆)wꜥ.t	i҆wꜥ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	1	obj	_	𓅱(𓂝:𓄯)+𓏏
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	𓆑
 7-8	m-bꜣḥ	_	_	_	_	_	_	_	𓅓:𓂸
 7	m	m	ADP	Cons.st	Case=Loc	9	case	_	𓅓
@@ -523,12 +523,11 @@
 
 # sent_id = UDEJ-51
 # ref = PT § 3d T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣ṭ mṭw i҆n Nw.t(N1)
-1	č̣ṭ	č̣ṭ	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	_
-2	mṭw	mṭw	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
-3	i҆n	i҆n	ADP	Cons.st	Case=Ins	4	case	_	_
-4	Nw.t	Nw.t	PROPN	Subj	Gender=Fem	1	nsubj	_	SpaceAfter=No
-5	(N1)	(N1)	SYM	_	Animacy=Inan	4	clf	_	_
+# text = č̣(ṭ) mṭw i҆n Nw.t
+1	č̣(ṭ)	č̣ṭ	NOUN	Inf	Gender=Masc|VerbForm=Inf	0	root	_	𓆓
+2	mṭw	mṭw	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	𓌃
+3	i҆n	i҆n	ADP	Cons.st	Case=Ins	4	case	_	𓇋:𓈖
+4	Nw.t	Nw.t	PROPN	Hierocl=Yes	Gender=Fem	1	nsubj	_	(𓏌*𓏏:)𓇯
 
 # sent_id = UDEJ-52
 # ref = PT § 3d-e T, Saqqara, 6th Dynasty, rel, OE
