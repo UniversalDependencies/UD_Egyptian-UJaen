@@ -557,12 +557,12 @@
 # sent_id = UDEJ-53
 # ref = PT § 4a T, Saqqara, 6th Dynasty, rel, OE
 # text = mr.y (⸗i҆) pw Tti҆ sꜣ (⸗i҆)
-1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	_
-3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	_
-4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	_
-6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	𓌸𓇋𓇋
+2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
+3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	𓅭
+6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
 
 # sent_id = UDEJ-54
 # ref = PT § 4b T, Saqqara, 6th Dynasty, rel, OE
