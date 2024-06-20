@@ -532,27 +532,27 @@
 # sent_id = UDEJ-52
 # ref = PT § 3d-e T, Saqqara, 6th Dynasty, rel, OE
 # text = Tti҆ rč̣.n (⸗i҆) n ⸗k śn.t ⸗k Ḥw.t-nb.t nč̣r ⸗ś i҆m ⸗k č̣ ⸗ś n ⸗k i҆b ⸗k n č̣.t ⸗k
-1	Tti҆	Tti҆	PROPN	_	Gender=Fem	2	vocative	_	_
-2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-4	n	n	ADP	Pron.st	Case=Dat	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	_
-6	śn.t	śn.t	NOUN	Obj	Gender=Fem|Number=Sing	2	obj	_	_
-7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-8	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	6	appos	_	_
-9	nč̣r	nč̣r	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
-10	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-11	i҆m	m	ADP	Pron.st	Case=Acc	12	case	_	_
-12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	_
-13	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	_
-14	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-15	n	n	ADP	Pron.st	Case=Dat	16	case	_	_
-16	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
-17	i҆b	i҆b	NOUN	Obj	Gender=Masc|Number=Sing	13	obj	_	_
-18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	_
-19	n	n	ADP	Cons.st	Case=Ben	20	case	_	_
-20	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
-21	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	_
+1	Tti҆	Tti҆	PROPN	_	Gender=Fem	2	vocative	_	𓊆𓏏(:𓏏)+𓇋𓊇
+2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓂋(:𓏙)+𓈖
+3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Hiero=No
+4	n	n	ADP	Pron.st	Case=Dat	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	𓎡
+6	śn.t	śn.t	NOUN	Obj	Gender=Fem|Number=Sing	2	obj	_	𓌢+(𓈖:𓏏)
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	𓎡
+8	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	6	appos	_	UniC=No
+9	nč̣r	nč̣r	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	𓈖(:𓇥:𓂋)
+10	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	𓋴
+11	i҆m	m	ADP	Pron.st	Case=Acc	12	case	_	𓇋𓅓
+12	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	𓎡
+13	č̣	rč̣i̯	VERB	SFC|Sub|Finalcl	Mood=Sub	2	advcl	_	𓏙
+14	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	𓋴
+15	n	n	ADP	Pron.st	Case=Dat	16	case	_	𓈖
+16	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	iobj	_	𓎡
+17	i҆b	i҆b	NOUN	Obj	Gender=Masc|Number=Sing	13	obj	_		𓄣
+18	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nmod	_	𓎡
+19	n	n	ADP	Cons.st	Case=Ben	20	case	_	𓈖
+20	č̣.t	č̣.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	𓆓:𓏏
+21	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	𓎡
 
 # sent_id = UDEJ-53
 # ref = PT § 4a T, Saqqara, 6th Dynasty, rel, OE
