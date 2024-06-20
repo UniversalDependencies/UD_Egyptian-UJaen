@@ -438,7 +438,7 @@
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
 4	śmś.w	śmś	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	𓋴𓄟𓅱
-5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+5	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 6	wp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	𓄋:𓊪
 7	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	6	obj	_	𓄡(:𓏏*𓏤)
 8	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	7	nmod	_	Hiero=No
@@ -459,7 +459,7 @@
 # text = sꜣ pw Tti҆ n(.i҆) ẖ.t (⸗i҆)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
-3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	𓈖
 5	ẖ.t	ẖ.t	NOUN	MWE	Gender=Fem|Number=Sing	1	nmod	_	𓄡(:𓏏*𓏤)
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
@@ -470,7 +470,7 @@
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
-4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 5	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	appos	_	𓌸𓇋𓇋
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
 7	wtw.ti҆	wt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	𓅱(+𓏏:𓇋*𓍘)+𓅱
@@ -513,7 +513,7 @@
 # text = nfr w(i҆) Tti҆ ḥtp i҆t ⸗f Gb(b) ḥr ⸗f
 1	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	𓄤𓂋
 2	w(i҆)	wi҆	INTJ	_	_	1	discourse	_	𓅱
-3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 4	ḥtp	ḥtp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	3	acl	_	𓊵(:𓏏*𓊪)
 5	i҆t	i҆t	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	𓇋𓏏
 6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	𓆑
@@ -532,7 +532,7 @@
 # sent_id = UDEJ-52
 # ref = PT § 3d-e T, Saqqara, 6th Dynasty, rel, OE
 # text = Tti҆ rč̣.n (⸗i҆) n ⸗k śn.t ⸗k Ḥw.t-nb.t nč̣r ⸗ś i҆m ⸗k č̣ ⸗ś n ⸗k i҆b ⸗k n č̣.t ⸗k
-1	Tti҆	Tti҆	PROPN	_	Gender=Fem	2	vocative	_	𓊆𓏏(:𓏏)+𓇋𓊇
+1	Tti҆	Tti҆	PROPN	_	Gender=Fem	2	vocative	_	𓊆(𓏏:𓏏)𓇋𓊇
 2	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓂋(:𓏙)+𓈖
 3	(⸗i҆)	i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Hiero=No
 4	n	n	ADP	Pron.st	Case=Dat	5	case	_	𓈖
@@ -560,7 +560,7 @@
 1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	𓌸𓇋𓇋
 2	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	Hiero=No
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
-4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 5	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	𓅭
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
 
@@ -603,7 +603,7 @@
 1	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	𓌸𓇋𓇋
 2	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nmod	_	𓍿
 3	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
-4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+4	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 5-6	m-m	_	_	_	_	_	_	_	𓅓𓅓
 5	m	m	ADP	Cons.st	Case=Dis	7	case	_	𓅓
 6	m	m	ADP	_	_	5	fixed	_	𓅓
@@ -624,7 +624,7 @@
 # text = sꜣ pw Tti҆ n(.i҆) i҆b (⸗i҆)
 1	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
 2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	𓊪𓅱
-3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆𓏏(:𓏏)+𓇋𓊇
+3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	nsubj	_	𓊆(𓏏:𓏏)𓇋𓊇
 4	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	𓈖
 5	i҆b	i҆b	NOUN	MWE	Gender=Masc|Number=Sing	1	nmod	_	𓄣
 6	(⸗i҆)	i҆	PRON	SFP|Poss=Yes	Gender=Com|Number=Sing|Person=1|PronType=Prs	5	nmod	_	Hiero=No
@@ -657,18 +657,21 @@
 # sent_id = UDEJ-62
 # ref = PT § 5d T, Saqqara, 6th Dynasty, rel, OE
 # text = i҆w i҆t ⸗č Šw rḫ(.w) mrr ⸗č Tti҆ r mw.t ⸗č Tfn.t
-1	i҆w	i҆w	AUX	Particle	_	5	aux	_	_
-2	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	Šw	Šw	PROPN	_	Gender=Masc	2	appos	_	_
-5	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
-6	mrr	mri̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-8	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	obj	_	_
-9	r	r	ADP	Cons.st	Case=Cmp	10	case	_	_
-10	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
-11	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	10	nmod	_	_
-12	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	10	appos	_	_
+# lit = “Your father, Shu, knows that you love Teti more than your mother, Tefnut.”
+# trans = “Your father Shu knows that you love Teti more than your mother Tefnut.”
+# type = Verbal sentence
+1	i҆w	i҆w	AUX	Particle	_	5	aux	_	𓇋𓅱
+2	i҆t	i҆t	NOUN	Subj	Gender=Masc|Number=Sing	5	nsubj	_	𓇋(𓏏:𓆑)
+3	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	𓍿
+4	Šw	Šw	PROPN	_	Gender=Masc	2	appos	_	𓆄𓅱
+5	rḫ(.w)	rḫ	VERB	OSSC|Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	𓂋:𓐍
+6	mrr	mri̯	VERB	SFC|Pres|Abstrel|Obj	Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	𓌸(𓂋:𓂋)
+7	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	𓍿
+8	Tti҆	Tti҆	PROPN	_	Gender=Masc	6	obj	_	𓊆(𓏏:𓏏)𓇋𓊇
+9	r	r	ADP	Cons.st	Case=Cmp	10	case	_	𓂋
+10	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	𓏏𓅐
+11	⸗č	č	PRON	SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	10	nmod	_	𓍿
+12	Tfn.t	Tfn.t	PROPN	_	Gender=Fem	10	appos	_	(𓏏:𓆑)(𓏏:𓈖)
 
 # sent_id = UDEJ-63
 # ref = PT § 9b N, Saqqara, 6th Dynasty, rel, OE
