@@ -922,15 +922,14 @@
 
 # sent_id = UDEJ-82
 # ref = PT § 14d N, Saqqara, 6th Dynasty, rel, OE
-# text = i҆č ⸗f Wrr.t(S2) ḫr Ḥr.w nb pꜥ.t
-1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
-3	Wrr.t	wrr	PROPN	_	Gender=Fem	1	obj	_	SpaceAfter=No
-4	(S2)	(S2)	SYM	_	Animacy=Inan	3	clf	_	_
-5	ḫr	ḫr	ADP	Cons.st	Case=Loc	6	case	_	_
-6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	_
-7	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	6	appos	_	_
-8	pꜥ.t	pꜥ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+# text = i҆č ⸗f Wrr.t ḫr Ḥr.w nb pꜥ.t
+1	i҆č	i҆či̯	VERB	SFC|Sub	Mood=Sub	0	root	_	𓎁
+2	⸗f	f	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	𓆑
+3	Wrr.t	wrr	PROPN	Hierocl=Yes	Gender=Fem	1	obj	_	(𓅨:𓂋)(𓂋:𓏏)𓋒
+4	ḫr	ḫr	ADP	Cons.st	Case=Loc	5	case	_	𓐍:𓂋
+5	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	obl	_	𓅃
+6	nb	nb	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	5	appos	_	𓎠
+7	pꜥ.t	pꜥ.t	NOUN	Gen	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	𓊪:𓂝:𓏏
 
 # sent_id = UDEJ-83
 # ref = PT § 15 N, Saqqara, 6th Dynasty, rel, OE
