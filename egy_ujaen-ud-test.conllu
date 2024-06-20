@@ -1053,32 +1053,31 @@
 # sent_id = UDEJ-94
 # ref = PT § 17b W, Saqqara, 5th Dynasty, rel, OE
 # text = si҆ Ṭwn-ꜥn.wi҆ ḥnꜥ kꜣ ⸗f
-1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
-2	Ṭwn-ꜥn.wi҆	Ṭwn-ꜥn.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
-4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	𓊄
+2	Ṭwn-ꜥn.wi҆	Ṭwn-ꜥn.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	𓅆
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	𓎛(𓈖:𓂝)
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	𓂓
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	𓆑
 
 # sent_id = UDEJ-95
 # ref = PT § 17b W, Saqqara, 5th Dynasty, rel, OE
 # text = si҆ Wśr(.w) ḥnꜥ kꜣ ⸗f
-1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
-2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
-3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	_
-4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	𓊄
+2	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	nsubj	_	𓊨:𓁹
+3	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	4	case	_	𓎛(𓈖:𓂝)
+4	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	𓂓
+5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	𓆑
 
 # sent_id = UDEJ-96
 # ref = PT § 17c W, Saqqara, 5th Dynasty, rel, OE
-# text = si҆ Ḫnt(.i҆)-i҆r.ti҆(G11) ḥnꜥ kꜣ ⸗f
-1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	_
-2-3	Ḫnt(.i҆)-i҆r.ti҆	_	_	_	_	_	_	_	SpaceAfter=No
-2	Ḫnt(.i҆)	Ḫnt.i҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-3	i҆r.ti҆	i҆r.ti҆	NOUN	_	Gender=Fem|Number=Dual	2	flat	_	_
-4	(G11)	(G11)	SYM	_	Animacy=Anim	2	clf	_	_
-5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	_
-6	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	_
+# text = si҆ Ḫnt(.i҆)-i҆r.ti҆ ḥnꜥ kꜣ ⸗f
+1	si҆	si҆	VERB	SFC|Past-1	Tense=Past|VerbForm=Fin	0	root	_	𓊄
+2-3	Ḫnt(.i҆)-i҆r.ti҆	_	Hierocl=Yes	_	_	_	_	_	(𓏃:𓏏)UniC=1397B𓅌
+2	Ḫnt(.i҆)	Ḫnt.i҆	PROPN	_	Gender=Masc	1	nsubj	_	(𓏃:𓏏)
+3	i҆r.ti҆	i҆r.ti҆	NOUN	Hierocl=Yes	Gender=Fem|Number=Dual	2	flat	_	UniC=1397B𓅌
+5	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	6	case	_	𓎛(𓈖:𓂝)
+6	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	𓂓
+7	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	𓆑
 
 # sent_id = UDEJ-97
 # ref = PT § 17c W, Saqqara, 5th Dynasty, rel, OE
