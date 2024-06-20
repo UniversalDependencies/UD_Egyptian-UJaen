@@ -738,58 +738,58 @@
 # sent_id = UDEJ-69
 # ref = PT § 11a|69a N, Saqqara, 6th Dynasty, rel, OE
 # text = i҆nk Ḥr.w
-1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	𓏌
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	0	root	_	𓅃
 
 # sent_id = UDEJ-70
 # ref = PT § 11b N, Saqqara, 6th Dynasty, rel, OE
 # text = mč̣ṭ.n (⸗i҆) n ⸗k rʾ ⸗k
-1	mč̣ṭ.n	mč̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
-6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+1	mč̣ṭ.n	mč̣ṭ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓐦𓈖
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	𓈖
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓎡
+5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	𓂋
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	𓎡
 
 # sent_id = UDEJ-71
 # ref = PT § 11b N, Saqqara, 6th Dynasty, rel, OE
 # text = i҆nk sꜣ ⸗k mr.y ⸗k
-1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	appos	_	_
-5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	𓏌:𓎡
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓅭
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	𓎡
+4	mr.y	mri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	appos	_	𓌸𓇋𓇋
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	𓎡
 
 # sent_id = UDEJ-72
 # ref = PT § 12b N, Saqqara, 6th Dynasty, rel, OE
 # text = wp.n (⸗i҆) n ⸗k rʾ ⸗k
-1	wp.n	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	n	n	ADP	Pron.st	Case=Ben	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
-6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+1	wp.n	wpi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓄋:𓈖
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
+3	n	n	ADP	Pron.st	Case=Ben	4	case	_	𓈖
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓎡
+5	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	𓂋
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	𓎡
 
 # sent_id = UDEJ-73
 # ref = PT § 13a N, Saqqara, 6th Dynasty, rel, OE
 # text = [ḥng] [w(i҆)] [rʾ] [⸗k]
-1	[ḥng]	ḥng|ḥꜣg	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-2	[w(i҆)]	wi҆	INTJ	_	_	1	discourse	_	_
-3	[rʾ]	rʾ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-4	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+1	[ḥng]	ḥng|ḥꜣg	ADJ	_	Gender=Masc|Number=Sing	0	root	_	[𓎛(𓆰:𓈖)+𓎼]
+2	[w(i҆)]	wi҆	INTJ	_	_	1	discourse	_	[𓅱]
+3	[rʾ]	rʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	nsubj	_	[𓂋:𓏤]
+4	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	𓎡
 
 # sent_id = UDEJ-74
 # ref = PT § 13a N, Saqqara, 6th Dynasty, rel, OE
 # text = [mḫꜣ.n] [(⸗i҆)] [n] [⸗k] [rʾ] [⸗k] [i҆r] [ḳś(.w)] [⸗k]
-1	[mḫꜣ.n]	mḫꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	[n]	n	ADP	Pron.st	Case=Ben	4	case	_	_
-4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	_
-6	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
-7	[i҆r]	r	ADP	Cons.st	Case=Loc	8	case	_	_
-8	[ḳś(.w)]	kś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
-9	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
+1	[mḫꜣ.n]	mḫꜣ	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	[𓍝𓈖]
+2	[(⸗i҆)]	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
+3	[n]	n	ADP	Pron.st	Case=Ben	4	case	_	[𓈖]
+4	[⸗k]	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	[𓎡]
+5	[rʾ]	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	1	obj	_	[𓂋:𓏤]
+6	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	[𓎡]
+7	[i҆r]	r	ADP	Cons.st	Case=Loc	8	case	_	[𓇋𓂋]
+8	[ḳś(.w)]	kś	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	[𓌟𓌟𓌟]
+9	[⸗k]	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	[𓎡]
 
 # sent_id = UDEJ-75
 # ref = PT § 13b N, Saqqara, 6th Dynasty, rel, OE
