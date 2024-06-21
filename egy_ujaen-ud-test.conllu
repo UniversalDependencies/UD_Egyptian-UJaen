@@ -1945,46 +1945,44 @@
 # sent_id = UDEJ-169
 # ref = Pyramid Texts § 35b-c W, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w pꜣ.t ⸗k wnm ⸗k
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
-7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	pꜣ.t	pꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	_
-9	⸗k	⸗k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
-10	wnm	wnm	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
-11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	(𓃹:𓈖)𓇋𓋴
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	𓁹
+7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	𓅃
+8	pꜣ.t	pꜣ.t	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	𓅮𓏏
+9	⸗k	⸗k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	𓎡
+10	wnm	wnm	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	𓇬
+11	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	𓎡
 
 # sent_id = UDEJ-170
 # ref = Pyramid Texts § 36a W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w hp.t m-ꜥ Śtẖ i҆č(č).t ⸗k i҆r rʾ(Z1) ⸗k wpp.t ⸗k rʾ(Z1) ⸗k i҆m ⸗ś
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	_
-7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	hp.t	hp	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	_
-9-10	m-ꜥ	_	_	_	_	_	_	_	_
-9	m	m	ADP	Cons.st	Case=Abl	11	case	_	_
-10	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
-11	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	8	obl	_	_
-12	i҆č(č).t	i҆či̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	6	acl	_	_
-13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
-14	i҆r	r	ADP	Cons.st	Case=Ill	15	case	_	_
-15	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
-16	(Z1)	(Z1)	SYM	_	Animacy=Inan	15	clf	_	_
-17	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod	_	_
-18	wpp.t	wpi̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	6	acl	_	_
-19	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
-20	rʾ	rʾ	NOUN	Obj	Gender=Masc|Number=Sing	18	obj	_	SpaceAfter=No
-21	(Z1)	(Z1)	SYM	_	Animacy=Inan	20	clf	_	_
-22	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	nmod	_	_
-23	i҆m	m	ADP	Pron.st	Case=Ins	24	case	_	_
-24	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obl	_	_
+# text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w hp.t m-ꜥ Śtẖ i҆č(č).t ⸗k i҆r rʾ ⸗k wpp.t ⸗k rʾ ⸗k i҆m ⸗ś
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	(𓃹:𓈖)𓇋𓋴
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	3	obj	_	𓁹:𓏏
+7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	𓅃
+8	hp.t	hp	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	_	(𓉔*𓊪:)𓏏
+9-10	m-ꜥ	_	_	_	_	_	_	_	𓅓𓂝
+9	m	m	ADP	Cons.st	Case=Abl	11	case	_	𓅓
+10	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	𓂝
+11	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	8	obl	_	𓃫
+12	i҆č(č).t	i҆či̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	6	acl	_	𓎁:𓏏
+13	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	𓎡
+14	i҆r	r	ADP	Cons.st	Case=Ill	15	case	_	𓇋:𓂋
+15	rʾ	rʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	12	obl	_	𓂋:𓏤
+16	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod	_	𓎡
+17	wpp.t	wpi̯	VERB	ADJ|VerbForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	6	acl	_	𓅱(𓄋:(𓊪*𓊪))𓏏
+18	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	nsubj	_	𓎡
+19	rʾ	rʾ	NOUN	Obj|Hierocl=Yes	Gender=Masc|Number=Sing	17	obj	_	𓂋:𓏤
+20	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	nmod	_	𓎡
+21	i҆m	m	ADP	Pron.st	Case=Ins	24	case	_	𓇋𓅓
+22	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obl	_	𓋴
 
 # sent_id = UDEJ-171
 # ref = Pyramid Texts § 36c W, Saqqara, 5th Dynasty, rel, OE
