@@ -1459,84 +1459,86 @@
 # sent_id = UDEJ-125
 # ref = PT § 24d N, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n Ḥr.w i҆p n ⸗k mś(.w) Ḥr.w č̣r bw mḥ.n ⸗k i҆m (⸗f)
-1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	_
-3	i҆p	i҆p	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	mś(.w)	mś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	nsubj	_	_
-7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	_
-8	č̣r	č̣r	ADP	Cons.st	Case=Loc	9	case	_	_
-9	bw	bw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-10	mḥ.n	mḥi̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	_
-11	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
-12	i҆m	m	ADP	Pron.st	Case=Loc	13	case	_	_
-13	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	(𓂋:𓏙)𓈖
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	𓅃
+3	i҆p	i҆p	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	𓇋𓊪
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	mś(.w)	mś	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	nsubj	_	𓄟
+7	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	6	nmod	_	𓅃
+8	č̣r	č̣r	ADP	Cons.st	Case=Loc	9	case	_	𓇥
+9	bw	bw	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	𓃀𓅱
+10	mḥ.n	mḥi̯	VERB	ADJ|VerbForm=RelForm|Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	9	acl	_	𓎔:𓈖
+11	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	𓎡
+12	i҆m	m	ADP	Pron.st	Case=Loc	13	case	_	𓇋𓅓
+13	(⸗f)	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	Hiero=No
 
 # sent_id = UDEJ-126
 # ref = PT § 25a N, Saqqara, 5th Dynasty, rel, OE
 # text = Wśr(.w) Ppy m n ⸗k nčr(.i҆) ⸗k nčr ⸗k
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	nčr(.i҆)	nčr.i҆	NOUN	_	Gender=Masc	3	obj	_	_
-7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-8	nčr	nčri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
-9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	Ppy	Ppy	PROPN	_	Gender=Masc	1	appos	_	𓊆(𓊪:𓊪)𓇋𓇋𓊇
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	nčr(.i҆)	nčr.i҆	NOUN	_	Gender=Masc	3	obj	_	𓊺𓂋
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	𓎡
+8	nčr	nčri̯	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	𓊹𓂋
+9	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	𓎡
 
 # sent_id = UDEJ-127
 # ref = PT § 25b N, Saqqara, 6th Dynasty, rel, OE
 # text = rč̣.n Nw.t wn ⸗k m nčr n ḫft(.i҆) ⸗k m rn ⸗k n(.i҆) nčr
-1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	Nw.t	Nw.t	PROPN	_	Gender=Fem	1	nsubj	_	_
-3	wn	wnn	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	_
-4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-5	m	m	ADP	Cons.st	Case=Equ	6	case	_	_
-6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-7	n	n	ADP	Cons.st	Case=Ben	8	case	_	_
-8	ḫft(.i҆)	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Sing	3	obl	_	_
-9	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	_
-10	m	m	ADP	Cons.st	Case=Ins	11	case	_	_
-11	rn	rn	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
-13	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	_
-14	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+1	rč̣.n	rč̣i̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	(𓂋:𓏙)𓈖
+2	Nw.t	Nw.t	PROPN	_	Gender=Fem	1	nsubj	_	𓏌:𓏏
+3	wn	wnn	VERB	SFC|Sub|Finalcl	Mood=Sub	1	advcl	_	𓇬:𓈖
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	𓎡
+5	m	m	ADP	Cons.st	Case=Equ	6	case	_	𓅓
+6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	𓊹
+7	n	n	ADP	Cons.st	Case=Ben	8	case	_	𓈖
+8	ḫft(.i҆)	ḫft	NOUN	NisbaPrep	Gender=Masc|Number=Sing	3	obl	_	𓐍:𓆑:𓈒
+9	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nmod	_	𓎡
+10	m	m	ADP	Cons.st	Case=Ins	11	case	_	𓅓
+11	rn	rn	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	𓂋:𓈖
+12	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	𓎡
+13	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	𓈖
+14	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	𓊹
 
 # sent_id = UDEJ-128
 # ref = PT § 25c N, Saqqara, 6th Dynasty, rel, OE
 # text = i҆p čw Ḥr.w-rnp.wi҆ rnpw.t(i҆) m rn ⸗k n(.i҆) mw rnpw
-1	i҆p	i҆p	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	_
-3	Ḥr.w-rnp.wi҆	Ḥr.w-rnp.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	_
-4	rnpw.t(i҆)	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	_
-5	m	m	ADP	Cons.st	Case=Ins	6	case	_	_
-6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
-9	mw	mw	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
-10	rnpw	rnpi̯	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	_
+1	i҆p	i҆p	VERB	SFC|Sub	Mood=Sub	0	root	_	𓇋𓊪
+2	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	𓍿𓅱
+3	Ḥr.w-rnp.wi҆	Ḥr.w-rnp.wi҆	PROPN	_	Gender=Masc	1	nsubj	_	𓅃𓆳𓆳
+4	rnpw.t(i҆)	rnpi̯	VERB	OSSC|Stat|VerbForm=Fin	Gender=Masc|Number=Sing|Person=2|VerbForm=Conv	1	advcl	_	(𓂋:𓊪)𓆳𓅱𓏏
+5	m	m	ADP	Cons.st	Case=Ins	6	case	_	𓅓
+6	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	𓂋:𓈖
+7	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	𓎡
+8	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	𓈖
+9	mw	mw	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	6	nmod	_	𓈖:𓈙
+10	rnpw	rnpi̯	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	(𓂋:𓈖)𓊪𓆳𓅱
 
 # sent_id = UDEJ-129
 # ref = PT § 26a W, Saqqara, 5th Dynasty, rel, OE
-# text = smi҆n smi҆n wpp rʾ
-1	smi҆n	smi҆n	NOUN	_	_	3	nsubj	_	_
-2	smi҆n	smi҆n	NOUN	_	_	3	dep	_	_
-3	wpp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	_
-4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+# text = smi҆n smi҆n wpp rʾ ⸗k
+1	smi҆n	smi҆n	NOUN	_	_	3	nsubj	_	𓊃𓅓𓏇𓈖
+2	smi҆n	smi҆n	NOUN	_	_	3	dep	_	𓊃𓅓𓏇𓈖
+3	wpp	wpi̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	𓅱(𓄋:𓊪*𓊪)
+4	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	𓂋
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	𓎡
 
 # sent_id = UDEJ-130
 # ref = PT § 26b W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wni҆ś i҆:ṭp ⸗k ṭp.t ⸗f ḫnt sẖ(.w) nčr(.w)
-1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	_
-3	i҆:ṭp	ṭp	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	_
-4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-5	ṭp.t	ṭp.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
-6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-7	ḫnt	ḫnt	ADP	Cons.st	Case=Loc	8	case	_	_
-8	sẖ(.w)	sẖ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	obl	_	_
+# text = hꜣ Wni҆ś i҆:ṭp ⸗k ṭp.t ⸗f ḫnt sẖ(.w)-nčr(.w)
+1	hꜣ	hꜣ	INTJ	_	_	2	discourse	_	𓉔𓄿
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	3	vocative	_	(𓃹:𓈖)𓇋𓋴
+3	i҆:ṭp	ṭp	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	𓇋(𓂧:𓊪)
+4	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	𓎡
+5	ṭp.t	ṭp.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	𓂧(:𓊪*𓏏)
+6	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	𓆑
+7	ḫnt	ḫnt	ADP	Cons.st	Case=Loc	8	case	_	𓏃:𓏏
+8-9	sẖ(.w)-nčr(.w)	_	_	_	_	_	_	_	(UniC=13FB9:𓊹)(UniC=13FB9:𓊹)(UniC=13FB9:𓊹)
+8	sẖ(.w)	sẖ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	3	obl	_	
 9	nčr(.w)	nčr(.w)	NOUN	Gen	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	_
 
 # sent_id = UDEJ-131
