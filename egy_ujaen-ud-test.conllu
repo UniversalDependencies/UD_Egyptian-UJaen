@@ -2454,101 +2454,92 @@
 # sent_id = EUJA-211
 # ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) N(i҆).t m n ⸗k ꜥ(Z1) {ḫ}<Nb.t>-ḥw.t
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	ꜥ	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
-7	(Z1)	(Z1)	SYM	_	Animacy=Inan	6	clf	_	_
-8	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	Gen	Case=Gen|Gender=Fem	6	nmod	_	_
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	(𓈖:𓏏)𓋌
+3	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓌇
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	ꜥ	ꜥ	NOUN	Hierocl=Yes	Definite=Cons|Gender=Masc|Number=Sing	3	obj	_	𓂝:𓏤
+7	n(.i҆)	n	ADJ	NisbaPrep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	𓈖
+8	{ḫ}<Nb.t>-ḥw.t	Nb.t-ḥw.t	PROPN	_	Gender=Fem	6	nmod	_	UniC=No
 
 # sent_id = EUJA-212
 # ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = ḫw rč̣ ⸗ś św i҆r ⸗śn
-1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	rč̣	rč̣i̯	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-5	i҆r	r	ADP	Pron.st	Case=Lat	6	case	_	_
-6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	_
+1	ḫw	ḫwi̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓐍𓐍𓐍
+2	rč̣	rč̣i̯	VERB	SFC|Fut|Abstrel|Objcl	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	𓂋:𓏙
+3	⸗ś	ś	PRON	SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	𓋴
+4	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	𓇓𓅱
+5	i҆r	r	ADP	Pron.st	Case=Lat	6	case	_	𓇋𓂋
+6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	2	obl	_	𓋴𓈖
 
 # sent_id = EUJA-213
 # ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = npč̣(T9) ꜥḥꜥ pf
-1	npč̣	npč̣	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	SpaceAfter=No
-2	(T9)	(T9)	SYM	_	Animacy=Inan	1	clf	_	_
-3	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	_
-4	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+# text = npč̣ ꜥḥꜥ pf
+1	npč̣	npč̣	VERB	Imp|Hierocl=Yes Mood=Imp|Number=Sing	0	root	_	(𓈖:𓊪)(𓆓:𓌒)
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	nsubj	_	𓊢
+3	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	𓊪:𓆑
 
 # sent_id = EUJA-214
 # ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Č̣ḥw.ti҆ i҆n św
-1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
-2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-
-# sent_id = EUJA-214a
-# ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Č̣ḥw.ti҆ i҆n św
-1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	nsubj	_	_
-2	i҆n	i҆ni̯	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	𓅝
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓏎
+3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	𓇓𓅱
 
 # sent_id = EUJA-215
 # ref = Pyramid Texts § 49+7a Nt, Saqqara, 6th Dynasty, rel, OE
 # text = čwt i҆r(.i҆) ⸗f
-1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-2	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	_
-3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
+1	čwt	čwt	PRON	IndPron	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	𓍿𓅱𓏏
+2	i҆r(.i҆)	r	NOUN	NisbaPrep	Gender=Masc|Number=Sing	0	root	_	𓇋𓂋
+3	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	𓆑
 
 # sent_id = EUJA-216
 # ref = Pyramid Texts § 49+8 Nt, Saqqara, 6th Dynasty, rel, OE
 # text = Wśr(.w) N(i҆).t nč̣r n ⸗k św
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	_
-3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-4	n	n	ADP	Pron.st	Case=Ben	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	_
-6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	1	appos	_	(𓈖:𓏏)𓋌
+3	nč̣r	nč̣ri̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓈖:𓇥𓂋
+4	n	n	ADP	Pron.st	Case=Ben	5	case	_	𓈖
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	obl	_	𓎡
+6	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	𓇓𓅱
 
 # sent_id = EUJA-217
 # ref = Pyramid Texts § 49+8a Nt, Saqqara, 6th Dynasty, rel, OE
 # text = i҆:s(i҆) ẖr Wśr(.w) N(i҆).t
-1	i҆:s(i҆)	si҆	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	_
-2	ẖr	ẖr	ADP	Cons.st	Case=Sub	3	case	_	_
-3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	obl	_	_
-4	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	3	appos	_	_
+1	i҆:s(i҆)	si҆	VERB	Imp|Aug	Mood=Imp|Number=Sing	0	root	_	𓇋𓊄
+2	ẖr	ẖr	ADP	Cons.st	Case=Sub	3	case	_	𓌨
+3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	1	obl	_	𓊨:𓁹
+4	N(i҆).t	N(i҆).t	PROPN	_	Gender=Fem	3	appos	_	(𓈖:𓏏)𓋌
 
 # sent_id = EUJA-218
 # ref = Pyramid Texts § 49+8b Nt, Saqqara, 6th Dynasty, rel, OE
 # text = i҆nk Gb(b)
-1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	Gb(b)	Gbb	PROPN	_	Gender=Masc	0	root	_	_
+1	i҆nk	i҆nk	PRON	IndPron	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	𓇋(𓈖:𓎡)
+2	Gb(b)	Gbb	PROPN	_	Gender=Masc	0	root	_	𓅭𓃀
 
 # sent_id = EUJA-219
 # ref = Pyramid Texts § 49+8b Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Č̣ḥw.ti҆ i҆n św pč̣(T9) pf
-1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	_
-2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-4	pč̣	pč̣	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
-5	(T9)	(T9)	SYM	_	Animacy=Inan	4	clf	_	_
-6	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+# text = Č̣ḥw.ti҆ i҆n św pč̣ pf
+1	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Gender=Masc	2	vocative	_	𓅝
+2	i҆n	i҆ni̯	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	(𓇋*𓏎:)𓈖
+3	św	św	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	𓇓𓅱
+4	pč̣	pč̣	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	3	appos	_	𓊪(𓆓:𓌒)
+5	pf	pf	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	𓊪:𓆑
 
 # sent_id = EUJA-220
 # ref = Pyramid Texts § 50b W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wni҆ś mḥ.n (⸗i҆) n ⸗k i҆r.t ⸗k m <m>č̣.t
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	_
-2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	_
-3	mḥ.n	mḥ	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin	0	root	_	_
-4	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-5	n	n	ADP	Pron.st	Case=Ben	6	case	_	_
-6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	_
-7	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
-8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
-9	m	m	ADP	Cons.st	Case=Ins	10	case	_	_
-10	<m>č̣.t	mč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
+# text = Wśr(.w) Wni҆ś mḥ.n (⸗i҆) n ⸗k i҆r.t ⸗k <m> mč̣.t
+1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	𓊨:𓁹
+2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	(𓃹:𓈖)𓇋𓋴
+3	mḥ.n	mḥ	VERB	SFC|Past-2|Pred|Performative	Tense=Past|VerbForm=Fin	0	root	_	𓎔:𓈖
+4	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Hiero=No
+5	n	n	ADP	Pron.st	Case=Ben	6	case	_	𓈖
+6	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	𓎡
+7	i҆r.t	i҆r.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	𓁹(:𓏏*𓏤)
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	𓎡
+9	<m>	m	ADP	Cons.st	Case=Ins	10	case	_	Hiero=No
+10	mč̣.t	mč̣.t	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	𓅓𓆓:𓏏
 
 # sent_id = EUJA-221
 # ref = Pyramid Texts § 50b W, Saqqara, 5th Dynasty, rel, OE
