@@ -1810,21 +1810,21 @@
 # sent_id = UDEJ-156
 # ref = PT § 32b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆čč ⸗k <św> r rʾ ⸗k
-1	i҆čč	i҆či̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	<św>	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
-4	r	r	ADP	Cons.st	Case=Ill	5	case	_	_
-5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	_
+1	i҆čč	i҆či̯	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	𓎁:𓍿
+2	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	𓎡
+3	<św>	św	PRON	DepPron|Ellipsis|Obj	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	Hiero=No
+4	r	r	ADP	Cons.st	Case=Ill	5	case	_	𓂋
+5	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	𓂋
+6	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	𓎡
 
 # sent_id = UDEJ-157
 # ref = PT § 33a W, Saqqara, 5th Dynasty, rel, OE
 # text = m i҆r.t(i҆) Ḥr.w km.t ḥč̣(.t)
-1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	_
-2	i҆r.t(i҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	_
-3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Fem	2	nmod	_	_
-4	km.t	km	NOUN	ADJ	Gender=Fem|Number=Sing	2	appos	_	_
-5	ḥč̣(.t)	ḥč̣	NOUN	ADJ	Gender=Fem|Number=Sing	2	appos	_	_
+1	m	m	VERB	Imp	Mood=Imp|Number=Sing	0	root	_	𓅓
+2	i҆r.t(i҆)	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Dual	1	obj	_	1397B
+3	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Fem	2	nmod	_	𓅃
+4	km.t	km	NOUN	ADJ	Gender=Fem|Number=Sing	2	appos	_	UniC=No:𓏏
+5	ḥč̣(.t)	ḥč̣	NOUN	ADJ	Gender=Fem|Number=Sing	2	appos	_	𓌉
 
 # sent_id = UDEJ-158
 # ref = PT § 33a W, Saqqara, 5th Dynasty, rel, OE
