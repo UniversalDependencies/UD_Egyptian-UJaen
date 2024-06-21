@@ -2802,14 +2802,13 @@
 # sent_id = EUJA-241
 # ref = Pyramid Texts § 56b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r.t Ḥr.w i҆m.(i҆)t ḥw.(w)t n.t m ḥtp
-1	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	8	nsubj	_	_
-2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	_
-3	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	_
-4	ḥw.(w)t	ḥw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nmod	_	_
-5	n.t	n.t	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
-6	(S3)	(S3)	SYM	_	Animacy=Inan	5	clf	_	_
-7	m	m	ADP	Cons.st	Case=Ess	8	case	_	_
-8	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+1	i҆r.t	i҆r.t	NOUN	Obj	Definite=Cons|Gender=Fem|Number=Sing	7	nsubj	_	𓁹
+2	Ḥr.w	Ḥr.w	PROPN	Gen	Case=Gen|Gender=Masc	1	nmod	_	𓅃
+3	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	1	amod	_	𓇋𓅓𓏏
+4	ḥw.(w)t	ḥw.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	1	nmod	_	𓉞𓉞𓉞
+5	n.t	n.t	NOUN	Hierocl=Yes	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	(𓈖:𓏏)𓋕
+6	m	m	ADP	Cons.st	Case=Ess	7	case	_	𓅓
+7	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓊵
 
 # sent_id = EUJA-242
 # ref = Pyramid Texts § 56c-57a N, Saqqara, 6th Dynasty, rel, OE
