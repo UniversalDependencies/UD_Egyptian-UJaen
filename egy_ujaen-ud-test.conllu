@@ -6152,7 +6152,7 @@
 # sent_id = EUJA-526
 # ref = Pyramid Texts § 150a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w.n (⸗i҆) ḫr ⸗č Nb.t-ḥw.t
-1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel|Hierocl=Yes	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓇋𓅱𓂻
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel|Hierocl=Yes	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓇋𓅱(𓂻:𓈖)
 2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
 3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	𓐍:𓂋
 4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓍿
@@ -6161,21 +6161,21 @@
 # sent_id = EUJA-527
 # ref = Pyramid Texts § 150a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w.n (⸗i҆) ḫr ⸗č Mśk.t(i҆)t
-1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
-4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	Mśk.t(i҆)t	Mśk.t(i҆)t	PROPN	_	Gender=Fem	4	appos	_	_
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel|Hierocl=Yes	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓇋𓅱(𓂻:𓈖)
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	𓐍:𓂋
+4	⸗č	č	PRON	SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓍿
+5	Mśk.t(i҆)t	Mśk.t(i҆)t	PROPN	_	Gender=Fem	4	appos	_	𓋴𓅓𓎡(:𓏏*𓏏)UniC=No
 
 # sent_id = EUJA-528
 # ref = Pyramid Texts § 150b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆w.n (⸗i҆) ḫr <⸗k> {⸗č} Mꜣꜥ-ḥr(.i҆)-čr.wt
-1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
-3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	_
-4	<⸗k>	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	{⸗č}	{⸗č}	X	_	Typo=Yes	1	dep	_	_
-6	Mꜣꜥ-ḥr(.i҆)-čr.wt	Mꜣꜥ-ḥr(.i҆)-čr.wt	PROPN	_	Gender=Fem	4	appos	_	_
+1	i҆w.n	i҆wi̯	VERB	SFC|Past-2|Abstrel|Hierocl=Yes	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓇋𓅱𓂻
+2	(⸗i҆)	⸗i҆	PRON	SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No
+3	ḫr	ḫr	ADP	Cons.st	Case=Cau	4	case	_	𓐍:𓂋
+4	<⸗k>	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=No
+5	{⸗č}	{⸗č}	X	_	Typo=Yes	1	dep	_	𓍿
+6	Mꜣꜥ-ḥr(.i҆)-čr.wt	Mꜣꜥ-ḥr(.i҆)-čr.wt	PROPN	Hierocl=Yes	Gender=Fem	4	appos	_	(𓌴:𓐚)(𓁷:𓂋)(𓍿:𓂋)𓏞𓅱𓏏𓅆
 
 # sent_id = EUJA-529
 # ref = Pyramid Texts § 150c W, Saqqara, 5th Dynasty, rel, OE
