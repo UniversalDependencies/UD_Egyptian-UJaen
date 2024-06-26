@@ -7573,9 +7573,11 @@
 # sent_id = EUJA-641
 # ref = Pyramid Texts § 199a W, Saqqara, 5th Dynasty, rel, OE
 # text = tꜣ pn [pr(.w)] [m] [(I҆)tm(.w)]
-1	[nšš]	nšš	NOUN	Subj	Gender=Masc|Number=Sing	2	nsubj	_	Hiero#=No
-2	pr(.w)	pri̯	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	𓉐:𓂋
-3	m	m	ADP	Cons.st	Case=Ela	4	case	_	𓅓
+1	tꜣ	tꜣ	NOUN	Subj	Gender=Masc|Number=Sing	3	nsubj	_	𓇿
+2	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	det	_	𓊪:𓈖
+3	[pr(.w)]	pri̯	VERB	OSSC|Past	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Hiero=No
+4	[m]	m	ADP	Cons.st	Case=Ela	5	case	_	Hiero=No
+5	[(I҆)tm(.w)]	I҆tm.w	PROPN	_	Gender=Masc	3	obl	_	Hiero=No
 4	Ḫprr	Ḫprr	PROPN	_	Gender=Masc	2	obl	_	𓆣(𓂋:𓂋)
 
 # sent_id = EUJA-642
