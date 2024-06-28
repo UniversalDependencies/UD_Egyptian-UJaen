@@ -9800,96 +9800,96 @@
 # sent_id = EUJA-826
 # ref = Pyramid Texts § 255c W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥḳ ⸗śn i҆:ḥ(w) ⸗śn śč̣b
-1	ꜥḳ	ꜥḳ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	_
-2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
-3	i҆:ḥ(w)	ḥwi̯	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	_
-4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-5	śč̣b	śč̣b	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
+1	ꜥḳ	ꜥḳ	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	𓅧
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	𓋴𓈖
+3	i҆:ḥ(w)	ḥwi̯	VERB	SFC|Sub|Aug	Mood=Sub	0	root	_	𓇋𓎛
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	𓋴𓈖
+5	śč̣b	śč̣b	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	𓋴(𓆓:𓃀)
 
 # sent_id = EUJA-827
 # ref = Pyramid Texts § 255c-256a W, Saqqara, 5th Dynasty, rel, OE
 # text = pr ⸗śn fꜣ ⸗śn ḥr ⸗śn mꜣ ⸗śn čw Mnw i҆ś ḫnt(.i҆) i҆tr.t(i҆)
-1	pr	pr	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	_
-2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
-3	fꜣ	fꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	_
-4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-5	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	MWE
-6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
-7	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	_
-8	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
-9	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	_	_
-10	Mnw	Mnw	PROPN	_	Gender=Masc	7	obl	_	_
-11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	_
-12	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	10	amod	_	_
-13	i҆tr.t(i҆)	i҆tr.t	NOUN	_	Gender=Fem|Number=Dual	10	nmod	_	_
+1	pr	pr	VERB	SFC|Pres|Abstrel|VerbTop	Tense=Pres|VerbForm=Fin|Voice=Act	3	dislocated	_	𓉐:𓂋
+2	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	𓋴𓈖
+3	fꜣ	fꜣi̯	VERB	SFC|Sub	Mood=Sub	0	root	_	𓆑𓄿
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	𓋴𓈖
+5	ḥr	ḥr	NOUN	MWE	Gender=Masc|Number=Sing	3	obj	_	𓁷
+6	⸗śn	śn	PRON	SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	nmod	_	𓋴𓈖
+7	mꜣ	mꜣꜣ	VERB	SFC|Sub|Finalcl	Mood=Sub	3	advcl	_	𓌴:𓁹
+8	⸗śn	śn	PRON	SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	𓋴𓈖
+9	čw	čw	PRON	DepPron|Obj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obj	_	𓍿𓅱
+10	Mnw	Mnw	PROPN	_	Gender=Masc	7	obl	_	𓋊
+11	i҆ś	i҆ś	ADP	_	Case=Equ	10	case	_	𓇋𓋴
+12	ḫnt(.i҆)	ḫnt	ADJ	NisbaPrep	Case=Loc|Gender=Masc|Number=Sing	10	amod	_	𓏅𓏏
+13	i҆tr.t(i҆)	i҆tr.t	NOUN	_	Gender=Fem|Number=Dual	10	nmod	_	𓉮UniC=13FAD
 
 # sent_id = EUJA-828
 # ref = Pyramid Texts § 256b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥḥꜥ ꜥḥꜥ ḥꜣ ⸗k
-1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	_
-3	ḥꜣ	ḥꜣ	ADP	Pron.st	_	4	case	_	_
-4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	𓊢
+2	ꜥḥꜥ	ꜥḥꜥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	𓊢
+3	ḥꜣ	ḥꜣ	ADP	Pron.st	_	4	case	_	𓇉
+4	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓎡
 
 # sent_id = EUJA-829
 # ref = Pyramid Texts § 256b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜥḥꜥ śn ⸗k ḥꜣ ⸗k ꜥḥꜥ n(.i҆)-ś(w) ⸗k ḥꜣ ⸗k
-1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	śn	śn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	ḥꜣ	ḥꜣ	ADP	Pron.st	_	5	case	_	_
-5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-6	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-7	n(.i҆)-ś(w)	n.i҆-św	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	_
-8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
-9	ḥꜣ	ḥꜣ	ADP	Pron.st	_	10	case	_	_
-10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+1	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	𓊢
+2	śn	śn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	𓌢𓈖
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	𓎡
+4	ḥꜣ	ḥꜣ	ADP	Pron.st	_	5	case	_	𓇉
+5	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓎡
+6	ꜥḥꜥ	ꜥḥꜥ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	𓊢	_
+7	n(.i҆)-ś(w)	n.i҆-św	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	𓈖:𓋴
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	𓎡
+9	ḥꜣ	ḥꜣ	ADP	Pron.st	_	10	case	_	𓇉
+10	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	𓎡
 
 # sent_id = EUJA-830
 # ref = Pyramid Texts § 256c W, Saqqara, 5th Dynasty, rel, OE
 # text = n śk ⸗k n tm ⸗k
-1	n	n	PART	Neg	PartType=Neg	2	advmod	_	_
-2	śk	śki̯	VERB	SFC|Fut	Tense=Fut	0	root	_	_
-3	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
-4	n	n	PART	Neg	PartType=Neg	5	advmod	_	_
-5	tm	tm	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	_
-6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+1	n	n	PART	Neg	PartType=Neg	2	advmod	_	𓂜
+2	śk	śki̯	VERB	SFC|Fut	Tense=Fut	0	root	_	𓋴𓎡
+3	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	𓎡
+4	n	n	PART	Neg	PartType=Neg	5	advmod	_	𓂜
+5	tm	tm	VERB	SFC|Fut	Tense=Fut	2	parataxis	_	𓏏:𓍃
+6	⸗k	k	PRON	SFP|Subj	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	𓎡
 
 # sent_id = EUJA-831
 # ref = Pyramid Texts § 256d W, Saqqara, 5th Dynasty, rel, OE
 # text = nḫi҆ rn ⸗k ḫr r(m)č(.w) ḫpr rn ⸗k ḫr nčr(.w)
-1	nḫi҆	nḫi҆	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-2	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-4	ḫr	ḫr	ADP	Cons.st	_	5	case	_	_
-5	r(m)č(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
-6	ḫpr	ḫpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-7	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	_
-8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
-9	ḫr	ḫr	ADP	Cons.st	_	10	case	_	_
-10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+1	nḫi҆	nḫi҆	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	𓈖(𓐍:𓇋)
+2	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	𓂋:𓈖
+3	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	𓎡
+4	ḫr	ḫr	ADP	Cons.st	_	5	case	_	𓐍:𓂋
+5	r(m)č(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	𓂋:𓍿
+6	ḫpr	ḫpr	VERB	SFC|Fut|Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	(𓐍:𓊪)𓆣𓂋
+7	rn	rn	NOUN	Subj	Gender=Masc|Number=Sing	6	nsubj	_	𓂋:𓈖
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	𓎡
+9	ḫr	ḫr	ADP	Cons.st	_	10	case	_	𓐍:𓂋
+10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	𓊹𓊹𓊹
 
 # sent_id = EUJA-832
 # ref = Pyramid Texts § 257a W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆r.n n ⸗k sꜣ ⸗k Ḥr.w
-1	i҆r.n	i҆ri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	n	n	ADP	Pron.st	Case=Ben	3	case	_	_
-3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-4	sꜣ	sꜣ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	appos	_	_
+1	i҆r.n	i҆ri̯	VERB	SFC|Past-2|Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	𓁹:𓈖
+2	n	n	ADP	Pron.st	Case=Ben	3	case	_	𓈖
+3	⸗k	k	PRON	SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	𓎡
+4	sꜣ	sꜣ	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	𓅭
+5	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	𓎡
+6	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	4	appos	_	𓅃
 
 # sent_id = EUJA-833
 # ref = Pyramid Texts § 257b W, Saqqara, 5th Dynasty, rel, OE
 # text = śṭꜣ wr.w mꜣ.n ⸗śn šꜥ.t i҆m.(i҆)t ꜥ ⸗k
-1	śṭꜣ	śṭꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	wr.w	wr	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	_
-3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	_
-4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
-5	šꜥ.t	šꜥ.t	NOUN	Obj	Gender=Fem|Number=Sing	3	obj	_	_
-6	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	_
-7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	_
+1	śṭꜣ	śṭꜣ	VERB	SFC|Pres|Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	𓋴𓂧𓄿
+2	wr.w	wr	NOUN	Subj	Gender=Masc|Number=Sing	1	nsubj	_	(𓅨:𓂋)𓅱
+3	mꜣ.n	mꜣꜣ	VERB	SFC|Past-2|Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	(𓌴:𓁹)𓈖
+4	⸗śn	śn	PRON	SFP|Subj	Gender=Com|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	𓋴𓈖
+5	šꜥ.t	šꜥ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	3	obj	_	(𓈙:𓂝:𓏏)(𓏛:𓌪)
+6	i҆m.(i҆)t	m	ADJ	NisbaPrep	Case=Loc|Gender=Fem|Number=Sing	5	amod	_	𓇋𓏶𓏏
+7	ꜥ	ꜥ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	5	nmod	_	𓂝:𓏤
+8	⸗k	k	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	𓎡
 
 # sent_id = EUJA-834
 # ref = Pyramid Texts § 257c W, Saqqara, 5th Dynasty, rel, OE
