@@ -16275,7 +16275,7 @@
 # ref = Pyramid Texts § 419b W, Saqqara, 5th Dynasty, rel, OE
 # text = hn(w) tf hn(w) tn
 1	hn(w)	hnw	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	nsubj	_	𓉔:𓈖
-2	tf	tf	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	(𓏏:𓆑)UniC=13993
+2	tf	tf	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	(𓏏:𓆑)UniC=13993
 3	hn(w)	hnw	NOUN	_	Gender=Masc|Number=Sing	0	root	_	𓉔:𓈖
 4	tn	tn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	𓏏:𓈖
 
@@ -16284,7 +16284,7 @@
 # text = mry.ti҆ mry.ti҆ fḫ.ti҆ wfi҆
 1	mry.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	3	vocative	_	𓌸𓅓𓂋𓇋𓇋𓍘𓇋
 2	mry.ti҆	mrw.ti҆	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	1	conj	_	𓌸𓅓𓂋𓇋𓇋𓍘𓇋
-3	fḫ.ti҆	fḫ	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	(𓆑:𓐍)𓍘𓇋
+3	fḫ.ti҆	fḫ	NOUN	OSSC|Sub	Gender=Com|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin	0	root	_	(𓆑:𓐍)𓍘𓇋
 4	wfi҆	wfi҆	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	3	vocative	_	𓅱𓆑𓇋𓆚𓏤
 
 # sent_id = EUJA-1306
@@ -16310,7 +16310,7 @@
 6	mr.w	mr	NOUN	Hierocl=Yes	Definite=Cons|Gender=Masc|Number=Plur	5	obj	_	(𓌻:𓂋)𓅱(𓈘:𓈘:𓈘)
 7	Č̣ḥw.ti҆	Č̣ḥw.ti҆	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	𓅝
 8	ḥꜣ.i҆	ḥꜣ	ADJ	NisbaPrep	Gender=Masc|Number=Sing	7	amod	_	𓇉𓄿𓇋
-1	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nmod	_	𓍹(𓃹:𓈖)𓇋𓋴𓍺
+9	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	7	nmod	_	𓍹(𓃹:𓈖)𓇋𓋴𓍺
 
 # sent_id = EUJA-1308
 # ref = Pyramid Texts § 420b W, Saqqara, 5th Dynasty, rel, OE
