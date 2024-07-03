@@ -15566,8 +15566,8 @@
 # ref = Pyramid Texts § 399a-b W, Saqqara, 5th Dynasty, rel, OE
 # text = i҆n Tti҆ wč̣ꜥ mṭw ⸗f ḥnꜥ i҆mn rn ⸗f hrw pw n(.i҆) rḫś śmś.w
 1	i҆n	i҆n	PART	_	PartType=Emp	2	nmod	_	𓇋:𓈖
-2	Tti҆Tti҆	PROPN	_	Gender=Masc	3	nsubj	_	𓍹(𓏏:𓏏)𓇋𓍺
-3	wč̣ꜥ	wč̣ꜥ	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	𓐣
+2	wč̣ꜥ	wč̣ꜥ	PROPN	_	Gender=Masc	3	nsubj	_	𓍹(𓏏:𓏏)𓇋𓍺
+3	Tti҆	Tti҆	ADJ	VERB	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	0	root	_	𓐣
 4	mṭw	mṭw	NOUN	MWE|Hierocl=Yes	Gender=Masc|Number=Sing	3	obj	_	𓌃𓊵
 5	⸗f	f	PRON	SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	𓆑
 6	ḥnꜥ	ḥnꜥ	ADP	Cons.st	Case=Com	7	case	_	𓎛(𓈖:𓆑)
@@ -15809,7 +15809,7 @@
 7-8	šśr-t(i҆)	_	_	_	_	_	_	_	𓈙𓋴(𓂋:𓏏)𓌕
 7	šśr	šśr	VERB	SFC|Pres|Pred	Tense=Pres|VerbForm=Fin	2	advcl	_	𓈙𓋴𓂋
 8	t(i҆)	ti҆	NOUN	Subj|Man-Imp|Hierocl=Yes	Gender=Masc|Number=Sing	7	nsubj	_	𓏏𓌕
-9	{t}	{t}	X	_	Typo=Yes	1	dep	_	𓏏
+9	{t}	{t}	X	_	Typo=Yes	8	dep	_	𓏏
 10	n	n	ADP	Pron.st	Case=Dat	11	case	_	𓈖
 11	⸗f	f	PRON	SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	𓆑
 12	kti҆.(w)t	kti҆.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Plur	7	obj	_	(𓎡:𓏏)𓇋𓏏UniC=140CD(:UniC=140CD*UniC=140CD)
