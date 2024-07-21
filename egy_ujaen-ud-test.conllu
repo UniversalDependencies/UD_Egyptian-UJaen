@@ -17533,7 +17533,7 @@
 5	n	n	ADP	Status=Cons	Case=Cau	8	mark	_	Hiero=𓈖
 6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	8	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 7	i҆ś	i҆ś	PART	_	PartType=Emp	8	advmod	_	Hiero=𓇋𓋴
-8	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	root	_	Hiero=𓋹(𓈖:𓐍)
+8	ꜥnḫ	ꜥnḫ	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	Hiero=𓋹(𓈖:𓐍)
 9	sꜣ	sꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	8	appos	_	Hiero=𓅭
 10	Śpṭ(.t)	Śpṭ	PROPN	Hierocl=Yes	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	Hiero=𓋴𓇮(𓂧:𓏏)𓇼
 
@@ -17604,8 +17604,9 @@
 2	Nw.t	Nw.t	PROPN	_	Gender=Fem	1	nsubj	_	Hiero=(𓏌*𓏏:)𓇯
 3	wr.t	wr.t	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Hiero=𓅨:𓂋:𓏏
 4	rmn(.wi҆)	rmn	NOUN	Hierocl=Yes	Gender=Masc|Number=Dual	1	obj	_	Hiero=(𓂋:𓏠:𓈖)(UC_139C9:UC_139C9)
-5	n	n	ADP	Status=Cons	Case=Dat	6	case	_	Hiero=𓈖
-6	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	iobj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+5	⸗ś	ś	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Hiero=𓋴
+6	n	n	ADP	Status=Cons	Case=Dat	7	case	_	Hiero=𓈖
+7	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	iobj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 
 # sent_id = EUJA-1415
 # ref = Pyramid Texts § 460a-b W, Saqqara, 5th Dynasty, rel, OE
@@ -17627,7 +17628,7 @@
 15	rm.wt	rmi̯	NOUN	_	Definite=Cons|Gender=Masc|VerbForm=Inf	14	obl	_	Hiero=(𓂋:UC_No)𓏏𓅱
 16	nčr	nčr	NOUN	Hierocl=Yes	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	Hiero=𓊹𓅆
 
-# sent_id = EUJA-1415
+# sent_id = EUJA-1416
 # ref = Pyramid Texts § 460c W, Saqqara, 5th Dynasty, rel, OE
 # text = nś.t Wni҆ś ḫr ⸗k Rꜥw
 1	nś.t	nś.t	NOUN	Hierocl=Yes	Definite=Cons|Gender=Fem|Number=Sing	4	nsubj	_	Hiero=(𓈖:𓄓)(𓏏:𓎼)
@@ -17636,7 +17637,7 @@
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	0	root	_	Hiero=𓎡
 5	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	4	vocative	_	Hiero=𓇳
 
-# sent_id = EUJA-1416
+# sent_id = EUJA-1417
 # ref = Pyramid Texts § 460c W, Saqqara, 5th Dynasty, rel, OE
 # text = n rč̣ ⸗f ś(i҆) n ky nb
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
@@ -17647,7 +17648,7 @@
 6	ky	ky	NOUN	_	Gender=Masc|Number=Sing	2	iobj	_	Hiero=𓎡𓇋𓇋
 7	nb	nb	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	Hiero=𓎟
 
-# sent_id = EUJA-1417
+# sent_id = EUJA-1418
 # ref = Pyramid Texts § 461a W, Saqqara, 5th Dynasty, rel, OE
 # text = pr.y (i҆)r ⸗f Wni҆ś r p.t ḫr ⸗k Rꜥw ḥr n(.i҆) Wni҆ś m bi҆k(.w) č̣nḥ(.w) Wni҆ś m ꜣpṭ(.w) ꜥn.(w)t ⸗f m wḫꜣ.w Ꜣtf.t
 1	pr.y	pri҆	VERB	SPC=Fut|Type=Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓉐:𓂋)𓇋𓇋
@@ -17674,7 +17675,7 @@
 22	wḫꜣ.w	wḫꜣ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	1	advcl	_	Hiero=𓅱𓆼𓄿𓄫
 23	Ꜣtf.t	Ꜣtf.t	PROPN	Hierocl=Yes	Case=Gen|Gender=Fem	22	nmod	_	Hiero=(UC_No:UC_No:UC_No)𓉃
 
-# sent_id = EUJA-1418
+# sent_id = EUJA-1419
 # ref = Pyramid Texts § 461a N, Saqqara, 6th Dynasty, rel, OE
 # text = prr (i҆)r ⸗f Ppy i҆r ⸗f i҆r p.t ḫr ⸗k Rꜥw ḥr n(.i҆) Ppy m bi҆k(.w) č̣nḥ(.w) Ppy m ꜣpṭ(.w)
 1	prr	pri҆	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓉐:𓂋
@@ -17698,7 +17699,7 @@
 19	m	m	ADP	Status=Cons	Case=Equ	20	case	_	Hiero=𓅓
 20	ꜣpṭ(.w)	ꜣpṭ	NOUN	_	Gender=Masc|Number=Plur	1	advcl	_	Hiero=𓄿(𓊪:𓂧)𓅭𓅭𓅭
 
-# sent_id = EUJA-1419
+# sent_id = EUJA-1420
 # ref = Pyramid Texts § 462a W, Saqqara, 5th Dynasty, rel, OE
 # text = n mṭw n Wni҆ś r tꜣ ḫr rmč(.w)
 1	n	n	PART	Neg	PartType=Neg	4	advmod	_	Hiero=𓂜
@@ -17710,18 +17711,18 @@
 7	ḫr	ḫr	ADP	Status=Cons	_	8	case	_	Hiero=𓐍:𓂋
 8	rmč(.w)	rmč	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	Hiero=𓂋𓅓𓍿
 
-# sent_id = EUJA-1420
+# sent_id = EUJA-1421
 # ref = Pyramid Texts § 462b W, Saqqara, 5th Dynasty, rel, OE
 # text = n ḫbn.t ⸗f r p.t ḫr nčr(.w)
 1	n	n	PART	Neg	PartType=Neg	5	advmod	_	Hiero=𓂜
-2	ḫbn.t	ḫbn.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	5	nsubj	_	𓐍𓃀UC_No𓈖𓏏
-3	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	𓆑
-4	r	r	ADP	Status=Cons	_	5	case	_	𓂋
-5	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	0	root	_	(𓊪*𓏏:)𓇯
+2	ḫbn.t	ḫbn.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓐍𓃀UC_No𓈖𓏏
+3	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Hiero=𓆑
+4	r	r	ADP	Status=Cons	_	5	case	_	Hiero=𓂋
+5	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	0	root	_	Hiero=(𓊪*𓏏:)𓇯
 6	ḫr	ḫr	ADP	Status=Cons	_	7	case	_	𓐍:𓂋
-7	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	𓊹𓊹𓊹
+7	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	Hiero=𓊹𓊹𓊹
 
-# sent_id = EUJA-1421
+# sent_id = EUJA-1422
 # ref = Pyramid Texts § 462c W, Saqqara, 5th Dynasty, rel, OE
 # text = ṭr.n Wni҆ś mṭw ⸗f śk.n Wni҆ś i҆r i҆ꜥ n p.t
 1	ṭr.n	ṭr	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	5	dislocated	_	Hiero=(𓂧:𓂋)𓈖
