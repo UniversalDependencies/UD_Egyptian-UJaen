@@ -54,7 +54,7 @@ Tübingen Transcription System
 
 # Acknowledgments
 
-I thank Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
+I thank Agata Savary (UniDive) and Dan Zeman (UD) for introducing me to computational linguistics.
 
 
 # Bibliography used for the Language Page
