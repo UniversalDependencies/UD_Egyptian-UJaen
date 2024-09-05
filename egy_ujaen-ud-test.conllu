@@ -4289,7 +4289,7 @@
 
 # sent_id = EUJA-315
 # ref = Pyramid Texts § 92c-d W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w bš.tn ⸗śn ḫw ꜥm ⸗f ś(i҆) ḫw ꜥm ⸗f ś(i҆) | ꜥ<b>š 2
+# text = Wśr(.w) Wni҆ś m n ⸗k i҆r.t Ḥr.w bš.tn ⸗śn ḫw ꜥm ⸗f ś(i҆) | ꜥ<b>š 2
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 3	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
@@ -4317,12 +4317,13 @@
 5	pr	pri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	Hiero=𓉐:𓂋
 6	i҆m	m	ADP	Status=Pron	Case=Abl	7	case	_	Hiero=𓇋𓅓
 7	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡
-8	ḥnḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	parataxis	_	Hiero=𓎛(𓈎:𓏏)𓏊
-9	1	1	NUM	CARD	_	8	nummod	_	Hiero=𓏤
+8	|	|	PUNCT	LINE	_	9	punct	_	_
+9	ḥnḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	1	parataxis	_	Hiero=𓎛(𓈎:𓏏)𓏊
+10	1	1	NUM	CARD	_	9	nummod	_	Hiero=𓏤
 
 # sent_id = EUJA-317
 # ref = Pyramid Texts § 93a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wni҆ś m n ⸗k ḥwn.t i҆m.t i҆r.t Ḥr.w wp rʾ ⸗k i҆m ⸗ś | i҆m.t(i҆) ḥn.t 2
+# text = Wśr(.w) Wni҆ś m n ⸗k ḥwn.t i҆m.t i҆r.t Ḥr.w wp rʾ ⸗k i҆m ⸗ś | i҆m.t(i҆) ḥnw.t 2
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 3	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
@@ -4332,7 +4333,7 @@
 7	i҆m.t	m	ADJ	Nisba=Prep	Case=Loc|Gender=Fem|Number=Sing	6	amod	_	Hiero=𓇋𓅓𓏏
 8	i҆r.t	i҆r.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	7	obl	_	Hiero=𓁹
 9	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	Hiero=𓅃
-10	wp	wpi̯	VERB	_	Mood=Imp|Number=Sing	3	root	_	Hiero=𓄋
+10	wp	wpi̯	VERB	_	Mood=Imp|Number=Sing	3	conj	_	Hiero=𓄋
 11	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Hiero=𓂋
 12	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	Hiero=𓎡
 13	i҆m	m	ADP	Status=Pron	Case=Ins	14	case	_	Hiero=𓇋𓅓
@@ -4372,7 +4373,7 @@
 7	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	6	nmod	_	Hiero=𓅃
 8	ḥi҆m.tn	ḥꜣm	VERB	ADJ|VerbForm=RelForm|Tense=Past-2|Hierocl=Yes	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	6	acl:relcl	_	Hiero=𓇋𓎛𓏏UC_No𓈖
 9	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Hiero=𓆑
-10	wp	wpi̯	VERB	_	Mood=Imp|Number=Sing	3	root	_	Hiero=𓄋
+10	wp	wpi̯	VERB	_	Mood=Imp|Number=Sing	3	conj	_	Hiero=𓄋
 11	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Hiero=𓂋
 12	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	Hiero=𓎡
 13	i҆m	m	ADP	Status=Pron	Case=Ins	14	case	_	Hiero=𓇋𓅓
