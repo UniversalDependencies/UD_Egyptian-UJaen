@@ -2894,7 +2894,7 @@
 
 # sent_id = EUJA-225
 # ref = Pyramid Texts § 52a W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆m.t-ḥꜣ.t Ḥr.w čn i҆:wn ⸗č
+# text = i҆m.t-ḥꜣ.t Ḥr.w čn(i҆) i҆:wn ⸗č
 1-2	i҆m.t-ḥꜣ.t	_	_	_	_	_	_	_	Hiero=𓇋𓅓𓏏(𓄂:𓏏)
 1	i҆m.t	m	NOUN	Nisba=Prep	Case=Loc|Gender=Fem|Number=Sing	5	vocative	_	Hiero=𓇋𓅓𓏏
 2	ḥꜣ.t	ḥꜣ.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	nmod	_	Hiero=(𓄂:𓏏)
@@ -2925,7 +2925,7 @@
 
 # sent_id = EUJA-228
 # ref = Pyramid Texts § 52c W, Saqqara, 5th Dynasty, rel, OE
-# text = ś:nč̣m ⸗č n ⸗f ẖr ⸗č
+# text = ś:nč̣m ⸗č n ⸗f ẖr(.i҆) ⸗č
 1	ś:nč̣m	nč̣m	VERB	SPC=Sub|Voice=Cau	Mood=Sub	0	root	_	Hiero=𓋴𓇛𓈖
 2	⸗č	č	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓍿
 3	n	n	ADP	Status=Pron	Case=Dat	4	case	_	Hiero=𓈖
@@ -2974,7 +2974,7 @@
 16	rn	rn	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	Hiero=𓂋:𓈖
 17	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	Hiero=𓆑
 18	i҆śč	i҆śč	CCONJ	_	_	13	cc	_	Hiero=𓇋𓋴𓍿
-19	|	|	PUNCT	LINE	_	19	punct	_	_
+19	|	|	PUNCT	LINE	_	20	punct	_	_
 20	ḥꜣ.tt	ḥꜣ.ti҆t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	1	parataxis	_	Hiero=𓄂(:𓏏*𓏏)
 21	ꜥš	ꜥš	NOUN	Hierocl=Yes	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	Hiero=(𓂝:𓈙:𓏍)𓎰
 
