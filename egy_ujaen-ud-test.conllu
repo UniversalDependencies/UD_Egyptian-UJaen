@@ -16043,7 +16043,7 @@
 20	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	17	orphan	_	Hiero=𓊵:𓏏:𓊪
 21	mẖn.t(i҆)	mẖn.t	NOUN	Nisba=Noun	Definite=Cons|Gender=Fem|Number=Sing	3	conj	_	Hiero=𓅓(𓂙:𓈖)(𓏏:UC_1401F)
 22	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	Hiero=𓊹𓊹𓊹
-23	m	m	ADP	Status=Cons	Case=Ess	23	case	_	Hiero=𓅓
+23	m	m	ADP	Status=Cons	Case=Ess	24	case	_	Hiero=𓅓
 24	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	21	orphan	_	Hiero=𓊵:𓏏:𓊪
 
 # sent_id = EUJA-1196
@@ -16386,7 +16386,7 @@
 
 # sent_id = EUJA-1223
 # ref = Pyramid Texts § 392a W, Saqqara, 5th Dynasty, rel, OE
-# text = ḳꜣi҆.t n ṭmm ⸗ś
+# text = č̣(ṭ) mṭw ḳꜣi҆.t n ṭmm ⸗ś
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	𓌃
 3	ḳꜣi҆.t	ḳꜣi҆.t	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	Hiero=𓏏𓄿𓇋𓏏
@@ -17407,7 +17407,7 @@
 
 # sent_id = EUJA-1303
 # ref = Pyramid Texts § 419a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥḥꜥ Bꜣb(ꜣ).(w)i҆ ḫśf ⸗f m ḫnt(.i҆)-Ḫm
+# text = č̣(ṭ) mṭw ꜥḥꜥ Bꜣb(ꜣ).(w)i҆ ḫśf ⸗f m ḫnt(.i҆)-Ḫm
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	ꜥḥꜥ	ꜥḥꜥ	VERB	SPC=Sub	Mood=Sub	1	ccomp	_	Hiero=𓂝𓊢𓂝
@@ -17469,7 +17469,7 @@
 
 # sent_id = EUJA-1309
 # ref = Pyramid Texts § 421a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = i҆r.ti҆ i҆r.ti҆ ś:(w)ꜣ.ti҆ ś:(w)ꜣ.ti҆ ḥr ⸗k ḥꜣ ⸗k sꜣw čw rʾ.y wr
+# text = č̣(ṭ) mṭw i҆r.ti҆ i҆r.ti҆ ś:(w)ꜣ.ti҆ ś:(w)ꜣ.ti҆ ḥr ⸗k ḥꜣ ⸗k sꜣw čw rʾ.y wr
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	𓌃
 3	i҆r.ti҆	i҆ri̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	11	vocative	_	Hiero=𓇋𓁹𓍘𓇋
@@ -17501,31 +17501,40 @@
 
 # sent_id = EUJA-1311
 # ref = Pyramid Texts § 423b W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫꜣs.t tn rʾ ꜣi҆ n ⸗i҆
+# text = ḫꜣs.t tn rʾ ꜣi҆ n ⸗i҆ Nbw-ḥkn.w
+# lit = “This Khaset, the mouth of Ai, is for me, O Nebu-hekenu.”
+# trans = “This Khaset, the mouth of Ai, belongs to me, O Nebu-hekenu.”
+# type = Adverbial sentence (possession)
+# comment = The meaning of ḫꜣs.t tn rʾ ꜣi҆ is unclear
 1	ḫꜣs.t	ḫꜣs.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	Hiero=𓐍𓄿(𓊃:𓏏)
 2	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	1	det	_	Hiero=𓏏:𓈖
 3	rʾ	rʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	appos	_	Hiero=𓂋:𓏤
-4	ꜣi҆	ꜣi҆	X	_	_	4	dep	_	Hiero=𓄿𓇋
+4	ꜣi҆	ꜣi҆	X	_	_	3	dep	_	Hiero=𓄿𓇋
 5	n	n	ADP	Status=Pron	Case=Ben	6	case	_	Hiero=𓈖
 6	⸗i҆	i҆	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	0	root	_	Hiero=𓇋
+7-8	Nbw-ḥkn.w	_	_	_	_	_	_	_	Hiero=𓋞𓎛(𓎡:𓏌)𓅱
+7	Nbw	Nbw	PROPN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=𓋞
+8	ḥkn.w	ḥkn.w	NOUN	_	Gender=Masc|Number=Sing	7	flat	_	Hiero=𓎛(𓎡:𓏌)𓅱
 
 # sent_id = EUJA-1312
 # ref = Pyramid Texts § 423b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = Nbw-ḥkn.w kꜣ ⸗k nn wꜣš i҆rr.w nn r ⸗f
-1-2	Nbw-ḥkn.w	_	_	_	_	_	_	_	Hiero=𓋞𓎛(𓎡:𓏌)𓅱
-1	Nbw	Nbw	PROPN	_	Gender=Masc|Number=Sing	5	vocative	_	Hiero=𓋞
-2	ḥkn.w	ḥkn.w	NOUN	_	Gender=Masc|Number=Sing	1	flat	_	Hiero=𓎛(𓎡:𓏌)𓅱
-3-4	Ḫꜥ.y-tꜣ.w	_	_	_	_	_	_	_	Hiero=(𓈍:𓂝)𓇋(𓏏:𓍔)𓅱
-3	Ḫꜥ.y	Ḫꜥ.y	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	Hiero=(𓈍:𓂝)𓇋
-4	tꜣ.w	tꜣ.w	NOUN	_	Gender=Masc|Number=Sing	3	flat	_	Hiero=(𓏏:𓍔)𓅱
-5	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	0	root	_	Hiero=𓃒𓏤
-6	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Hiero=𓎡
-7	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	Hiero=𓇒
-8	wꜣš	wꜣš	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	Hiero=𓍯𓄿𓈙
-9	i҆rr.w	i҆ri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	acl	_	Hiero=𓇋(𓁹:𓂋)𓅱
-10	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj:pass	_	Hiero=𓇒
-11	r	r	ADP	Status=Pron	_	12	case	_	Hiero=𓂋
-12	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	Hiero=𓆑
+# text = Ḫꜥ.y-tꜣ.w ḥkn.w kꜣ ⸗k nn wꜣš i҆rr.w nn r ⸗f
+# lit = “O Khay-tau, the hekenu-oil, your bull is this, the strong one against whom this was done.”
+# trans = “O Nebu-hikenu, Khay-tau, this is your bull, the strong one against whom this was done.”
+# type = Nominal sentence (A pw)
+# comment = Cf. EUJA-786
+1-2	Ḫꜥ.y-tꜣ.w	_	_	_	_	_	_	_	Hiero=(𓈍:𓂝)𓇋(𓏏:𓍔)𓅱
+1	Ḫꜥ.y	Ḫꜥ.y	PROPN	_	Gender=Masc|Number=Sing	3	vocative	_	Hiero=(𓈍:𓂝)𓇋
+2	tꜣ.w	tꜣ.w	NOUN	_	Gender=Masc|Number=Sing	1	flat	_	Hiero=(𓏏:𓍔)𓅱
+3	ḥkn.w	ḥkn.w	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	Hiero=𓎛(𓎡:𓏌)𓅱
+4	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	0	root	_	Hiero=𓃒𓏤
+5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
+6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Hiero=𓇒
+7	wꜣš	wꜣš	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	_	Hiero=𓍯𓄿𓈙
+8	i҆rr.w	i҆ri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	acl	_	Hiero=𓇋(𓁹:𓂋)𓅱
+9	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	nsubj:pass	_	Hiero=𓇒
+10	r	r	ADP	Status=Pron	_	11	case	_	Hiero=𓂋
+11	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	Hiero=𓆑
 
 # sent_id = EUJA-1313
 # ref = Pyramid Texts § 424a-b W, Saqqara, 5th Dynasty, rel, OE
