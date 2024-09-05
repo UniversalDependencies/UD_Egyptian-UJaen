@@ -2090,7 +2090,7 @@
 4	4	4	NUM	CARD	_	3	nummod	_	Hiero=𓏽
 5-7	ḥtp-č̣-nśw	_	_	_	_	_	_	_	Hiero=𓇓(𓏏:𓊵)𓏙
 5	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	6	dep	_	Hiero=𓊵
-6	č̣	rč̣i̯	X	_	_	1	root	_	Hiero=𓏙
+6	č̣	rč̣i̯	X	_	_	1	ccomp	_	Hiero=𓏙
 7	nśw	nśw	NOUN	_	Gender=Masc|Number=Sing	6	dep	_	Hiero=𓇓𓏏
 8	n	n	ADP	Status=Cons	Case=Dat	9	case	_	Hiero=𓈖
 9	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	6	iobj	_	Hiero=𓂓
@@ -2651,7 +2651,7 @@
 
 # sent_id = EUJA-207
 # ref = Pyramid Texts § 49+2 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = Wśr(.w) N(i҆).t č̣śr.t(i҆) č̣śr.t(i҆) ḥr č̣bꜥ(.wi҆) ⸗f | ꜥb(w).t
+# text = č̣(ṭ) mṭw Wśr(.w) N(i҆).t č̣śr.t(i҆) č̣śr.t(i҆) ḥr č̣bꜥ(.wi҆) ⸗f | ꜥb(w).t
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓊨:𓁹
@@ -2725,7 +2725,7 @@
 
 # sent_id = EUJA-212
 # ref = Pyramid Texts § 49+5 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = ḫw rč̣ ⸗ś św i҆r ⸗śn | w.t
+# text = ḫw rč̣ ⸗ś św i҆r ⸗śn | ꜥw.t
 1	ḫw	ḫwi̯	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓐍𓐍𓐍
 2	rč̣	rč̣i̯	VERB	SPC=Fut|Type=Abstrel|Clause=Obj	Tense=Fut|VerbForm=Fin|Voice=Act	1	ccomp	_	Hiero=𓂋:𓏙
 3	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Hiero=𓋴
@@ -2737,7 +2737,7 @@
 
 # sent_id = EUJA-213
 # ref = Pyramid Texts § 49+6 Nt, Saqqara, 6th Dynasty, rel, OE
-# text = npč̣ ꜥḥꜥ pf | pč̣-ꜥḥꜥ
+# text = č̣(ṭ) mṭw npč̣ ꜥḥꜥ pf | pč̣-ꜥḥꜥ
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	npč̣	npč̣	VERB	Hierocl=Yes	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=(𓈖:𓊪)(𓆓:𓌒)
@@ -2818,7 +2818,7 @@
 # text = Wśr(.w) Wni҆ś mḥ.n (⸗i҆) n ⸗k i҆r.t ⸗k <m> mč̣.t č̣(ṭ) mṭw sp 4 | śč-ḥꜣb
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-3	mḥ.n	mḥ	VERB	SPC=Past-2|Type=Pred_Perform	Tense=Past|VerbForm=Fin	11	comp	_	Hiero=𓎔:𓈖
+3	mḥ.n	mḥ	VERB	SPC=Past-2|Type=Pred_Perform	Tense=Past|VerbForm=Fin	1	ccomp	_	Hiero=𓎔:𓈖
 4	(⸗i҆)	⸗i҆	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Hiero=No
 5	n	n	ADP	Status=Pron	Case=Ben	6	case	_	Hiero=𓈖
 6	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl	_	Hiero=𓎡
