@@ -20431,7 +20431,7 @@
 9	m	m	ADP	Status=Cons	Case=Loc	10	case	_	Hiero=𓅓
 10	wp.t	wp.t	NOUN	_	Gender=Fem|Number=Sing	4	advcl	_	Hiero=𓄋:𓏏
 11	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Hiero=𓆑
-12	i҆:ḫr	ḫr	VERB	Aug=Yes	Mood=Imp|Number=Sing	3	parataxis	_	Hiero=𓇋(𓐍:𓂋)
+12	i҆:ḫr	ḫr	VERB	Aug=Yes	Mood=Imp|Number=Sing	4	parataxis	_	Hiero=𓇋(𓐍:𓂋)
 13	sbn	sbn	VERB	_	Mood=Imp|Number=Sing	12	conj	_	Hiero=𓊃𓃀𓈖
 14	|	|	PUNCT	LINE	_	1	punct	_	_
 
@@ -20898,7 +20898,7 @@
 # sent_id = EUJA-1549
 # ref = Pyramid Texts § 38b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꜣḥꜣḥ.i҆ kk.i҆ | ꜣḥ 1
-1	ꜣḥꜣḥ.i҆	ꜣḥꜣḥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	nsubj	_	Hiero=𓄿𓎛𓄿𓎛𓇋
+1	ꜣḥꜣḥ.i҆	ꜣḥꜣḥ	NOUN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	nsubj	_	Hiero=𓄿𓎛𓄿𓎛𓇋
 2	kk.i҆	kki̯	VERB	OSSC=Stat|Hierocl=Yes	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Hiero=(𓎡:𓎡)𓇋𓇱
 3	|	|	PUNCT	LINE	_	4	punct	_	_
 4	ꜣḥ	ꜣḥ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	2	parataxis	_	Hiero=𓎛𓄿𓏔
@@ -21018,7 +21018,7 @@
 
 # sent_id = EUJA-1557
 # ref = Pyramid Texts § 87c-d W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wni҆ś śi҆p n ⸗k i҆r.t Ḥr.w | npꜣ.t w
+# text = Wśr(.w) Wni҆ś śi҆p n ⸗k i҆r.t Ḥr.w | npꜣ.t 2
 1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
 2	Wni҆ś	Wni҆ś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 3	śi҆p	śi҆p	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓇋𓋴𓊪
@@ -21099,9 +21099,8 @@
 8	(i҆)m	m	ADP	Status=Pron	Case=Abl	9	case	_	Hiero=𓅓
 9	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Hiero=𓎡
 10	|	|	PUNCT	LINE	_	11	punct	_	_
-11-12	ḥnḳ.t Sti҆	_	_	_	_	_	_	_	Hiero=𓎛(𓈎:𓏏)𓐮𓏊
 11	ḥnḳ.t	ḥnḳ.t	NOUN	_	Gender=Fem|Number=Sing	3	parataxis	_	Hiero=𓎛(𓈎:𓏏)
-12	Sti҆	Sti҆	PROPN	Hierocl=Yes	_	11	compound	_	Hiero=𓐮𓏊
+12	Sti҆	Sti҆	PROPN	Hierocl=Yes	_	11	nmod	_	Hiero=𓐮𓏊
 13	2	2	NUM	CARD	_	11	nummod	_	Hiero=𓏮
 
 # sent_id = EUJA-1562
@@ -21148,7 +21147,7 @@
 
 # sent_id = EUJA-1565
 # ref = Pyramid Texts § 308a/312a T, Saqqara, 6th Dynasty, rel, OE
-# text = Tti҆ pn pw Wśr(.w) m ss.w
+# text = č̣(ṭ) mṭw Tti҆ pn pw Wśr(.w) m ss.w
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	Tti҆	Tti҆	PROPN	_	Gender=Masc	1	ccomp	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
