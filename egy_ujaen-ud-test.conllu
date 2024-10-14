@@ -1729,7 +1729,7 @@
 
 # sent_id = EUJA-140
 # ref = Pyramid Texts § 27d-e W, Saqqara, 5th Dynasty, rel, OE
-# text = rʾ ⸗k rʾ n(.ꞽ) bḥs ꞽr(č).t hrw mś(.w) ⸗f ꞽm (⸗f) bṭ Mḥ.w čꜣ 5 Š.t-p.t
+# text = rʾ ⸗k rʾ n(.ꞽ) bḥs ꞽr(č).t hrw mś(.w) ⸗f ꞽm (⸗f) | bṭ Mḥ.w čꜣ 5 Š.t-p.t
 1	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓂋
 2	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nmod	_	Hiero=𓎡
 3	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓂋
@@ -1741,11 +1741,12 @@
 9	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:pass	_	Hiero=𓆑
 10	ꞽm	m	ADP	Status=Pron	Case=Tem	11	case	_	Hiero=𓇋𓅓
 11	(⸗f)	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	Hiero=No
-12	bṭ	bṭ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	parataxis	_	Hiero=UC_14104
-13	Mḥ.w	Mḥ.w	PROPN	_	Gender=Masc	12	nmod	_	Hiero=𓇉
-14	čꜣ	čꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	12	appos	_	Hiero=𓅷𓃉
-15	5	5	NUM	CARD	_	14	nummod	_	Hiero=𓏾
-16	Š.t-p.t	Š.t-p.t	PROPN	_	Gender=Fem	14	nmod	_	Hiero=𓈙(:𓏏*𓊪(:𓇯:𓏏))
+12	|	|	PUNCT	LINE	_	13	punct	_	_
+13	bṭ	bṭ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	3	parataxis	_	Hiero=UC_14104
+14	Mḥ.w	Mḥ.w	PROPN	_	Gender=Masc	13	nmod	_	Hiero=𓇉
+15	čꜣ	čꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	13	appos	_	Hiero=𓅷𓃉
+16	5	5	NUM	CARD	_	15	nummod	_	Hiero=𓏾
+17	Š.t-p.t	Š.t-p.t	PROPN	_	Gender=Fem	15	nmod	_	Hiero=𓈙(:𓏏*𓊪(:𓇯:𓏏))
 
 # sent_id = EUJA-141
 # ref = Pyramid Texts § 28b W, Saqqara, 5th Dynasty, rel, OE
