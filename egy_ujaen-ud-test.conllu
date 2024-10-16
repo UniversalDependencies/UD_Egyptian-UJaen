@@ -21285,3 +21285,10 @@
 10	kbn.w	kbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓎡𓃀(𓈖:(𓏌*𓏌:)𓏌)
 11	sbn.w	sbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓊃𓃀𓈖𓏌𓅱
 
+# sent_id = EUJA-1574
+# ref = Pyramid Texts § 454c W, Saqqara, 5th Dynasty, rel, OE Test
+# text = Rnn.wtt mr ⸗ś
+1	Rnn.wtt	Rnn.wtt	PROPN	Hierocl=Yes	Gender=Fem	2	obj	_	Hiero=𓂋𓇒𓅱(𓏏:𓏏)𓆘
+2	mr	mri̯	VERB	SPC=Sub	Mood=Sub	0	root	_	Hiero=𓌻:𓂋
+3	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	𓋴
+
