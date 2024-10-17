@@ -1,3 +1,30 @@
+# sent_id = EUJA-1574
+# ref = Pyramid Texts § 31a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wnꞽś m n ⸗k ꞽr.t Ḥr.w sꞽ.t ⸗f
+1	Wnꞽś	Wnꞽś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+2	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
+3	n	n	ADP	Status=Pron	Case=Ben	4	case	_	Hiero=𓈖
+4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡
+5	ꞽr.t	ꞽr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	Hiero=𓁹
+6	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	Hiero=𓅃
+7	sꞽ.t	sꞽ	VERB	ADJ|VerbForm=RelForm|Tense=Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl:relcl	_	Hiero=𓊄:𓏏
+8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
+
+# sent_id = EUJA-1575
+# ref = Pyramid Texts § 31a W, Saqqara, 5th Dynasty, rel, OE
+# text = Wnꞽś m n ⸗k ꞽr.t Ḥr.w sꞽ.t ⸗f r ⸗ś
+# comment = No
+1	Wnꞽś	Wnꞽś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
+2	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
+3	n	n	ADP	Status=Pron	Case=Ben	4	case	_	Hiero=𓈖
+4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡
+5	ꞽr.t	ꞽr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	Hiero=𓁹
+6	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	Hiero=𓅃
+7	sꞽ.t	sꞽ	VERB	ADJ|VerbForm=RelForm|Tense=Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl:relcl	_	Hiero=𓊄:𓏏
+8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
+9	r	r	ADP	Status=Pron	Case=All	10	case	_	Hiero=𓂋
+10	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Hiero=𓋴
+
 # sent_id = EUJA-1
 # ref = Edel 2008 (eds. Seyfried/Vieler): pl. LV, line 5, Qubbet el-Hawa (QH35e), 6th Dynasty, histbio, OE
 # text = ꞽw rč̣.n (⸗ꞽ) tʾ n ḥḳr
@@ -21284,31 +21311,4 @@
 9	hn.w	hn.w	NOUN	_	Gender=Masc|Number=Plur	3	dep	_	Hiero=𓉔𓏌𓅱
 10	kbn.w	kbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓎡𓃀(𓈖:(𓏌*𓏌:)𓏌)
 11	sbn.w	sbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓊃𓃀𓈖𓏌𓅱
-
-# sent_id = EUJA-1574
-# ref = Pyramid Texts § 31a W, Saqqara, 5th Dynasty, rel, OE
-# text = Wnꞽś m n ⸗k ꞽr.t Ḥr.w sꞽ.t ⸗f
-1	Wnꞽś	Wnꞽś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-2	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
-3	n	n	ADP	Status=Pron	Case=Ben	4	case	_	Hiero=𓈖
-4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡
-5	ꞽr.t	ꞽr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	Hiero=𓁹
-6	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	Hiero=𓅃
-7	sꞽ.t	sꞽ	VERB	ADJ|VerbForm=RelForm|Tense=Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl:relcl	_	Hiero=𓊄:𓏏
-8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
-
-# sent_id = EUJA-1575
-# ref = Pyramid Texts § 31a W, Saqqara, 5th Dynasty, rel, OE
-# text = Wnꞽś m n ⸗k ꞽr.t Ḥr.w sꞽ.t ⸗f r ⸗ś
-# comment = No
-1	Wnꞽś	Wnꞽś	PROPN	_	Case=Voc|Gender=Masc	2	vocative	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-2	m	m	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
-3	n	n	ADP	Status=Pron	Case=Ben	4	case	_	Hiero=𓈖
-4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	2	obl	_	Hiero=𓎡
-5	ꞽr.t	ꞽr.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Sing	2	obj	_	Hiero=𓁹
-6	Ḥr.w	Ḥr.w	PROPN	_	Case=Gen|Gender=Masc	5	nmod	_	Hiero=𓅃
-7	sꞽ.t	sꞽ	VERB	ADJ|VerbForm=RelForm|Tense=Past-1	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	5	acl:relcl	_	Hiero=𓊄:𓏏
-8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
-9	r	r	ADP	Status=Pron	Case=All	10	case	_	Hiero=𓂋
-10	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Hiero=𓋴
 
