@@ -21291,7 +21291,7 @@
 2	pizza	pizza	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 3	I	I	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	will	will	VERB	Tense=Fut	_	5	aux	_	_
-5	eat	eat	VERB	_	Verbform=Inf	0	root	_	_
+5	eat	eat	VERB	_	VerbForm=Inf	0	root	_	_
 
 # sent_id = EUJA-1575
 # text = That pizza I will eat
@@ -21299,5 +21299,5 @@
 2	pizza	pizza	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 3	I	I	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	will	will	VERB	Tense=Fut	_	0	root	_	_
-5	eat	eat	VERB	_	Verbform=Inf	4	xcomp	_	_
+5	eat	eat	VERB	_	VerbForm=Inf	4	xcomp	_	_
 
