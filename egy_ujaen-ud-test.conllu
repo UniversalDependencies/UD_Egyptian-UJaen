@@ -21285,3 +21285,19 @@
 10	kbn.w	kbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓎡𓃀(𓈖:(𓏌*𓏌:)𓏌)
 11	sbn.w	sbn	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	Hiero=𓊃𓃀𓈖𓏌𓅱
 
+# sent_id = EUJA-1574
+# text = That pizza I will eat
+1	That	that	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	pizza	pizza	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+3	I	I	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	will	will	VERB	Tense=Fut	_	5	aux	_	_
+5	eat	eat	VERB	_	Verbform=Inf	0	root	_	_
+
+# sent_id = EUJA-1575
+# text = That pizza I will eat
+1	That	that	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	pizza	pizza	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
+3	I	I	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	will	will	VERB	Tense=Fut	_	0	root	_	_
+5	eat	eat	VERB	_	Verbform=Inf	4	xcomp	_	_
+
