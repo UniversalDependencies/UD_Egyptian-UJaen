@@ -54,7 +54,7 @@ I thank Agata Savary (UniDive/PARSEME) and Daniel Zeman (UniDive/UD) for introdu
 
 - Díaz Hernández, Roberto Antonio. 2024. "Identification and Annotation of Body Part Multiword Expressions in Old Egyptian", Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING, 24-32.
 - Díaz Hernández, Roberto Antonio. 2024. "Old Egyptian Multiword Expressions Consisting of a Head Word and ib 'Heart'", Lingua Aegyptia 32.
-- Díaz Hernández, Roberto Antonio and Passarotti, Marco. In press. "Developing the Egyptian-UJaen Treebank".
+- Díaz Hernández, Roberto Antonio and Passarotti, Marco Carlo. In press. "Developing the Egyptian-UJaen Treebank".
 
 # Bibliography used for the Language Page
 
