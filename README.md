@@ -1,6 +1,6 @@
 # Summary
 
-Egyptian-UJaen is the first morphosyntactic treebank created for pre-Coptic Egyptian. Its current state (UD v2.15) consists of 1,573 sentences and 14,650 words manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
+Egyptian-UJaen is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its current state (UD v2.15) consists of 1,573 sentences and 14,650 words manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
 
 
 # Introduction
