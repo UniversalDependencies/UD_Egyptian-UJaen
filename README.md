@@ -48,7 +48,7 @@ Tübingen Transcription System
 
 # Acknowledgments
 
-I thank Agata Savary (UniDive) and Daniel Zeman (UD) for introducing me to computational linguistics.
+I thank Agata Savary (UniDive/PARSEME) and Daniel Zeman (UniDive/UD) for introducing me to computational linguistics.
 
 # Publications
 
