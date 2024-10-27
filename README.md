@@ -1,11 +1,11 @@
 # Summary
 
-Egyptian-UJaen is the first morphosyntactic treebank created for pre-Coptic Egyptian. It contains sentences manually annotated at the University of Jaén (Spain) that were selected from texts written in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic.
+Egyptian-UJaen is the first morphosyntactic treebank created for pre-Coptic Egyptian. Its current state (UD v2.15) consists of 1,573 sentences and 14,650 words manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
 
 
 # Introduction
 
-The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. The Unas Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15. The current state of this treebank consists of 1,573 sentences and 14,650.
+The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. The Unas Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15.
 
 The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
 and Demotic. For an overall description of these linguistic stages, see the [Language Page for
