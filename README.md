@@ -1,17 +1,11 @@
 # Summary
 
-Egyptian-UJaen is the first morphosyntactic treebank created for Pre-Coptic Egyptian in Universal Dependencies.
-It contains sentences manually annotated at the University of Jaén (Spain) that were selected from texts written
-in Old Egyptian, Middle Egyptian, Late Egyptian and Demotic.
+Egyptian-UJaen is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its current state (UD v2.15) consists of 1,573 sentences and 14,650 words manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
 
 
 # Introduction
 
-The Egyptian-UJaen Treebank contains a corpus of Egyptian texts manually annotated at the University of Jaén
-following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD)
-project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features
-with those from other languages. The first release of the treebank contains Old Egyptian multiword expressions
-and sentences from the Pyramid Texts (see list of sources, below).
+The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. The Unas Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15.
 
 The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
 and Demotic. For an overall description of these linguistic stages, see the [Language Page for
@@ -24,7 +18,7 @@ Tübingen Transcription System
 <table>
 <tr><th>Egypt</th>	<th>Schenkel</th></tr>
 <tr><td>𓄿</td>	<td>ꜣ</td></tr>
-<tr><td>𓇋</td>	<td>i҆</td></tr>
+<tr><td>𓇋</td>	<td>ꞽ</td></tr>
 <tr><td>𓇌</td>	<td>y</td></tr>
 <tr><td>𓏭</td>	<td>ï</td></tr>
 <tr><td>𓂝</td>	<td>ꜥ</td></tr>
@@ -54,8 +48,13 @@ Tübingen Transcription System
 
 # Acknowledgments
 
-I thank Agata Savary (UniDive), Dan Zeman (UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
+I thank Agata Savary (UniDive/PARSEME), Daniel Zeman (UniDive/UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
 
+# Publications
+
+- Díaz Hernández, Roberto Antonio. 2024. "Identification and Annotation of Body Part Multiword Expressions in Old Egyptian", Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING, 24-32.
+- Díaz Hernández, Roberto Antonio. 2024. "Old Egyptian Multiword Expressions Consisting of a Head Word and ib 'Heart'", Lingua Aegyptia 32.
+- Díaz Hernández, Roberto Antonio and Passarotti, Marco Carlo. In press. "Developing the Egyptian-UJaen Treebank".
 
 # Bibliography used for the Language Page
 
