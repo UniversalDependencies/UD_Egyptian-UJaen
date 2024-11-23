@@ -730,7 +730,7 @@
 
 # sent_id = EUJA-50
 # ref = Pyramid Texts § 3a T, Saqqara, 6th Dynasty, rel, OE
-# text = nfr w(ꞽ) Ttꞽ ḥtp ꞽt ⸗f Gb(b) ḥr ⸗f
+# text = nfr w(ꞽ) Ttꞽ ḥtp ꞽt(ꞽ) ⸗f Gb(b) ḥr ⸗f
 # lit = "How goodly is Teti with whom his father, Geb, is content."
 # trans = "How happy is Teti with whom is father Geb is content."
 # type = Adjectival sentence
@@ -739,7 +739,7 @@
 2	w(ꞽ)	wꞽ	INTJ	_	_	1	discourse	_	Hiero=𓅱
 3	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 4	ḥtp	ḥtp	VERB	ADJ|VerbForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Hiero=𓊵(:𓏏*𓊪)
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	Gb(b)	Gbb	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓅭𓃀
 8	ḥr	ḥr	ADP	Status=Pron	Case=Cau	9	case	_	Hiero=𓁷:𓂋
@@ -940,13 +940,13 @@
 
 # sent_id = EUJA-62
 # ref = Pyramid Texts § 5d T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽw ꞽt ⸗č Šw rḫ(.w) mrr ⸗č Ttꞽ r mw.t ⸗č Tfn.t
+# text = ꞽw ꞽt(ꞽ) ⸗č Šw rḫ(.w) mrr ⸗č Ttꞽ r mw.t ⸗č Tfn.t
 # lit = “Your father, Shu, knows that you love Teti more than your mother, Tefnut.”
 # trans = “Your father Shu knows that you love Teti more than your mother Tefnut.”
 # type = Verbal sentence
 # comment = No
 1	ꞽw	ꞽw	AUX	Particle	_	5	aux	_	Hiero=𓇋𓅱
-2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋(𓏏:𓆑)
+2	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋(𓏏:𓆑)
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
 4	Šw	Šw	PROPN	_	Gender=Masc	2	appos	_	Hiero=𓆄𓅱
 5	rḫ(.w)	rḫ	VERB	OSSC=Pres	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂋:𓐍
@@ -1222,7 +1222,7 @@
 
 # sent_id = EUJA-79
 # ref = Pyramid Texts § 13e-14a N, Saqqara, 6th Dynasty, rel, OE
-# text = [wn.n] [Ḥr.w] [rʾ] [n(.ꞽ)] [Ppy] [pn] [wp.n] [Ḥr.w] [rʾ] [n(.ꞽ)] [Ppy] [pn] m wp.tn ⸗f rʾ n(.ꞽ) ꞽt ⸗f ꞽm (⸗ś) m wp.tn ⸗f rʾ n(.ꞽ) Wśr(.w) ꞽm (⸗ś) m bꞽꜣ pr m Śtẖ mśḫt.w [bꞽꜣ] [wp] [rʾ] [n(.ꞽ)] [nčr(.w)]
+# text = [wn.n] [Ḥr.w] [rʾ] [n(.ꞽ)] [Ppy] [pn] [wp.n] [Ḥr.w] [rʾ] [n(.ꞽ)] [Ppy] [pn] m wp.tn ⸗f rʾ n(.ꞽ) ꞽt(ꞽ) ⸗f ꞽm (⸗ś) m wp.tn ⸗f rʾ n(.ꞽ) Wśr(.w) ꞽm (⸗ś) m bꞽꜣ pr m Śtẖ mśḫt.w [bꞽꜣ] [wp] [rʾ] [n(.ꞽ)] [nčr(.w)]
 # lit = “[Horus opened the mouth of this Pepi, Horus parted the mouth of this Pepi] (certainly) with that with which he parted the mouth of his father, with that which he parted the mouth of Osiris, with the iron that came from Seth, the hook of [iron which parted the mouths of the gods].”
 # trans = “It is with the iron that came from Seth, the hook of [iron which parted the mouths of the gods], it is with that which he parted the mouth of Osiris and with that with which he parted the mouth of his father that [Horus has opened and parted the mouth of this Pepi].”
 # type = Cleft sentence with adverbial focus
@@ -1244,7 +1244,7 @@
 15	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	Hiero=𓆑
 16	rʾ	rʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	14	obj	_	Hiero=𓂋:𓏤
 17	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	16	amod	_	Hiero=𓈖
-18	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	Hiero=𓇋𓏏
+18	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	Hiero=𓇋𓏏
 19	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	Hiero=𓆑
 20	ꞽm	m	ADP	Status=Pron	Case=Ins	21	case	_	Hiero=𓇋𓅓
 21	(⸗ś)	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	_	Hiero=No
@@ -6076,13 +6076,13 @@
 
 # sent_id = EUJA-339
 # ref = Pyramid Texts § 101e T|103c, Saqqara, 6th Dynasty, rel, OE
-# text = čwt ꞽt ⸗f
+# text = čwt ꞽtꞽ ⸗f
 # lit = “You are his father.”
 # trans = “You are his father.”
 # type = Nominal sentence (ꞽnk)
 # comment = No
 1	čwt	čwt	PRON	Pron=Ind	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Hiero=𓍿𓏏𓅱
-2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓏏
+2	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓏏
 3	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nmod	_	Hiero=𓆑
 
 # sent_id = EUJA-340
@@ -6588,13 +6588,13 @@
 
 # sent_id = EUJA-369
 # ref = Pyramid Texts § 116b W, Saqqara, 6th Dynasty, rel, OE
-# text = wr ꞽt (⸗ꞽ) pč̣ čw m rn ⸗k pꜣč̣
+# text = wr ꞽt(ꞽ) (⸗ꞽ) pč̣ čw m rn ⸗k pꜣč̣
 # lit = "The great one, (my) father, extend yourself in your name of "pellet"."
 # trans = "The great one, (my) father, extend yourself in your name of "pellet"."
 # type = Verbal sentence
 # comment = No
 1	wr	wr	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	vocative	_	Hiero=𓅨:𓂋
-2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	Hiero=𓇋𓏏
+2	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	Hiero=𓇋𓏏
 3	(⸗ꞽ)	ꞽ	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nmod	_	Hiero=No
 4	pč̣	pč̣	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌒
 5	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Emp|Reflex=Yes	4	expl	_	Hiero=𓍿𓅱
@@ -6647,14 +6647,14 @@
 
 # sent_id = EUJA-373
 # ref = Pyramid Texts § 117a N, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw ꞽt Ppy Nfr-kꜣ-rꜥ m n ⸗k ꞽr.t Ḥr.w pꜣ(w).t n(.t) nčr(.w) wšb(.t) ⸗śn ꞽm (⸗ś)
+# text = č̣(ṭ) mṭw ꞽt(ꞽ) Ppy Nfr-kꜣ-rꜥ m n ⸗k ꞽr.t Ḥr.w pꜣ(w).t n(.t) nčr(.w) wšb(.t) ⸗śn ꞽm (⸗ś)
 # lit = "Saying a speech: 'Father, Pepi Neferkare, take for yourself the Eye of Horus, the cake of the gods, on which they feed.'"
 # trans = "Recitation: 'Father, Pepi Neferkare, take the Eye of Horus, the cake of the gods, on which they feed.'"
 # type = Verbal sentence
 # comment = No
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=𓇋𓏏
+3	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=𓇋𓏏
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺
 5	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	4	flat	_	Hiero=𓍹𓇳𓄤𓂓𓍺
 6	m	m	VERB	_	Mood=Imp|Number=Sing	1	parataxis	_	Hiero=𓌇
@@ -6672,14 +6672,14 @@
 
 # sent_id = EUJA-374
 # ref = Pyramid Texts § 117b N, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw ꞽt Ppy Nfr-kꜣ-rꜥ m n ⸗k ḥnḳ pr m Wśr(.w)
+# text = č̣(ṭ) mṭw ꞽt(ꞽ) Ppy Nfr-kꜣ-rꜥ m n ⸗k ḥnḳ pr m Wśr(.w)
 # lit = "Saying a speech: 'Father, Pepi Neferkare, take for yourself the ferment that came from Osiris.'"
 # trans = "Recitation: 'Father, Pepi Neferkare, take the ferment that came from Osiris.'"
 # type = Verbal sentence
 # comment = No
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=𓇋𓏏
+3	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	6	vocative	_	Hiero=𓇋𓏏
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺
 5	Nfr-kꜣ-rꜥ	Nfr-kꜣ-rꜥ	PROPN	_	Gender=Masc	4	flat	_	Hiero=𓍹𓇳𓄤𓂓𓍺
 6	m	m	VERB	_	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓌇
@@ -6856,7 +6856,7 @@
 
 # sent_id = EUJA-385
 # ref = Pyramid Texts § 120d W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫfꜥ ⸗śn č̣i̯ ⸗śn n ⸗f ꜣm ⸗śn č̣i̯ ⸗śn n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wnꞽś ꞽn ꞽt ⸗f rč̣ n ⸗f ꞽn Rꜥw rč̣ n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt ꞽś kꜣ wr ḥ(w) Kns.t n-n.tt Wnꞽś ꞽś ꞽr(.ꞽ) ṭꞽ.t ꞽš.tt m ḥw.t
+# text = ḫfꜥ ⸗śn č̣i̯ ⸗śn n ⸗f ꜣm ⸗śn č̣i̯ ⸗śn n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wnꞽś ꞽn ꞽt(ꞽ) ⸗f rč̣ n ⸗f ꞽn Rꜥw rč̣ n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt ꞽś kꜣ wr ḥ(w) Kns.t n-n.tt Wnꞽś ꞽś ꞽr(.ꞽ) ṭꞽ.t ꞽš.tt m ḥw.t
 # lit = “They shall seize and give to him, they shall grasp and give to him barley, emmer, bread and beer because it is to Unas, it is his father who gave him, it is Re who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who is concerned five meals in the Mansion.”
 # trans = “They shall seize, grasp and give to him barley, emmer, bread and beer because it his father, Re, who gave him barley, emmer, bread and beer, because he is certainly the Great Bull who smote Kenzet, because Unas is the one who has a quintet of meals in the Mansion.”
 # type = Verbal sentence after verbal topic + subordination of nominal sentence and cleft sentence with a nominal focus
@@ -6883,7 +6883,7 @@
 19	n	n	ADP	Status=Pron	Case=Dat	20	case	_	Hiero=𓈖
 20	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	24	dislocated	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 21	ꞽn	ꞽn	PART	_	PartType=Emp	22	nmod	_	Hiero=𓇋:𓈖
-22	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	Hiero=𓇋𓏏
+22	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	Hiero=𓇋𓏏
 23	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	Hiero=𓆑
 24	rč̣	rč̣i̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	29	dislocated	_	Hiero=𓂋:𓏙
 25	n	n	ADP	Status=Pron	Case=Dat	26	case	_	Hiero=𓈖
@@ -8255,7 +8255,7 @@
 
 # sent_id = EUJA-472
 # ref = Pyramid Texts § 136b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽꞽ wp.(w)t kꜣ ⸗k ꞽr ⸗k ꞽꞽ wp.(w)t ꞽt ⸗k ꞽr ⸗k
+# text = ꞽꞽ wp.(w)t kꜣ ⸗k ꞽr ⸗k ꞽꞽ wp.(w)t ꞽt(ꞽ) ⸗k ꞽr ⸗k
 # lit = “The messengers of your ka come to you - the messengers of your father come to you.”
 # trans = “(Both of them:) The messengers of your ka come to you, and the messengers of your father come to you.”
 # type = Balanced sentence
@@ -8268,7 +8268,7 @@
 6	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
 7	ꞽꞽ	ꞽwi̯	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇍
 8	wp.(w)t	wp.t	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur	7	nsubj	_	Hiero=(𓄋:𓄋)(𓄋:𓏏)
-9	ꞽt	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Hiero=𓇋𓏏
+9	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Hiero=𓇋𓏏
 10	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nmod	_	Hiero=𓎡
 11	ꞽr	r	ADP	Status=Pron	Case=All	12	case	_	Hiero=𓇋𓂋
 12	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	obl	_	Hiero=𓎡
@@ -8436,7 +8436,7 @@
 
 # sent_id = EUJA-482
 # ref = Pyramid Texts § 139b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽꜣḳ ꞽr ⸗k ꞽr bw ẖr(.ꞽ) ꞽt ⸗k ꞽr bw ẖr(.ꞽ) Gbb č̣i̯ ⸗f n ⸗k ꞽm.t ḥꜣ.t Ḥr.w
+# text = ꞽꜣḳ ꞽr ⸗k ꞽr bw ẖr(.ꞽ) ꞽt(ꞽ) ⸗k ꞽr bw ẖr(.ꞽ) Gbb č̣i̯ ⸗f n ⸗k ꞽm.t ḥꜣ.t Ḥr.w
 # lit = “Ascend yourself to the place which is under your father, to the place which is under Geb, that he may give you that which is on the brow of Horus”
 # trans = “Ascend to the place where your father is, to the place where Geb is, that he may give you what is on Horus's brow.”
 # type = Verbal sentence
@@ -8447,7 +8447,7 @@
 4	ꞽr	r	ADP	Status=Cons	Case=All	5	case	_	Hiero=𓇋𓂋
 5	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓃀𓅱
 6	ẖr(.ꞽ)	ẖr	ADJ	Nisba=Prep	Case=Sub|Gender=Masc|Number=Sing	5	amod	_	Hiero=𓌨
-7	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
+7	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
 8	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Hiero=𓎡
 9	ꞽr	r	ADP	Status=Cons	Case=All	10	case	_	Hiero=𓇋𓂋
 10	bw	bw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓃀𓅱
@@ -8493,7 +8493,7 @@
 
 # sent_id = EUJA-485
 # ref = Pyramid Texts § 140a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = hꜣ Wnꞽś sꞽ ꞽn(.ww) ⸗k bč ḥw(w).t(ꞽw) ⸗k ḫr ꞽt ⸗k ḫr (Ꞽ)tm(.w)
+# text = hꜣ Wnꞽś sꞽ ꞽn(.ww) ⸗k bč ḥw(w).t(ꞽw) ⸗k ḫr ꞽt(ꞽ) ⸗k ḫr (Ꞽ)tm(.w)
 # lit = “O Unas, your messengers go, your heralds run (certainly) to your father, to Atum.”
 # trans = “O Unas, it is to your father, to Atum, that your messengers go and your heralds run.”
 # type = Cleft sentence with adverbial focus after verbal topic
@@ -8507,7 +8507,7 @@
 7	ḥw(w).t(ꞽw)	ḥw(w).t(ꞽw)	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	6	nsubj	_	Hiero=𓎛𓅱𓏏UC_139E7 UC_139E7 UC_139E7
 8	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Hiero=𓎡
 9	ḫr	ḫr	ADP	Status=Cons	_	10	case	_	Hiero=𓐍:𓂋
-10	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
+10	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
 11	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Hiero=𓎡
 12	ḫr	ḫr	ADP	Status=Cons	_	13	case	_	Hiero=𓐍:𓂋
 13	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	10	conj	_	Hiero=𓍃:𓏏
@@ -8569,7 +8569,7 @@
 
 # sent_id = EUJA-490
 # ref = Pyramid Texts § 141b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = mꜣꜣ w(ꞽ) mꜣ.n ⸗k ꞽr.w mśw.t ꞽt(.w) ⸗śn ꞽ:rḫ.w rʾ ⸗śn ꞽ:ḫm(.w)-śk(.w)
+# text = mꜣꜣ w(ꞽ) mꜣ.n ⸗k ꞽr.w mśw.t ꞽt(ꞽ.w) ⸗śn ꞽ:rḫ.w rʾ ⸗śn ꞽ:ḫm(.w)-śk(.w)
 # lit = “See me after you have seen the shapes of the children of their fathers who know their speech, "those-who-do-not-perish".”
 # trans = “See me after you have seen the forms of the children of their fathers who know their spells, the Imperishable Stars.”
 # type = Verbal sentence
@@ -8580,7 +8580,7 @@
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓎡
 5	ꞽr.w	ꞽr.w	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Hiero=𓇋𓁹𓅱
 6	mśw.t	mśw.t	NOUN	_	Case=Gen|Gender=Fem|Number=Coll	5	nmod	_	Hiero=𓄟𓅱𓏏
-7	ꞽt(.w)	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
+7	ꞽt(ꞽ.w)	ꞽtꞽ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
 8	⸗śn	śn	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nmod	_	Hiero=𓋴𓈖
 9	ꞽ:rḫ.w	rḫ	VERB	ADJ|Aug=Yes	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	Hiero=𓇋(𓂋:𓐍)𓅱
 10	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	Hiero=(𓂋:𓏤)
@@ -8891,14 +8891,14 @@
 
 # sent_id = EUJA-510
 # ref = Pyramid Texts § 146b W, Saqqara, 5th Dynasty, rel, OE
-# text = n śḫm.n ꞽt ⸗k ꞽm ⸗f
+# text = n śḫm.n ꞽt(ꞽ) ⸗k ꞽm ⸗f
 # lit = “Your father cannot have power over him.”
 # trans = “Your father cannot have power over him.”
 # type = Verbal sentence
 # comment = No
 1	n	n	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
 2	śḫm.n	śḫm	VERB	SPC=Past-2	Mood=Pot|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴𓌂𓐍𓅓𓈖
-3	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=𓇋𓏏
+3	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	Hiero=𓇋𓏏
 4	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡
 5	ꞽm	m	ADP	Status=Pron	_	6	case	_	Hiero=𓇋𓅓
 6	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Hiero=𓆑
@@ -9247,7 +9247,7 @@
 
 # sent_id = EUJA-534
 # ref = Pyramid Texts § 151d-e W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜣḫ.n ⸗f n ⸗śn ḳbb.n ⸗f n ⸗śn m-ẖnw ꜥ(.wꞽ) ꞽt ⸗f m-ẖnw ꜥ(.wꞽ) (Ꞽ)tm(.w)
+# text = ꜣḫ.n ⸗f n ⸗śn ḳbb.n ⸗f n ⸗śn m-ẖnw ꜥ(.wꞽ) ꞽt(ꞽ) ⸗f m-ẖnw ꜥ(.wꞽ) (Ꞽ)tm(.w)
 # lit = “He became akh for them, he became cool for them, (certainly) within the arms of his father, within the arms of Atum.”
 # trans = “It was withing the arms of his father and within the arms of Atum that he became akh for them and he became cool for them.”
 # type = Cleft sentence with adverbial focus
@@ -9264,7 +9264,7 @@
 9	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	11	case	_	Hiero=𓅓
 10	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	Hiero=𓄚𓏌
 11	ꜥ(.wꞽ)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obl	_	Hiero=𓂝
-12	ꞽt	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓇋𓏏
+12	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓇋𓏏
 13	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	Hiero=𓆑
 14-15	m-ẖnw	_	_	_	_	_	_	_	Hiero=𓅓𓄚𓏌
 14	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	16	case	_	Hiero=𓅓
@@ -10194,13 +10194,13 @@
 
 # sent_id = EUJA-588
 # ref = Pyramid Texts § 176a W, Saqqara, 5th Dynasty, rel, OE
-# text = Ḥr.w ꞽt ⸗k pw-nn Wśr(.w)
+# text = Ḥr.w ꞽt(ꞽ) ⸗k pw-nn Wśr(.w)
 # lit = “Horus, your father is this one, this one, Osiris.”
 # trans = “Horus, your father is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = A is the predicate and pw is the subject (see Schenkel: epexégesis del sujeto, p. 139)
 1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅃
-2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓏏
+2	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓏏
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
 4-5	pw-nn	_	_	_	_	_	_	_	Hiero=𓊪𓅱𓇒
 4	pw	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪𓅱
@@ -10275,7 +10275,7 @@
 
 # sent_id = EUJA-593
 # ref = Pyramid Texts § 179a W, Saqqara, 5th Dynasty, rel, OE
-# text = mś.n-tꞽ n ꞽt ⸗čn
+# text = mś.n-tꞽ n ꞽt(ꞽ) ⸗čn
 # lit = "Someone (i.e. Nut) gave birth to your father."
 # trans = "It is to your father that someone (i.e. Nut) gave birth."
 # type = Cleft sentence with adverbial focus
@@ -10284,7 +10284,7 @@
 1	mś.n	mśi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓄟𓈖
 2	tꞽ	tꞽ	NOUN	Imprs=Man	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓏏
 3	n	n	ADP	Status=Cons	Case=Acc	4	case	_	Hiero=𓈖
-4	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓇋𓏏
 5	⸗čn	čn	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	4	nmod	_	Hiero=𓍿:𓈖
 
 # sent_id = EUJA-594
@@ -10791,7 +10791,7 @@
 
 # sent_id = EUJA-628
 # ref = Pyramid Texts § 195c W, Saqqara, 5th Dynasty, rel, OE
-# text = nfr w(ꞽ) ḥr ⸗č ḥtp.t(ꞽ) mꜣ(w).tꞽ rnpw.tꞽ mś.n čm nčr ꞽt nčr(.w)
+# text = nfr w(ꞽ) ḥr ⸗č ḥtp.t(ꞽ) mꜣ(w).tꞽ rnpw.tꞽ mś.n čm nčr ꞽt(ꞽ) nčr(.w)
 # lit = "How goodly is your face, you are content, renewed and rejuvenated after the god, the father of the gods, fashiouned you."
 # trans = "How kindly is your face, you are content, renewed and rejuvenated for the father of the gods fashiouned you."
 # type = Adjectival sentence + adverbial sentence
@@ -10806,7 +10806,7 @@
 8	mś.n	mśi̯	VERB	SPC=Past-2|Type=Pred	Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	Hiero=𓅓𓄟𓈖
 9	čm	čm	PRON	Pron=Dep	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	obj	_	Hiero=𓍿:𓅓
 10	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=𓊹
-11	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	Hiero=𓇋𓏏
+11	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	Hiero=𓇋𓏏
 12	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	Hiero=𓊹𓊹𓊹
 
 # sent_id = EUJA-629
@@ -11049,7 +11049,7 @@
 
 # sent_id = EUJA-643
 # ref = Pyramid Texts § 199b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫpr ⸗k ḥr ⸗f ḳꜣ ⸗k ḥr ⸗f mꜣ čw ꞽt ⸗k mꜣ čw [Rꜥw]
+# text = ḫpr ⸗k ḥr ⸗f ḳꜣ ⸗k ḥr ⸗f mꜣ čw ꞽt(ꞽ) ⸗k mꜣ čw [Rꜥw]
 # lit = “You will come into being on it - you will become high on it, so that your father may see you, so that [Re] may see you.”
 # trans = “(Both of them:) You will come into being on it, and you will become high on it, so that your father may see you, so that [Re] may see you.”
 # type = Balanced sentence + Final clause
@@ -11064,7 +11064,7 @@
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	Hiero=𓆑
 9	mꜣ	mꜣꜣ	VERB	SPC=Sub|Clause=Final	Mood=Sub	5	advcl	_	Hiero=(𓌴:𓁹)𓄿
 10	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obj	_	Hiero=𓍿𓅱
-11	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓇋𓏏
+11	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓇋𓏏
 12	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	Hiero=𓎡
 13	mꜣ	mꜣꜣ	VERB	SPC=Sub|Clause=Final	Mood=Sub	9	conj	_	Hiero=(𓌴:𓁹)𓄿
 14	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	Hiero=𓍿𓅱
@@ -11072,7 +11072,7 @@
 
 # sent_id = EUJA-644
 # ref = Pyramid Texts § 200a W, Saqqara, 5th Dynasty, rel, OE
-# text = [ꞽw].n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Rꜥw
+# text = [ꞽw].n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Rꜥw
 # lit = “He [has come] to you, (O) his father - He has come to you, (O) Re.”
 # trans = “(Both of them:) He [has come] to you, (O) his father, and he has come to you, (O) Re.”
 # type = Balanced sentence
@@ -11081,7 +11081,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11091,7 +11091,7 @@
 
 # sent_id = EUJA-645
 # ref = Pyramid Texts § 200b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Nṭꞽ
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Nṭꞽ
 # lit = “He has come to you, (O) his father - He has come to you, (O) Nedi.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Nedi.”
 # type = Balanced sentence
@@ -11100,7 +11100,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11110,7 +11110,7 @@
 
 # sent_id = EUJA-646
 # ref = Pyramid Texts § 200c W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n [⸗f] [ḫr] [⸗k] [ꞽ]t ⸗f ꞽw.n ⸗f ḫr ⸗k Pnṭn
+# text = ꞽw.n [⸗f] [ḫr] [⸗k] [ꞽ]t(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Pnṭn
 # lit = “He has come to you, (O) his father - He has come to you, (O) Penden.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Penden.”
 # type = Balanced sentence
@@ -11119,7 +11119,7 @@
 2	[⸗f]	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	[ḫr]	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	[⸗k]	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	[ꞽ]t	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	[ꞽ]t(ꞽ)	ꞽt(ꞽ)	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11129,7 +11129,7 @@
 
 # sent_id = EUJA-647
 # ref = Pyramid Texts § 200d W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Ṭnṭn
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Ṭnṭn
 # lit = “He has come to you, (O) his father - He has come to you, (O) Denden.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Denden.”
 # type = Balanced sentence
@@ -11138,7 +11138,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11148,7 +11148,7 @@
 
 # sent_id = EUJA-648
 # ref = Pyramid Texts § 201a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f [ꞽ]w.n ⸗f ḫr ⸗k Śmꜣ-wr
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f [ꞽ]w.n ⸗f ḫr ⸗k Śmꜣ-wr
 # lit = “He has come to you, (O) his father - He has come to you, (O) Great Wild Bull.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Great Wild Bull.”
 # type = Balanced sentence
@@ -11157,7 +11157,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	[ꞽ]w.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11169,7 +11169,7 @@
 
 # sent_id = EUJA-649
 # ref = Pyramid Texts § 201b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Sḫn-wr
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Sḫn-wr
 # lit = “He has come to you, (O) his father - He has come to you, (O) Great Float-user.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Great Float-user.”
 # type = Balanced sentence
@@ -11178,7 +11178,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11190,7 +11190,7 @@
 
 # sent_id = EUJA-650
 # ref = Pyramid Texts § 201c W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Śpṭ.w
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Śpṭ.w
 # lit = “He has come to you, (O) his father - He has come to you, (O) Sopdu.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Sopdu.”
 # type = Balanced sentence
@@ -11199,7 +11199,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11209,7 +11209,7 @@
 
 # sent_id = EUJA-651
 # ref = Pyramid Texts § 201d W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw.n ⸗f ḫr ⸗k ꞽt ⸗f ꞽw.n ⸗f ḫr ⸗k Śpṭ-ꞽbḥ(.w)
+# text = ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f ꞽw.n ⸗f ḫr ⸗k Śpṭ-ꞽbḥ(.w)
 # lit = “He has come to you, (O) his father - He has come to you, (O) Sharp of Teeth.”
 # trans = “(Both of them:) He has come to you, (O) his father, and he has come to you, (O) Sharp of Teeth.”
 # type = Balanced sentence
@@ -11218,7 +11218,7 @@
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	ḫr	ḫr	ADP	Status=Pron	_	4	case	_	Hiero=𓐍:𓂋
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	ꞽw.n	ꞽwi̯	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓇋𓅱𓂻𓈖
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
@@ -11525,7 +11525,7 @@
 
 # sent_id = EUJA-670
 # ref = Pyramid Texts § 207c W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫpr ⸗k ḥnꜥ ꞽt ⸗k (Ꞽ)tm(.w)
+# text = ḫpr ⸗k ḥnꜥ ꞽt(ꞽ) ⸗k (Ꞽ)tm(.w)
 # lit = “You shall come into being with your father, Atum.”
 # trans = “You shall come into being with your father, Atum.”
 # type = Verbal sentence
@@ -11533,13 +11533,13 @@
 1	ḫpr	ḫpr	VERB	SPC=Sub	Mood=Sub	0	root	_	Hiero=𓆣𓂋
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	ḥnꜥ	ḥnꜥ	ADP	Status=Pron	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)
-4	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
 6	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	4	appos	_	Hiero=𓍃:𓏏
 
 # sent_id = EUJA-671
 # ref = Pyramid Texts § 207c W, Saqqara, 5th Dynasty, rel, OE
-# text = ḳꜣ ⸗k ḥnꜥ ꞽ[t] [⸗k] [(Ꞽ)tm(.w)]
+# text = ḳꜣ ⸗k ḥnꜥ ꞽ[t](ꞽ) [⸗k] [(Ꞽ)tm(.w)]
 # lit = “You shall go high with [your] father, [Atum].”
 # trans = “You shall go high with [your] father, [Atum].”
 # type = Verbal sentence
@@ -11547,13 +11547,13 @@
 1	ḳꜣ	ḳꜣi̯	VERB	SPC=Sub	Mood=Sub	0	root	_	Hiero=𓈎𓄿
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	ḥnꜥ	ḥnꜥ	ADP	Status=Pron	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)
-4	ꞽ[t]	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+4	ꞽ[t](ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 5	[⸗k]	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
 6	[(Ꞽ)tm(.w)]	Ꞽtm.w	PROPN	_	Gender=Masc	4	appos	_	Hiero=𓍃:𓏏
 
 # sent_id = EUJA-672
 # ref = Pyramid Texts § 207d W, Saqqara, 5th Dynasty, rel, OE
-# text = wbn ⸗k ḥnꜥ ꞽt ⸗k (Ꞽ)tm(.w)
+# text = wbn ⸗k ḥnꜥ ꞽt(ꞽ) ⸗k (Ꞽ)tm(.w)
 # lit = “You shall rise with your father, Atum.”
 # trans = “You shall rise with your father, Atum.”
 # type = Verbal sentence
@@ -11561,7 +11561,7 @@
 1	wbn	wbn	VERB	SPC=Sub|Hierocl=Yes	Mood=Sub	0	root	_	Hiero=𓃀𓅱UC_13C59(UC_No:𓈖)
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	ḥnꜥ	ḥnꜥ	ADP	Status=Pron	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)
-4	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
 6	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	4	appos	_	Hiero=𓍃:𓏏
 
@@ -11817,7 +11817,7 @@
 
 # sent_id = EUJA-692
 # ref = Pyramid Texts § 211c W, Saqqara, 5th Dynasty, rel, OE
-# text = wꜥb.n ⸗k m Ꞽmn.t(ꞽ)t šsp.n ⸗k ꜥb(.w) ⸗k m Ḥḳꜣ-ꜥnč̣(.w) ḫr ꞽt ⸗k ḫr (Ꞽ)tm(.w)
+# text = wꜥb.n ⸗k m Ꞽmn.t(ꞽ)t šsp.n ⸗k ꜥb(.w) ⸗k m Ḥḳꜣ-ꜥnč̣(.w) ḫr ꞽt(ꞽ) ⸗k ḫr (Ꞽ)tm(.w)
 # lit = “You became pure in the Western nome and you received your purification in the Bubastite nome (certainly) with your father, with Atum.”
 # trans = “It is with your father, with Atum, that you became pure in the Western nome and you received your purification in the Bubastite nome.”
 # type = Cleft sentence with adverbial focus after verbal topic
@@ -11835,14 +11835,14 @@
 10	Ḥḳꜣ	ḥḳꜣ	PROPN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓋾
 11	ꜥnč̣(.w)	ꜥnč̣	VERB	OSSC=Stat|Hierocl=Yes	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	10	flat	_	Hiero=UC_1339A FE00𓂝:𓈈
 12	ḫr	ḫr	ADP	Status=Cons	_	13	case	_	Hiero=𓐍:𓂋
-13	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓇋𓏏
+13	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	Hiero=𓇋𓏏
 14	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod	_	Hiero=𓎡
 15	ḫr	ḫr	ADP	Status=Cons	_	16	case	_	Hiero=𓐍:𓂋
 16	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	13	conj	_	Hiero=𓍃:𓏏
 
 # sent_id = EUJA-693
 # ref = Pyramid Texts § 212a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫpr.n ⸗k ḳꜣ.n ⸗k ꜣḫ.n ⸗k ḳbb{n}.n ⸗k m ẖnw-ꜥ(.wꞽ) ꞽt ⸗k m ẖnw-ꜥ(.wꞽ) (Ꞽ)tm(.w)
+# text = ḫpr.n ⸗k ḳꜣ.n ⸗k ꜣḫ.n ⸗k ḳbb{n}.n ⸗k m ẖnw-ꜥ(.wꞽ) ꞽt(ꞽ) ⸗k m ẖnw-ꜥ(.wꞽ) (Ꞽ)tm(.w)
 # lit = “You came into being, you went high, you became a spirit, you will be calm (certainly) in the embrace of your father, in the embrace of Atum.”
 # trans = “It is in the embrace of your father, in the embrace of Atum that you came into being, you went high, you became a spirit and you will be calm.”
 # type = Cleft sentence with adverbial focus and after verbal topic
@@ -11859,7 +11859,7 @@
 10-11	ẖnw-ꜥ(.wꞽ)	_	_	_	_	_	_	_	Hiero=𓄚𓏌𓂝
 10	ẖnw	ẖnw	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	7	obl	_	Hiero=𓄚𓏌
 11	ꜥ(.wꞽ)	ꜥ	NOUN	MWE=Yes	Case=Gen|Gender=Masc|Number=Dual	10	compound	_	Hiero=𓂝
-12	ꞽt	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓇋𓏏
+12	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓇋𓏏
 13	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	Hiero=𓎡
 14	m	m	ADP	Status=Cons	Case=Loc	15	case	_	Hiero=𓅓
 15-16	ẖnw-ꜥ(.wꞽ)	_	_	_	_	_	_	_	Hiero=𓄚𓏌𓂝
@@ -12913,7 +12913,7 @@
 
 # sent_id = EUJA-754
 # ref = Pyramid Texts § 231a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽ Rꜥw psḥ n Wnꞽś tꜣ psḥ n Wnꞽś Gb(b) psḥ n Wnꞽś ꞽt n(.ꞽ) psḥ św
+# text = ꞽ Rꜥw psḥ n Wnꞽś tꜣ psḥ n Wnꞽś Gb(b) psḥ n Wnꞽś ꞽt(ꞽ) n(.ꞽ) psḥ św
 # lit = “O Re, bite for Unas the earth, bite for Unas Geb, bite for Unas the father of the one who would bit him.”
 # trans = “O Re, bite for Unas the earth, bite for Unas Geb, bite for Unas the father of the one who would bit him.”
 # type = Verbal sentence
@@ -12931,7 +12931,7 @@
 11	psḥ	psḥ	VERB	_	Mood=Imp|Number=Sing	3	conj	_	Hiero=(𓊪:𓊃)𓎛
 12	n	n	ADP	Status=Cons	Case=Ben	13	case	_	Hiero=𓈖
 13	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	11	obl	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-14	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=𓇋𓏏
+14	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	Hiero=𓇋𓏏
 15	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	14	amod	_	Hiero=𓈖
 16	psḥ	psḥ	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	15	obl	_	Hiero=(𓊪:𓊃)𓎛
 17	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	Hiero=𓇓
@@ -13369,7 +13369,7 @@
 
 # sent_id = EUJA-785
 # ref = Pyramid Texts § 242a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw tʾ n(.ꞽ) ꞽt ⸗k n ⸗k Ꞽkꞽ-nhy tʾ ⸗k ntk n ꞽt ⸗k n ⸗k Ꞽk(ꞽ)-nhy
+# text = č̣(ṭ) mṭw tʾ n(.ꞽ) ꞽt(ꞽ) ⸗k n ⸗k Ꞽkꞽ-nhy tʾ ⸗k ntk n ꞽt(ꞽ) ⸗k n ⸗k Ꞽk(ꞽ)-nhy
 # lit = "Saying a speech: 'The bread of your father is for you, Iki-nehy and your own bread is for your father and for you, Iki-nehy'"
 # trans = "Recitation: 'The bread of your father is for you, Iki-nehy - your own bread is for your father and for you, Iki-nehy.'"
 # type = Adverbial sentence (possession)
@@ -13378,7 +13378,7 @@
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	tʾ	tʾ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=𓏏:𓏐
 4	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	Hiero=𓈖
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓇋𓏏
 6	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Hiero=𓎡
 7	n	n	ADP	Status=Pron	Case=Ben	8	case	_	Hiero=𓈖
 8	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	ccomp	_	Hiero=𓎡
@@ -13387,7 +13387,7 @@
 11	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Hiero=𓎡
 12	ntk	ntk	PRON	Pron=Ind|Poss=Yes|Emp	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Hiero=𓈖:𓏏:𓎡
 13	n	n	ADP	Status=Cons	Case=Ben	14	case	_	Hiero=𓈖
-14	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	Hiero=𓇋𓏏
+14	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	Hiero=𓇋𓏏
 15	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	nmod	_	Hiero=𓎡
 16	n	n	ADP	Status=Pron	Case=Ben	17	case	_	Hiero=𓈖
 17	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	conj	_	Hiero=𓎡
@@ -13744,14 +13744,14 @@
 
 # sent_id = EUJA-808
 # ref = Pyramid Texts § 250b W, Saqqara, 5th Dynasty, rel, OE
-# text = ḳmꜣ.n ⸗f ꞽt ⸗f r tꜣ
+# text = ḳmꜣ.n ⸗f (ꞽ)t(ꞽ) ⸗f r tꜣ
 # lit = “It is to the earth that he has cast his father.”
 # trans = “It is in the ground that he has laid his father (i.e. he buried his father).”
 # type = Cleft sentence with adverbial focus
 # comment = No
 1	ḳmꜣ.n	ḳmꜣ	VERB	SPC=Past-2|Type=Abstrel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈎𓌚𓈖
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
-3	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓏏
+3	(ꞽ)t(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓏏
 4	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Hiero=𓆑
 5	r	r	ADP	Status=Cons	_	6	case	_	Hiero=𓂋
 6	tꜣ	tꜣ	NOUN	MWE=Yes	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇿
@@ -13977,7 +13977,7 @@
 
 # sent_id = EUJA-822
 # ref = Pyramid Texts § 253d-254a W, Saqqara, 5th Dynasty, rel, OE 
-# text = ḥww ⸗śn n č̣śr rmn ḥr ꞽꜣb.tt šm(i̯).t wꜥ pn ꞽm(.ꞽ) ⸗k č̣ṭ(.w) nčr wč̣ ⸗f mṭw n ꞽt(w) nčr(.w)
+# text = ḥww ⸗śn n č̣śr rmn ḥr ꞽꜣb.tt šm(i̯).t wꜥ pn ꞽm(.ꞽ) ⸗k č̣ṭ(.w) nčr wč̣ ⸗f mṭw n ꞽt(ꞽ.w) nčr(.w)
 # lit = "They announce (certainly) to the one with sweeping upper arm in the east the going of this one who is you, of whom the god says that he will command the word to the fathers of the gods."
 # trans = "It is to the one with sweeping upper arm in the east that they announce that this one who is you goes, of whom the god says that he will govern the fathers of the gods."
 # type = Cleft sentence with adverbial focus
@@ -14000,7 +14000,7 @@
 16	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Hiero=𓆑
 17	mṭw	mṭw	NOUN	MWE=Yes	Gender=Masc|Number=Sing	15	obj	_	Hiero=(𓌃*𓅓:)𓂧𓅱
 18	n	n	ADP	Status=Cons	Case=Dat	19	case	_	Hiero=𓈖
-19	ꞽt(w)	ꞽt	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	iobj	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
+19	ꞽt(ꞽ.w)	ꞽtꞽ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	15	iobj	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
 20	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	Hiero=𓊹𓊹𓊹
 
 # sent_id = EUJA-823
@@ -14017,7 +14017,7 @@
 
 # sent_id = EUJA-824
 # ref = Pyramid Texts § 254b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = (w)ṭ.n pśč̣.t ꜥ ⸗śn ꞽr rʾ ⸗śn ṭp-rṭ(.wꞽ) wꜥ pn ꞽm(.ꞽ) ⸗k č̣ṭ.w nčr wč̣ ⸗f mṭw n ꞽt(w) nčr(.w)
+# text = (w)ṭ.n pśč̣.t ꜥ ⸗śn ꞽr rʾ ⸗śn ṭp-rṭ(.wꞽ) wꜥ pn ꞽm(.ꞽ) ⸗k č̣ṭ.w nčr wč̣ ⸗f mṭw n ꞽt(ꞽ.w) nčr(.w)
 # lit = “The Ennead put their hands on their mouths (certainly) at the feet of this one who is you, of whom the god says that he will command the word to the fathers of the gods.”
 # trans = “The Ennead put their hands on their mouths (certainly) before this one who is you, of whom the god says that he will govern the fathers of the gods.”
 # type = Cleft sentence with adverbial focus
@@ -14042,7 +14042,7 @@
 17	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Hiero=𓆑
 18	mṭw	mṭw	NOUN	MWE=Yes	Gender=Masc|Number=Sing	16	obj	_	Hiero=(𓌃*𓅓:)𓂧𓅱
 19	n	n	ADP	Status=Cons	Case=Dat	20	case	_	Hiero=𓈖
-20	ꞽt(w)	ꞽt	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	iobj	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
+20	ꞽt(ꞽ.w)	ꞽtꞽ	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur	16	iobj	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
 21	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	Hiero=𓊹𓊹𓊹
 
 # sent_id = EUJA-825
@@ -14238,7 +14238,7 @@
 
 # sent_id = EUJA-837
 # ref = Pyramid Texts § 258c W, Saqqara, 5th Dynasty, rel, OE
-# text = ḥtp Ḥr.w ḥr ꞽt ⸗f ḥtp (Ꞽ)tm(.w) ḥr rnp.(w)t ⸗f
+# text = ḥtp Ḥr.w ḥr ꞽt(ꞽ) ⸗f ḥtp (Ꞽ)tm(.w) ḥr rnp.(w)t ⸗f
 # lit = “Horus is content about his father - Atum is content about his years.”
 # trans = “(Both of them:) Horus is content about his father, and Atum is content about his years.”
 # type = Balanced sentence
@@ -14246,7 +14246,7 @@
 1	ḥtp	ḥtp	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓊵(:𓏏*𓊪)
 2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓅃
 3	ḥr	ḥr	ADP	Status=Cons	_	4	case	_	Hiero=𓁷:𓂋
-4	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 5	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Hiero=𓆑
 6	ḥtp	ḥtp	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	Hiero=𓊵(:𓏏*𓊪)
 7	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	6	nsubj	_	Hiero=𓍃:𓏏
@@ -14395,7 +14395,7 @@
 
 # sent_id = EUJA-849
 # ref = Pyramid Texts § 261a W, Saqqara, 5th Dynasty, rel, OE
-# text = Ḥr.w pw wč̣ n ⸗f ꞽr(i̯).t n ꞽt ⸗f
+# text = Ḥr.w pw wč̣ n ⸗f ꞽr(i̯).t n ꞽt(ꞽ) ⸗f
 # lit = “Horus (is) this who was commanded to act for his father.”
 # trans = “It is Horus who has been commanded to act for his father.”
 # type = Nominal sentence (A pw)
@@ -14407,7 +14407,7 @@
 5	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Hiero=𓆑
 6	ꞽr(i̯).t	ꞽri̯	VERB	_	Gender=Masc|VerbForm=Inf	3	xcomp	_	Hiero=𓁹:𓏏
 7	n	n	ADP	Status=Pron	Case=Ben	8	case	_	Hiero=𓈖
-8	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
+8	ꞽt(ꞽ)	ꞽt(ꞽ)	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓇋𓏏
 9	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Hiero=𓆑
 
 # sent_id = EUJA-850
@@ -15216,7 +15216,7 @@
 
 # sent_id = EUJA-895
 # ref = Pyramid Texts § 277b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽr tm ⸗k ꞽr(.w) ś.t n Wnꞽś ꞽr.kꜣ Wnꞽś fꜣ.t m ꞽt ⸗f Gb(b)
+# text = ꞽr tm ⸗k ꞽr(.w) ś.t n Wnꞽś ꞽr.kꜣ Wnꞽś fꜣ.t m ꞽt(ꞽ) ⸗f Gb(b)
 # lit = "If you don't make a place for me, Unas will make a curse (?) on his father Geb."
 # trans = "If you fail to make a place for me, Unas will lay a curse (?) on his father Geb."
 # type = Marked verbal topic + verbal sentence
@@ -15232,13 +15232,13 @@
 9	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	8	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 10	fꜣ.t	fꜣ.t	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	Hiero=(𓆑:𓄿)𓏏
 11	m	m	ADP	Status=Cons	_	12	case	_	Hiero=𓅓
-12	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓇋𓏏
+12	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓇋𓏏
 13	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	Hiero=𓆑
 14	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	12	appos	_	Hiero=𓅭𓃀
 
 # sent_id = EUJA-896
 # ref = Pyramid Texts § 277b T, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽr tm ⸗k ꞽr(.w) ś.t n Ttꞽ pn ꞽr.kꜣ ⸗f fꜣ.t m ꞽt ⸗f Gb(b)
+# text = ꞽr tm ⸗k ꞽr(.w) ś.t n Ttꞽ pn ꞽr.kꜣ ⸗f fꜣ.t m ꞽt(ꞽ) ⸗f Gb(b)
 # lit = "If you don't make a place for this Teti, he will make a curse (?) on his father Geb."
 # trans = "If you fail to make a place for this Teti, he will lay a curse (?) on his father Geb."
 # type = Marked verbal topic + verbal sentence
@@ -15255,7 +15255,7 @@
 10	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Hiero=𓆑
 11	fꜣ.t	fꜣ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	9	obj	_	Hiero=(𓆑:𓄿)(𓏏:𓈓)
 12	m	m	ADP	Status=Cons	_	13	case	_	Hiero=𓅓
-13	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	Hiero=𓇋𓏏
+13	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	Hiero=𓇋𓏏
 14	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Hiero=𓆑
 15	Gb(b)	Gbb	PROPN	_	Case=Gen|Gender=Masc	13	appos	_	Hiero=𓅭𓃀
 
@@ -16192,7 +16192,7 @@
 
 # sent_id = EUJA-948
 # ref = Pyramid Texts § 294a-c W, Saqqara, 5th Dynasty, rel, OE
-# text = ḫr(.w) ⸗f šṭ(.y) ⸗f čs(y) ⸗f [nn] [rč̣.n] [n] [⸗f] ꞽt ⸗f Šw r-gś Śtẖ
+# text = ḫr(.w) ⸗f šṭ(.y) ⸗f čs(y) ⸗f [nn] [rč̣.n] [n] [⸗f] ꞽt(ꞽ) ⸗f Šw r-gś Śtẖ
 # lit = "He will appertain (?), take and lift up [this] [which] his father Shu gave [him] in the presence of Seth."
 # trans = "He will appertain (?), take and lift up [this] [which] his father Shu gave [him] in the presence of Seth."
 # type = Verbal sentence
@@ -16207,7 +16207,7 @@
 8	[rč̣.n]	rč̣i̯	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl:relcl	_	Hiero=(𓂋:𓏙)𓈖
 9	[n]	n	ADP	Status=Pron	Case=Dat	10	case	_	Hiero=𓈖
 10	[⸗f]	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	iobj	_	Hiero=𓆑
-11	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=𓇋𓏏
+11	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=𓇋𓏏
 12	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	Hiero=𓆑
 13	Šw	Šw	PROPN	_	Gender=Masc	11	appos	_	Hiero=𓈙(:𓆄*𓅱)
 14-15	r-gś	_	_	_	_	_	_	_	Hiero=𓂋:𓐜
@@ -16217,7 +16217,7 @@
 
 # sent_id = EUJA-949
 # ref = Pyramid Texts § 294b T, Saqqara, 6th Dynasty, rel, OE
-# text = šṭ.y Ttꞽ pn nn rč̣.n n ⸗f ꞽt ⸗f Šw r-gś Śtẖ
+# text = šṭ.y Ttꞽ pn nn rč̣.n n ⸗f ꞽt(ꞽ) ⸗f Šw r-gś Śtẖ
 # lit = "This Teti will take this which his father Shu gave him in the presence of Seth."
 # trans = "This Teti will take this which his father Shu gave him in the presence of Seth."
 # type = Verbal sentence
@@ -16229,7 +16229,7 @@
 5	rč̣.n	rč̣i̯	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	acl:relcl	_	Hiero=(𓂋:𓏙)𓈖
 6	n	n	ADP	Status=Pron	Case=Dat	7	case	_	Hiero=𓈖
 7	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	Hiero=𓆑
-8	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
+8	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
 9	⸗f	f	PRON	Pron=SFP|Poss=Yes|Hierocl=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Hiero=𓆑𓅆
 10	Šw	Šw	PROPN	Hierocl=Yes	Gender=Masc	8	appos	_	Hiero=𓈙(:𓆄*𓅱)𓅆
 11-12	r-gś	_	_	_	_	_	_	_	Hiero=𓂋(:𓐜*𓏤)
@@ -16239,7 +16239,7 @@
 
 # sent_id = EUJA-950
 # ref = Pyramid Texts § 294c T, Saqqara, 6th Dynasty, rel, OE
-# text = čs.y Ttꞽ pn nn rč̣.n n ⸗f ꞽt ⸗f Šw r-gś Śtẖ
+# text = čs.y Ttꞽ pn nn rč̣.n n ⸗f ꞽt(ꞽ) ⸗f Šw r-gś Śtẖ
 # lit = "This Teti will lift up this which his father Shu gave him in the presence of Seth."
 # trans = "This Teti will lift up this which his father Shu gave him in the presence of Seth."
 # type = Verbal sentence
@@ -16251,7 +16251,7 @@
 5	rč̣.n	rč̣i̯	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	4	acl:relcl	_	Hiero=(𓂋:𓏙)𓈖
 6	n	n	ADP	Status=Pron	Case=Dat	7	case	_	Hiero=𓈖
 7	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	Hiero=𓆑
-8	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
+8	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
 9	⸗f	f	PRON	Pron=SFP|Poss=Yes|Hierocl=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Hiero=𓆑𓅆
 10	Šw	Šw	PROPN	Hierocl=Yes	Gender=Masc	8	appos	_	Hiero=𓈙(:𓆄*𓅱)𓅆
 11-12	r-gś	_	_	_	_	_	_	_	Hiero=𓂋(:𓐜*𓏤)
@@ -17622,7 +17622,7 @@
 
 # sent_id = EUJA-1026
 # ref = Pyramid Texts § 316a W, Saqqara, 5th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw ꞽ Gb(b) kꜣ Nw.t Ḥr.w pꞽ Wnꞽś ꞽ(w)ꜥ ꞽt ⸗f
+# text = č̣(ṭ) mṭw ꞽ Gb(b) kꜣ Nw.t Ḥr.w pꞽ Wnꞽś ꞽ(w)ꜥ ꞽt(ꞽ) ⸗f
 # lit = “Saying a speech: 'O Geb, Bull of Nut, Horus is Unas, the heir of his father.'”
 # trans = “Recitation: 'O Geb, Bull of Nut! Horus is Unas the heir of his father.'”
 # type = Nominal sentence (A pw B)
@@ -17637,12 +17637,12 @@
 8	pꞽ	pꞽ	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	9	cop	_	Hiero=𓊪𓇋
 9	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	ccomp	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 10	ꞽ(w)ꜥ	ꞽwꜥ.w	NOUN	Hierocl=Yes	Definite=Cons|Gender=Masc|Number=Sing	9	appos	_	Hiero=𓇋(𓂝:𓄯)
-11	ꞽt	ꞽt	PROPN	_	Case=Gen|Gender=Masc	10	nmod	_	Hiero=𓇋𓏏
+11	ꞽt(ꞽ)	ꞽtꞽ	PROPN	_	Case=Gen|Gender=Masc	10	nmod	_	Hiero=𓇋𓏏
 12	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	Hiero=𓆑
 
 # sent_id = EUJA-1027
 # ref = Pyramid Texts § 316b-d W, Saqqara, 5th Dynasty, rel, OE
-# text = Wnꞽś pꞽ s.y ꞽꞽ.y fṭ.nw n(.ꞽ) fṭ.w ꞽpw nčr(.w) ꞽn.w mw (w)ṭ.w ꜥbꜥb.t ꞽr.w hy m ḫpš n(.ꞽ) ꞽt(.w) ⸗śn ꞽ:mr ⸗f mꜣꜥ-ḫrw ⸗f m ꞽr.tn ⸗f
+# text = Wnꞽś pꞽ s.y ꞽꞽ.y fṭ.nw n(.ꞽ) fṭ.w ꞽpw nčr(.w) ꞽn.w mw (w)ṭ.w ꜥbꜥb.t ꞽr.w hy m ḫpš n(.ꞽ) ꞽt(ꞽ.w) ⸗śn ꞽ:mr ⸗f mꜣꜥ-ḫrw ⸗f m ꞽr.tn ⸗f
 # lit = “Unas is the one who went and returned, the fourth of these four gods who brought water, who put purification (?), who did joy in the strength of their fathers, in order that he might desire his vindication by what he did.”
 # trans = “Unas is the one who went and returned, the fourth of these four gods who brought water, who carried out the purification (?), who rejoiced in the strength of their fathers, that he might desire to be vindicated by what he had done.”
 # type = Nominal sentence (A pw B)
@@ -17665,7 +17665,7 @@
 16	m	m	ADP	Status=Cons	Case=Ins	17	case	_	Hiero=𓅓
 17	ḫpš	ḫpš	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	14	obl	_	Hiero=(𓐍*𓊪:)𓈙𓄗
 18	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	17	amod	_	Hiero=𓈖
-19	ꞽt(.w)	ꞽt	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
+19	ꞽt(ꞽ.w)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
 20	⸗śn	śn	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	nmod	_	Hiero=𓋴𓈖
 21	ꞽ:mr	mri̯	VERB	SPC=Sub|Aug=Yes|Clause=Final	Mood=Sub	14	advcl	_	Hiero=(𓇋*𓌸:)𓂋
 22	⸗f	f	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	Hiero=𓆑
@@ -17960,7 +17960,7 @@
 
 # sent_id = EUJA-1045
 # ref = Pyramid Texts § 322b W, Saqqara, 5th Dynasty, rel, OE
-# text = Wnꞽś pꞽ č̣śč̣ś n(.ꞽ) ꞽt ⸗f nḫb n(.ꞽ) mw.t ⸗f
+# text = Wnꞽś pꞽ č̣śč̣ś n(.ꞽ) ꞽt(ꞽ) ⸗f nḫb n(.ꞽ) mw.t ⸗f
 # lit = "Unas is the alter ego of his father, the blossom of his mother."
 # trans = "Unas is the alter ego of his father, the blossom of his mother."
 # type = Nominal sentence (A pw B)
@@ -17969,7 +17969,7 @@
 2	pꞽ	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	Hiero=𓊪𓇋
 3	č̣śč̣ś	č̣śč̣ś	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=(𓆓𓋴)(𓆓𓋴)
 4	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	Hiero=𓈖
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	nḫb	nḫb	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	Hiero=𓇑𓃀𓏌
 8	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	Hiero=𓈖
@@ -20629,7 +20629,7 @@
 
 # sent_id = EUJA-1189
 # ref = Pyramid Texts § 380a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = nč̣r.w n ⸗f ꞽt Wnꞽś (Ꞽ)tm(.w) ꜥ n(.ꞽ) Wnꞽś ś:ꞽp ⸗f Wnꞽś n nčr(.w) ꞽpf śbḳ.ꞽw śꜣꜣ.ꞽw ꞽ:ḫm.w-śk(.w)
+# text = nč̣r.w n ⸗f ꞽt(ꞽ) Wnꞽś (Ꞽ)tm(.w) ꜥ n(.ꞽ) Wnꞽś ś:ꞽp ⸗f Wnꞽś n nčr(.w) ꞽpf śbḳ.ꞽw śꜣꜣ.ꞽw ꞽ:ḫm.w-śk(.w)
 # lit = “The father of Unas, Atum, will seize for him the arm of Unas, so that he will assign Unas to those excellent and wise gods, the Imperishable Stars.”
 # trans = “The father of Unas, Atum, will seize for him the arm of Unas, so that he will assign Unas to those excellent and wise gods, the Imperishable Stars.”
 # type = Verbal sentence
@@ -20637,7 +20637,7 @@
 1	nč̣r.w	nč̣ri̯	VERB	SPC=Fut|Type=Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓈖:𓇥:𓂋)𓅱
 2	n	n	ADP	Status=Pron	_	3	case	_	Hiero=𓈖
 3	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	Hiero=𓆑
-4	ꞽt	ꞽt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	1	nsubj	_	Hiero=𓇋𓏏
 5	Wnꞽś	Wnꞽś	PROPN	_	Case=Gen|Gender=Masc	4	nmod	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 6	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	4	appos	_	Hiero=𓍃:𓏏
 7	ꜥ	ꜥ	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓂝
@@ -20657,7 +20657,7 @@
 
 # sent_id = EUJA-1190
 # ref = Pyramid Texts § 380a-b P, Saqqara, 6th Dynasty, rel, OE
-# text = nč̣r ꜥ n(.ꞽ) Ppy pn ꞽn ꞽt ⸗f (Ꞽ)tm(.w) n ꜥnḫ ś:ꞽp ⸗f św n nčr(.w) ꞽpf śbḳ.ꞽw śꜣꜣ.ꞽw ꞽ:ḫm.w-śk(.w)
+# text = nč̣r ꜥ n(.ꞽ) Ppy pn ꞽn ꞽt(ꞽ) ⸗f (Ꞽ)tm(.w) n ꜥnḫ ś:ꞽp ⸗f św n nčr(.w) ꞽpf śbḳ.ꞽw śꜣꜣ.ꞽw ꞽ:ḫm.w-śk(.w)
 # lit = “The arm of this Pepy will be seized by his father, Atum, for the life, so that he will assign him to those excellent and wise gods, the Imperishable Stars.”
 # trans = “The arm of this Pepy will be seized by his father, Atum, for the life, so that he will assign him to those excellent and wise gods, the Imperishable Stars.”
 # type = Verbal sentence
@@ -20668,7 +20668,7 @@
 4	Ppy	Ppy	PROPN	_	Gender=Masc	3	obl	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺
 5	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Hiero=𓊪:𓈖
 6	ꞽn	ꞽn	ADP	Status=Cons	_	7	case	_	Hiero=𓇋:𓈖
-7	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	Hiero=𓇋𓏏
+7	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl:agent	_	Hiero=𓇋𓏏
 8	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod	_	Hiero=𓆑
 9	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	7	appos	_	Hiero=𓍃:𓏏
 10	n	n	ADP	Status=Cons	Case=Cau	11	case	_	Hiero=𓈖
@@ -21156,7 +21156,7 @@
 
 # sent_id = EUJA-1216
 # ref = Pyramid Texts § 389b-390a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜥḥꜥ č̣č̣.w(ꞽ) hꜣ.y ḥč̣.(w)t pr Wnꞽś ḥr mꜣḳ.t tn ꞽr.tn n ⸗f ꞽt ⸗f Rꜥw
+# text = ꜥḥꜥ č̣č̣.w(ꞽ) hꜣ.y ḥč̣.(w)t pr Wnꞽś ḥr mꜣḳ.t tn ꞽr.tn n ⸗f ꞽt(ꞽ) ⸗f Rꜥw
 # lit = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
 # trans = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
 # type = Verbal sentence
@@ -21173,13 +21173,13 @@
 10	ꞽr.tn	ꞽri̯	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	8	acl:relcl	_	Hiero=𓇋(𓁹:𓏏)𓈖
 11	n	n	ADP	Status=Pron	Case=Dat	12	case	_	Hiero=𓈖
 12	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	iobj	_	Hiero=𓆑
-13	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	Hiero=𓇋𓏏
+13	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	Hiero=𓇋𓏏
 14	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Hiero=𓆑
 15	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	13	appos	_	Hiero=𓇳
 
 # sent_id = EUJA-1217
 # ref = Pyramid Texts § 389b-390a N, Saqqara, 6th Dynasty, rel, OE
-# text = ꜥḥꜥ č̣č̣.w(ꞽ) hꜣ ḥč̣.(w)t pr.y Ppy Nfr-kꜣ-rꜥ ḥr mꜣḳ.t tn ꞽr.tn n ⸗f ꞽt ⸗f Rꜥw
+# text = ꜥḥꜥ č̣č̣.w(ꞽ) hꜣ ḥč̣.(w)t pr.y Ppy Nfr-kꜣ-rꜥ ḥr mꜣḳ.t tn ꞽr.tn n ⸗f ꞽt(ꞽ) ⸗f Rꜥw
 # lit = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
 # trans = "The two pillars shall stand and the crossbars (?) shall descend that Unas may ascend on this ladder which his father Re made for him."
 # type = Verbal sentence
@@ -21197,7 +21197,7 @@
 11	ꞽr.tn	ꞽri̯	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	acl:relcl	_	Hiero=𓇋(𓁹:𓏏)𓈖
 12	n	n	ADP	Status=Pron	Case=Dat	13	case	_	Hiero=𓈖
 13	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj	_	Hiero=𓆑
-14	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	Hiero=𓇋𓏏
+14	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	Hiero=𓇋𓏏
 15	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod	_	Hiero=𓆑
 16	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	14	appos	_	Hiero=𓇳
 
@@ -21407,7 +21407,7 @@
 
 # sent_id = EUJA-1232
 # ref = Pyramid Texts § 393b-394b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꜣkr.w gr r ⸗śn gnm.w mꜣ.n ⸗śn Wnꞽś ḫꜥ(.w) bꜣ(.w) m nčr ꜥnḫ m ꞽt(.w) ⸗f wšb m mw.(w)t ⸗f
+# text = ꜣkr.w gr r ⸗śn gnm.w mꜣ.n ⸗śn Wnꞽś ḫꜥ(.w) bꜣ(.w) m nčr ꜥnḫ m ꞽt(ꞽ.w) ⸗f wšb m mw.(w)t ⸗f
 # lit = “The earth gods, the decans (?) are stilled about them after they have seen Unas appearing and impressive as a god who lives on his fathers and feeds on his mothers.”
 # trans = “The earth gods, the decans (?) are stilled about them, for they have seen Unas appearing and impressive as a god who lives on his fathers and feeds on his mothers.”
 # type = Verbal sentence
@@ -21426,7 +21426,7 @@
 12	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓊹
 13	ꜥnḫ	ꜥnḫ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	12	acl	_	Hiero=𓋹
 14	m	m	ADP	Status=Cons	_	15	case	_	Hiero=𓅓
-15	ꞽt(.w)	ꞽt	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
+15	ꞽt(ꞽ.w)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	Hiero=(𓇋:𓏏)(𓇋:𓏏)(𓇋:𓏏)
 16	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Hiero=𓆑
 17	wšb	wšb	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	12	acl	_	Hiero=𓅱𓈙𓃀
 18	m	m	ADP	Status=Cons	_	19	case	_	Hiero=𓅓
@@ -21465,7 +21465,7 @@
 
 # sent_id = EUJA-1235
 # ref = Pyramid Texts § 395a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw wśr ⸗f m ꜣḫ.t mr (Ꞽ)tm(.w) ꞽt ⸗f mś św
+# text = ꞽw wśr ⸗f m ꜣḫ.t mr (Ꞽ)tm(.w) ꞽt(ꞽ) ⸗f mś św
 # lit = "His power is in the horizon like Atum, his father, who begot him."
 # trans = "His power is in the horizon like his father Atum who begot him."
 # type = ꞽw + Adverbial sentence
@@ -21477,7 +21477,7 @@
 5	ꜣḫ.t	ꜣḫ.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	0	root	_	Hiero=𓏏𓅜𓇿
 6	mr	mr	ADP	Status=Cons	Case=Equ	7	case	_	Hiero=𓏇
 7	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	5	obl	_	Hiero=𓍃:𓏏
-8	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	Hiero=𓇋𓏏
+8	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	Hiero=𓇋𓏏
 9	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Hiero=𓆑
 10	mś	mśi̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	Hiero=𓄟
 11	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Hiero=𓇓𓅱
@@ -22159,7 +22159,7 @@
 
 # sent_id = EUJA-1276
 # ref = Pyramid Texts § 408c W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽw rč̣(.w) n ⸗f ꜥ m śḫm-wr ꞽn Śꜣḥ ꞽt nčr(.w)
+# text = ꞽw rč̣(.w) n ⸗f ꜥ m śḫm-wr ꞽn Śꜣḥ ꞽt(ꞽ) nčr(.w)
 # lit = "There is given to him a warrant as Great Power by Orion, father of the gods."
 # trans = "There is given to him a warrant as Great Power by Orion, father of the gods."
 # type = ꞽw + Verbal sentence
@@ -22175,7 +22175,7 @@
 8	wr	wr	ADJ	_	Gender=Masc|Number=Sing	7	compound	_	Hiero=𓅨
 9	ꞽn	ꞽn	ADP	Status=Cons	_	10	case	_	Hiero=𓇋:𓈖
 10	Śꜣḥ	Śꜣḥ	PROPN	Hierocl=Yes	Gender=Masc	2	obl:agent	_	Hiero=𓃃:𓇼
-11	ꞽt	ꞽt	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	appos	_	Hiero=𓇋𓏏
+11	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	10	appos	_	Hiero=𓇋𓏏
 12	nčr(.w)	nčr	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	Hiero=𓊹𓊹𓊹
 
 # sent_id = EUJA-1277
@@ -23444,7 +23444,7 @@
 
 # sent_id = EUJA-1355
 # ref = Pyramid Texts § 439b-c W, Saqqara, 5th Dynasty, rel, OE
-# text = hmč śn n.ꞽ hmč.t mwt ꞽt ⸗k Č̣ꜥꜥm.ꞽw
+# text = hmč śn n.ꞽ hmč.t mwt ꞽtꞽ ⸗k Č̣ꜥꜥm.ꞽw
 # lit = “Snake, brother of the female snake, your father, Djaamiu shall die.”
 # trans = “Snake, brother of the female snake, your father, Djaamiu shall die.”
 # type = Nominal sentence (A pw)
@@ -23454,7 +23454,7 @@
 3	n.ꞽ	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	Hiero=𓈖:𓇋
 4	hmč.t	hmč.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	3	obl	_	Hiero=𓉔𓅓(𓍿:𓏏)𓆙
 5	mwt	mwt	VERB	SPC=Sub	Mood=Sub	0	root	_	Hiero=𓅓𓏏
-6	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
+6	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
 7	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Hiero=𓎡
 8	Č̣ꜥꜥm.ꞽw	Č̣ꜥꜥm.ꞽw	PROPN	_	Gender=Masc	6	appos	_	Hiero=(𓆓:𓂝)𓂝𓅓𓇋𓅱
 
@@ -23878,7 +23878,7 @@
 
 # sent_id = EUJA-1380
 # ref = Pyramid Texts § 448a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽ:č̣ṭ ⸗čn n ꞽt ⸗čn wn.t rč̣.n n ⸗čn Wnꞽś pꜣw.(w)t ⸗čn ś:ḥtp.n čn Wnꞽś m č.wt ⸗čn
+# text = ꞽ:č̣ṭ ⸗čn n ꞽt(ꞽ) ⸗čn wn.t rč̣.n n ⸗čn Wnꞽś pꜣw.(w)t ⸗čn ś:ḥtp.n čn Wnꞽś m č.wt ⸗čn
 # lit = “You should say to your father that Unas has given to you your offering-loaves and that Unas has propitiated you with your dues.”
 # trans = “You should say to your father that Unas has given to you your offering-loaves and that Unas has propitiated you with your dues.”
 # type = Verbal sentence + object clause
@@ -23886,7 +23886,7 @@
 1	ꞽ:č̣ṭ	č̣ṭ	VERB	SPC=Sub|Aug=Yes	Mood=Sub	0	root	_	Hiero=𓇋(𓆓:𓂧)
 2	⸗čn	čn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓍿:𓈖
 3	n	n	ADP	Status=Pron	Case=Dat	4	case	_	Hiero=𓈖
-4	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+4	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 5	⸗čn	čn	PRON	Pron=SFP|Poss=Yes	Gender=Com|Number=Plur|Person=2|PronType=Prs	4	nmod	_	Hiero=𓍿:𓈖
 6	wn.t	wn.t	SCONJ	_	_	7	mark	_	Hiero=𓃹:𓈖:𓏏
 7	rč̣.n	rč̣i̯	VERB	SPC=Past-2	Tense=Past|VerbForm=Fin	1	ccomp	_	Hiero=(𓂋:𓏙)𓈖
@@ -25071,7 +25071,7 @@
 
 # sent_id = EUJA-1445
 # ref = Pyramid Texts § 472b-d W, Saqqara, 5th Dynasty, rel, OE
-# text = č(ꜣ)s(.w) mꜣḳ.t ꞽn Rꜥw ḫft ꞽt ⸗f Wśr.w m šm ⸗f n ꜣḫ ⸗f wꜥ ⸗śn(ꞽ) m pn gś wꜥ ⸗śn(ꞽ) m pn gś
+# text = č(ꜣ)s(.w) mꜣḳ.t ꞽn Rꜥw ḫft ꞽt(ꞽ) ⸗f Wśr.w m šm ⸗f n ꜣḫ ⸗f wꜥ ⸗śn(ꞽ) m pn gś wꜥ ⸗śn(ꞽ) m pn gś
 # lit = "'A ladder was knotted together by Horus before his father Osiris when he went to his spirit, one of them being on this side and one of them being on that side'."
 # trans = "'A ladder was knotted together by Horus before his father Osiris when he went to his spirit, one of them being on this side and one of them being on that side'."
 # type = Verbal sentence
@@ -25081,7 +25081,7 @@
 3	ꞽn	ꞽn	ADP	Status=Cons	_	4	case	_	Hiero=𓇋𓈖
 4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	obl:agent	_	Hiero=𓅃
 5	ḫft	ḫft	ADP	Status=Cons	Case=Loc	6	case	_	Hiero=𓐍:𓆑:𓏏
-6	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+6	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 7	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Hiero=𓆑
 8	Wśr.w	Wśr.w	PROPN	_	Gender=Masc	6	appos	_	Hiero=𓊨:𓁹
 9	m	m	ADP	Status=Cons	_	10	case	_	Hiero=𓅓
@@ -25539,7 +25539,7 @@
 
 # sent_id = EUJA-1469
 # ref = Pyramid Texts § 482c W, Saqqara, 5th Dynasty, rel, OE
-# text = mw.t n.t Wnꞽś Ꞽwn.w(t) ꞽt n(.ꞽ) Wnꞽś Ꞽwn.w(y)
+# text = mw.t n.t Wnꞽś Ꞽwn.w(t) (ꞽ)t(ꞽ) n(.ꞽ) Wnꞽś Ꞽwn.w(y)
 # lit = "The mother of Unas is a Heliopolitan, the father of Unas is a Heliopolitan."
 # trans = "The mother of Unas is a Heliopolitan, the father of Unas is a Heliopolitan."
 # type = Nominal sentence (A = B)
@@ -25548,14 +25548,14 @@
 2	n.t	n	ADJ	Nisba=Prep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	𓈖:𓏏
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obl	_	𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4	Ꞽwn.w(t)	Ꞽwn.w	NOUN	Nisba=Noun|Hierocl=Yes	Gender=Fem|Number=Sing	0	root	_	Hiero=𓉺(𓏌:𓊖)
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	𓏏:𓆑
+5	(ꞽ)t(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	𓏏:𓆑
 6	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	𓈖
 7	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	6	obl	_	𓍹(𓃹:𓈖)𓇋𓋴𓍺
 8	Ꞽwn.w(y)	Ꞽwn.w	NOUN	Nisba=Noun|Hierocl=Yes	Gender=Masc|Number=Sing	4	parataxis	_	Hiero=𓉺(𓏌:𓊖)
 
 # sent_id = EUJA-1470
 # ref = Pyramid Texts § 483a-c W, Saqqara, 5th Dynasty, rel, OE
-# text = Wnꞽś č̣ś ⸗f Ꞽwn.w(y) mś.y m Ꞽwn.w śk Rꜥw ḥr-ṭp pśč̣.t(ꞽ) ḥr-ṭp rḫ.(w)t nfr(.w) tm(.w) ꞽw.t(ꞽ) śn.nw ⸗f ꞽwꜥ (ꞽ)t ⸗f Gb(b)
+# text = Wnꞽś č̣ś ⸗f Ꞽwn.w(y) mś.y m Ꞽwn.w śk Rꜥw ḥr-ṭp pśč̣.t(ꞽ) ḥr-ṭp rḫ.(w)t nfr(.w) tm(.w) ꞽw.t(ꞽ) śn.nw ⸗f ꞽwꜥ (ꞽ)t(ꞽ) ⸗f Gb(b)
 # lit = "Unas himself is a Heliopolitan, one who born in Heliopolis, when Re was over the two Enneads and the plebs, beaing perfect and complete, who has no equal, the heir of his father, Geb."
 # trans = "Unas himself is a Heliopolitan, one who born in Heliopolis, when Re was over the two Enneads and the plebs, beaing perfect and complete, who has no equal, the heir of his father, Geb."
 # type = Nominal sentence (A = B)
@@ -25583,7 +25583,7 @@
 19	śn.nw	śn.nw	NOUN	_	Gender=Masc|Number=Dual	4	acl:relcl	_	Hiero=𓌢(𓐅:𓏌)𓅱
 20	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Hiero=𓆑
 21	ꞽwꜥ	ꞽwꜥ.w	NOUN	_	Definite=Cons|Gender=Masc|Number=Sing	19	appos	_	Hiero=𓇋𓅱(𓂝:𓄯)
-22	(ꞽ)t	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	Hiero=𓏏
+22	(ꞽ)t(ꞽ)	ꞽtꞽ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	Hiero=𓏏
 23	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nmod	_	Hiero=𓆑
 24	Gb(b)	Gbb	PROPN	_	Gender=Masc	22	appos	_	Hiero=𓅭𓃀
 
@@ -26067,7 +26067,7 @@
 
 # sent_id = EUJA-1497
 # ref = Pyramid Texts § 493a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽꞽ.n Wnꞽś m-ḫt ꞽt ⸗f
+# text = ꞽꞽ.n Wnꞽś m-ḫt ꞽt(ꞽ) ⸗f
 # lit = “Unas came behind his father.”
 # trans = “It is following his father that Unas came.”
 # type = Cleft sentence with adverbial focus
@@ -26077,7 +26077,7 @@
 3-4	m-ḫt	_	_	_	_	_	_	_	Hiero=𓅓(UC_No:𓏏)
 3	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	5	case	_	Hiero=𓅓
 4	ḫt	ḫt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	Hiero=UC_No:𓏏
-5	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
+5	ꞽt(ꞽ)	ꞽt(ꞽ)	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇋𓏏
 6	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 
 # sent_id = EUJA-1498
