@@ -7568,7 +7568,7 @@
 1	ꜥꜣb.t	ꜥꜣb.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=𓇎𓏏((𓏐*𓏊):𓏖)
 2	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nmod	_	Hiero=𓆑
 3-4	m-m	_	_	_	_	_	_	_	Hiero=𓅓𓅓
-3	m	m	ADP	Status=Cons	Case=Dis	5	case	_	Hiero=𓅓
+3	m	m	ADP	Status=Cons	Case=Dis|ExtPos=ADP	5	case	_	Hiero=𓅓
 4	m	m	ADP	_	_	3	fixed	_	Hiero=𓅓
 5	⸗čn	čn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	0	root	_	Hiero=𓍿:𓈖
 6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	vocative	_	Hiero=𓊹𓊹𓊹
@@ -8295,7 +8295,7 @@
 # comment = No
 1	ꞽ:sꞽ	sꞽ	VERB	Aug=Yes	Mood=Imp|Number=Sing	0	root	_	Hiero=𓇋𓊄𓇋
 2-3	m-ḫt	_	_	_	_	_	_	_	Hiero=𓅓(𓆱:𓏏)
-2	m	m	ADP	Status=Cons	Case=Loc	4	case	_	Hiero=𓅓
+2	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	4	case	_	Hiero=𓅓
 3	ḫt	ḫt	NOUN	MWE=Yes	Gender=Masc|Number=Sing	2	fixed	_	Hiero=(𓆱:𓏏)
 4	rꜥw	rꜥw	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓇳
 5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
@@ -8328,7 +8328,7 @@
 1	wn	wnn	VERB	SPC=Sub	Mood=Sub	0	root	_	Hiero=𓃹:𓈖
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3-4	ꞽr-gś	_	_	_	_	_	_	_	Hiero=𓇋𓂋𓎼𓋴𓐜
-3	ꞽr	r	ADP	Status=Cons	_	5	case	_	Hiero=𓇋𓂋
+3	ꞽr	r	ADP	Status=Cons	ExtPos=ADP	5	case	_	Hiero=𓇋𓂋
 4	gś	gś	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	3	fixed	_	Hiero=𓎼𓋴𓐜
 5	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓊹
 
@@ -8537,7 +8537,7 @@
 3	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	Hiero=𓎡
 4	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obj	_	Hiero=𓇓𓅱
 5-6	m-ẖnw	_	_	_	_	_	_	_	Hiero=𓅓𓄚𓏌
-5	m	m	ADP	Status=Cons	Case=Loc	7	case	_	Hiero=𓅓
+5	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	7	case	_	Hiero=𓅓
 6	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	Hiero=𓄚𓏌
 7	ꜥ(.wꞽ)	ꜥ	NOUN	_	Gender=Masc|Number=Dual	1	obl	_	Hiero=𓂝
 8	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod	_	Hiero=𓎡
@@ -8694,8 +8694,8 @@
 5	nkn	nkn	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓈖:𓎡:𓈖
 6	pn	pn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	nmod	_	Hiero=𓊪:𓈖
 7-8	čꜣs-pẖr	_	_	_	_	_	_	_	Hiero=𓋭𓄲
-7	čꜣs	čꜣs	NOUN	_	Gender=Masc|Number=Sing	9	cc	_	Hiero=𓋭
-8	pẖr	pẖr	NOUN	MWE=Yes	Gender=Masc|Number=Sing	7	fixed	_	Hiero=𓄲
+7	čꜣs	čꜣs	NOUN	_	AdvType=Mod|Gender=Masc|Number=Sing	4	obl	_	Hiero=𓋭
+8	pẖr	pẖr	NOUN	MWE=Yes	Gender=Masc|Number=Sing	7	compound	_	Hiero=𓄲
 9	n	n	PART	Neg	PartType=Neg	1	conj	_	Hiero=𓂜
 10	nkn	nkn	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	Hiero=𓈖:𓎡:𓈖
 11	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nmod	_	Hiero=𓎡
@@ -9261,13 +9261,13 @@
 7	n	n	ADP	Status=Pron	Case=Ben	8	case	_	Hiero=𓈖
 8	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	5	obl	_	Hiero=𓋴𓈖
 9-10	m-ẖnw	_	_	_	_	_	_	_	Hiero=𓅓𓄚𓏌
-9	m	m	ADP	Status=Cons	Case=Loc	11	case	_	Hiero=𓅓
+9	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	11	case	_	Hiero=𓅓
 10	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	Hiero=𓄚𓏌
 11	ꜥ(.wꞽ)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obl	_	Hiero=𓂝
 12	ꞽt	ꞽt	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Hiero=𓇋𓏏
 13	⸗f	f	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	Hiero=𓆑
 14-15	m-ẖnw	_	_	_	_	_	_	_	Hiero=𓅓𓄚𓏌
-14	m	m	ADP	Status=Cons	Case=Loc	16	case	_	Hiero=𓅓
+14	m	m	ADP	Status=Cons	Case=Loc|ExtPos=ADP	16	case	_	Hiero=𓅓
 15	ẖnw	ẖnw	NOUN	_	Gender=Masc|Number=Sing	14	fixed	_	Hiero=𓄚𓏌
 16	ꜥ(.wꞽ)	ꜥ	NOUN	_	Definite=Cons|Gender=Masc|Number=Dual	5	obl	_	Hiero=𓂝
 17	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Case=Gen|Gender=Masc	16	nmod	_	Hiero=𓍃:𓏏
@@ -9827,7 +9827,7 @@
 # trans = "See what Seth and Thoth have done, your two brothers do not know how to mourn you."
 # type = Verbal sentence
 # comment = According to Edel (1955/64, § 1129), ꞽ:ḫm.w(ꞽ) is a participle.
-1	m	m	PART	_	_	3	discourse	_	Hiero=𓅓
+1	m	m	PART	_	ExtPos=INTJ	3	discourse	_	Hiero=𓅓
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	fixed	_	Hiero=𓎡
 3	ꞽr.tn	ꞽri̯	VERB	NOUN|VerbForm=RelForm|Tense=Past-2	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Fin	9	dislocated	_	Hiero=𓁹:𓏏:𓈖
 4	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓃩
@@ -9940,13 +9940,13 @@
 # comment = No
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	7	vocative	_	Hiero=𓍃:𓏏
-4	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	Hiero=𓅭
+3	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	4	vocative	_	Hiero=𓍃:𓏏
+4	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	Hiero=𓅭
 5	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
-6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	cop	_	Hiero=𓊪𓅱
+6	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	Hiero=𓊪𓅱
 7-8	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-7	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	ccomp	_	Hiero=𓊪
-8	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	7	fixed	_	Hiero=𓇒
+7	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Hiero=𓊪
+8	nn	nn	ADV	_	AdvType=Loc	7	fixed	_	Hiero=𓇒
 9	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	7	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-573
@@ -10041,13 +10041,13 @@
 # trans = “Shu, your son is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Šw	Šw	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓆄𓈙
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓅭
+1	Šw	Šw	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓆄𓈙
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅭
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-580
@@ -10057,13 +10057,13 @@
 # trans = “Tefnut, your son is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Tfn.wt	Tfn.wt	PROPN	_	Gender=Fem	5	vocative	_	Hiero=(𓏏:𓆑:𓈖)(𓏌:𓏏)
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓅭
+1	Tfn.wt	Tfn.wt	PROPN	_	Gender=Fem	2	vocative	_	Hiero=(𓏏:𓆑:𓈖)(𓏌:𓏏)
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅭
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-581
@@ -10087,13 +10087,13 @@
 # trans = “Geb, your son is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Gb(b)	Gbb	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓅭𓃀
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓅭
+1	Gb(b)	Gbb	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅭𓃀
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅭
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-583
@@ -10103,13 +10103,13 @@
 # trans = “Nut, your son is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Nw.t	Nw.t	PROPN	_	Gender=Fem	5	vocative	_	Hiero=𓏌:𓏏
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓅭
+1	Nw.t	Nw.t	PROPN	_	Gender=Fem	2	vocative	_	Hiero=𓏌:𓏏
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅭
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-584
@@ -10119,13 +10119,13 @@
 # trans = “Isis, your brother is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Ꜣś.t	Ꜣś.t	PROPN	_	Gender=Fem	5	vocative	_	Hiero=𓊨𓏏
-2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓌢
+1	Ꜣś.t	Ꜣś.t	PROPN	_	Gender=Fem	2	vocative	_	Hiero=𓊨𓏏
+2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓌢
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-585
@@ -10135,13 +10135,13 @@
 # trans = “Seth, your brother is this one here, Osiris; he was caused to revive and live to punish you.”
 # type = Nominal sentence (A pw B)
 # comment = According to Edel (1955/64: 314, § 639) and Allen (2017: 127, § 15.6), č̣.y is a passive participle, cf. EUJA-587.
-1	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓃫
-2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓌢
+1	Śtẖ	Śtẖ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓃫
+2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓌢
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 8	č̣.y	rč̣i̯	VERB	OSSC=Pass|VerbForm=Fin|ImpPass	Gender=Masc|Number=Sing|Person=3	5	parataxis	_	Hiero=𓏙𓇋𓇋
 9	śč̣b	śč̣b	VERB	SPC=Sub|Clause=Final	Mood=Sub	8	advcl	_	Hiero=𓋴(𓆓:𓃀)
@@ -10159,13 +10159,13 @@
 # trans = “Nephthys, your brother is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	5	vocative	_	Hiero=UC_No
-2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓌢
+1	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	2	vocative	_	Hiero=UC_No
+2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓌢
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-587
@@ -10175,13 +10175,13 @@
 # trans = “Thoth, your Brother is this one here, Osiris; he was caused to revive and live to punish you.”
 # type = Nominal sentence (A pw B)
 # comment = According to Edel (1955/64: 314, § 639) and Allen (2017: 127, § 15.6), č̣.y is a passive participle, cf. EUJA-585.
-1	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓅝
-2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓌢
+1	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅝
+2	śn	śn	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓌢
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 8	č̣.y	rč̣i̯	VERB	OSSC=Pass|VerbForm=Fin|ImpPass	Gender=Masc|Number=Sing|Person=3	5	parataxis	_	Hiero=𓏙𓇋𓇋
 9	śč̣b	śč̣b	VERB	SPC=Sub|Clause=Final	Mood=Sub	8	advcl	_	Hiero=𓋴(𓆓:𓃀)
@@ -10194,17 +10194,18 @@
 
 # sent_id = EUJA-588
 # ref = Pyramid Texts § 176a W, Saqqara, 5th Dynasty, rel, OE
-# text = Ḥr.w ꞽt ⸗k pw nn Wśr(.w)
+# text = Ḥr.w ꞽt ⸗k pw-nn Wśr(.w)
 # lit = “Horus, your father is this one, this one, Osiris.”
 # trans = “Horus, your father is this one here, Osiris.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	5	vocative	_	Hiero=𓅃
-2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓇋𓏏
+1	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅃
+2	ꞽt	ꞽt	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓇋𓏏
 3	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
-5	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓇒
-6	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
+4-5	pw-nn	_	_	_	_	_	_	_	Hiero=𓊪𓅱𓇒
+4	pw	pw	DET	Dem	ExtPos=Pron|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪𓅱
+5	nn	nn	ADV	_	AdvType=Loc	4	fixed	_	Hiero=𓇒
+6	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	4	appos	_	Hiero=𓊨:𓁹
 
 # sent_id = EUJA-589
 # ref = Pyramid Texts § 177a W, Saqqara, 5th Dynasty, rel, OE
@@ -10214,13 +10215,13 @@
 # type = Nominal sentence (A pw B)
 # comment = No
 1-2	pśč̣.t-ꜥꜣ.t	_	_	_	_	_	_	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹(𓉻:𓏏)
-1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	5	vocative	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
+1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	3	vocative	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
 2	ꜥꜣ.t	ꜥꜣ	ADJ	_	Gender=Fem|Number=Sing	1	compound	_	Hiero=(𓉻:𓏏)
-3	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	nsubj	_	Hiero=𓊨:𓁹
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+3	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	0	root	_	Hiero=𓊨:𓁹
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 
 # sent_id = EUJA-590
 # ref = Pyramid Texts § 177a/178a W, Saqqara, 5th Dynasty, rel, OE
@@ -10244,13 +10245,13 @@
 # type = Nominal sentence (A pw B)
 # comment = No
 1-2	pśč̣.t-nč̣ś.t	_	_	_	_	_	_	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹(𓅪:𓏏)
-1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	5	vocative	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
+1	pśč̣.t	pśč̣.t	NOUN	_	Gender=Fem|Number=Coll	3	vocative	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
 2	nč̣ś.t	nč̣ś.t	ADJ	_	Gender=Fem|Number=Sing	1	compound	_	Hiero=(𓅪:𓏏)
-3	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	nsubj	_	Hiero=𓊨:𓁹
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+3	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	0	root	_	Hiero=𓊨:𓁹
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 
 # sent_id = EUJA-592
 # ref = Pyramid Texts § 179a W, Saqqara, 5th Dynasty, rel, OE
@@ -10259,13 +10260,13 @@
 # trans = “Nut, your son is this one here, Osiris, of whom you have said.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	Nw.t	Nw.t	PROPN	_	Gender=Fem	5	vocative	_	Hiero=UC_143DF:𓏏
-2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓅭
+1	Nw.t	Nw.t	PROPN	_	Gender=Fem	2	vocative	_	Hiero=UC_143DF:𓏏
+2	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓅭
 3	⸗č	č	PRON	Pron=SFP|Poss=Yes	Gender=Fem|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓍿
-4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱
+4	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	Hiero=𓊪𓅱
 5-6	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓇒
-5	p(w)	pw	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪
-6	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	5	fixed	_	Hiero=𓇒
+5	p(w)	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	Hiero=𓊪
+6	nn	nn	ADV	_	AdvType=Loc	5	fixed	_	Hiero=𓇒
 7	Wśr(.w)	Wśr(.w)	PROPN	_	Gender=Masc	5	appos	_	Hiero=𓊨:𓁹
 8	č̣ṭ.n	č̣ṭ	VERB	ADJ|VerbForm=RelForm|Tense=Past-2	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	7	acl:relcl	_	Hiero=(𓆓:𓂧)𓈖
 9	⸗č	č	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Hiero=𓍿
@@ -12798,22 +12799,23 @@
 
 # sent_id = EUJA-746
 # ref = Pyramid Texts § 229a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw ꜥn.t tw nn n.t (Ꞽ)tm(.w) ḥr.t č(ꜣ)s-bḳś.w Nḥb.w-kꜣ(.w) ś:sꜣ.t ẖnn.w m Wnw
+# text = č̣(ṭ) mṭw ꜥn.t tw-nn n.t (Ꞽ)tm(.w) ḥr.t č(ꜣ)s-bḳś.w Nḥb.w-kꜣ(.w) ś:sꜣ.t ẖnn.w m Wnw
 # lit = “Saying a speech: 'The fingernail of Atum is which is on the vertebra of Nehebu-kau, which stilled the turmoil in Hermopolis, is this.'”
 # trans = “Recitation: 'The fingernail of Atum which is on the vertebra of Nehebu-kau and which stilled the turmoil in Hermopolis, is this here.'”
 # type = Nominal sentence (A pw B)
 # comment = No
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ꜥn.t	ꜥn.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=(𓂝:𓈖:𓏏)UC_142AD
-4	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓏏𓅱
-5	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	1	ccomp	_	Hiero=𓇒
+3	ꜥn.t	ꜥn.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	0	root	_	Hiero=(𓂝:𓈖:𓏏)UC_142AD
+4-5	tw-nn	_	_	_	_	_	_	_	Hiero=𓏏𓅱𓇒
+4	tw	tw	DET	Dem	ExtPos=Pron|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	Hiero=𓏏𓅱
+5	nn	nn	ADV	_	AdvType=Loc	4	fixed	_	Hiero=𓇒
 6	n.t	n	ADJ	Nisba=Prep	Case=Gen|Gender=Fem|Number=Sing	3	amod	_	Hiero=𓈖:𓏏
 7	(Ꞽ)tm(.w)	Ꞽtm.w	PROPN	_	Gender=Masc	6	obl	_	Hiero=𓏏:𓍃
 8	ḥr.t	ḥr	ADJ	Nisba=Prep	Gender=Fem|Number=Sing	3	amod	_	Hiero=𓁷:𓂋:𓏏
 9-10	č(ꜣ)s-bḳś.w	_	_	_	_	_	_	_	Hiero=(𓍿:𓊃:𓋭)𓈎𓃀𓇓𓅱
 9	č(ꜣ)s	čꜣs	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	Hiero=𓍿:𓊃:𓋭
-10	bḳś.w	bḳś.w	NOUN	_	Gender^=Masc|Number=Sing	9	compound	_	Hiero=𓈎𓃀𓇓𓅱
+10	bḳś.w	bḳś.w	NOUN	_	Gender=Masc|Number=Sing	9	compound	_	Hiero=𓈎𓃀𓇓𓅱
 11-12	Nḥb.w-kꜣ(.w)	_	_	_	_	_	_	_	Hiero=𓎛𓅘𓃀𓅱((𓂓*𓂓:)𓂓)𓂕
 11	Nḥb.w	Nḥb.w	PROPN	_	Case=Gen|Gender=Masc	9	nmod	_	Hiero=𓎛𓅘𓃀𓅱
 12	kꜣ(.w)	kꜣ(.w)	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	11	flat	_	Hiero=((𓂓*𓂓:)𓂓)𓂕
@@ -13393,7 +13395,7 @@
 
 # sent_id = EUJA-786
 # ref = Pyramid Texts § 242c W, Saqqara, 5th Dynasty, rel, OE
-# text = Nbw-ḥꞽkn.w Ḫꜥ.y-tꜣ.w kꜣ ⸗k pw nn wꜣš ꞽrr.w n ꞽr(.w) ⸗f
+# text = Nbw-ḥꞽkn.w Ḫꜥ.y-tꜣ.w kꜣ ⸗k pw-nn wꜣš ꞽrr.w n ꞽr(.w) ⸗f
 # lit = "O Nebu-hikenu, Khay-tau, your bull is this one, the strong one on account of whose actions men act."
 # trans = "O Nebu-hikenu, Khay-tau, your bull is this one, the strong one on account of whose action men act."
 # type = Nominal sentence (A pw B)
@@ -13404,11 +13406,12 @@
 3-4	Ḫꜥ.y-tꜣ.w	_	_	_	_	_	_	_	Hiero=(𓈍:𓂝)𓇋𓇋(𓏏:𓍔)𓅱
 3	Ḫꜥ.y	Ḫꜥ.y	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	Hiero=(𓈍:𓂝)𓇋𓇋
 4	tꜣ.w	tꜣ.w	NOUN	_	Gender=Masc|Number=Sing	3	flat	_	Hiero=(𓏏:𓍔)𓅱
-5	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	8	nsubj	_	Hiero=𓃒𓏤
+5	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	0	root	_	Hiero=𓃒𓏤
 6	⸗k	k	PRON	Pron=SFP|Poss=Yes	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Hiero=𓎡
-7	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	8	cop	_	Hiero=𓊪𓅱
-8	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓇒
-9	wꜣš	wꜣš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	appos	_	Hiero=𓍯𓈙
+7-8	p(w)-nn	_	_	_	_	_	_	_	Hiero=𓊪𓅱
+7	pw	pw	DET	Dem	ExtPos=PRON|Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	Hiero=𓊪𓅱
+8	nn	nn	ADV	_	AdvType=Loc	7	fixed	_	Hiero=𓇒
+9	wꜣš	wꜣš	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	appos	_	Hiero=𓍯𓈙
 10	ꞽrr.w	ꞽri̯	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	_	Hiero=(𓁹:𓂋)𓅱
 11	n	n	ADP	Status=Cons	Case=Cau	12	case	_	Hiero=𓈖
 12	ꞽr(.w)	ꞽr.w	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	Hiero=𓁹
@@ -13676,14 +13679,15 @@
 
 # sent_id = EUJA-804
 # ref = Pyramid Texts § 249a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽr.t tw nn [n.t] [Ḥr.w] [rwč̣.t]
+# text = ꞽr.t tw-nn [n.t] [Ḥr.w] [rwč̣.t]
 # lit = “The firm eye of Horus is this.”
 # trans = “The firm eye of Horus is this.”
 # type = Nominal sentence (A pw B)
 # comment = No
-1	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Hiero=𓁹
-2	tw	tw	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	3	cop	_	Hiero=𓏏𓅱
-3	nn	nn	NOUN	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓇒
+1	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Hiero=𓁹
+1-2	tw-nn	_	_	_	_	_	_	_	Hiero=𓏏𓅱𓇒
+2	tw	tw	DET	Dem	ExtPos=Pron|Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	Hiero=𓏏𓅱
+3	nn	nn	ADV	_	AdvType=Loc	4	fixed	_	Hiero=𓇒
 4	[n.t]	n	ADJ	Nisba=Prep	Case=Gen|Gender=Fem|Number=Sing	1	amod	_	Hiero=𓈖:𓏏
 5	[Ḥr.w]	Ḥr.w	PROPN	_	Gender=Masc	4	obl	_	Hiero=𓅃
 6	[rwč̣.t]	rwč̣	VERB	ADJ	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	amod	_	Hiero=No
