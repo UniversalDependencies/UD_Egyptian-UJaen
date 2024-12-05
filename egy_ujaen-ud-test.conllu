@@ -5668,7 +5668,7 @@
 # text = č̣(ṭ) mṭw rś Wp.w
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	rś	rś	VERB	_	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓂋𓋴HieroC=No
+3	rś	rś	VERB	_	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓂋𓋴 UC_No
 4	Wp.w	Wp.w	PROPN	_	Case=Voc|Gender=Masc	3	vocative	_	Hiero=(𓄋:𓊪)𓅱
 
 # sent_id = EUJA-411
@@ -5680,7 +5680,7 @@
 # sent_id = EUJA-412
 # ref = Pyramid Texts § 126b W, Saqqara, 5th Dynasty, rel, OE
 # text = rś śč̣r.w
-1	rś	rś	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓂋𓋴HieroC=No
+1	rś	rś	VERB	_	Mood=Imp|Number=Sing	0	root	_	Hiero=𓂋𓋴 UC_No
 2	śč̣r.w	śč̣r	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	Hiero=𓋴(𓇥:𓂋𓅱)
 
 # sent_id = EUJA-413
@@ -8995,7 +8995,7 @@
 1	hꜣ.w	hꜣi̯	VERB	SPC=Fut|Type=Abstrel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓉔𓄿𓅱
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	ḥnꜥ	ḥnꜥ	ADP	Status=Cons	Case=Com	4	case	_	Hiero=𓎛(𓈖:𓂝)
-4	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	1	obl	_	Hiero=HieroC=No
+4	Ḥw.t-nb.t	Ḥw.t-nb.t	PROPN	_	Gender=Fem	1	obl	_	Hiero=UC_No
 
 # sent_id = EUJA-686
 # ref = Pyramid Texts § 210a W, Saqqara, 5th Dynasty, rel, OE
