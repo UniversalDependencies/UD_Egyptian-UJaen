@@ -21843,3 +21843,12 @@
 8	ꞽm	m	ADP	Status=Pron	_	9	case	_	Hiero=𓇋𓅓
 9	⸗čn	čn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=2|PronType=Prs	6	obl	_	Hiero=𓍿:𓈖
 
+# sent_id = EUJA-1611
+# ref = Pyramid Texts § 537c T, Saqqara, 6th Dynasty, rel, OE
+# text = ꞽn č̣r.t Ttꞽ wčs ⸗ś św
+1	ꞽn	ꞽn	PART	_	PartType=Emp	2	case	_	Hiero=𓇋:𓈖
+2	č̣r.t	č̣r.t	NOUN	Hierocl=Yes	Definite=Cons|Gender=Fem|Number=Sing	4	obl:emph	_	_
+3	Ttꞽ	Ttꞽ	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
+4	wčs	wčs	VERB	SPC=Fut	Tense=Fut	0	root	_	_
+5	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
