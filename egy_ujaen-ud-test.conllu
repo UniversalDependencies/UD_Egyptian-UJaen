@@ -21957,3 +21957,22 @@
 5	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	𓋴
 6	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	𓇓𓅱
 
+# sent_id = EUJA-1614
+# ref = Pyramid Texts § 538c T, Saqqara, 6th Dynasty, rel, OE
+# text = ḥr pw n(.ꞽ) Ttꞽ ḥr mꜣꜣ wčs ⸗f
+1	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Hiero=𓁷
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Hiero=𓊪𓅱
+3	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	Hiero=𓈖
+4	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	3	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+5	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓁷
+6	mꜣꜣ	mꜣꜣ	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	acl	_	Hiero=(𓌴:𓁹)𓄿𓄿
+7	wčs	wčs	VERB	_	Gender=Masc|VerbForm=Inf	6	ccomp	_	Hiero=𓍞𓅱(𓍿:𓊃)
+8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓆑
+
+# sent_id = EUJA-1615
+# ref = Pyramid Texts § 538d T, Saqqara, 6th Dynasty, rel, OE
+# text = Ttꞽ pw fnč̣ ś:śn
+1	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	3	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+2	pw	pw	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	3	cop	_	Hiero=𓊪𓅱
+3	fnč̣	fnč̣	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	0	root	_	Hiero=(𓆑:𓈖)𓐩𓂉
+4	ś:śn	śn	VERB	ADJ|Voice=Cau|Hierocl=Yes	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	acl	_	Hiero=𓋴𓋴𓌢(𓈖:𓂉)
