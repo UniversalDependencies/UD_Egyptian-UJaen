@@ -17803,8 +17803,8 @@
 # text = č̣(ṭ) mṭw ntktk ⸗k n tk.ꞽ Ꞽkn-hꞽ
 1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ntktk	ntktk	VERB	_	Gender=Masc|VerbForm=Inf	6	csubj	_	Hiero=(𓈖:𓏏:𓎡)(𓏏:𓎡)
-4	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓎡
+3	ntktk	ntktk	VERB	_	Gender=Masc|VerbForm=Inf	6	subj	_	Hiero=(𓈖:𓏏:𓎡)(𓏏:𓎡)
+4	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡
 5	n	n	ADP	Status=Cons	Case=Ben	6	case	_	Hiero=𓈖
 6	tk.ꞽ	tk	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	ccomp	_	Hiero=(𓏏:𓎡)𓇋
 7-8	Ꞽkn-hꞽ	_	_	_	_	_	_	_	Hiero=𓇋(𓎡:𓈖)𓉔𓇋𓆙
@@ -17814,7 +17814,7 @@
 # sent_id = EUJA-1334
 # ref = Pyramid Texts § 433b W, Saqqara, 5th Dynasty, rel, OE
 # text = tkn.t ⸗k n tkn ⸗k Ꞽkn-hꞽ |
-1	tkn.t	tkn	VERB	_	Gender=Masc|VerbForm=Inf	4	csubj	_	Hiero=(𓏏:𓎡:𓈖)𓏏
+1	tkn.t	tkn	VERB	_	Gender=Masc|VerbForm=Inf	4	subj:outer	_	Hiero=(𓏏:𓎡:𓈖)𓏏
 2	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	n	n	ADP	Status=Cons	Case=Ben	4	case	_	Hiero=𓈖
 4	tkn	tkn	VERB	NOUN|VerbForm=RelForm|Tense=Pres	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	0	root	_	Hiero=(𓏏:𓎡)𓈖
