@@ -21227,7 +21227,7 @@
 4	hꞽ	hꞽ	X	_	Foreign=Yes	3	flat:foreign	_	Hiero=𓉔𓇋
 5	tꞽtꞽ	tꞽtꞽ	X	_	Foreign=Yes	3	flat:foreign	_	Hiero=𓍘𓇋𓍘𓇋
 6	bꞽtꞽ	bꞽtꞽ	X	_	Foreign=Yes	3	flat:foreign	_	Hiero=𓃀𓇋𓍘𓇋
-7	šś	šś	NOUN	_	Gender=Masc|Number=Sing	3	flat	_	Hiero=𓈙𓋴
+7	šś	šś	NOUN	_	Gender=Masc|Number=Sing	3	dep	_	Hiero=𓈙𓋴
 8	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	Hiero=𓅭
 9	ḥꞽfg.t	ḥꞽfg.t	X	_	Foreign=Yes	8	nmod	_	Hiero=𓎛𓇋(𓆑:𓎼)𓏏
 10	rn	rn	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	Hiero=𓂋:𓈖
@@ -21237,12 +21237,12 @@
 # sent_id = EUJA-1570
 # ref = Pyramid Texts § 422a W, Saqqara, 5th Dynasty, rel, OE
 # text = ꞽss hꞽ kw kbb hꞽ ꜣꜣꜣ bꞽ
-1	ꞽss	ꞽss	VERB	_	Foreign=Yes	0	root	_	Hiero=𓇋(𓊃:𓊃)
+1	ꞽss	ꞽss	X	_	Foreign=Yes	0	root	_	Hiero=𓇋(𓊃:𓊃)
 2	hꞽ	hꞽ	X	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓉔:𓏤
 3	kw	kw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	dep	_	Hiero=𓎡𓅱
 4	kbb	kbb	X	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓎡𓃀𓃀
 5	hꞽ	hꞽ	X	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓉔:𓏤
-6	ꜣꜣꜣ	ꜣꜣꜣ	VERB	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓄿𓄿𓄿
+6	ꜣꜣꜣ	ꜣꜣꜣ	X	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓄿𓄿𓄿
 7	bꞽ	bꞽ	X	_	Foreign=Yes	1	flat:foreign	_	Hiero=𓃀𓇋
 
 # sent_id = EUJA-1571
@@ -21260,7 +21260,7 @@
 10	n	n	ADP	Status=Pron	Case=Ben	11	case	_	Hiero=𓈖
 11	<⸗ꞽ>	ꞽ	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Hiero=No
 12	ꞽwn	ꞽwn	ADV	_	_	9	advmod	_	Hiero=𓉺
-13	ꜣꜣꜣ	ꜣꜣꜣ	VERB	_	Foreign=Yes|Mood=Imp	9	conj	_	Hiero=𓄿𓄿𓄿
+13	ꜣꜣꜣ	ꜣꜣꜣ	X	_	Foreign=Yes	9	conj	_	Hiero=𓄿𓄿𓄿
 14	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obj	_	Hiero=𓍿𓅱
 15	bś	bś	X	_	Foreign=Yes	13	flat:foreign	_	Hiero=𓃀𓋴
 16	ꞽwf	ꞽwf	X	_	Foreign=Yes	13	flat:foreign	_	Hiero=𓇋(𓆑:𓄹)𓅱
