@@ -5481,7 +5481,7 @@
 # ref = Pyramid Texts § 123d-e W, Saqqara, 5th Dynasty, rel, OE
 # text = ꞽn ḥm nfr.t nr(.w) n(.ꞽ) Wnꞽś rč̣ ⸗ś tʾ n Wnꞽś ꞽr ⸗ś n ⸗f nfr.t m hrw pn
 1	ꞽn	ꞽn	PART	_	PartType=Emp	3	case	_	Hiero=𓇋𓈖
-2	ḥm	ḥm	PART	_	_PartType=Emp	3	discourse	_	Hiero=𓈟𓅓
+2	ḥm	ḥm	PART	_	PartType=Emp	3	discourse	_	Hiero=𓈟𓅓
 3	nfr.t	nfr.t	NOUN	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	dislocated	_	Hiero=𓄤(𓂋:𓏏)
 4	nr(.w)	nr.w	NOUN	_	Gender=Masc|Number=Sing	3	nmod:poss	_	Hiero=(𓈖:𓂋)𓅐
 5	n(.ꞽ)	n	ADJ	Hierocl=Yes|Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	Hiero=𓈖
@@ -13944,7 +13944,7 @@
 3	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	4	aux	_	Hiero=𓅓𓂜
 4	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	1	ccomp	_	Hiero=(𓐍:𓂜𓅓)
 5	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	4	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	Hiero=𓊹
+6	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	4	vocative	_	Hiero=𓊹
 7	śč	ꞽśč	PART	_	_	9	mark	_	Hiero=𓋴𓍿
 8	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Hiero=𓍿𓅱
 9	rḫ.t(ꞽ)	rḫ	VERB	OSSC=Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3	4	advcl	_	Hiero=(𓂋:𓐍:𓏏)
@@ -13985,7 +13985,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓇳
+4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓇳
 5	śč	ꞽśč	PART	_	_	7	mark	_	Hiero=𓋴𓍿
 6	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Hiero=𓍿𓅱
 7	ꞽ:rḫ.t(ꞽ)	rḫ	VERB	OSSC=Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3	2	advcl	_	Hiero=𓇋(𓂋:𓐍:𓏏)
@@ -14001,7 +14001,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓇳
+4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓇳
 5	č̣ṭ(.w)	č̣ṭ	VERB	OSSC=Pres|Imprs=Third	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=𓆓:𓂧
 6	ꞽr	r	ADP	Status=Pron	_	7	case	_	Hiero=𓇋𓂋
 7	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡
@@ -14027,7 +14027,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓅝
+4	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅝
 5	śč	ꞽśč	PART	_	_	7	mark	_	Hiero=𓋴𓍿
 6	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Hiero=𓍿𓅱
 7	ꞽ:rḫ.t(ꞽ)	rḫ	VERB	OSSC=Stat|VerbForm=Fin	Gender=Fem|Number=Sing|Person=3	2	advcl	_	Hiero=𓇋(𓂋:𓐍)𓏏
@@ -14043,7 +14043,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	_	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓅝
+4	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅝
 5	č̣ṭ(.w)	č̣ṭ	VERB	OSSC=Pres|Imprs=Third	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)
 6	ꞽr	r	ADP	Status=Pron	_	7	case	_	Hiero=𓇋𓂋
 7	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	Hiero=𓎡
@@ -14057,7 +14057,7 @@
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4-5	Ḥr.w-Śpṭ.w	_	_	_	_	_	_	_	Hiero=𓅃𓋴𓇮(𓊪:𓂧)
-4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓅃
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅃
 5	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	4	flat	_	Hiero=𓋴𓇮(𓊪:𓂧)
 6	śč	ꞽśč	PART	_	_	8	mark	_	Hiero=𓋴𓍿
 7	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Hiero=𓍿:𓅱
@@ -14075,7 +14075,7 @@
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4-5	Ḥr.w-Śpṭ.w	_	_	_	_	_	_	_	Hiero=𓅃𓋴(𓊪:𓂧)𓇮
-4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓅃
+4	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅃
 5	Śpṭ.w	Śpṭ.w	PROPN	_	Gender=Masc	4	flat	_	Hiero=𓋴(𓊪:𓂧)𓇮
 6	č̣ṭ(.w)	č̣ṭ	VERB	OSSC=Pres|Imprs=Third	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=(𓆓:𓂧)
 7	ꞽr	r	ADP	Status=Pron	_	8	case	_	Hiero=𓇋𓂋
@@ -14089,7 +14089,7 @@
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4-5	Ꞽm(.ꞽ)-Ṭ(w)ꜣ.t	_	_	_	_	_	_	_	Hiero=𓏶𓂧𓄿(𓏏:𓇽)
-4	Ꞽm(.ꞽ)	m	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓏶
+4	Ꞽm(.ꞽ)	m	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓏶
 5	Ṭ(w)ꜣ.t	Ṭ(w)ꜣ.t	PROPN	Hierocl=Yes	Gender=Fem	4	flat	_	Hiero=𓂧𓄿(𓏏:𓇽)
 6	śč	ꞽśč	PART	_	_	8	mark	_	Hiero=𓋴𓍿
 7	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Hiero=𓍿:𓅱
@@ -14107,7 +14107,7 @@
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4-5	Ꞽm(.ꞽ)-Ṭ(w)ꜣ.t	_	_	_	_	_	_	_	Hiero=𓏶𓂧𓄿(𓏏:𓇽)
-4	Ꞽm(.ꞽ)	m	PROPN	_	Gender=Masc	1	vocative	_	Hiero=𓏶
+4	Ꞽm(.ꞽ)	m	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓏶
 5	Ṭ(w)ꜣ.t	Ṭ(w)ꜣ.t	PROPN	Hierocl=Yes	Gender=Fem	4	flat	_	Hiero=𓂧𓄿(𓏏:𓇽)
 6	č̣ṭ(.w)	č̣ṭ	VERB	OSSC=Pres|Imprs=Third	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=𓆓:𓂧
 7	ꞽr	r	ADP	Status=Pron	_	8	case	_	Hiero=𓇋𓂋
@@ -14121,7 +14121,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	vocative	_	Hiero=(𓂓:𓂸)𓃒
+4	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	2	vocative	_	Hiero=(𓂓:𓂸)𓃒
 5	p.t	p.t	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	Hiero=(𓏏:𓊪*)𓇯
 6	śč	ꞽśč	PART	_	_	8	mark	_	Hiero=𓋴𓍿
 7	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Hiero=𓍿𓅱
@@ -14138,7 +14138,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=(𓐍:𓂜)𓅓
 3	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
-4	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	vocative	_	Hiero=(𓂓:𓂸)𓃒
+4	kꜣ	kꜣ	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	2	vocative	_	Hiero=(𓂓:𓂸)𓃒
 5	p.t	p.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	4	nmod	_	Hiero=(𓏏:𓊪*)𓇯
 6	č̣ṭ(.w)	č̣ṭ	VERB	OSSC=Pres|Imprs=Third	Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=𓆓:𓂧
 7	ꞽr	r	ADP	Status=Pron	_	8	case	_	Hiero=𓇋𓂋
