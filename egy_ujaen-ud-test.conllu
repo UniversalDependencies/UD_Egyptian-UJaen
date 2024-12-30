@@ -13960,7 +13960,7 @@
 1	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	2	aux	_	Hiero=𓅓𓂜
 2	ḫm(.w)	ḫm	VERB	Hierocl=Yes|Inf=NegCom	Polarity=Neg|VerbForm=Inf	0	root	_	Hiero=𓐍𓅓𓂜
 3	Ttꞽ	Ttꞽ	PROPN	_	Gender=Masc	2	obj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
-4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	1	vocative	_	Hiero=𓊹
+4	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	2	vocative	_	Hiero=𓊹
 5	śk	ꞽśk	PART	_	_	7	mark	_	Hiero=𓋴𓎡
 6	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓇓𓅱
 7	ꞽ:rḫ(.w)	rḫ	VERB	Aug=Yes|OSSC=Stat	Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Hiero=𓇋(𓂋:𓐍)
@@ -17574,7 +17574,7 @@
 # ref = Pyramid Texts § 424b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꞽ ꞽčč (ꞽ)m ꞽč(.w)
 1	ꞽ	ꞽ	INTJ	_	_	2	discourse	_	Hiero=𓇋𓏤
-2	ꞽčč	ꞽči̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	vocative	_	Hiero=(𓎁:𓍿)
+2	ꞽčč	ꞽči̯	NOUN	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	vocative	_	Hiero=(𓎁:𓍿)
 3	(ꞽ)m	ꞽmi̯	AUX	_	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	4	aux	_	Hiero=𓅓
 4	ꞽč(.w)	ꞽči̯	VERB	Inf=NegCom	VerbForm=Inf	0	root	_	Hiero=𓎁
 
@@ -17698,7 +17698,7 @@
 # sent_id = EUJA-1325
 # ref = Pyramid Texts § 429b W, Saqqara, 5th Dynasty, rel, OE
 # text = ꞽr.t Wnꞽś (ꞽ)m ṭgi̯.w n ⸗f
-1	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	Hiero=𓁹(:𓏏*𓏤)
+1	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	4	vocative	_	Hiero=𓁹(:𓏏*𓏤)
 2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	nmod:poss	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 3	(ꞽ)m	ꞽmi̯	AUX	_	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	4	aux	_	Hiero=𓅓
 4	ṭgi̯.w	ṭgi̯	VERB	Hierocl=Yes|Inf=NegCom	VerbForm=Inf	0	root	_	Hiero=(𓂧:𓎼)𓇋𓅱𓁼
@@ -18512,20 +18512,20 @@
 6	ꜥw	ꜥw	NOUN	MWE=Yes	Gender=Masc|Number=Sing	5	fixed	_	Hiero=𓂝
 7	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	obl	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 8	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	4	acl	_	Hiero=𓍒𓅱𓏏
-9	mw	mw	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	Hiero=𓈗
+9	mw	mw	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	Hiero=𓈗
 10	⸗ś	⸗ś	PRON	Poss=Yes|Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Hiero=𓋴
 11	ꞽm	m	ADP	Status=Pron	Case=Loc	12	case	_	Hiero=𓇋𓅓
 12	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	orphan	_	Hiero=𓋴
-13	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	Hiero=𓍒𓅱𓏏
-14	čr(.w)	čr.w	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	9	conj	_	Hiero=(𓍿:𓂋)𓏞𓈒𓈒𓈒𓈒
+13	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	12	acl	_	Hiero=𓍒𓅱𓏏
+14	čr(.w)	čr.w	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	1	conj	_	Hiero=(𓍿:𓂋)𓏞𓈒𓈒𓈒𓈒
 15	⸗ś	⸗ś	PRON	Poss=Yes|Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nmod	_	Hiero=𓋴
 16	ꞽm	m	ADP	Status=Pron	Case=Loc	17	case	_	Hiero=𓇋𓅓
 17	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	orphan	_	Hiero=𓋴
-18	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	Hiero=𓍒𓅱𓏏
-19	ḥt(.w)	ḥt	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	9	conj	_	Hiero=(𓎛:𓏏)𓄈𓄈𓄈
+18	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	17	acl	_	Hiero=𓍒𓅱𓏏
+19	ḥt(.w)	ḥt	NOUN	Hierocl=Yes	Gender=Masc|Number=Plur	1	conj	_	Hiero=(𓎛:𓏏)𓄈𓄈𓄈
 20	ꞽm	m	ADP	Status=Pron	Case=Loc	21	case	_	Hiero=𓇋𓅓
 21	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	orphan	_	Hiero=𓋴
-22	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	Hiero=𓍒𓅱𓏏
+22	wč̣ꜣ.t(ꞽ)	wč̣ꜣ	VERB	OSSC=Stat|VerbForm=Conv	Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	21	acl	_	Hiero=𓍒𓅱𓏏
 
 # sent_id = EUJA-1391
 # ref = Pyramid Texts § 452a W, Saqqara, 5th Dynasty, rel, OE
@@ -22396,7 +22396,7 @@
 # text = [č̣(ṭ)] [mṭw] ḥḳr (ꞽ)m ꞽw ꞽr Ttꞽ ꞽ:sꞽ r ⸗k ꞽr Nw.w šmꜣ r ⸗k ꞽr ꜣgb.ꞽ
 1	[č̣(ṭ)]	č̣ṭ	VERB	_	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	[mṭw]	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	ḥḳr	ḥḳr	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	4	vocative	_	Hiero=𓎛(𓈎:𓂋)UC_1393D
+3	ḥḳr	ḥḳr	NOUN	Hierocl=Yes	Gender=Masc|Number=Sing	5	vocative	_	Hiero=𓎛(𓈎:𓂋)UC_1393D
 4	(ꞽ)m	ꞽmi̯	AUX	Hierocl=Yes	Mood=Imp|Number=Sing|Polarity=Neg|VerbType=Aux	5	aux	_	Hiero=𓅓𓂜
 5	ꞽw	ꞽwi̯	VERB	Inf=NegCom	VerbForm=Inf	1	ccomp	_	Hiero=𓇋𓂻𓅱
 6	ꞽr	r	ADP	Status=Cons	_	7	case	_	Hiero=𓇋𓂋
