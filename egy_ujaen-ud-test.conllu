@@ -23332,7 +23332,7 @@
 2	Gbb	Gbb	PROPN	_	Gender=Masc	1	nsubj	_	Hiero=𓅭𓃀
 3	čb.t	čb.t	NOUN	Hierocl=Yes	Gender=Fem|Number=Sing	1	obj	_	Hiero=𓍿𓃀𓏏𓋸
 4	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Hiero=𓆑
-5	ḥr	ḥr	Status=Cons	_	6	case	_	Hiero=𓁷
+5	ḥr	ḥr	ADP	Status=Cons	_	6	case	_	Hiero=𓁷
 6	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓁶
 7	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	Hiero=𓈖
 8	ḫft(.ꞽ)	ḫft	NOUN	Nisba=Prep	Gender=Masc|Number=Sing	7	obl	_	Hiero=𓐍:𓆑:𓏏
@@ -23386,7 +23386,7 @@
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓎡
 5	ḫft.ꞽw	ḫft	NOUN	Nisba=Prep	Gender=Masc|Number=Plur	3	obj	_	Hiero=(𓐍:𓆑)𓅂
 6	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Hiero=𓎡
-7	(ꞽ)m	ꞽmi̯	VERB	SPC=Pres|Type=Pred	Tense=Pres|Polarity=Neg|VerbForm=Fin|Voice=Act	3	advcl	_	Hiero=𓇋𓅓
+7	ꞽm	ꞽmi̯	VERB	SPC=Pres|Type=Pred	Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	Hiero=𓇋𓅓
 8	pśč̣.wt(ꞽ)	pśč̣i̯	NOUN	Hierocl=Yes	Tense=Fut|VerbForm=Part	7	nsubj	_	Hiero=𓊪𓋴𓆓(:𓏏*𓈒)
 9	⸗f(ꞽ)	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	_	Hiero=𓆑
 10	ꞽm	m	ADP	Status=Pron	_	11	case	_	Hiero=𓇋𓅓
@@ -23396,7 +23396,7 @@
 
 # sent_id = EUJA-1713
 # ref = Pyramid Texts § 580a T, Saqqara, 6th Dynasty, rel, OE
-# text = bꜣ ꞽr ⸗f Ḥr.w ꞽp ⸗f ꞽt(ꞽ) ⸗f ꞽm ⸗k m rn ⸗k n(.ꞽ) bꜣ ꞽt(y)
+# text = bꜣ ꞽr ⸗f Ḥr.w ꞽp ⸗f ꞽt(ꞽ) ⸗f ꞽm ⸗k m rn ⸗k n(.ꞽ) bꜣ ꞽt(y) rp(w).t
 1	bꜣ	bꜣ	VERB	SPC=Pres|Type=Abstrel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓅡
 2	ꞽr	r	ADP	Status=Pron	_	3	case	_	Hiero=𓇋𓂋
 3	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	dislocated	_	Hiero=𓆑
@@ -23484,7 +23484,7 @@
 13	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nmod	_	Hiero=𓎡
 14	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	12	amod	_	Hiero=𓈖
 15	tꜣ	tꜣ	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	Hiero=𓇾
-16	č̣śr	č̣śr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	Hiero=UC_139F3(𓂋:𓇾)
+16	č̣śr	č̣śr	VERB	ADJ	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	Hiero=UC_139F3(𓂋:𓇾)
 
 # sent_id = EUJA-1718
 # ref = Pyramid Texts § 582a T, Saqqara, 6th Dynasty, rel, OE
@@ -23497,7 +23497,7 @@
 6-8	m-ḥr(.ꞽ)-ꞽb	_	_	_	_	_	_	_	Hiero=𓅓(𓁷:𓄣)
 6	m	m	ADP	Status=Cons	ExtPos=ADP	9	case	_	Hiero=𓅓
 7	ḥr(.ꞽ)	ḥr	NOUN	Nisba=Prep	Gender=Masc|Number=Sing	6	fixed	_	Hiero=𓁷
-8	ꞽb	ꞽb	NOUN	MWE=Yes	Gender=Masc|Number=Sing	7	fixed	_	Hiero=𓄣
+8	ꞽb	ꞽb	NOUN	MWE=Yes	Gender=Masc|Number=Sing	6	fixed	_	Hiero=𓄣
 9	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	Hiero=𓆑
 
 # sent_id = EUJA-1719
