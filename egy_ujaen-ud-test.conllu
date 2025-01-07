@@ -4962,7 +4962,7 @@
 8	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc	7	nmod:poss	_	Hiero=𓅃
 9	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	Hiero=𓏏:𓈖
 10	bnꞽ.t	bnꞽ	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	Hiero=𓃀𓇜(𓈖:𓏏)
-11	ś:ḫt	ḫti̯	VERB	VClass=caus_3aeinf|Voice=Cau	Mood=Imp|Number=Sing	0	root	_	Hiero=𓋴(𓆱:𓏏)
+11	ś:ḫt	ḫti̯	VERB	VClass=caus_3aeinf|Voice=Cau	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓋴(𓆱:𓏏)
 12	n	n	ADP	Status=Pron	Case=Ben	13	case	_	Hiero=𓈖
 13	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obl	_	Hiero=𓎡
 14	ś(ꞽ)	śꞽ	PRON	Pron=Dep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obj	_	Hiero=𓋴
@@ -14660,7 +14660,7 @@
 2	š	š	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Hiero=𓈙:𓏤|Hierocl=Yes
 3	mnꜥ	mnꜥ	NOUN	_	Gender=Masc|Number=Sing	2	nmod:poss	_	Hiero=𓅓(𓏠:𓈖:𓂝)(𓏤:𓈘)|Hierocl=Yes
 4	ꞽꜣḫ.ꞽ	wꜣḫ	VERB	SPC=PastPass|VClass=3-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Pass	1	parataxis	_	Hiero=𓇋𓄿𓐍𓆷𓇋|Hierocl=Yes
-5	mr	mr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Hiero=𓈘:𓏤|Hierocl=Yes
+5	Mr	Mr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Hiero=𓈘:𓏤|Hierocl=Yes
 6	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	Hiero=𓈖
 7	ḫꜣ	ḫꜣ	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=(𓐍:𓆩)𓄿𓈙|Hierocl=Yes
 
@@ -23831,7 +23831,7 @@
 5	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	Hiero=𓊹𓊹𓊹
 6	nb(.w)	nb	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	Hiero=𓎟
 7-8	m-sp	_	_	_	_	_	_	_	Hiero=𓅓𓊃(:𓊪*𓊗)
-7	m	m	ADP	Status=Cons	ExtPos=ADV	8	case	_	Hiero=𓅓
+7	m	m	ADP	Status=Cons	ExtPos=ADV	1	advmod	_	Hiero=𓅓
 8	sp	sp	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	Hiero=𓊃(:𓊪*𓊗)|Hierocl=Yes
 
 # sent_id = EUJA-1739
@@ -23943,7 +23943,7 @@
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	wt.w	wt	NOUN	_	Gender=Masc|Number=Sing	5	vocative	_	Hiero=𓅱𓏏𓅱𓅆|Hierocl=Yes
 4	Šw	Šw	PROPN	Name=God	Gender=Masc	3	nmod:poss	_	Hiero=𓈙𓆄𓅱
-5	wḥꜥ(.w)	wḥꜥ	SPC=PastPass|VClass=3-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	Hiero=UC_1402C:𓂝
+5	wḥꜥ(.w)	wḥꜥ	VERB	SPC=PastPass|VClass=3-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	Hiero=UC_1402C:𓂝
 6	č(ꜣ)s.(w)t	čꜣs.t	NOUN	_	Gender=Fem|Number=Plur	5	nsubj:pass	_	Hiero=(𓍿:𓊃:𓏏)(𓋭:𓋭:𓋭)|Hierocl=Yes
 7	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Hiero=𓎡
 8	ꞽn	ꞽn	ADP	Status=Cons	_	9	case	_	Hiero=𓇋𓈖
