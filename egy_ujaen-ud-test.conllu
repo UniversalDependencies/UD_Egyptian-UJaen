@@ -24138,15 +24138,15 @@
 11	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	6	obl:arg	_	Hiero=𓇳
 12	ś:ꞽw	ꞽw	VERB	VClass=caus_2-lit|Voice=Cau	Mood=Imp|Number=Sing	6	conj	_	Hiero=𓋴𓇋𓃛𓅱
 13	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	12	obj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
-13	n	n	ADP	Status=Cons	_	14	case	_	Hiero=𓈖
-14	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	12	obl:arg	_	Hiero=𓇳
+14	n	n	ADP	Status=Cons	_	15	case	_	Hiero=𓈖
+15	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	12	obl:arg	_	Hiero=𓇳
 
 # sent_id = EUJA-1756
 # ref = Pyramid Texts § 598a-b T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽw {⸗ꞽ} {r} Ttꞽ ꞽr ꜥḥ pf ḥr n(.ꞽ) nb.w kꜣ(.w) ṭwꜣ.w Rꜥw ꞽm m ꞽꜣ.(w)t Ḥr.(w)ꞽt m ꞽꜣ.(w)t Śtẖ.ꞽt 
+# text = ꞽw {⸗ꞽ} {r} Ttꞽ ꞽr ꜥḥ pf ḥr n(.ꞽ) nb.w kꜣ(.w) ṭwꜣ.w Rꜥw ꞽm (⸗f) m ꞽꜣ.(w)t Ḥr.(w)ꞽt m ꞽꜣ.(w)t Śtẖ.ꞽt
 1	ꞽw	ꞽw	PART	_	_	6	discourse	_	Hiero=𓇋𓅱
 2	{⸗ꞽ}	{ꞽ}	X	_	Typo=Yes	1	dep	_	Hiero=𓇋𓏤
-3	{r}	{r}	X	_	Typo=Yes	5	dep	_	Hiero=𓂋
+3	{r}	{r}	X	_	Typo=Yes	2	dep	_	Hiero=𓂋
 4	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	6	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 5	ꞽr	r	ADP	Status=Cons	_	6	case	_	Hiero=𓇋𓂋
 6	ꜥḥ	ꜥḥ	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓉥
