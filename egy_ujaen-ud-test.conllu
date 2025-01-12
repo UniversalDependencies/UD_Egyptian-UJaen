@@ -24263,7 +24263,7 @@
 
 # sent_id = EUJA-1761
 # ref = Pyramid Texts § 601b-f T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽꜥ(.w) ḥr n(.ꞽ) Ttꞽ ꞽn nčr(.w) m čꜣ.(y)w m ḥm.(w)t Ꞽmś.t(ꞽ) Ḥp(.w) Ṭwꜣ-mw.t-⸗f Ḳbḥ-śn.w-⸗f gś n(.ꞽ) Ttꞽ wnm(.ꞽ) ꞽm(.ꞽ) Ḥr.w Ḥ(w)-č̣nṭr.w Ḫnt(.ꞽ)-wꜣč̣(.wꞽ)-⸗f Nb.t-ḥw.t Ḫnt(.ꞽ)-n-ꞽr.t(ꞽ) gś n(.ꞽ) Ttꞽ ꞽꜣb.t(ꞽ) ꞽm(.ꞽ) Śtẖ
+# text = ꞽꜥ(.w) ḥr n(.ꞽ) Ttꞽ ꞽn nčr(.w) m čꜣ.(y)w m ḥm.(w)t Ꞽmś.t(ꞽ) Ḥp(.w) Ṭwꜣ-mw.t-⸗f Ḳbḥ-śn.w-⸗f gś n(.ꞽ) Ttꞽ wnm(.ꞽ) ꞽm(.ꞽ) Ḥr.w Ḥ(w)-č̣nṭr.w Ḫnt(.ꞽ)-wꜣč̣(.wꞽ)-⸗f Nb.t-ḥw.t Ḫnt(.ꞽ)-n(.ꞽ)-ꞽr.t(ꞽ) gś n(.ꞽ) Ttꞽ ꞽꜣb.t(ꞽ) ꞽm(.ꞽ) Śtẖ
 1	ꞽꜥ(.w)	ꞽꜥi̯	VERB	SPC=PastPass|VClass=3aeinf|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓇋UC_139D5|Hierocl=Yes
 2	ḥr	ḥr	NOUN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Hiero=𓁷𓏤|Hierocl=Yes
 3	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	2	amod	_	Hiero=𓈖
@@ -24285,30 +24285,31 @@
 17	śn.w	śn	NOUN	_	Gender=Masc|Number=Plur	16	flat	_	Hiero=𓌢𓌢𓌢
 18	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nmod	_	Hiero=𓆑
 19	gś	gś	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	Hiero=(𓐛:𓏤)|Hierocl=Yes
-20	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	19	nmod:poss	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
-21	wnm(.ꞽ)	wnm	ADJ	Nisba=Noun	Gender=Masc|Number=Sing	19	amod	_	Hiero=𓇬(:𓏘*𓏘)
-22	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	19	amod	_	Hiero=𓇋𓏶
-23	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc	22	obl	_	Hiero=𓅃
-24-25	Ḥ(w)-č̣nṭr.w	_	_	_	_	_	_	_	Hiero=𓎛(𓆓:𓈖)(𓂧:𓂋)𓅱𓅆|Hierocl=Yes
-24	Ḥ(w)	Ḥ(w)	PROPN	Name=God	Gender=Masc	34	orphan	_	Hiero=𓎛
-25	č̣nṭr.w	č̣nṭr.w	NOUN	_	Gender=Masc|Number=Sing	24	flat	_	Hiero=(𓆓:𓈖)(𓂧:𓂋)𓅱𓅆|Hierocl=Yes
-26-28	Ḫnt(.ꞽ)-wꜣč̣(.wꞽ)-⸗f	_	_	_	_	_	_	_	Hiero=𓏅𓏏𓍯𓇅𓇅𓆑
-26	Ḫnt(.ꞽ)	Ḫnt(.ꞽ)	PROPN	Name=God	Gender=Masc	24	conj	_	Hiero=𓏅𓏏
-27	wꜣč̣(.wꞽ)	wꜣč̣	NOUN	_	Gender=Masc|Number=Dual	26	flat	_	Hiero=𓍯𓇅𓇅
-28	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	nmod	_	Hiero=𓆑
-29-30	Nb.t-ḥw.t	_	_	_	_	_	_	_	Hiero=(𓎟:𓏏)𓉞
-29	Nb.t	Nb.t	PROPN	_	Gender=Fem	24	conj	_	Hiero=𓎟:𓏏
-30	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	29	flat	_	Hiero=𓉞
-31-33	Ḫnt(.ꞽ)-n-ꞽr.t(ꞽ)	_	_	_	_	_	_	_	Hiero=𓏅(𓈖:𓏏)𓈖(𓁹:𓁹)
-31	Ḫnt(.ꞽ)	Ḫnt(.ꞽ)	PROPN	Name=God	Gender=Masc	24	conj	_	Hiero=𓏅(𓈖:𓏏)
-32	n	n	X	_	_	31	flat	_	Hiero=𓈖
-33	ꞽr.t(ꞽ)	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	31	flat	_	Hiero=(𓁹:𓁹)
-34	gś	gś	NOUN	_	Gender=Masc|Number=Sing	19	conj	_	Hiero=(𓐛:𓏤)|Hierocl=Yes
-35	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	34	amod	_	Hiero=𓈖
-36	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	35	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
-37	ꞽꜣb.t(ꞽ)	ꞽꜣb.t	ADJ	Nisba=Noun	Gender=Masc|Number=Sing	34	amod	_	Hiero=𓇋𓄿𓃀𓏏
-38	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	34	amod	_	Hiero=𓇋𓏶
-39	Śtẖ	Śtẖ	PROPN	Name=God	Gender=Masc	38	obl	_	Hiero=𓋴(𓏏:𓈙)
+20	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	19	amod	_	Hiero=𓈖
+21	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	20	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+22	wnm(.ꞽ)	wnm	ADJ	Nisba=Noun	Gender=Masc|Number=Sing	19	amod	_	Hiero=𓇬(:𓏘*𓏘)
+23	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	19	amod	_	Hiero=𓇋𓏶
+24	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc	23	obl	_	Hiero=𓅃
+25-26	Ḥ(w)-č̣nṭr.w	_	_	_	_	_	_	_	Hiero=𓎛(𓆓:𓈖)(𓂧:𓂋)𓅱𓅆|Hierocl=Yes
+25	Ḥ(w)	Ḥ(w)	PROPN	Name=God	Gender=Masc	35	orphan	_	Hiero=𓎛
+26	č̣nṭr.w	č̣nṭr.w	NOUN	_	Gender=Masc|Number=Sing	25	flat	_	Hiero=(𓆓:𓈖)(𓂧:𓂋)𓅱𓅆|Hierocl=Yes
+27-29	Ḫnt(.ꞽ)-wꜣč̣(.wꞽ)-⸗f	_	_	_	_	_	_	_	Hiero=𓏅𓏏𓍯𓇅𓇅𓆑
+27	Ḫnt(.ꞽ)	Ḫnt(.ꞽ)	PROPN	Name=God	Gender=Masc	25	conj	_	Hiero=𓏅𓏏
+28	wꜣč̣(.wꞽ)	wꜣč̣	NOUN	_	Gender=Masc|Number=Dual	27	flat	_	Hiero=𓍯𓇅𓇅
+29	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Hiero=𓆑
+30-31	Nb.t-ḥw.t	_	_	_	_	_	_	_	Hiero=(𓎟:𓏏)𓉞
+30	Nb.t	Nb.t	PROPN	_	Gender=Fem	25	conj	_	Hiero=𓎟:𓏏
+31	ḥw.t	ḥw.t	NOUN	_	Gender=Fem|Number=Sing	30	flat	_	Hiero=𓉞
+32-34	Ḫnt(.ꞽ)-n-ꞽr.t(ꞽ)	_	_	_	_	_	_	_	Hiero=𓏅(𓈖:𓏏)𓈖(𓁹:𓁹)
+32	Ḫnt(.ꞽ)	Ḫnt(.ꞽ)	PROPN	Name=God	Gender=Masc	25	conj	_	Hiero=𓏅(𓈖:𓏏)
+33	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	32	flat	_	Hiero=𓈖
+34	ꞽr.t(ꞽ)	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	32	flat	_	Hiero=(𓁹:𓁹)
+35	gś	gś	NOUN	_	Gender=Masc|Number=Sing	19	conj	_	Hiero=(𓐛:𓏤)|Hierocl=Yes
+36	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	35	amod	_	Hiero=𓈖
+37	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	36	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
+38	ꞽꜣb.t(ꞽ)	ꞽꜣb.t	ADJ	Nisba=Noun	Gender=Masc|Number=Sing	35	amod	_	Hiero=𓇋𓄿𓃀𓏏
+39	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	35	amod	_	Hiero=𓇋𓏶
+40	Śtẖ	Śtẖ	PROPN	Name=God	Gender=Masc	39	obl	_	Hiero=𓋴(𓏏:𓈙)
 
 # sent_id = EUJA-1762
 # ref = Pyramid Texts § 602a T, Saqqara, 6th Dynasty, rel, OE
