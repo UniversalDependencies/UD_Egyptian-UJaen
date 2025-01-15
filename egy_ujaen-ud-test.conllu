@@ -25715,10 +25715,10 @@
 # sent_id = EUJA-1846
 # ref = Pyramid Texts § 636d T, Saqqara, 6th Dynasty, rel, OE
 # text = [śb]ḫ.n ⸗k ꜥw.w(ꞽ) ⸗k ḥꜣ ⸗f ḥꜣ ⸗f
-1	śb]ḫ.n	śbḫ	VERB	SPC=Past-2|VClass=3-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴𓃀𓐍UC_No|Hierocl=Yes
+1	[śb]ḫ.n	śbḫ	VERB	SPC=Past-2|VClass=3-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴𓃀𓐍UC_No|Hierocl=Yes
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	nsubj	_	Hiero=𓎡
 3	ꜥw.w(ꞽ)	ꜥw	NOUN	_	Gender=Masc|Number=Dual	1	obj	_	Hiero=𓂝𓅱
-4	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nmod	_	Hiero=𓎡
+4	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡
 5	ḥꜣ	ḥꜣ	ADP	Status=Pron	_	6	case	_	Hiero=𓇉
 6	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	Hiero=𓎡
 7	ḥꜣ	ḥꜣ	ADP	Status=Pron	_	8	case	_	Hiero=𓇉
