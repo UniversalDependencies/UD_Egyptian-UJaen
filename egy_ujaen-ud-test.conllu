@@ -25616,7 +25616,7 @@
 7	[ꞽm]	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	9	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
 8	[⸗k]	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Hiero=𓎡
 9	gꜣ.w	gꜣu̯	VERB	Inf=NegCom|VClass=3aeinf	VerbForm=Inf	1	advcl	_	Hiero=𓎼𓄿𓅱UC_14344|Hierocl=Yes
-10	ꞽm	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	12	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
+10	[ꞽm]	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	12	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
 11	[⸗k]	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Hiero=𓎡
 12	ꜥš.w	ꜥši̯	VERB	Inf=NegCom|VClass=3aeinf	VerbForm=Inf	9	conj	_	Hiero=(𓂝:𓈙)(𓏌*𓏌:)𓏌𓆩𓅱|Hierocl=Yes
 
@@ -25676,7 +25676,6 @@
 14	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Hiero=𓆑
 15	ꞽm	m	ADP	Status=Pron	Case=Loc	16	case	_	Hiero=𓇋𓅓
 16	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	Hiero=𓆑
-
 
 # sent_id = EUJA-1844
 # ref = Pyramid Texts § 636a-b T, Saqqara, 6th Dynasty, rel, OE
@@ -25918,7 +25917,7 @@
 
 # sent_id = EUJA-1861
 # ref = Pyramid Texts § 641a T, Saqqara, 6th Dynasty, rel, OE
-# text = rč̣.n n ⸗k Ḥr(.w) nčr(.w) ꞽ:ś:(ꞽ)ꜥ.n ⸗f n ⸗k śn ꞽ:ś:ḥč̣.n ⸗śn ḥr ⸗k
+# text = rč̣.n n ⸗k Ḥr(.w) nčr(.w) ꞽ:ś:(ꞽ)ꜥ.n ⸗f n ⸗k śn ꞽ:ś:ḥč̣ ⸗śn ḥr ⸗k
 1	rč̣.n	rč̣i̯	VERB	SPC=Past-2|VClass=anom|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓂋:𓏙)𓈖
 2	n	n	ADP	Status=Pron	_	3	case	_	Hiero=𓈖
 3	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	Hiero=𓎡
