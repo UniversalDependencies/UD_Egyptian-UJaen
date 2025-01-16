@@ -25605,16 +25605,16 @@
 13	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	Hiero=𓍿𓅱
 
 # sent_id = EUJA-1840
-# ref = Pyramid Texts § 634a T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽn<.n> ⸗f n ⸗k ꞽb(.w) nčr(.w) [ꞽm] [⸗k] gꜣ.w ꞽm ⸗k ꜥš.w
+# ref = Pyramid Texts § 634b-c T, Saqqara, 6th Dynasty, rel, OE
+# text = ꞽn<.n> ⸗f n ⸗k ꞽb(.w) nčr(.w) ꞽm ⸗k gꜣ.w [ꞽm] [⸗k] ꜥš.w
 1	ꞽn<.n>	ꞽni̯	VERB	SPC=Past-2|VClass=anom|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇋𓏎𓈖
 2	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓆑
 3	n	n	ADP	Status=Pron	_	4	case	_	Hiero=𓈖
 4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl:arg	_	Hiero=𓎡
 5	ꞽb(.w)	ꞽb	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	Hiero=𓄣𓄣𓄣
 6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	5	nmod:poss	_	Hiero=𓊹𓊹𓊹
-7	[ꞽm]	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	9	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
-8	[⸗k]	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Hiero=𓎡
+7	ꞽm	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	9	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
+8	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Hiero=𓎡
 9	gꜣ.w	gꜣu̯	VERB	Inf=NegCom|VClass=3aeinf	VerbForm=Inf	1	advcl	_	Hiero=𓎼𓄿𓅱UC_14344|Hierocl=Yes
 10	[ꞽm]	ꞽmi̯	AUX	Clause=Final|SPC=Sub|VClass=def	Mood=Sub|Polarity=Neg|VerbForm=Fin|VerbType=Aux	12	aux	_	Hiero=𓇋𓅓𓂜|Hierocl=Yes
 11	[⸗k]	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	Hiero=𓎡
