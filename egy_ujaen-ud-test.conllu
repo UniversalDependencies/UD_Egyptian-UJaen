@@ -28532,7 +28532,7 @@
 
 # sent_id = EUJA-2050
 # ref = Pyramid Texts § 707a-d T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽn n ⸗k ꞽrč.t Ꜣś.t n Ttꞽ ꜣgb.ꞽ Nb(.t)-ḥw.t pẖr.w šꞽ hy Wꜣč̣-wr ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w) nč̣m-ꞽb tʾ ḥ(n)ḳ.t ḥbś ꞽḫ.t
+# text = ꞽn n ⸗k ꞽrč.t Ꜣś.t n Ttꞽ ꜣgb.ꞽ Nb(.t)-ḥw.t pẖr.w šꞽ hy Wꜣč̣-wr ꜥnḫ(.w) wč̣ꜣ(.w) śnb(.w) nč̣m-ꞽb tʾ ḥ(n)ḳ.t ḥbś ꞽḫ.t ꜥnḫ Ttꞽ ꞽm
 1	ꞽn	ꞽni̯	VERB	VClass=anom	Mood=Imp|Number=Sing	0	root	_	Hiero=(𓇋*𓏎:)𓈖
 2	n	n	ADP	Status=Pron	Case=Ben	3	case	_	Hiero=𓈖
 3	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	Hiero=𓎡
@@ -28580,13 +28580,13 @@
 11	m	m	ADP	Status=Cons	_	12	case	_	Hiero=𓅓
 12	grḥ(.w)	grḥ	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	Hiero=(𓎼:𓂋)𓎛𓇰𓇰𓇰|Hierocl=Yes
 13	smꜣ	smꜣ	VERB	ADJ|VClass=3-lit	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	Hiero=𓊃(:𓌴*𓄥)
-15	r	r	ADP	Status=Cons	_	16	case	_	Hiero=𓂋
-16	ꞽḫ.t	ꞽḫ.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	Hiero=(𓐍:𓏏)((𓏐*𓏊:)𓏖)|Hierocl=Yes
-17	ḥtp.n	ḥtp	VERB	SPC=Past-2|VForm=Pred|VClass=3-lit	Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	Hiero=𓊵(𓏏:𓊪)𓈖
-18	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	Hiero=𓋴𓈖
-19	ḥr	ḥr	ADP	Status=Cons	_	20	case	_	Hiero=𓁷
-20	ḥtp(.w)	ḥtp	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	Hiero=(𓊵:𓊵)𓊵|Hierocl=Yes
-21	⸗śn	śn	PRON	Poss=Yes|Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	20	nmod	_	Hiero=𓋴𓈖
+14	r	r	ADP	Status=Cons	_	15	case	_	Hiero=𓂋
+15	ꞽḫ.t	ꞽḫ.t	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	Hiero=(𓐍:𓏏)((𓏐*𓏊:)𓏖)|Hierocl=Yes
+16	ḥtp.n	ḥtp	VERB	SPC=Past-2|VForm=Pred|VClass=3-lit	Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	Hiero=𓊵(𓏏:𓊪)𓈖
+17	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	Hiero=𓋴𓈖
+18	ḥr	ḥr	ADP	Status=Cons	_	19	case	_	Hiero=𓁷
+19	ḥtp(.w)	ḥtp	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	Hiero=(𓊵:𓊵)𓊵|Hierocl=Yes
+20	⸗śn	śn	PRON	Poss=Yes|Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	19	nmod	_	Hiero=𓋴𓈖
 
 # sent_id = EUJA-2052
 # ref = Pyramid Texts § 709a T, Saqqara, 6th Dynasty, rel, OE
