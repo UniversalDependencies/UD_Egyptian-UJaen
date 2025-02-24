@@ -29435,10 +29435,10 @@
 # sent_id = EUJA-2107
 # ref = Pyramid Texts § 730d T, Saqqara, 6th Dynasty, rel, OE
 # text = fṭ.t ⸗k m fṭ.t pśč̣.t(ꞽ)
-1	fṭ.t	fṭ.t	NOUN	_	Gender=Masc|Number=Fem	4	nsubj	_	Hiero=(𓆑:𓂧:𓏏)(UC_13F30:UC_13F30:UC_13F30)|Hierocl=Yes
+1	fṭ.t	fṭ.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Hiero=(𓆑:𓂧:𓏏)(UC_13F30:UC_13F30:UC_13F30)|Hierocl=Yes
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
 3	m	m	ADP	Status=Cons	Case=Equ	4	case	_	Hiero=𓅓
-4	fṭ.t	fṭ.t	NOUN	_	Gender=Masc|Number=Fem	0	root	_	Hiero=(𓆑:𓂧:𓏏)(UC_13F30:UC_13F30:UC_13F30)|Hierocl=Yes
+4	fṭ.t	fṭ.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Hiero=(𓆑:𓂧:𓏏)(UC_13F30:UC_13F30:UC_13F30)|Hierocl=Yes
 5	pśč̣.t(ꞽ)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	4	nmod:poss	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
 
 # sent_id = EUJA-2108
@@ -29469,7 +29469,7 @@
 1	ḫfꜥ	ḫfꜥ	VERB	SPC=Pres|VClass=3-lit|VForm=AbstRel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=(𓐍:𓆑:𓂝)UC_13A01|Hierocl=Yes
 2	ḫfꜥ	ḫfꜥ	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Hiero=(𓐍:𓆑:𓂝)(𓂬:𓏤)|Hierocl=Yes
 3	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod	_	Hiero=𓎡
-4	ḥr	ḥr	ADP	Status=Cons	Case=Ins	4	case	_	Hiero=𓁷
+4	ḥr	ḥr	ADP	Status=Cons	Case=Ins	5	case	_	Hiero=𓁷
 5	ḥč̣	ḥč̣	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓌉𓏤|Hierocl=Yes
 
 # sent_id = EUJA-2111
@@ -29480,7 +29480,7 @@
 3-4	m-ḫnt	_	_	_	_	_	_	_	_
 3	m	m	ADP	Status=Cons	ExtPos=ADP	5	case	_	Hiero=𓅓
 4	ḫnt	ḫnt	NOUN	_	Gender=Masc|Number=Sing	3	fixed	_	Hiero=𓏅(𓈖:𓏏)
-5	ꞽtr.t(ꞽ)	ꞽtr.t	NOUN	_	Gender=Fem|Number=Dual	4	compound	_	Hiero=𓇋(𓏏:𓂋:𓏏)UC_13FDD UC_No UC_13FDD UC_13FAD|Hierocl=Yes
+5	ꞽtr.t(ꞽ)	ꞽtr.t	NOUN	_	Gender=Fem|Number=Dual	1	obl	_	Hiero=𓇋(𓏏:𓂋:𓏏)UC_13FDD UC_No UC_13FDD UC_13FAD|Hierocl=Yes
 
 # sent_id = EUJA-2112
 # ref = Pyramid Texts § 731c T, Saqqara, 6th Dynasty, rel, OE
@@ -29526,7 +29526,7 @@
 17	ꞽ:ḫm.w	ḫm	NOUN	Aug=Yes|VClass=2-lit	Gender=Masc|Number=Plur|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Act	15	nsubj	_	Hiero=𓇋(𓐍:𓅓)𓂜𓅱
 18	śk(.w)	śki̯	VERB	Inf=NegCom|MWE=Yes|VClass=3aeinf	VerbForm=Inf	17	compound	_	Hiero=𓋴𓎡(𓇼*𓇼:)𓇼
 
-# sent_id = EUJA-2114
+# sent_id = EUJA-2115
 # ref = Pyramid Texts § 733b T, Saqqara, 6th Dynasty, rel, OE
 # text = ꞽ:ꜥbꜣ čw ꞽr ꞽw Rꜥw Ttꞽ
 1	ꞽ:ꜥbꜣ	ꜥbꜣ	VERB	Aug=Yes|VClass=3-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=𓇋𓂝𓃀𓅡𓌂|Hierocl=Yes
@@ -29536,7 +29536,7 @@
 5	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	4	nsubj	_	Hiero=𓇳
 6	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	1	vocative	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 
-# sent_id = EUJA-2115
+# sent_id = EUJA-2116
 # ref = Pyramid Texts § 733c T, Saqqara, 6th Dynasty, rel, OE
 # text = wꜥb ⸗k pr ⸗k n Rꜥw
 1	wꜥb	wꜥb	VERB	SPC=Sub|VClass=3-lit	Mood=Sub	0	root	_	Hiero=UC_14386:𓅱𓂝𓃀
@@ -29546,7 +29546,7 @@
 5	n	n	ADP	Status=Cons	_	6	case	_	Hiero=𓈖
 6	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	3	obl	_	Hiero=𓇳
 
-# sent_id = EUJA-2116
+# sent_id = EUJA-2117
 # ref = Pyramid Texts § 733d T, Saqqara, 6th Dynasty, rel, OE
 # text = nꞽ šw p.t ꞽm ⸗k Ttꞽ č̣.t
 1	nꞽ	nꞽ	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
@@ -29557,7 +29557,7 @@
 6	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	2	vocative	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 7	č̣.t	č̣.t	NOUN	_	AdvType=Tim|Gender=Fem|Number=Sing	2	obl	_	Hiero=𓆖
 
-# sent_id = EUJA-2117
+# sent_id = EUJA-2118
 # ref = Pyramid Texts § 734a T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw čs čw ꞽt(ꞽ)
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29566,7 +29566,7 @@
 4	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obj	_	Hiero=𓍿𓅱
 5	ꞽt(ꞽ)	ꞽtꞽ	NOUN	_	Gender=Masc|Number=Sing	3	vocative	_	Hiero=𓇋𓏏
 
-# sent_id = EUJA-2118
+# sent_id = EUJA-2119
 # ref = Pyramid Texts § 734a-b T, Saqqara, 6th Dynasty, rel, OE
 # text = mw ⸗k n ⸗k bꜥḥ ⸗k n ⸗k ꞽrč.t ⸗k n ⸗k ꞽm.t mnč̣(.wꞽ) mw.t Ꜣś.t
 1	mw	mw	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	Hiero=𓈗
@@ -29586,7 +29586,7 @@
 15	mw.t	mw.t	NOUN	_	Gender=Fem|Number=Sing	14	nmod:poss	_	Hiero=𓅐𓏏
 16	Ꜣś.t	Ꜣś.t	PROPN	Name=God	Gender=Fem	15	nmod:poss	_	Hiero=𓊨𓏏
 
-# sent_id = EUJA-2119
+# sent_id = EUJA-2120
 # ref = Pyramid Texts § 734c-d T, Saqqara, 6th Dynasty, rel, OE
 # text = čs čw mś Ḥr.w mś ꞽm(.ꞽ) Č̣bꜥ.wt-P(ꞽ) Śtẖ ꞽś ꞽm(.ꞽ) Tꜣḫb.t
 1	čs	čsi̯	VERB	VClass=3aeinf	Mood=Imp|Number=Sing	0	root	_	Hiero=(𓍿:𓊃)UC_No|Hierocl=Yes
@@ -29603,7 +29603,7 @@
 11	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	9	amod	_	Hiero=𓇋𓏶
 12	Tꜣḫb.t	Tꜣḫb.t	PROPN	Name=Place	Gender=Fem	11	obl	_	Hiero=UC_13E53 UC_13E53 (𓏏:𓊖)|Hierocl=Yes
 
-# sent_id = EUJA-2120
+# sent_id = EUJA-2121
 # ref = Pyramid Texts § 735a T, Saqqara, 6th Dynasty, rel, OE
 # text = śč̣r r ⸗f Wr pn ꞽ:bꜣn(.w) r ⸗f
 1	śč̣r	śč̣r	VERB	SPC=Pres|VClass=3-lit|VForm=AbstRel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋴(𓇦:𓂋)𓁀|Hierocl=Yes
@@ -29615,7 +29615,7 @@
 7	r	r	ADP	Status=Pron	_	8	case	_	Hiero=𓂋
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	Hiero=𓆑
 
-# sent_id = EUJA-2121
+# sent_id = EUJA-2122
 # ref = Pyramid Texts § 735b T, Saqqara, 6th Dynasty, rel, OE
 # text = ꞽ:rś Ttꞽ čs čw šsp n ⸗k ṭp ⸗k śꜣḳ n ⸗k ḳś(.w) ⸗k wḫꜣ n ⸗k ḫm.w ⸗k
 1	ꞽ:rś	rś	VERB	Aug=Yes|VClass=2-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=𓇋𓂋𓋴UC_141F4|Hierocl=Yes
@@ -29638,7 +29638,7 @@
 18	ḫm.w	ḫm.w	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	Hiero=𓐍𓅓𓅱UC_No|Hierocl=Yes
 19	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	18	nmod	_	Hiero=𓎡
 
-# sent_id = EUJA-2122
+# sent_id = EUJA-2123
 # ref = Pyramid Texts § 736a-b T, Saqqara, 6th Dynasty, rel, OE
 # text = ḥmś r ⸗k ḥr ḫnṭ.w ⸗k <p>w bꞽꜣ.ꞽ wnm ⸗k n ⸗k ḫpš č̣ꜣ ⸗k n ⸗k ꞽwꜥ
 1	ḥmś	ḥmśi̯	VERB	VClass=4aeinf	Mood=Imp|Number=Sing	0	root	_	Hiero=𓈟𓋴
@@ -29660,7 +29660,7 @@
 17	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	obl:arg	_	Hiero=𓎡
 18	ꞽwꜥ	ꞽwꜥ	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	Hiero=(𓃛:𓂝)𓄯|Hierocl=Yes
 
-# sent_id = EUJA-2123
+# sent_id = EUJA-2124
 # ref = Pyramid Texts § 736c T, Saqqara, 6th Dynasty, rel, OE
 # text = wšb ⸗k m šb.t(ꞽ)w ⸗k ꞽr p.t m-ꜥb nčr(.w)
 1	wšb	wšb	VERB	SPC=Pres|VClass=3-lit|VForm=AbstRel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓅱𓈙𓃀(𓏘:𓏘)|Hierocl=Yes
@@ -29675,7 +29675,7 @@
 9	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	Hiero=𓂝(:𓎺*𓃀)𓄏|Hierocl=Yes
 10	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	Hiero=𓊹𓊹𓊹
 
-# sent_id = EUJA-2124
+# sent_id = EUJA-2125
 # ref = Pyramid Texts § 737a T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw hꜣ Ttꞽ pw šsp n ⸗k śšp ⸗k šsp n ⸗k ḥꜣ.tꞽ ⸗k ḥr ⸗k wnḫ ⸗k m ꞽr.t Ḥr.w ꞽm.t Tꜣꞽ.t ꞽr ⸗ś ky.t ⸗k ḫr nčr(.w) ꞽr ⸗ś mśꞽꜣ.t ⸗k ḫr nčr(.w)
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29715,7 +29715,7 @@
 35	ḫr	ḫr	ADP	Status=Cons	_	36	case	_	Hiero=𓐍:𓂋
 36	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	31	obl	_	Hiero=𓊹𓊹𓊹
 
-# sent_id = EUJA-2125
+# sent_id = EUJA-2126
 # ref = Pyramid Texts § 737e-f T, Saqqara, 6th Dynasty, rel, OE
 # text = ꞽč ⸗k wrr.t ꞽm ⸗ś ḫr Ḥr.w nb pꜥ.t
 1	ꞽč	ꞽči̯	VERB	SPC=Sub|VClass=3aeinf	Mood=Sub	0	root	_	Hiero=𓇋𓎁
@@ -29728,7 +29728,7 @@
 8	nb	nb	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	Hiero=𓎟
 9	pꜥ.t	pꜥ.t	NOUN	_	Gender=Fem|Number=Coll	8	nmod:poss	_	Hiero=𓊪:𓂝:𓏏
 
-# sent_id = EUJA-2126
+# sent_id = EUJA-2127
 # ref = Pyramid Texts § 738a-b T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw ꞽ:(n)č̣-(⸗ꞽ)-ḥr ⸗č Tꜣꞽ.t ḥr.t śp.t ꞽwn wr śnśn nčr r śn ⸗f
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29749,7 +29749,7 @@
 15	śn	śn	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	Hiero=𓌢:𓈖
 16	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nmod	_	Hiero=𓆑
 
-# sent_id = EUJA-2127
+# sent_id = EUJA-2128
 # ref = Pyramid Texts § 738c T, Saqqara, 6th Dynasty, rel, OE
 # text = wn ⸗č nꞽ čn
 1	wn	wnn	VERB	SPC=Pres|Topic=Verb|VForm=AbstRel|VClass=2aered	Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	Hiero=𓃹:𓈖
@@ -29757,7 +29757,7 @@
 3	nꞽ	nꞽ	PART	Neg	PartType=Neg	0	root	_	Hiero=𓂜
 4	čn	čn	PRON	Pron=Dep	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓍿:𓈖
 
-# sent_id = EUJA-2128
+# sent_id = EUJA-2129
 # ref = Pyramid Texts § 738c T, Saqqara, 6th Dynasty, rel, OE
 # text = wnn ⸗č nꞽ čn
 1	wnn	wnn	VERB	SPC=Fut|Topic=Verb|VForm=AbstRel|VClass=2aered	Tense=Fut|VerbForm=Fin|Voice=Act	3	advcl	_	Hiero=𓃹:𓈖:𓈖
@@ -29765,7 +29765,7 @@
 3	nꞽ	nꞽ	PART	Neg	PartType=Neg	0	root	_	Hiero=𓂜
 4	čn	čn	PRON	Pron=Dep	Gender=Fem|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Hiero=𓍿:𓈖
 
-# sent_id = EUJA-2129
+# sent_id = EUJA-2130
 # ref = Pyramid Texts § 739a T, Saqqara, 6th Dynasty, rel, OE
 # text = nč̣ ꞽr ⸗č ṭp n(.ꞽ) Ttꞽ ꞽm ⸗f sš.w
 1	nč̣	nč̣	VERB	VClass=2-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=(𓈖:𓆓)𓐩
@@ -29778,7 +29778,7 @@
 8	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Hiero=𓆑
 9	sš.w	sši̯	VERB	Inf=NegCom|VClass=3aeinf	VerbForm=Inf	1	advcl	_	Hiero=(𓊃:𓈙)𓅱𓍢|Hierocl=Yes
 
-# sent_id = EUJA-2130
+# sent_id = EUJA-2131
 # ref = Pyramid Texts § 739b T, Saqqara, 6th Dynasty, rel, OE
 # text = śꜣḳ ⸗č ḳś(.w) Ttꞽ ꞽm ⸗śn sš.w
 1	śꜣḳ	śꜣḳ	VERB	SPC=Sub|VClass=3-lit	Mood=Sub	0	root	_	Hiero=𓋴𓐟𓄿𓈎𓂘|Hierocl=Yes
@@ -29789,7 +29789,7 @@
 6	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Hiero=𓋴𓈖
 7	sš.w	sši̯	VERB	Inf=NegCom|VClass=3aeinf	VerbForm=Inf	1	advcl	_	Hiero=(𓊃:𓈙)𓅱𓍢|Hierocl=Yes
 
-# sent_id = EUJA-2131
+# sent_id = EUJA-2132
 # ref = Pyramid Texts § 739c T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣i̯ ⸗č mrw.t Ttꞽ m ẖ.t nčr nb mꜣꜣ.t(ꞽ) ⸗f(ꞽ) św
 1	č̣i̯	rč̣i̯	VERB	SPC=Sub|VClass=anom	Mood=Sub	0	root	_	Hiero=𓏙
@@ -29804,7 +29804,7 @@
 10	⸗f(ꞽ)	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	Hiero=𓆑
 11	św	św	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Hiero=𓇓𓅱
 
-# sent_id = EUJA-2132
+# sent_id = EUJA-2133
 # ref = Pyramid Texts § 740 T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw č̣ꜣ.wt pw nw ꞽr.n Ḥr.w n ꞽt(ꞽ) ⸗f Wśr(.w)
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29819,7 +29819,7 @@
 10	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Hiero=𓆑
 11	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	9	appos	_	Hiero=𓊨:𓁹
 
-# sent_id = EUJA-2133
+# sent_id = EUJA-2134
 # ref = Pyramid Texts § 741a-b T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw śč̣r Wr ḥr mw.t ⸗f Nw.t ḥbś čw mw.t ⸗k Tꜣꞽ.t
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29836,7 +29836,7 @@
 12	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nmod	_	Hiero=𓎡
 13	Tꜣꞽ.t	Tꜣꞽ.t	PROPN	Name=God	Gender=Fem	11	appos	_	Hiero=(𓏏:𓍔)𓄿𓇋𓏏UC_13CAA|Hierocl=Yes
 
-# sent_id = EUJA-2134
+# sent_id = EUJA-2135
 # ref = Pyramid Texts § 741c T, Saqqara, 6th Dynasty, rel, OE
 # text = fꜣ ⸗ś čw r p.t m rn ⸗ś pw n(.ꞽ) č̣r.t
 1	fꜣ	fꜣi̯	VERB	SPC=Fut|VClass=3aeinf|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓆑𓄿
@@ -29851,7 +29851,7 @@
 10	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	Hiero=𓈖
 11	č̣r.t	č̣r.t	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	Hiero=(𓇦:𓂋:𓏏)UC_No|Hierocl=Yes
 
-# sent_id = EUJA-2135
+# sent_id = EUJA-2136
 # ref = Pyramid Texts § 741d T, Saqqara, 6th Dynasty, rel, OE
 # text = gm.y gm.n ⸗ś Ḥr.w ⸗ś
 1	gm.y	gmi̯	NOUN	VClass=3aeinf	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	nsubj	_	Hiero=𓅠𓇋𓇋
@@ -29860,7 +29860,7 @@
 4	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc	0	root	_	Hiero=𓅃
 5	⸗ś	ś	PRON	Poss=Yes|Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	Hiero=𓋴
 
-# sent_id = EUJA-2136
+# sent_id = EUJA-2137
 # ref = Pyramid Texts § 741e T, Saqqara, 6th Dynasty, rel, OE
 # text = Ḥr.w ⸗č pw-nn Ꜣś.t
 1	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc	0	root	_	Hiero=𓅃
@@ -29870,7 +29870,7 @@
 4	nn	nn	ADV	_	AdvType=Loc	3	fixed	_	Hiero=𓇒
 5	Ꜣś.t	Ꜣś.t	PROPN	Name=God	Gender=Fem	1	vocative	_	Hiero=𓊨𓏏
 
-# sent_id = EUJA-2137
+# sent_id = EUJA-2138
 # ref = Pyramid Texts § 741e T, Saqqara, 6th Dynasty, rel, OE
 # text = sb ⸗č ꜥw ⸗f n Rꜥw r ꜣḫ.t
 1	sb	sbi̯	VERB	SPC=Sub|VClass=3aeinf	Mood=Sub	0	root	_	Hiero=𓊄𓃀
@@ -29882,7 +29882,7 @@
 7	r	r	ADP	Status=Cons	_	8	case	_	Hiero=𓂋
 8	ꜣḫ.t	ꜣḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	Hiero=𓅜((𓐍*𓏏:)𓇿)|Hierocl=Yes
 
-# sent_id = EUJA-2138
+# sent_id = EUJA-2139
 # ref = Pyramid Texts § 742a T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw ꞽ:(n)č̣-(⸗ꞽ)-ḥr ⸗č ḥꜣ.t(ꞽ)t
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29894,7 +29894,7 @@
 6	⸗č	č	PRON	Poss=Yes|Pron=SFP	Gender=Fem|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Hiero=𓍿
 7	ḥꜣ.t(ꞽ)t	ḥꜣ.tꞽt	NOUN	_	Gender=Fem|Number=Sing	3	vocative	_	Hiero=𓄂(:𓏏*𓏏)UC_14360|Hierocl=Yes
 
-# sent_id = EUJA-2139
+# sent_id = EUJA-2140
 # ref = Pyramid Texts § 742b T, Saqqara, 6th Dynasty, rel, OE
 # text = ꞽ:(n)č̣-(⸗ꞽ)-ḥr ⸗č ꞽm.t ḥꜣ.t Ḥr.w (w)ṭꞽ.tn Ḥr.w m wp.t ꞽt(ꞽ) ⸗f Wśr(.w)
 1-3	ꞽ:(n)č̣-(⸗ꞽ)-ḥr	_	_	_	_	_	_	_	Hiero=𓇋𓆓(𓁷:𓂋)
@@ -29913,7 +29913,7 @@
 13	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Hiero=𓆑
 14	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	12	appos	_	Hiero=𓊨:𓁹
 
-# sent_id = EUJA-2140
+# sent_id = EUJA-2141
 # ref = Pyramid Texts § 742c T, Saqqara, 6th Dynasty, rel, OE
 # text = (w)ṭ čn Ttꞽ m wp.t ⸗f mr wṭ.t čn Ḥr.w m wp.t ꞽt(ꞽ) ⸗f Wśr(.w)
 1	(w)ṭ	wṭi̯	VERB	SPC=Fut|VClass=3aeinf|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂧
@@ -29932,7 +29932,7 @@
 14	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Hiero=𓆑
 15	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	13	appos	_	Hiero=Wśr(.w)
 
-# sent_id = EUJA-2141
+# sent_id = EUJA-2142
 # ref = Pyramid Texts § 743a-c T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw ꞽ:(n)č̣-(⸗ꞽ)-ḥr ⸗č Ttꞽ m hrw ⸗k pn ꜥḥꜥ.tꞽ ḫft Rꜥw pr ⸗f m ꞽꜣb.t č̣bꜣ.tꞽ m śꜥḥ ⸗k pn ꞽm(.ꞽ) ꜣḫ(.w)
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -29962,7 +29962,7 @@
 24	ꞽm(.ꞽ)	m	ADJ	Nisba=Prep	Case=Loc|Gender=Masc|Number=Sing	21	amod	_	Hiero=𓇋𓏶
 25	ꜣḫ(.w)	ꜣḫ	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	Hiero=𓅜𓅜𓅜
 
-# sent_id = EUJA-2142
+# sent_id = EUJA-2143
 # ref = Pyramid Texts § 743d-744b T, Saqqara, 6th Dynasty, rel, OE
 # text = ꜣbḫḫ n ⸗k ꜥw.w(ꞽ) rw.w n ⸗k rṭ(.wꞽ) č̣ꜣm n ⸗k č̣r.(w)t ꞽ:nč̣r.n Ꜣś.t ꜥw ⸗k ś:ꜥḳ ⸗ś čw m-ẖnw mnꞽ.w č̣bꜣ tꜣ ḥꜣ.ꞽ wrš(.w) ⸗k
 1	ꜣbḫḫ	ꜣbḫ	VERB	SPC=FutPass|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓄿𓃀(𓐍:𓐍)
@@ -29994,7 +29994,7 @@
 28	wrš(.w)	wrš	NOUN	_	Gender=Masc|Number=Plur	27	nsubj	_	Hiero=(𓅨:𓂋)𓈙𓏧|Hierocl=Yes
 29	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	28	nmod	_	Hiero=𓎡
 
-# sent_id = EUJA-2143
+# sent_id = EUJA-2144
 # ref = Pyramid Texts § 745a-d T, Saqqara, 6th Dynasty, rel, OE
 # text = ḥtp-rč̣i̯ Ꞽnp.w Ḫnt(.ꞽ)-ꞽmn.t(ꞽ)w ḫꜣ(.w) ⸗k m tʾ ḫꜣ(.w) ⸗k m ḥ(n)ḳ.t ḫꜣ(.w) ⸗k m mrḥ.t ḫꜣ(.w) ⸗k m šs ḫꜣ(.w) ⸗k m mnḫ.t ḫꜣ(.w) ⸗k m ꞽḥ(.w)
 1-2	ḥtp-rč̣i̯	_	_	_	_	_	_	_	Hiero=𓊵(:𓏏*𓊪)(𓂋:𓏙)
@@ -30029,7 +30029,7 @@
 28	m	m	ADP	Status=Cons	_	29	case	_	Hiero=𓅓
 29	ꞽḥ(.w)	ꞽḥ	NOUN	_	Gender=Masc|Number=Plur	26	obl	_	Hiero=𓃒𓃒𓃒
 
-# sent_id = EUJA-2144
+# sent_id = EUJA-2145
 # ref = Pyramid Texts § 746a-c T, Saqqara, 6th Dynasty, rel, OE
 # text = ḥśḳḳ n ⸗k śmn npč̣č̣ n ⸗k črp ṭr.n Ḥr.w č̣w.t ꞽr.t Ttꞽ m ꞽfṭ.t ⸗f ꞽ:ḫm.n Śtẖ ꞽr.tn ⸗f ꞽr Ttꞽ m ḫmn.t ⸗f
 1	ḥśḳḳ	ḥśḳ	VERB	SPC=FutPass|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=𓎛𓋴(𓈎:𓈎)
@@ -30058,7 +30058,7 @@
 24	ḫmn.t	ḫmn	NUM	CARD|NOUN	Gender=Fem	19	obl	_	Hiero=𓐍(𓏠:𓈖)𓏏(𓇳:𓐁)|Hierocl=Yes
 25	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nmod	_	Hiero=𓆑
 
-# sent_id = EUJA-2145
+# sent_id = EUJA-2146
 # ref = Pyramid Texts § 747a T, Saqqara, 6th Dynasty, rel, OE
 # text = wn(.w) ꜥꜣ(.w) ḥr štꜣ.w-ś.(w)t
 1	wn(.w)	wn	VERB	SPC=PastPass|VClass=2-lit|VForm=AbstRel	Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Hiero=(𓃹:𓈖)𓉿|Hierocl=Yes
@@ -30068,7 +30068,7 @@
 4	štꜣ.w	štꜣ	NOUN	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	1	obl	_	Hiero=𓈙(:𓏏*𓍔)𓄿𓅱
 5	ś.(w)t	ś.t	NOUN	MWE=Yes	Gender=Fem|Number=Plur	4	compound	_	Hiero=𓊨𓊨𓊨𓏏
 
-# sent_id = EUJA-2146
+# sent_id = EUJA-2147
 # ref = Pyramid Texts § 747b T, Saqqara, 6th Dynasty, rel, OE
 # text = ꜥḥꜥ ꞽ:ṭr tꜣ ⸗k wḫꜣ ḫm.w ⸗k
 1	ꜥḥꜥ	ꜥḥꜥ	VERB	VClass=3-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=𓂝𓊢𓂝
@@ -30079,7 +30079,7 @@
 6	ḫm.w	ḫm.w	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=𓐍𓅓𓅱𓏧|Hierocl=Yes
 7	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	Hiero=𓎡
 
-# sent_id = EUJA-2147
+# sent_id = EUJA-2148
 # ref = Pyramid Texts § 747b-748b T, Saqqara, 6th Dynasty, rel, OE
 # text = čs čw ḫns ⸗k m-ꜥb ꜣḫ(.w) č̣nḥ(.wꞽ) ⸗k m bꞽk sꞽšꞽ ⸗k m śbꜣ
 1	čs	čsi̯	VERB	VClass=3aeinf	Mood=Imp|Number=Sing	0	root	_	Hiero=(𓍿:𓊃)UC_No|Hierocl=Yes
@@ -30099,7 +30099,7 @@
 14	m	m	ADP	Status=Cons	Case=Equ	15	case	_	Hiero=𓅓
 15	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	Hiero=𓋴𓃀(𓇼:𓏤)|Hierocl=Yes
 
-# sent_id = EUJA-2148
+# sent_id = EUJA-2149
 # ref = Pyramid Texts § 748c T, Saqqara, 6th Dynasty, rel, OE
 # text = nꞽ kś.w ḫꜣw.tꞽ ḥr Ttꞽ
 1	nꞽ	nꞽ	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
@@ -30108,7 +30108,7 @@
 4	ḥr	ḥr	ADP	Status=Cons	_	5	case	_	Hiero=𓁷
 5	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	2	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 
-# sent_id = EUJA-2149
+# sent_id = EUJA-2150
 # ref = Pyramid Texts § 748d T, Saqqara, 6th Dynasty, rel, OE
 # text = nꞽ ꞽč.w ꞽb n(.ꞽ) Ttꞽ
 1	nꞽ	nꞽ	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
@@ -30117,7 +30117,7 @@
 4	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	3	amod	_	Hiero=𓈖
 5	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	4	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 
-# sent_id = EUJA-2150
+# sent_id = EUJA-2151
 # ref = Pyramid Texts § 748d-749a T, Saqqara, 6th Dynasty, rel, OE
 # text = nꞽ nḥmm ḥꜣ.t(ꞽ) ⸗f Ttꞽ pw wr wč̣ꜣ wrr.t
 1	nꞽ	nꞽ	PART	Neg	PartType=Neg	2	advmod	_	Hiero=𓂜
@@ -30130,7 +30130,7 @@
 8	wč̣ꜣ	wč̣ꜣ	NOUN	ADJ|Lim|VClass=3-lit	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	appos	_	Hiero=𓍒𓅱
 9	wrr.t	wrr.t	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Hiero=(𓅨:𓂋:𓂋)𓏏𓋒|Hierocl=Yes
 
-# sent_id = EUJA-2151
+# sent_id = EUJA-2152
 # ref = Pyramid Texts § 749b T, Saqqara, 6th Dynasty, rel, OE
 # text = ḥtm św Ttꞽ m ꜥ.(w)t ⸗f bꞽꜣ.(w)t
 1	ḥtm	ḥtm	VERB	SPC=Fut|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓎛(𓏏:𓍃)𓅓
@@ -30141,7 +30141,7 @@
 6	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	bꞽꜣ.(w)t	bꞽꜣ	ADJ	Nisba=Noun	Gender=Fem|Number=Plur	5	amod	_	Hiero=𓃀(𓈞:UC_13F47)𓄿𓏏|Hierocl=Yes
 
-# sent_id = EUJA-2152
+# sent_id = EUJA-2153
 # ref = Pyramid Texts § 749c T, Saqqara, 6th Dynasty, rel, OE
 # text = nm(ꞽ) Ttꞽ p.t ꞽr śḫ.t ꞽꜣr.w
 1	nm(ꞽ)	nmꞽ	VERB	SPC=Fut|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓈖:𓉕
@@ -30151,7 +30151,7 @@
 5	śḫ.t	śḫ.t	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	𓋴(𓐍:𓏏)𓇏|Hierocl=Yes
 6	ꞽꜣr.w	ꞽꜣr	NOUN	_	Gender=Masc|Number=Plur	5	nmod:poss	_	𓇋𓄿𓃭UC_13E53 UC_13E53 UC_13E53|Hierocl=Yes
 
-# sent_id = EUJA-2153
+# sent_id = EUJA-2154
 # ref = Pyramid Texts § 749d-e T, Saqqara, 6th Dynasty, rel, OE
 # text = ꞽr Ttꞽ ꞽmn ⸗f m śḫ.t ḥtp m-m ꞽ:ḫm.w-śk(.w) šmś.w Wśr(.w)
 1	ꞽr	ꞽri̯	VERB	SPC=Fut|VClass=3aeinf|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓁹
@@ -30170,7 +30170,7 @@
 12	šmś.w	šmś	NOUN	_	Gender=Masc|Number=Plur	10	appos	_	Hiero=𓈙𓋴𓌞𓅱𓏧|Hierocl=Yes
 13	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	12	nmod:poss	_	Hiero=𓊨:𓁹
 
-# sent_id = EUJA-2154
+# sent_id = EUJA-2155
 # ref = Pyramid Texts § 750a T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw hꜣ Ttꞽ pw wꜥb ś:nčr čw n Rꜥw
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
@@ -30184,7 +30184,7 @@
 9	n	n	ADP	Status=Cons	Case=Cau	10	case	_	Hiero=𓈖
 10	Rꜥw	Rꜥw	PROPN	Name=God	Gender=Masc	7	obl	_	Hiero=𓇳
 
-# sent_id = EUJA-2155
+# sent_id = EUJA-2156
 # ref = Pyramid Texts § 750b T, Saqqara, 6th Dynasty, rel, OE
 # text = nfr w(ꞽ) wꜥb ⸗k smn
 1	nfr	nfr	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Hiero=𓄤𓂋
@@ -30193,7 +30193,7 @@
 4	⸗k	k	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nmod	_	Hiero=𓎡
 5	smn	smn	NOUN	VClass=3-lit	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	Hiero=𓊃:𓏠:𓈖
 
-# sent_id = EUJA-2156
+# sent_id = EUJA-2157
 # ref = Pyramid Texts § 750c T, Saqqara, 6th Dynasty, rel, OE
 # text = smn smn čw m-m nčr(.w) smn
 1	smn	smn	VERB	VClass=3-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=𓊃:𓏠:𓈖
@@ -30205,7 +30205,7 @@
 6	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	Hiero=𓊹𓊹𓊹
 7	smn	smn	NOUN	VClass=3-lit	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	Hiero=𓊃:𓏠:𓈖
 
-# sent_id = EUJA-2157
+# sent_id = EUJA-2158
 # ref = Pyramid Texts § 750d T, Saqqara, 6th Dynasty, rel, OE
 # text = smn smn čw m-m sḥ.{t}(ꞽ)w-nčr smn
 1	smn	smn	VERB	VClass=3-lit	Mood=Imp|Number=Sing	0	root	_	Hiero=𓊃:𓏠:𓈖
@@ -30219,7 +30219,7 @@
 7	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	6	compound	_	Hiero=
 8	smn	smn	NOUN	VClass=3-lit	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	vocative	_	Hiero=𓊃:𓏠:𓈖
 
-# sent_id = EUJA-2158
+# sent_id = EUJA-2159
 # ref = Pyramid Texts § 751a T, Saqqara, 6th Dynasty, rel, OE
 # text = č̣(ṭ) mṭw Ttꞽ ḥfṭ ⸗k ꞽꜣṭ ⸗k ꞽꜣḫ.w čwt Ꞽḫḫ.w ḥr.ꞽ wꜥr.t n.t p.t
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
