@@ -4300,7 +4300,7 @@
 
 # sent_id = EUJA-311
 # ref = Pyramid Texts § 146/89a-b W, Saqqara, 5th Dynasty, rel, OE
-# text = Wśr(.w) Wnꞽś m ꞽr.t Ḥr.w ꞽw ⸗śn ꞽ:śšn.w ꞽm ⸗ś | ꞽꜣ.t(ꞽ)t č̣śr.t ḥnw.t 2
+# text = Wśr(.w) Wnꞽś m n ⸗k ꞽr.t Ḥr.w ꞽw ⸗śn ꞽ:śšn.w ꞽm ⸗ś | ꞽꜣ.t(ꞽ)t č̣śr.t ḥnw.t 2
 1	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
 2	Wnꞽś	Wnꞽś	PROPN	Name=King	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 3	m	m	VERB	VClass=def	Mood=Imp|Number=Sing	0	root	_	Hiero=𓌇
@@ -4315,7 +4315,7 @@
 12	⸗ś	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obl	_	Hiero=𓋴
 13	|	|	PUNCT	LINE	_	14	punct	_	_
 14	ꞽꜣ.t(ꞽ)t	ꞽꜣ.tꞽt	NOUN	_	Gender=Fem|Number=Sing	3	parataxis	_	Hiero=𓏏UC_141D5𓏏
-15	č̣śr.t	č̣śr.t	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	Hiero=𓂦
+15	č̣śr.t	č̣śr.t	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	Hiero=𓂦
 16	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	15	appos	_	Hiero=𓎺
 17	2	2	NUM	CARD	_	16	nummod	_	Hiero=𓏮
 
@@ -22319,7 +22319,7 @@
 15	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	Hiero=𓆑
 16	m	m	ADP	Status=Cons	Case=Equ	17	case	_	Hiero=𓅓
 17-18	Ḥw(.t)-Ḥr.w	_	_	_	_	_	_	_	Hiero=UC_No
-17	Ḥw.t	Ḥw.t	PROPN	Name=God	Gender=Fem|Number=Sing	8	root	_	Hiero=𓅃
+17	Ḥw.t	Ḥw.t	PROPN	Name=God	Gender=Fem|Number=Sing	8	advcl	_	Hiero=𓅃
 18	Ḥr.w	Ḥr.w	PROPN	Name=God	Gender=Masc|Number=Sing	17	flat	_	Hiero=UC_No
 19	šw.t	šw.t	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	Hiero=(𓈙:𓏏)𓆄|Hierocl=Yes
 20	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	Hiero=𓆑
@@ -30280,7 +30280,7 @@
 24	4	4	NUM	CARD	_	23	nummod	_	Hiero=𓏽
 25	|	|	PUNCT	LINE	_	26	punct	_	_
 26	šꜥ(w).t	šꜥw.t	NOUN	_	Gender=Fem|Number=Sing	15	parataxis	_	Hiero=(𓈙:𓂝)𓏏𓏐|Hierocl=Yes
-27	|	|	PUNCT	LINE	_	27	punct	_	_
+27	|	|	PUNCT	LINE	_	28	punct	_	_
 28	2	2	NUM	CARD|NOUN	_	26	parataxis	_	Hiero=𓏮
 
 # sent_id = EUJA-2161
@@ -30343,7 +30343,7 @@
 
 # sent_id = EUJA-2163
 # ref = Pyramid Texts § 145/88c-d T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw Wśr(.w) Wnꞽś m n ⸗k ꞽr.t Ḥr.w nč̣ś(.t) wnm.tn Śtẖ ꞽm ⸗ś č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | č̣śr.t ḥnw.t | 2
+# text = č̣(ṭ) mṭw Wśr(.w) Ttꞽ m n ⸗k ꞽr.t Ḥr.w nč̣ś(.t) wnm.tn Śtẖ ꞽm ⸗ś č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | č̣śr.t ḥnw.t | 2
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
 3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	5	vocative	_	Hiero=𓊨:𓁹
@@ -30376,10 +30376,10 @@
 
 # sent_id = EUJA-2164
 # ref = Pyramid Texts § 146/89a-b T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw Wśr(.w) Ttꞽ m ꞽr.t Ḥr.w ꞽw ⸗śn ꞽ:śšn.w ꞽm ⸗ś č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ꞽꜣ.t(ꞽ)t č̣śr.t ḥnw.t | 2
+# text = č̣(ṭ) mṭw Wśr(.w) Ttꞽ m n ⸗k ꞽr.t Ḥr.w ꞽw ⸗śn ꞽ:śšn.w ꞽm ⸗ś č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ꞽꜣ.t(ꞽ)t č̣śr.t ḥnw.t | 2
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
+3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	5	vocative	_	Hiero=𓊨:𓁹
 4	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 5	m	m	VERB	VClass=def	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓌇
 6	n	n	ADP	Status=Pron	Case=Ben	7	case	_	Hiero=𓈖
@@ -30410,10 +30410,10 @@
 
 # sent_id = EUJA-2165
 # ref = Pyramid Texts § 147/89c-d T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw Wśr(.w) Wnꞽś m n ⸗k ꞽr.t Ḥr.w ꞽ:ḫḫm.tn ⸗śn ꞽr ⸗f č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ḫnmś ḥnw.t | 2
+# text = č̣(ṭ) mṭw Wśr(.w) Ttꞽ m n ⸗k ꞽr.t Ḥr.w ꞽ:ḫḫm.tn ⸗śn ꞽr ⸗f č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ḫnmś ḥnw.t | 2
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
+3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	5	vocative	_	Hiero=𓊨:𓁹
 4	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 5	m	m	VERB	VClass=def	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓌇
 6	n	n	ADP	Status=Pron	Case=Ben	7	case	_	Hiero=𓈖
@@ -30442,10 +30442,10 @@
 
 # sent_id = EUJA-2166
 # ref = Pyramid Texts § 148/90a-b T, Saqqara, 6th Dynasty, rel, OE
-# text = č̣(ṭ) mṭw Wśr(.w) Wnꞽś ḥtm čw m ḥnḳ pr (ꞽ)m ⸗k č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ḥ(n)ḳ.t ḥnw.t | 2
+# text = č̣(ṭ) mṭw Wśr(.w) Ttꞽ ḥtm čw m ḥnḳ pr (ꞽ)m ⸗k č̣(ṭ) mṭw sp 4 n Ttꞽ pn fꜣ.t sp 4 | ḥ(n)ḳ.t ḥnw.t | 2
 1	č̣(ṭ)	č̣ṭ	VERB	VClass=2-lit	Gender=Masc|VerbForm=Inf	0	root	_	Hiero=𓆓
 2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹
+3	Wśr(.w)	Wśr.w	PROPN	Name=God	Gender=Masc	5	vocative	_	Hiero=𓊨:𓁹
 4	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 5	ḥtm	ḥtm	VERB	VClass=3-lit	Mood=Imp|Number=Sing	1	ccomp	_	Hiero=𓎛(𓏏:𓍃)𓅓
 6	čw	čw	PRON	Pron=Dep	Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	5	obj	_	Hiero=𓍿𓅱
