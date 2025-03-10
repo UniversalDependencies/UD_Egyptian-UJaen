@@ -5549,7 +5549,7 @@
 2	nk.n	nk	VERB	SPC=Past-2|VForm=Pred|VClass=2-lit	Tense=Past|VerbForm=Fin	0	root	_	Hiero=(𓈖:𓎡)UC_13A07𓈖
 3	Wnꞽś	Wnꞽś	PROPN	Name=King	Gender=Masc	2	nsubj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 4	nfr.t	nfr.t	NOUN	VClass=3-lit	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	obj	_	Hiero=𓄤(𓂋:𓏏)
-5	nr(.w)	nr.w	NOUN	_	Gender=Masc|Number=Sing	3	nmod:poss	_	Hiero=(𓈖:𓂋)𓅐|Hierocl=Yes
+5	nr(.w)	nr.w	NOUN	_	Gender=Masc|Number=Sing	4	nmod:poss	_	Hiero=(𓈖:𓂋)𓅐|Hierocl=Yes
 6	⸗f	f	PRON	Poss=Yes|Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Hiero=𓆑
 7	šw	šwi̯	VERB	SPC=Pres|VForm=Pred|VClass=3aeinf	Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Hiero=𓈙(:𓆄*𓅱)
 8	tbtb	tbtb	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	Hiero=𓏏𓃀𓏏𓃀
@@ -20404,13 +20404,13 @@
 # text = ꞽč ⸗k n ⸗k Wnꞽś ḥnꜥ ⸗k ḥnꜥ ⸗k nfꜥ n ⸗k šꜣp.t ḫśr n ⸗k ꞽgp ꞽ:śč̣ n ⸗k šnꞽ.t
 1	ꞽč	ꞽči̯	VERB	SPC=Sub|VClass=3aeinf	Mood=Sub	0	root	_	Hiero=𓇋𓎁
 2	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Hiero=𓎡
-3	n	n	ADP	Status=Pron	Case=Ben	4	case	_	Hiero=𓈖
-4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl	_	Hiero=𓎡
+3	n	n	ADP	Status=Pron	_	4	case	_	Hiero=𓈖
+4	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Emp	1	obl:arg	_	Hiero=𓎡
 5	Wnꞽś	Wnꞽś	PROPN	Name=King	Gender=Masc	1	obj	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺
 6	ḥnꜥ	ḥnꜥ	ADP	Status=Pron	Case=Com	7	case	_	Hiero=𓎛(𓈖:𓂝)
-7	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	conj	_	Hiero=𓎡
+7	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obl	_	Hiero=𓎡
 8	ḥnꜥ	ḥnꜥ	ADP	Status=Pron	Case=Com	9	case	_	Hiero=𓎛(𓈖:𓂝)
-9	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	conj	_	Hiero=𓎡
+9	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	conj	_	Hiero=𓎡
 10	nfꜥ	nfꜥ	VERB	ADJ|VClass=3-lit	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	Hiero=𓈖:𓆑:𓂝
 11	n	n	ADP	Status=Pron	Case=Ben	12	case	_	Hiero=𓈖
 12	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	Hiero=𓎡
