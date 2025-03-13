@@ -5399,7 +5399,7 @@
 9	tn	tn	DET	Dem	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	Hiero=𓏏:𓈖
 
 # sent_id = EUJA-385
-# ref = Pyramid Texts § 120d W, Saqqara, 5th Dynasty, rel, OE
+# ref = Pyramid Texts § 120d-121c W, Saqqara, 5th Dynasty, rel, OE
 # text = ḫfꜥ ⸗śn č̣i̯ ⸗śn n ⸗f ꜣm ⸗śn č̣i̯ ⸗śn n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt n Wnꞽś ꞽn ꞽt(ꞽ) ⸗f rč̣ n ⸗f ꞽn Rꜥw rč̣ n ⸗f ꞽtꞽ bṭ.t tʾ ḥ(n)ḳ.t n-n.tt śwt ꞽś kꜣ wr ḥ(w) Kns.t n-n.tt Wnꞽś ꞽś ꞽr(.ꞽ) ṭꞽ.t ꞽš.tt m ḥw.t
 1	ḫfꜥ	ḫfꜥ	VERB	SPC=Sub|VClass=3-lit	Mood=Sub	0	root	_	Hiero=(𓐍:𓆑:𓂝)𓂬|Hierocl=Yes
 2	⸗śn	śn	PRON	Pron=SFP	Gender=Com|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Hiero=𓋴𓈖
@@ -11998,9 +11998,9 @@
 
 # sent_id = EUJA-918
 # ref = Pyramid Texts § 282c-283a W, Saqqara, 5th Dynasty, rel, OE
-# text = ꞽꞽ(.w) mś.n (⸗ꞽ) wbn ꜥb ⸗f ꞽwn śṭm kꜣ n(.ꞽ) p.t
-1	ꞽꞽ(.w)	ꞽwi̯	VERB	OSSC=Sub|VClass=anom	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Hiero=𓇍
-2	mś.n	mśi̯	VERB	NOUN|Tense=Past-2|VClass=3aeinf|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	dislocated	_	Hiero=𓄟𓈖
+# text = ꞽꞽ mś.n (⸗ꞽ) wbn ꜥb ⸗f ꞽwn śṭm kꜣ n(.ꞽ) p.t
+1	ꞽꞽ	ꞽwi̯	VERB	SPC=Pres|VClass=anom|VForm=AbstRel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍
+2	mś.n	mśi̯	VERB	NOUN|Tense=Past-2|VClass=3aeinf|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	csubj	_	Hiero=𓄟𓈖
 3	(⸗ꞽ)	ꞽ	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Hiero=No
 4	wbn	wbn	VERB	NOUN|Tense=Pres|VClass=3-lit|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	2	conj	_	Hiero=𓅱𓃀(𓈖:𓆇)|Hierocl=Yes
 5	ꜥb	ꜥb	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Hiero=𓄏:𓏤|Hierocl=Yes
@@ -12013,9 +12013,9 @@
 
 # sent_id = EUJA-919
 # ref = Pyramid Texts § 282c-283a T, Saqqara, 6th Dynasty, rel, OE
-# text = ꞽꞽ(.w) mś.n (⸗ꞽ) r Ttꞽ pn wbn ꜥb ⸗f ꞽwn śṭm kꜣ n(.ꞽ) p.t
-1	ꞽꞽ(.w)	ꞽwi̯	VERB	OSSC=Sub|VClass=3ainf	Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Hiero=𓇍
-2	mś.n	mśi̯	VERB	NOUN|Tense=Past-2|VClass=3aeinf|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	dislocated	_	Hiero=𓄟𓈖
+# text = ꞽꞽ mś.n (⸗ꞽ) r Ttꞽ pn wbn ꜥb ⸗f ꞽwn śṭm kꜣ n(.ꞽ) p.t
+1	ꞽꞽ	ꞽwi̯	VERB	SPC=Pres|VClass=anom|VForm=AbstRel	Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓇍
+2	mś.n	mśi̯	VERB	NOUN|Tense=Past-2|VClass=3aeinf|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Fin	1	csubj	_	Hiero=𓄟𓈖
 3	(⸗ꞽ)	ꞽ	PRON	Pron=SFP	Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Hiero=No
 4	r	r	ADP	Status=Cons	_	5	case	_	Hiero=𓂋
 5	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	1	obl	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
@@ -22033,11 +22033,11 @@
 10	śbꜣ	śbꜣ	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	Hiero=𓋴𓃀𓇼|Hierocl=Yes
 11	kśś.w	kśi̯	VERB	ADJ|Tense=Pres|VClass=3aeinf|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	Hiero=𓎡𓋴𓋴𓅱
 12	n	n	ADP	Status=Pron	_	13	case	_	Hiero=𓈖
-13	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	Hiero=𓆑
+13	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:arg	_	Hiero=𓆑
 14	nčr(.w)	nčr	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	Hiero=𓊹𓊹𓊹
 15	śṭꜣ.w	śṭꜣ	VERB	ADJ|Tense=Pres|VClass=3-lit|VForm=RelForm	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Fin	11	conj	_	Hiero=𓋴𓂧𓄿𓅱
 16	n	n	ADP	Status=Pron	_	17	case	_	Hiero=𓈖
-17	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl	_	Hiero=𓆑
+17	⸗f	f	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl:arg	_	Hiero=𓆑
 18	pśč̣.t(ꞽ)	pśč̣.t	NOUN	_	Gender=Fem|Number=Dual	15	nsubj	_	Hiero=𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹𓊹
 
 # sent_id = EUJA-1612
@@ -28373,7 +28373,7 @@
 # sent_id = EUJA-2034
 # ref = Pyramid Texts § 700c T, Saqqara, 6th Dynasty, rel, OE
 # text = ꜥnḫ Ttꞽ m ꜥnḫ.t ⸗čn ꞽm
-1	ꜥnḫ	ꜥnḫ	VERB	SPC=Fut|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓉐:𓂋
+1	ꜥnḫ	ꜥnḫ	VERB	SPC=Fut|VClass=3-lit|VForm=AbstRel	Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓋹(𓈖:𓐍)
 2	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	1	nsubj	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 3	m	m	ADP	Status=Cons	_	4	case	_	Hiero=𓅓
 4	ꜥnḫ.t	ꜥnḫ	VERB	NOUN|Tense=Pres|VClass=3-lit|VForm=RelForm	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Fin	1	advcl	_	Hiero=𓋹(𓈖:𓐍)𓏏
