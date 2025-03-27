@@ -30680,7 +30680,7 @@
 16	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	11	obl:arg	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 17	pn	pn	DET	Dem	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	Hiero=𓊪:𓈖
 18	fꜣ.t	fꜣi̯	VERB	VerbClass=3aeinf	Gender=Masc|VerbForm=Inf	11	conj	_	Hiero=𓆑𓄿(𓏏:𓂠)|Hierocl=Yes
-19	sp	sp	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	Hiero=𓊗
+19	sp	sp	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	Hiero=𓊗
 20	4	4	NUM	CARD	_	19	nummod	_	Hiero=𓏽
 21	|	|	PUNCT	LINE	_	22	punct	_	_
 22	ꞽrp	ꞽrp	NOUN	_	Gender=Masc|Number=Sing	11	parataxis	_	Hiero=𓇋𓂋𓊪UC_1438F|Hierocl=Yes
@@ -30691,14 +30691,18 @@
 27	ꜥbš	ꜥbš	NOUN	_	Gender=Masc|Number=Sing	22	list	_	Hiero=𓂝𓃀𓈙𓏉|Hierocl=Yes
 28	2	2	NUM	CARD	_	27	nummod	_	Hiero=𓏮
 29	|	|	PUNCT	LINE	_	30	punct	_	_
-30	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	22	list	_	Hiero=𓈖
-31	Ḥꜣm.w	Ḥꜣm.w	PROPN	Name=Place	_	30	obl	_	Hiero=𓎛𓄿𓈗
-32	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	23	appos	_	Hiero=𓎺
-33	2	2	NUM	CARD	_	32	nummod	_	Hiero=𓏮
-34	|	|	PUNCT	LINE	_	35	punct	_	_
-35	Śnw	Śnw	PROPN	Name=Place	_	22	list	_	Hiero=𓋴𓏌
+30	ꞽm.t(ꞽ)	ꞽm.tꞽ	NOUN	Nisba=Noun	Gender=Masc|Number=Sing	22	list	_	Hiero=𓇋𓅓𓏏
+31	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	30	appos	_	Hiero=𓎺
+32	2	2	NUM	CARD	_	31	nummod	_	Hiero=𓏮
+33	|	|	PUNCT	LINE	_	34	punct	_	_
+34	n(.ꞽ)	n	ADJ	Nisba=Prep	Case=Gen|Gender=Masc|Number=Sing	22	list	_	Hiero=𓈖
+35	Ḥꜣm.w	Ḥꜣm.w	PROPN	Name=Place	_	34	obl	_	Hiero=𓎛𓄿𓈗
 36	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	35	appos	_	Hiero=𓎺
 37	2	2	NUM	CARD	_	36	nummod	_	Hiero=𓏮
+38	|	|	PUNCT	LINE	_	38	punct	_	_
+39	Śnw	Śnw	PROPN	Name=Place	_	22	list	_	Hiero=𓋴𓏌
+40	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	39	appos	_	Hiero=𓎺
+41	2	2	NUM	CARD	_	40	nummod	_	Hiero=𓏮
 
 # sent_id = EUJA-2175
 # ref = Pyramid Texts § 154/92c-d T, Saqqara, 6th Dynasty, rel, OE
@@ -31095,10 +31099,10 @@
 21	fꜣ.t	fꜣi̯	VERB	VerbClass=3aeinf	Gender=Masc|VerbForm=Inf	14	conj	_	Hiero=(𓆑:𓄿)(𓏏:𓂠)|Hierocl=Yes
 22	sp	sp	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	Hiero=𓊗
 23	4	4	NUM	CARD	_	22	nummod	_	Hiero=𓏽
-25	|	|	PUNCT	LINE	_	25	punct	_	_
-26	bꜣbꜣ.t	bꜣbꜣ.t	NOUN	_	Gender=Fem|Number=Sing	14	parataxis	_	Hiero=𓅡𓅡𓏏UC_No|Hierocl=Yes
-27	|	|	PUNCT	LINE	_	28	punct	_	_
-28	2	2	NUM	CARD	_	26	parataxis	_	Hiero=𓏮
+24	|	|	PUNCT	LINE	_	25	punct	_	_
+25	bꜣbꜣ.t	bꜣbꜣ.t	NOUN	_	Gender=Fem|Number=Sing	14	parataxis	_	Hiero=𓅡𓅡𓏏UC_No|Hierocl=Yes
+26	|	|	PUNCT	LINE	_	27	punct	_	_
+27	2	2	NUM	CARD	_	25	parataxis	_	Hiero=𓏮
 
 # sent_id = EUJA-2187
 # ref = Pyramid Texts § 166/98c-d T, Saqqara, 6th Dynasty, rel, OE
@@ -31226,7 +31230,7 @@
 27	nb<.t>	nb	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	Hiero=𓎟
 28	bnꞽ.t	bnꞽ	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	Hiero=𓃀𓇜𓏏
 29	ḥnw.t	ḥnw.t	NOUN	_	Gender=Fem|Number=Sing	26	appos	_	Hiero=UC_No
-30	|	|	PUNCT	LINE	_	24	punct	_	_
+30	|	|	PUNCT	LINE	_	26	punct	_	_
 
 # sent_id = EUJA-2191
 # ref = Pyramid Texts § 170/100c-d T, Saqqara, 6th Dynasty, rel, OE
@@ -31269,7 +31273,7 @@
 4	Ttꞽ	Ttꞽ	PROPN	Name=King	Gender=Masc	3	appos	_	Hiero=𓍹(𓏏:𓏏)𓇋𓍺
 5	hꜣ	hꜣ	INTJ	_	_	6	discourse	_	Hiero=𓉔𓄿
 6	nḫḫ	nḫꞽḫi̯	VERB	SPC=Sub|VerbClass=5aeinf	Mood=Sub	1	ccomp	_	Hiero=𓈖:𓐍:𓐍
-7	(⸗ś)	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Hiero=No
+7	(⸗ś)	ś	PRON	Pron=SFP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Hiero=No
 8	n	n	ADP	Status=Pron	Case=Ben	9	case	_	Hiero=𓈖
 9	⸗k	k	PRON	Pron=SFP	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Hiero=𓎡
 10	ḫr	ḫr	ADP	Status=Pron	Case=Com	11	case	_	Hiero=𓐍:𓂋
