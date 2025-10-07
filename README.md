@@ -1,11 +1,11 @@
 # Summary
 
-Egyptian-UJaen is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its current state (UD v2.15) consists of 1,573 sentences and 14,650 words manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
+Egyptian-UJaen is the first dependency treebank created for the morphosyntactic annotation of pre-Coptic Egyptian. Its current state (UD v2.17) consists of 2,347 sentences and 24,375 tokens manually annotated from texts written in Old Egyptian, mainly from the Pyramid Texts.
 
 
 # Introduction
 
-The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. The Unas Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15.
+The Egyptian-UJaen treebank (henceforth EUJA treebank) contains a corpus of Egyptian texts manually annotated at the University of Jaén following the Tübingen transcription system (see below). It aims to contribute to the Universal Dependencies (UD) project and to the PARSEME corpora of multiword expressions in order to compare Egyptian morphosyntactic features with those from other languages. The EUJA treebank started as UD release 2.14 with 5,515 words and 707 sentences. It contained Old Egyptian multiword expressions and sentences from the Pyramid Texts (see list of sources, below). The systematic annotation of the Pyramid Texts begins with EUJA-44. Unas's Pyramid Texts were annotated in the EUJA treebank for the UD release 2.15, and Teti's Pyramid Texts for the UD release 2.16. Annotation of Pepi I's Pyramid Texts began for the UD release 2.17. Data exploration in these texts can be carried out using [GrewPT](https://grew.fr/grew_match/pt/)
 
 The treebank will contain texts from various historical stages: Old Egyptian, Middle Egyptian, Late Egyptian
 and Demotic. For an overall description of these linguistic stages, see the [Language Page for
@@ -48,13 +48,13 @@ Tübingen Transcription System
 
 # Acknowledgments
 
-I thank Agata Savary (UniDive/PARSEME), Daniel Zeman (UniDive/UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
+This work received support from the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology). I thank Agata Savary (UniDive/PARSEME), Daniel Zeman (UniDive/UD) and Marco Carlo Passarotti (CIRCSE) for introducing me to computational linguistics.
 
-# Publications
+# Publications related to the project
 
-- Díaz Hernández, Roberto Antonio. 2024. "Identification and Annotation of Body Part Multiword Expressions in Old Egyptian", Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD) @ LREC-COLING, 24-32.
-- Díaz Hernández, Roberto Antonio. 2024. "Old Egyptian Multiword Expressions Consisting of a Head Word and ib 'Heart'", Lingua Aegyptia 32.
-- Díaz Hernández, Roberto Antonio and Passarotti, Marco Carlo. In press. "Developing the Egyptian-UJaen Treebank".
+- Díaz Hernández, Roberto Antonio and Passarotti, Marco Carlo. 2024. "Developing the Egyptian-UJaen Treebank". In D. Dakota et al. (eds.) Proceedings of the 22nd Workshop on Treebanks and Linguistic Theories (TLT 2024) Association for Computational Linguistics, pages 1–10. https://aclanthology.org/2024.tlt-1.1/
+- Díaz Hernández, Roberto Antonio. 2025. "A Typology of Non-Projective Patterns in Unas’s and Teti’s Pyramid Texts". In E. Hajičová, S. Kahane (eds.) Proceedings of the Eighth International Conference on Dependency Linguistics (Depling, SyntaxFest 2025), pages 1-12. https://aclanthology.org/2025.depling-1.1/
+- Díaz Hernández, Roberto Antonio and Zeman, Daniel 2025. "Annotation of Relative Forms in the Egyptian-UJaen Treebank". In G. Bouma, Ç. Çöltekin (eds.) Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025), pages 11-21. https://aclanthology.org/2025.udw-1.2/.
 
 # Bibliography used for the Language Page
 
@@ -95,8 +95,9 @@ Oxford.
 
 # Digital resources for Egyptian
 
-- [Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
+- [GrewPT](https://grew.fr/grew_match/about/)
 - [Ramses Online](http://ramses.ulg.ac.be/)
+- [Thesaurus Linguae Aegyptiae](https://thesaurus-linguae-aegyptiae.de/home)
 
 # Changelog
 
