@@ -64,7 +64,7 @@ This work received support from the CA21167 COST action UniDive, funded by COST 
 - Edel, Elmar. 1955/1964. Altägyptische Grammatik, Rome.
 - Erman, Adolf. 1933. Neuägyptische Grammatik, Leipzig.
 - Fischer-Elfert, Hans-W. 2021. Grundzüge einer Geschichte des Hieratischen (2 vols.), Berlin.
-- Gardiner, Alan H. 19573. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs,
+- Gardiner, Alan H. 1957. Egyptian Grammar. Being an Introduction to the Study of Hieroglyphs,
 Oxford.
 - Johnson, Janet H. 2000. Thus Wrote ꜥOnchsheshonqy. An Introductory Grammar of Demotic, Chicago.
 - Junge, Friedrich. 2008. Neuägyptisch. Einführung in die Grammatik, Wiesbaden.
