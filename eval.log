@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Egyptian-UJaen:
-commit d86bb455ae977119b6e93128797b714618e2084e
-Merge: bfee4bd 49e1331
+commit 13ec2c9ad90715482f0313d89938246b21ee2cde
+Merge: 3e4a770 8f00201
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 21927 of 21927 words (nodes).
-Size: min(0, log((N/1000)**2)) = 6.17543750833273.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'egy_ujaen'
+Language code (from CoNLL-U file name) = 'egy'
+Found the following data files: egy_ujaen-ud-test.conllu, egy_ujaen-ud-train.conllu
+Size: counted 24375 of 24375 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.38711603376782.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,28 +19,23 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 19791 out of 21927 total words have one or more features.
+Features: 22204 out of 24375 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL       3359
-Udapi: found 3359 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 21927 words.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang egy --max-err=10 UD_Egyptian-UJaen/egy_ujaen-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang egy --max-err=10 UD_Egyptian-UJaen/egy_ujaen-ud-train.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.446993072201212) = 0.114613608256721
-(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
-(weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.463994935285107) * (availability=1) * (validity=1) = 0.463994935285107
-STARS = 2.5
-UD_Egyptian-UJaen	0.463994935285107	2.5
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.462314874790192) = 0.171227731403775
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.891891891891892) = 0.0990990990990991
+(TOTAL score=0.67144520377811) * (availability=1) * (validity=1) = 0.67144520377811
+STARS = 3.5
+UD_Egyptian-UJaen	0.67144520377811	3.5
